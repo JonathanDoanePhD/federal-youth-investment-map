@@ -1,0 +1,994 @@
+[
+ {
+  "id": "1837489",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "families",
+   "teachers_educators",
+   "undergraduates"
+  ],
+  "grade_band": "middle",
+  "models": [
+   "out_of_school_program",
+   "mentoring",
+   "teacher_pd",
+   "career_exposure"
+  ],
+  "mentoring": "central",
+  "bridging": "yes",
+  "ai_cs": "computing",
+  "targets": [
+   "urban",
+   "underrepresented_general"
+  ],
+  "setting": "mixed",
+  "youth_reach": null,
+  "evaluation": "pre_post",
+  "service_geography": "local",
+  "notes": "Newark Saturday coding program for middle schoolers with near-peer university mentors, parent nights, teacher training, community coding space."
+ },
+ {
+  "id": "1837541",
+  "serves_youth": "indirect",
+  "audience": [
+   "teachers_educators",
+   "undergraduates",
+   "k12_students"
+  ],
+  "grade_band": "high",
+  "models": [
+   "teacher_pd",
+   "school_curriculum"
+  ],
+  "mentoring": "none",
+  "bridging": "yes",
+  "ai_cs": "computing",
+  "targets": [
+   "black",
+   "underrepresented_general"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "unspecified",
+  "service_geography": "local",
+  "notes": "HBCU computer science undergrads support Atlanta high school teachers learning AP CS Principles; serve as student role models."
+ },
+ {
+  "id": "1837543",
+  "serves_youth": "indirect",
+  "audience": [
+   "teachers_educators",
+   "researchers",
+   "families"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "research_only",
+   "network_coalition"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "rural",
+   "low_income",
+   "black"
+  ],
+  "setting": "unclear",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "state_regional",
+  "notes": "Partnership studying why poor rural Delta districts in Mississippi skip free computer science pilot offerings."
+ },
+ {
+  "id": "1837552",
+  "serves_youth": "indirect",
+  "audience": [
+   "teachers_educators",
+   "undergraduates",
+   "k12_students"
+  ],
+  "grade_band": "high",
+  "models": [
+   "teacher_pd"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "girls_women",
+   "underrepresented_general"
+  ],
+  "setting": "school_day",
+  "youth_reach": 5000,
+  "evaluation": "unspecified",
+  "service_geography": "local",
+  "notes": "San Francisco high school CS teacher training, monthly practice community, and undergraduate classroom assistants to broaden participation."
+ },
+ {
+  "id": "1837577",
+  "serves_youth": "indirect",
+  "audience": [
+   "researchers",
+   "teachers_educators"
+  ],
+  "grade_band": "mixed_ages",
+  "models": [
+   "research_only",
+   "network_coalition"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "unclear",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "unclear",
+  "notes": "Geographers' association forms partnership to study barriers to geospatial computational education pathways from preschool through college."
+ },
+ {
+  "id": "1837602",
+  "serves_youth": "indirect",
+  "audience": [
+   "teachers_educators",
+   "researchers"
+  ],
+  "grade_band": "high",
+  "models": [
+   "network_coalition",
+   "teacher_pd"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "girls_women"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "unspecified",
+  "service_geography": "state_regional",
+  "notes": "Texas improvement network uses iterative cycles to raise female recruitment and retention in high school computing courses."
+ },
+ {
+  "id": "1837640",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "high",
+  "models": [
+   "school_curriculum",
+   "teacher_pd"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "low_income",
+   "underrepresented_general"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "local",
+  "notes": "Hybrid online AP computer science courses taught by expert fellows in Atlanta high schools while local teachers learn."
+ },
+ {
+  "id": "1837655",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "high",
+  "models": [
+   "school_curriculum",
+   "teacher_pd",
+   "network_coalition"
+  ],
+  "mentoring": "none",
+  "bridging": "unclear",
+  "ai_cs": "computing",
+  "targets": [
+   "hispanic_latino",
+   "girls_women",
+   "english_learners",
+   "low_income"
+  ],
+  "setting": "mixed",
+  "youth_reach": 140,
+  "evaluation": "unspecified",
+  "service_geography": "local",
+  "notes": "Cybersecurity pathway linking a majority-Latino high school district with community college dual enrollment and supports."
+ },
+ {
+  "id": "1837661",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "school_curriculum",
+   "out_of_school_program",
+   "online_tool_game",
+   "teacher_pd"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "mixed",
+  "youth_reach": null,
+  "evaluation": "design_qualitative",
+  "service_geography": "local",
+  "notes": "Evanston partnership blends music, dance and coding across schools, libraries, community centers and homes with computational notebooks."
+ },
+ {
+  "id": "1837687",
+  "serves_youth": "indirect",
+  "audience": [
+   "teachers_educators",
+   "researchers",
+   "k12_students"
+  ],
+  "grade_band": "high",
+  "models": [
+   "school_curriculum",
+   "teacher_pd"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "black",
+   "hispanic_latino",
+   "urban",
+   "underrepresented_general"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "design_qualitative",
+  "service_geography": "local",
+  "notes": "Design-based partnership with New York City districts to improve Black and Latino participation in AP CS Principles."
+ },
+ {
+  "id": "1837699",
+  "serves_youth": "indirect",
+  "audience": [
+   "teachers_educators",
+   "undergraduates",
+   "k12_students"
+  ],
+  "grade_band": "high",
+  "models": [
+   "teacher_pd"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "girls_women",
+   "underrepresented_general"
+  ],
+  "setting": "school_day",
+  "youth_reach": 5000,
+  "evaluation": "unspecified",
+  "service_geography": "local",
+  "notes": "SFSU side of San Francisco partnership: summer teacher training, practice community, undergraduate classroom assistants for CS."
+ },
+ {
+  "id": "1837723",
+  "serves_youth": "indirect",
+  "audience": [
+   "teachers_educators",
+   "researchers",
+   "k12_students"
+  ],
+  "grade_band": "high",
+  "models": [
+   "school_curriculum",
+   "teacher_pd"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "girls_women",
+   "underrepresented_general",
+   "low_income",
+   "rural",
+   "urban"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "unspecified",
+  "service_geography": "multi_state",
+  "notes": "Studies Mobile CSP taught as concurrent enrollment in Minnesota and Connecticut; trains forty teachers to broaden access."
+ },
+ {
+  "id": "1837780",
+  "serves_youth": "indirect",
+  "audience": [
+   "teachers_educators",
+   "researchers"
+  ],
+  "grade_band": "high",
+  "models": [
+   "network_coalition",
+   "teacher_pd"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "low_income",
+   "hispanic_latino",
+   "black",
+   "native_indigenous",
+   "english_learners",
+   "disability"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "unspecified",
+  "service_geography": "state_regional",
+  "notes": "California district network scales equity-focused CS teacher and counselor training plus administrator implementation toolkit."
+ },
+ {
+  "id": "1837917",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "online_tool_game"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "disability"
+  ],
+  "setting": "unclear",
+  "youth_reach": null,
+  "evaluation": "design_qualitative",
+  "service_geography": "unclear",
+  "notes": "Adaptive virtual-reality coding and simulation training to build representational flexibility for autistic adolescents."
+ },
+ {
+  "id": "1838815",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "high",
+  "models": [
+   "online_tool_game",
+   "summer_program"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "general"
+  ],
+  "setting": "mixed",
+  "youth_reach": null,
+  "evaluation": "design_qualitative",
+  "service_geography": "state_regional",
+  "notes": "Designs web tool teaching physiological sensing and brain-computer interfaces to Alabama Black Belt high schoolers; summer outreach."
+ },
+ {
+  "id": "1838916",
+  "serves_youth": "direct",
+  "audience": [
+   "out_of_school_youth",
+   "families"
+  ],
+  "grade_band": "middle",
+  "models": [
+   "out_of_school_program",
+   "mentoring"
+  ],
+  "mentoring": "component",
+  "bridging": "unclear",
+  "ai_cs": "computing",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "community",
+  "youth_reach": null,
+  "evaluation": "unspecified",
+  "service_geography": "local",
+  "notes": "Evanston YMCA computational making hub engages middle graders, parents and mentors in coding and digital fabrication."
+ },
+ {
+  "id": "1838992",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "researchers"
+  ],
+  "grade_band": "middle",
+  "models": [
+   "research_only"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "general"
+  ],
+  "setting": "school_day",
+  "youth_reach": 1300,
+  "evaluation": "pre_post",
+  "service_geography": "unclear",
+  "notes": "Builds assessments of computational thinking for science; follows middle schoolers longitudinally to link it with learning."
+ },
+ {
+  "id": "1839656",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "middle",
+  "models": [
+   "school_curriculum",
+   "teacher_pd",
+   "summer_program",
+   "research_apprenticeship",
+   "career_exposure"
+  ],
+  "mentoring": "none",
+  "bridging": "yes",
+  "ai_cs": "computing",
+  "targets": [
+   "urban"
+  ],
+  "setting": "mixed",
+  "youth_reach": null,
+  "evaluation": "quasi_experimental",
+  "service_geography": "local",
+  "notes": "Adds data literacy and computing to New York Harbor oyster restoration field curriculum, teacher learning, summer institute."
+ },
+ {
+  "id": "1840644",
+  "serves_youth": "indirect",
+  "audience": [
+   "researchers"
+  ],
+  "grade_band": "mixed_ages",
+  "models": [
+   "network_coalition",
+   "other"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "girls_women"
+  ],
+  "setting": "online",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "national",
+  "notes": "Women-in-IT center helps build online portal linking computing researchers to broadening-participation programs and resources."
+ },
+ {
+  "id": "1840694",
+  "serves_youth": "indirect",
+  "audience": [
+   "teachers_educators",
+   "researchers"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "network_coalition"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "unclear",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "state_regional",
+  "notes": "Regional convening of corporate, school, nonprofit and government partners on technology for collective impact in computing."
+ },
+ {
+  "id": "1840722",
+  "serves_youth": "indirect",
+  "audience": [
+   "teachers_educators",
+   "researchers"
+  ],
+  "grade_band": "mixed_ages",
+  "models": [
+   "network_coalition"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "underrepresented_general",
+   "first_generation"
+  ],
+  "setting": "unclear",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "national",
+  "notes": "Math societies convene state teams of K-12 and college leaders to align high school and college mathematics."
+ },
+ {
+  "id": "1840933",
+  "serves_youth": "indirect",
+  "audience": [
+   "researchers",
+   "teachers_educators",
+   "general_public"
+  ],
+  "grade_band": "mixed_ages",
+  "models": [
+   "network_coalition"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "general"
+  ],
+  "setting": "unclear",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "unclear",
+  "notes": "Workshop linking computational thinking and synthetic biology for K-16 teaching, tools, ethics and safety; streamed panel."
+ },
+ {
+  "id": "1841075",
+  "serves_youth": "none",
+  "audience": [
+   "researchers"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "research_only"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "unclear",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "unclear",
+  "notes": "Statistical methodology for defining, analyzing and designing replication studies; no youth program."
+ },
+ {
+  "id": "1841189",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "elementary",
+  "models": [
+   "school_curriculum",
+   "teacher_pd"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "general"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "quasi_experimental",
+  "service_geography": "unclear",
+  "notes": "Adds computational thinking to first and fourth grade Insights science modules with teacher supports and small comparison study."
+ },
+ {
+  "id": "1841271",
+  "serves_youth": "none",
+  "audience": [
+   "undergraduates",
+   "researchers"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "research_apprenticeship",
+   "network_coalition"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "girls_women",
+   "underrepresented_general"
+  ],
+  "setting": "college_campus",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "national",
+  "notes": "CRA-W scales undergraduate research experiences and workshops for women in computing by recruiting more CISE researchers."
+ },
+ {
+  "id": "1841687",
+  "serves_youth": "none",
+  "audience": [
+   "undergraduates",
+   "researchers"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "network_coalition",
+   "other"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "college_campus",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "national",
+  "notes": "AAAS builds an Athena SWAN-style self-assessment and recognition system for diversity in higher education STEM."
+ },
+ {
+  "id": "1841701",
+  "serves_youth": "indirect",
+  "audience": [
+   "researchers",
+   "teachers_educators",
+   "undergraduates"
+  ],
+  "grade_band": "mixed_ages",
+  "models": [
+   "network_coalition",
+   "other"
+  ],
+  "mentoring": "none",
+  "bridging": "unclear",
+  "ai_cs": "computing",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "mixed",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "state_regional",
+  "notes": "Massachusetts research coordination network linking educators, researchers, industry across high school-to-workforce computing and engineering transitions."
+ },
+ {
+  "id": "1841928",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "school_curriculum",
+   "online_tool_game"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "school_day",
+  "youth_reach": 800,
+  "evaluation": "quasi_experimental",
+  "service_geography": "unclear",
+  "notes": "Geohazard earth science modules where middle and high schoolers program GPS data visualizations to build arguments."
+ },
+ {
+  "id": "1841974",
+  "serves_youth": "none",
+  "audience": [
+   "researchers",
+   "general_public"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "network_coalition",
+   "exhibit_media"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "museum_science_center",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "multi_state",
+  "notes": "Builds lasting university-science center partnerships and design teams for public outreach broader impacts at three sites."
+ },
+ {
+  "id": "1842035",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "high",
+  "models": [
+   "school_curriculum",
+   "online_tool_game",
+   "teacher_pd"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "general"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "unspecified",
+  "service_geography": "unclear",
+  "notes": "Extends SageModeler for system dynamics modeling with high school science units and teacher professional learning."
+ },
+ {
+  "id": "1842037",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "high",
+  "models": [
+   "school_curriculum",
+   "online_tool_game",
+   "teacher_pd"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "general"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "unspecified",
+  "service_geography": "unclear",
+  "notes": "Michigan State partner on SageModeler system dynamics tool, secondary science units, and teacher learning community."
+ },
+ {
+  "id": "1842085",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students"
+  ],
+  "grade_band": "high",
+  "models": [
+   "school_curriculum",
+   "online_tool_game"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "hispanic_latino",
+   "black",
+   "urban"
+  ],
+  "setting": "online",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "local",
+  "notes": "Chicago partnership begins online Exploring Computer Science course for credit recovery, including incarcerated or homeless students."
+ },
+ {
+  "id": "1842090",
+  "serves_youth": "indirect",
+  "audience": [
+   "teachers_educators",
+   "researchers",
+   "k12_students"
+  ],
+  "grade_band": "high",
+  "models": [
+   "teacher_pd",
+   "school_curriculum",
+   "online_tool_game"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "general"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "design_qualitative",
+  "service_geography": "local",
+  "notes": "High school teacher training blending computational thinking and self-regulated learning via electronic science notebook; builds progression."
+ },
+ {
+  "id": "1842116",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "elementary",
+  "models": [
+   "school_curriculum",
+   "research_only"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "general"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "unspecified",
+  "service_geography": "unclear",
+  "notes": "Develops kindergarten assessment and math modules using coding toys to measure integrated computational reasoning."
+ },
+ {
+  "id": "1842188",
+  "serves_youth": "none",
+  "audience": [
+   "researchers"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "network_coalition"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "unclear",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "national",
+  "notes": "Travel support bringing underrepresented community environmental science practitioners to a citizen science conference in Raleigh."
+ },
+ {
+  "id": "1842220",
+  "serves_youth": "indirect",
+  "audience": [
+   "researchers"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "research_only"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "hispanic_latino"
+  ],
+  "setting": "after_school",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "unclear",
+  "notes": "Computer-assisted video summarization to speed researcher coding of Latino after-school engineering and computing sessions."
+ },
+ {
+  "id": "1842272",
+  "serves_youth": "direct",
+  "audience": [
+   "out_of_school_youth"
+  ],
+  "grade_band": "middle",
+  "models": [
+   "out_of_school_program",
+   "online_tool_game"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "after_school",
+  "youth_reach": 400,
+  "evaluation": "design_qualitative",
+  "service_geography": "multi_state",
+  "notes": "Hip hop-based culturally sustaining computational making for middle schoolers at Gary, Philadelphia and Cambridge sites."
+ },
+ {
+  "id": "1842278",
+  "serves_youth": "direct",
+  "audience": [
+   "out_of_school_youth"
+  ],
+  "grade_band": "middle",
+  "models": [
+   "out_of_school_program",
+   "online_tool_game"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "after_school",
+  "youth_reach": 400,
+  "evaluation": "design_qualitative",
+  "service_geography": "multi_state",
+  "notes": "TERC partner: hip hop computational making for middle school youth at afterschool community sites and online platform."
+ },
+ {
+  "id": "1842342",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "high",
+  "models": [
+   "school_curriculum",
+   "teacher_pd"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "girls_women",
+   "underrepresented_general"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "design_qualitative",
+  "service_geography": "unclear",
+  "notes": "Digital Invention Kits recreating historic inventions with microcontrollers teach high schoolers computational thinking and industrial automation."
+ },
+ {
+  "id": "1842343",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "high",
+  "models": [
+   "school_curriculum",
+   "teacher_pd"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "girls_women",
+   "underrepresented_general"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "design_qualitative",
+  "service_geography": "unclear",
+  "notes": "Northern Colorado partner on invention kits connecting historic machines to digital automation for high school makerspaces."
+ }
+]

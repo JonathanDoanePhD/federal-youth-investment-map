@@ -1,0 +1,990 @@
+[
+ {
+  "serves_youth": "indirect",
+  "audience": [
+   "teachers_educators"
+  ],
+  "grade_band": "prek",
+  "models": [
+   "teacher_pd"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "low_income"
+  ],
+  "setting": "school_day",
+  "youth_reach": 3000,
+  "evaluation": "quasi_experimental",
+  "service_geography": "local",
+  "notes": "Adapting and testing math professional development for Chicago Head Start staff, comparing against business-as-usual groups.",
+  "id": "1503486"
+ },
+ {
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "elementary",
+  "models": [
+   "online_tool_game",
+   "school_curriculum",
+   "teacher_pd"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "quasi_experimental",
+  "service_geography": "national",
+  "notes": "Developing free early-algebra games with classroom lessons and teacher tools; delayed-intervention study with fifty teachers.",
+  "id": "1503507"
+ },
+ {
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "middle",
+  "models": [
+   "online_tool_game",
+   "school_curriculum",
+   "teacher_pd"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "design_qualitative",
+  "service_geography": "multi_state",
+  "notes": "Fifteen algebra simulations plus teacher materials, studied through student interviews and classroom studies in Colorado and Florida.",
+  "id": "1503510"
+ },
+ {
+  "serves_youth": "indirect",
+  "audience": [
+   "teachers_educators"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "teacher_pd",
+   "research_only"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "urban"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "design_qualitative",
+  "service_geography": "local",
+  "notes": "Three-year study of thirty urban secondary science teachers learning to support student argumentation through institutes and coaching.",
+  "id": "1503511"
+ },
+ {
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "school_curriculum",
+   "teacher_pd"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "english_learners",
+   "urban"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "unspecified",
+  "service_geography": "local",
+  "notes": "Urban ecology modules adapted for long-term English learners, with teacher training; mixed-methods test of language and science gains.",
+  "id": "1503519"
+ },
+ {
+  "serves_youth": "none",
+  "audience": [
+   "teachers_educators",
+   "researchers"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "research_only"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "unclear",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "multi_state",
+  "notes": "Longitudinal data analysis of beginning math teachers career moves across national, Florida and North Carolina samples.",
+  "id": "1506494"
+ },
+ {
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "school_curriculum"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "quasi_experimental",
+  "service_geography": "multi_state",
+  "notes": "Students recreate Smithsonian-scanned inventions with 3D printing in classes; comparison classrooms and pre/post tests across two states.",
+  "id": "1508319"
+ },
+ {
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "elementary",
+  "models": [
+   "school_curriculum",
+   "teacher_pd",
+   "online_tool_game"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "school_day",
+  "youth_reach": 1400,
+  "evaluation": "pre_post",
+  "service_geography": "local",
+  "notes": "Modeling-based ecosystem units with simulation games for fourth and fifth graders, teacher training, multi-instrument pre/post study in one district.",
+  "id": "1508911"
+ },
+ {
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "high",
+  "models": [
+   "out_of_school_program",
+   "teacher_pd",
+   "career_exposure",
+   "mentoring"
+  ],
+  "mentoring": "component",
+  "bridging": "yes",
+  "ai_cs": "computing",
+  "targets": [
+   "general"
+  ],
+  "setting": "after_school",
+  "youth_reach": 90,
+  "evaluation": "unspecified",
+  "service_geography": "local",
+  "notes": "Teams of students and teachers build apps with industry and university scientists, then run after-school programs in Phoenix-area schools.",
+  "id": "1509105"
+ },
+ {
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "school_curriculum",
+   "teacher_pd"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "girls_women",
+   "black",
+   "hispanic_latino",
+   "low_income"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "unspecified",
+  "service_geography": "multi_state",
+  "notes": "Electronic textiles unit for a high school computer science course aimed at girls and students of color, with teacher training.",
+  "id": "1509245"
+ },
+ {
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "school_curriculum"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "quasi_experimental",
+  "service_geography": "multi_state",
+  "notes": "Students recreate Smithsonian-scanned inventions with 3D printing in classes; comparison classrooms and pre/post tests across two states.",
+  "id": "1510289"
+ },
+ {
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "middle",
+  "models": [
+   "teacher_pd",
+   "career_exposure",
+   "school_curriculum"
+  ],
+  "mentoring": "none",
+  "bridging": "yes",
+  "ai_cs": "none",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "school_day",
+  "youth_reach": 9000,
+  "evaluation": "pre_post",
+  "service_geography": "local",
+  "notes": "Engineers and educators help middle school teachers lead engineering design lessons; mixed-methods pre/post study with a case study.",
+  "id": "1510347"
+ },
+ {
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "school_curriculum",
+   "online_tool_game"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "unspecified",
+  "service_geography": "unclear",
+  "notes": "Fossil-based curriculum using 3D scanning, printing and computational apps for grades six through twelve; studies student interest and identity.",
+  "id": "1510410"
+ },
+ {
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "school_curriculum",
+   "teacher_pd"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "girls_women",
+   "black",
+   "hispanic_latino",
+   "low_income"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "unspecified",
+  "service_geography": "multi_state",
+  "notes": "Electronic textiles unit for a high school computer science course aimed at girls and students of color, with teacher training.",
+  "id": "1510725"
+ },
+ {
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students"
+  ],
+  "grade_band": "middle",
+  "models": [
+   "out_of_school_program",
+   "mentoring"
+  ],
+  "mentoring": "component",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "low_income",
+   "underrepresented_general"
+  ],
+  "setting": "after_school",
+  "youth_reach": 112,
+  "evaluation": "design_qualitative",
+  "service_geography": "unclear",
+  "notes": "Afterschool engineering projects with ongoing mentoring for low-income middle schoolers; studied through surveys, interviews and observation.",
+  "id": "1510922"
+ },
+ {
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "school_curriculum"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "quasi_experimental",
+  "service_geography": "multi_state",
+  "notes": "Students recreate Smithsonian-scanned inventions with 3D printing in classes; comparison classrooms and pre/post tests across two states.",
+  "id": "1511155"
+ },
+ {
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "undergraduates"
+  ],
+  "grade_band": "high",
+  "models": [
+   "out_of_school_program",
+   "mentoring",
+   "summer_program",
+   "career_exposure"
+  ],
+  "mentoring": "component",
+  "bridging": "yes",
+  "ai_cs": "computing",
+  "targets": [
+   "black"
+  ],
+  "setting": "after_school",
+  "youth_reach": null,
+  "evaluation": "pre_post",
+  "service_geography": "state_regional",
+  "notes": "Studies a yearlong after-school robotics and pre-engineering program for Black students in the Mississippi Delta, with undergraduate mentors.",
+  "id": "1511792"
+ },
+ {
+  "serves_youth": "none",
+  "audience": [
+   "general_public"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "exhibit_media"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "online",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "national",
+  "notes": "Eight nationally broadcast news segments and web coverage explaining non-clinical science research on Ebola for the public.",
+  "id": "1512186"
+ },
+ {
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "school_curriculum",
+   "teacher_pd"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "girls_women",
+   "black",
+   "hispanic_latino",
+   "low_income"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "unspecified",
+  "service_geography": "multi_state",
+  "notes": "Electronic textiles unit for a high school computer science course aimed at girls and students of color, with teacher training.",
+  "id": "1512760"
+ },
+ {
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "school_curriculum"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "quasi_experimental",
+  "service_geography": "multi_state",
+  "notes": "Students recreate Smithsonian-scanned inventions with 3D printing in classes; comparison classrooms and pre/post tests across two states.",
+  "id": "1512866"
+ },
+ {
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "school_curriculum",
+   "teacher_pd"
+  ],
+  "mentoring": "none",
+  "bridging": "unclear",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "mixed",
+  "youth_reach": 2000,
+  "evaluation": "unspecified",
+  "service_geography": "state_regional",
+  "notes": "Eight energy-efficiency units linking school and home, built with industry partners, with teacher training; Massachusetts middle and high schools.",
+  "id": "1512868"
+ },
+ {
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "families"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "summer_program",
+   "mentoring",
+   "career_exposure",
+   "other"
+  ],
+  "mentoring": "component",
+  "bridging": "yes",
+  "ai_cs": "none",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "mixed",
+  "youth_reach": null,
+  "evaluation": "unspecified",
+  "service_geography": "unclear",
+  "notes": "Three-year program for minority students in grades 7-9 with summer session, field work, entrepreneurship tasks, mentors and parent involvement.",
+  "id": "1512957"
+ },
+ {
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "school_curriculum",
+   "summer_program",
+   "mentoring",
+   "career_exposure"
+  ],
+  "mentoring": "component",
+  "bridging": "yes",
+  "ai_cs": "computing",
+  "targets": [
+   "low_income",
+   "underrepresented_general"
+  ],
+  "setting": "mixed",
+  "youth_reach": null,
+  "evaluation": "unspecified",
+  "service_geography": "local",
+  "notes": "Six-year courses and summer events on hydroponics and robotics for low-income youth, plus web mentoring with STEM professionals and alumni.",
+  "id": "1512996"
+ },
+ {
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "mixed_ages",
+  "models": [
+   "summer_program",
+   "out_of_school_program",
+   "teacher_pd",
+   "mentoring"
+  ],
+  "mentoring": "component",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "girls_women",
+   "underrepresented_general"
+  ],
+  "setting": "museum_science_center",
+  "youth_reach": 4000,
+  "evaluation": "design_qualitative",
+  "service_geography": "local",
+  "notes": "Female pre-service teachers and teen girls lead technology camps and programs at a science museum for thousands of children.",
+  "id": "1513009"
+ },
+ {
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "school_curriculum"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "quasi_experimental",
+  "service_geography": "multi_state",
+  "notes": "Students recreate Smithsonian-scanned inventions with 3D printing in classes; comparison classrooms and pre/post tests across two states.",
+  "id": "1513018"
+ },
+ {
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "elementary",
+  "models": [
+   "school_curriculum",
+   "teacher_pd",
+   "online_tool_game"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "school_day",
+  "youth_reach": 1400,
+  "evaluation": "pre_post",
+  "service_geography": "local",
+  "notes": "Modeling-based ecosystem units with simulation games for fourth and fifth graders, teacher training, multi-instrument pre/post study in one district.",
+  "id": "1513043"
+ },
+ {
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "high",
+  "models": [
+   "school_curriculum",
+   "teacher_pd",
+   "career_exposure",
+   "mentoring"
+  ],
+  "mentoring": "component",
+  "bridging": "yes",
+  "ai_cs": "none",
+  "targets": [
+   "girls_women",
+   "underrepresented_general"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "design_qualitative",
+  "service_geography": "state_regional",
+  "notes": "Gender-equitable teaching training for career and technical educators plus female role models; girls document experiences in short videos.",
+  "id": "1513060"
+ },
+ {
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students"
+  ],
+  "grade_band": "high",
+  "models": [
+   "out_of_school_program",
+   "other"
+  ],
+  "mentoring": "component",
+  "bridging": "unclear",
+  "ai_cs": "none",
+  "targets": [
+   "low_income",
+   "underrepresented_general"
+  ],
+  "setting": "after_school",
+  "youth_reach": null,
+  "evaluation": "unspecified",
+  "service_geography": "local",
+  "notes": "Boston studio apprenticeship program for under-resourced teens, highlighting STEM thinking in art-making to build STEM interest.",
+  "id": "1513065"
+ },
+ {
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students"
+  ],
+  "grade_band": "middle",
+  "models": [
+   "out_of_school_program",
+   "mentoring",
+   "career_exposure",
+   "online_tool_game"
+  ],
+  "mentoring": "central",
+  "bridging": "yes",
+  "ai_cs": "none",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "after_school",
+  "youth_reach": 150,
+  "evaluation": "design_qualitative",
+  "service_geography": "local",
+  "notes": "Eight-week afterschool genetics game and lab program with industry mentors for Cambridge students; also creates a partnership toolkit.",
+  "id": "1513086"
+ },
+ {
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students"
+  ],
+  "grade_band": "middle",
+  "models": [
+   "out_of_school_program",
+   "mentoring"
+  ],
+  "mentoring": "component",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "low_income",
+   "underrepresented_general"
+  ],
+  "setting": "after_school",
+  "youth_reach": 112,
+  "evaluation": "design_qualitative",
+  "service_geography": "unclear",
+  "notes": "Afterschool engineering projects with ongoing mentoring for low-income middle schoolers; studied through surveys, interviews and observation.",
+  "id": "1513102"
+ },
+ {
+  "serves_youth": "indirect",
+  "audience": [
+   "teachers_educators"
+  ],
+  "grade_band": "elementary",
+  "models": [
+   "teacher_pd",
+   "online_tool_game"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "english_learners"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "rct",
+  "service_geography": "unclear",
+  "notes": "Randomized efficacy study of web-supported math discussion training for second and third grade teachers, including English learners outcomes.",
+  "id": "1513104"
+ },
+ {
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "high",
+  "models": [
+   "summer_program",
+   "mentoring",
+   "research_apprenticeship",
+   "teacher_pd",
+   "school_curriculum"
+  ],
+  "mentoring": "component",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "low_income",
+   "underrepresented_general"
+  ],
+  "setting": "mixed",
+  "youth_reach": null,
+  "evaluation": "quasi_experimental",
+  "service_geography": "unclear",
+  "notes": "Two-week nanotechnology summer program with year-round mentoring and research chances for high schoolers and teachers; comparison-group design.",
+  "id": "1513112"
+ },
+ {
+  "serves_youth": "indirect",
+  "audience": [
+   "teachers_educators"
+  ],
+  "grade_band": "elementary",
+  "models": [
+   "teacher_pd",
+   "online_tool_game"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "english_learners"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "rct",
+  "service_geography": "unclear",
+  "notes": "Randomized efficacy study of web-supported math discussion training for second and third grade teachers, including English learners outcomes.",
+  "id": "1513155"
+ },
+ {
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students"
+  ],
+  "grade_band": "high",
+  "models": [
+   "school_curriculum"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "girls_women"
+  ],
+  "setting": "school_day",
+  "youth_reach": 660,
+  "evaluation": "quasi_experimental",
+  "service_geography": "local",
+  "notes": "Soft robotics unit in a ninth grade engineering course to raise girls interest, compared with traditional robot design unit.",
+  "id": "1513175"
+ },
+ {
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students"
+  ],
+  "grade_band": "high",
+  "models": [
+   "school_curriculum",
+   "career_exposure"
+  ],
+  "mentoring": "none",
+  "bridging": "yes",
+  "ai_cs": "none",
+  "targets": [
+   "native_indigenous",
+   "underrepresented_general"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "local",
+  "notes": "Career and technical bioscience course with community partners where students build an influenza monitoring system for Coconino County.",
+  "id": "1513198"
+ },
+ {
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "middle",
+  "models": [
+   "school_curriculum",
+   "teacher_pd"
+  ],
+  "mentoring": "none",
+  "bridging": "yes",
+  "ai_cs": "none",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "school_day",
+  "youth_reach": 1800,
+  "evaluation": "unspecified",
+  "service_geography": "local",
+  "notes": "Engineering design mini-car unit for Akron eighth graders, with summer teacher institutes and help from university engineering students.",
+  "id": "1513205"
+ },
+ {
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators",
+   "undergraduates"
+  ],
+  "grade_band": "high",
+  "models": [
+   "teacher_pd",
+   "school_curriculum",
+   "network_coalition",
+   "mentoring",
+   "career_exposure"
+  ],
+  "mentoring": "component",
+  "bridging": "yes",
+  "ai_cs": "none",
+  "targets": [
+   "rural",
+   "underrepresented_general"
+  ],
+  "setting": "school_day",
+  "youth_reach": 2000,
+  "evaluation": "unspecified",
+  "service_geography": "state_regional",
+  "notes": "Teacher community of practice with Purdue experts and college mentors bringing integrated entomology and engineering lessons to rural Indiana schools.",
+  "id": "1513248"
+ },
+ {
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "elementary",
+  "models": [
+   "school_curriculum",
+   "teacher_pd",
+   "mentoring",
+   "career_exposure"
+  ],
+  "mentoring": "central",
+  "bridging": "yes",
+  "ai_cs": "none",
+  "targets": [
+   "underrepresented_general",
+   "urban"
+  ],
+  "setting": "unclear",
+  "youth_reach": 250,
+  "evaluation": "design_qualitative",
+  "service_geography": "unclear",
+  "notes": "Agricultural science activities and teacher training for inner-city grades 4-6 students, with industry and community mentors.",
+  "id": "1513256"
+ },
+ {
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "out_of_school_program",
+   "online_tool_game"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "low_income",
+   "underrepresented_general"
+  ],
+  "setting": "after_school",
+  "youth_reach": 300,
+  "evaluation": "design_qualitative",
+  "service_geography": "unclear",
+  "notes": "Youth collect and map data to make interactive media in an after-school program; shares toolkits with other educators.",
+  "id": "1513282"
+ },
+ {
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students"
+  ],
+  "grade_band": "middle",
+  "models": [
+   "mentoring",
+   "online_tool_game",
+   "career_exposure"
+  ],
+  "mentoring": "central",
+  "bridging": "yes",
+  "ai_cs": "none",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "community",
+  "youth_reach": 1088,
+  "evaluation": "pre_post",
+  "service_geography": "multi_state",
+  "notes": "Digital messaging tools to help career mentors talk with middle schoolers about technical careers; survey phase and mentor-mentee pilot.",
+  "id": "1513284"
+ }
+]

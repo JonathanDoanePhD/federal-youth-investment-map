@@ -1,0 +1,991 @@
+[
+ {
+  "id": "1824443",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "middle",
+  "models": [
+   "out_of_school_program",
+   "teacher_pd",
+   "online_tool_game"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "after_school",
+  "youth_reach": null,
+  "evaluation": "quasi_experimental",
+  "service_geography": "unclear",
+  "notes": "CryptoClub afterschool members create math and cryptography video tutorials; same-club comparison study; teachers trained."
+ },
+ {
+  "id": "1824540",
+  "serves_youth": "none",
+  "audience": [
+   "researchers"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "research_only",
+   "network_coalition"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "disability"
+  ],
+  "setting": "online",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "national",
+  "notes": "Workshop and online community synthesizing research on accessible digital STEM learning for learners with disabilities."
+ },
+ {
+  "id": "1824551",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators",
+   "families"
+  ],
+  "grade_band": "middle",
+  "models": [
+   "school_curriculum",
+   "out_of_school_program",
+   "online_tool_game",
+   "network_coalition"
+  ],
+  "mentoring": "component",
+  "bridging": "unclear",
+  "ai_cs": "computing",
+  "targets": [
+   "urban"
+  ],
+  "setting": "mixed",
+  "youth_reach": null,
+  "evaluation": "design_qualitative",
+  "service_geography": "local",
+  "notes": "Bronzeville research-practice partnership adds school-day computational making for grades 6-8 with citywide online platform."
+ },
+ {
+  "id": "1824662",
+  "serves_youth": "indirect",
+  "audience": [
+   "researchers",
+   "teachers_educators"
+  ],
+  "grade_band": "mixed_ages",
+  "models": [
+   "research_only",
+   "network_coalition"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "unclear",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "unclear",
+  "notes": "Three-day Madison workshop synthesizing embodied-cognition research for math learning with scholars and classroom teachers."
+ },
+ {
+  "id": "1824727",
+  "serves_youth": "none",
+  "audience": [
+   "undergraduates",
+   "researchers"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "network_coalition",
+   "research_only"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "college_campus",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "national",
+  "notes": "Workshop designing digital data-analytics learning environments for small liberal arts colleges, forming a national consortium."
+ },
+ {
+  "id": "1824854",
+  "serves_youth": "none",
+  "audience": [
+   "researchers"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "network_coalition",
+   "research_only"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "ai",
+  "targets": [
+   "general"
+  ],
+  "setting": "college_campus",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "national",
+  "notes": "Georgia Tech workshop on scalable personalized higher-education ecosystems using AI tutoring and analytics for administrators."
+ },
+ {
+  "id": "1824998",
+  "serves_youth": "none",
+  "audience": [
+   "researchers"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "research_only",
+   "network_coalition"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "general"
+  ],
+  "setting": "unclear",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "national",
+  "notes": "Workshop setting research priorities and roadmap for learning analytics in post-secondary education."
+ },
+ {
+  "id": "1825007",
+  "serves_youth": "none",
+  "audience": [
+   "researchers",
+   "teachers_educators"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "network_coalition",
+   "research_only"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "girls_women",
+   "underrepresented_general"
+  ],
+  "setting": "unclear",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "national",
+  "notes": "Two-day workshop on analytics-driven formation of digitally mediated learner teams, including broadening participation."
+ },
+ {
+  "id": "1825070",
+  "serves_youth": "none",
+  "audience": [
+   "researchers"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "network_coalition",
+   "research_only"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "unclear",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "national",
+  "notes": "Stanford design workshop and white paper on adaptive, equity-focused STEM environments using learning analytics and psychometrics."
+ },
+ {
+  "id": "1825076",
+  "serves_youth": "indirect",
+  "audience": [
+   "researchers",
+   "teachers_educators",
+   "general_public"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "network_coalition",
+   "research_only"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "unclear",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "unclear",
+  "notes": "Biosphere 2 convening of academics, libraries, museums and educators on design principles for distributed makerspace-style learning."
+ },
+ {
+  "id": "1826532",
+  "serves_youth": "none",
+  "audience": [
+   "undergraduates",
+   "teachers_educators",
+   "researchers"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "network_coalition",
+   "teacher_pd",
+   "other"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "college_campus",
+  "youth_reach": null,
+  "evaluation": "unspecified",
+  "service_geography": "multi_state",
+  "notes": "Florida-Caribbean center testing mindset interventions and faculty-feedback training to help minority STEM undergraduates; conference and web hub."
+ },
+ {
+  "id": "1826543",
+  "serves_youth": "none",
+  "audience": [
+   "undergraduates",
+   "teachers_educators",
+   "researchers"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "network_coalition",
+   "teacher_pd",
+   "other"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "college_campus",
+  "youth_reach": null,
+  "evaluation": "unspecified",
+  "service_geography": "multi_state",
+  "notes": "Santa Fe College and Virgin Islands university lead psychosocial interventions research and dissemination for underrepresented STEM undergraduates."
+ },
+ {
+  "id": "1826735",
+  "serves_youth": "none",
+  "audience": [
+   "undergraduates"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "mentoring",
+   "research_apprenticeship",
+   "summer_program",
+   "network_coalition"
+  ],
+  "mentoring": "central",
+  "bridging": "yes",
+  "ai_cs": "none",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "mixed",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "multi_state",
+  "notes": "Nanotechnology coalition pairing minority undergraduates with research professionals; summer internships at national labs and partners."
+ },
+ {
+  "id": "1826755",
+  "serves_youth": "none",
+  "audience": [
+   "undergraduates",
+   "researchers"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "network_coalition",
+   "research_only",
+   "other"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "college_campus",
+  "youth_reach": null,
+  "evaluation": "unspecified",
+  "service_geography": "multi_state",
+  "notes": "Fisk-Vanderbilt bridge program center producing toolkit, effectiveness research and regional workshop on broadening graduate participation."
+ },
+ {
+  "id": "1826824",
+  "serves_youth": "none",
+  "audience": [
+   "undergraduates",
+   "researchers"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "research_apprenticeship",
+   "mentoring",
+   "network_coalition"
+  ],
+  "mentoring": "component",
+  "bridging": "yes",
+  "ai_cs": "none",
+  "targets": [
+   "native_indigenous",
+   "underrepresented_general"
+  ],
+  "setting": "college_campus",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "national",
+  "notes": "International research experiences for LSAMP undergraduates with US and foreign co-mentors, led by tribal college coalition."
+ },
+ {
+  "id": "1826826",
+  "serves_youth": "none",
+  "audience": [
+   "undergraduates",
+   "researchers"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "mentoring",
+   "online_tool_game",
+   "network_coalition"
+  ],
+  "mentoring": "central",
+  "bridging": "yes",
+  "ai_cs": "none",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "mixed",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "national",
+  "notes": "LSU and IBM build a data-driven mentoring app to move minority STEM students toward doctorates and professoriate."
+ },
+ {
+  "id": "1827293",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "families",
+   "teachers_educators"
+  ],
+  "grade_band": "prek",
+  "models": [
+   "research_only",
+   "other"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "general"
+  ],
+  "setting": "mixed",
+  "youth_reach": null,
+  "evaluation": "design_qualitative",
+  "service_geography": "unclear",
+  "notes": "Co-design and iterative testing of preschool computational thinking activities integrated with math and science, at school and home."
+ },
+ {
+  "id": "1827412",
+  "serves_youth": "indirect",
+  "audience": [
+   "teachers_educators",
+   "researchers"
+  ],
+  "grade_band": "mixed_ages",
+  "models": [
+   "network_coalition"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "unclear",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "unclear",
+  "notes": "Annual mathematicians-educators conference on opening access to mathematics for excluded students, ending in action plans."
+ },
+ {
+  "id": "1828010",
+  "serves_youth": "none",
+  "audience": [
+   "researchers"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "other",
+   "research_apprenticeship"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "girls_women",
+   "disability",
+   "underrepresented_general"
+  ],
+  "setting": "college_campus",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "unclear",
+  "notes": "Graduate traineeship at Arizona State training MS and PhD students for citizen-centered smart city careers."
+ },
+ {
+  "id": "1829543",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "online_tool_game",
+   "research_only"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "online",
+  "youth_reach": null,
+  "evaluation": "design_qualitative",
+  "service_geography": "unclear",
+  "notes": "Building and testing an online collaborative environment to raise quality of mathematical discourse among teachers and students."
+ },
+ {
+  "id": "1829544",
+  "serves_youth": "indirect",
+  "audience": [
+   "teachers_educators"
+  ],
+  "grade_band": "middle",
+  "models": [
+   "teacher_pd",
+   "school_curriculum",
+   "online_tool_game"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "rural",
+   "native_indigenous",
+   "hispanic_latino"
+  ],
+  "setting": "online",
+  "youth_reach": 6000,
+  "evaluation": "quasi_experimental",
+  "service_geography": "multi_state",
+  "notes": "Hybrid online and in-person training for 270 middle school math teachers using Bootstrap algebra-coding curriculum."
+ },
+ {
+  "id": "1830179",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students"
+  ],
+  "grade_band": "middle",
+  "models": [
+   "summer_program",
+   "out_of_school_program",
+   "school_curriculum"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "girls_women",
+   "hispanic_latino"
+  ],
+  "setting": "summer",
+  "youth_reach": null,
+  "evaluation": "quasi_experimental",
+  "service_geography": "unclear",
+  "notes": "Middle school girls in vacation programs join disaster-response robotics simulations; experimental versus comparison curriculum groups; pre-post surveys."
+ },
+ {
+  "id": "1830450",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students"
+  ],
+  "grade_band": "middle",
+  "models": [
+   "summer_program",
+   "out_of_school_program",
+   "school_curriculum"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "girls_women",
+   "hispanic_latino"
+  ],
+  "setting": "summer",
+  "youth_reach": null,
+  "evaluation": "quasi_experimental",
+  "service_geography": "unclear",
+  "notes": "Middle school girls in vacation programs join disaster-response robotics simulations; experimental versus comparison curriculum groups; pre-post surveys."
+ },
+ {
+  "id": "1831031",
+  "serves_youth": "indirect",
+  "audience": [
+   "teachers_educators",
+   "researchers",
+   "general_public"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "network_coalition",
+   "research_only"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "rural",
+   "underrepresented_general"
+  ],
+  "setting": "unclear",
+  "youth_reach": null,
+  "evaluation": "unspecified",
+  "service_geography": "state_regional",
+  "notes": "Mississippi summit and consortium to find barriers keeping rural K-12 students out of informal STEM programs."
+ },
+ {
+  "id": "1831427",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "general_public"
+  ],
+  "grade_band": "mixed_ages",
+  "models": [
+   "online_tool_game",
+   "career_exposure",
+   "network_coalition"
+  ],
+  "mentoring": "none",
+  "bridging": "yes",
+  "ai_cs": "none",
+  "targets": [
+   "rural"
+  ],
+  "setting": "community",
+  "youth_reach": null,
+  "evaluation": "design_qualitative",
+  "service_geography": "unclear",
+  "notes": "Co-designed augmented reality game in two rural Maine communities exposing players to local emerging STEM careers."
+ },
+ {
+  "id": "1831593",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "general_public"
+  ],
+  "grade_band": "high",
+  "models": [
+   "research_only",
+   "other"
+  ],
+  "mentoring": "none",
+  "bridging": "unclear",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "museum_science_center",
+  "youth_reach": null,
+  "evaluation": "quasi_experimental",
+  "service_geography": "multi_state",
+  "notes": "Longitudinal study of teen youth educators at six US and UK informal science sites and visitors' learning."
+ },
+ {
+  "id": "1831685",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "out_of_school_program",
+   "online_tool_game",
+   "network_coalition"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "mixed",
+  "youth_reach": null,
+  "evaluation": "design_qualitative",
+  "service_geography": "local",
+  "notes": "Evanston infrastructure linking school and out-of-school STEAM opportunities for underrepresented youth, with metrics and case studies."
+ },
+ {
+  "id": "1831698",
+  "serves_youth": "none",
+  "audience": [
+   "general_public",
+   "researchers"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "other",
+   "research_only"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "native_indigenous",
+   "rural"
+  ],
+  "setting": "community",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "unclear",
+  "notes": "Network technology and web-design training for tribal reservation communities with limited internet; participatory research with partners."
+ },
+ {
+  "id": "1832234",
+  "serves_youth": "indirect",
+  "audience": [
+   "researchers"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "research_only",
+   "network_coalition"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "general"
+  ],
+  "setting": "unclear",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "national",
+  "notes": "Workshop series building data-mining tools to analyze multimodal sensor, audio and video data from learning environments."
+ },
+ {
+  "id": "1834510",
+  "serves_youth": "none",
+  "audience": [
+   "undergraduates",
+   "teachers_educators"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "network_coalition",
+   "teacher_pd"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "college_campus",
+  "youth_reach": null,
+  "evaluation": "unspecified",
+  "service_geography": "national",
+  "notes": "INCLUDES alliance reforming faculty hiring and inclusive teaching to diversify the STEM professoriate across institutions and regions."
+ },
+ {
+  "id": "1834513",
+  "serves_youth": "none",
+  "audience": [
+   "undergraduates",
+   "teachers_educators"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "network_coalition",
+   "teacher_pd"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "college_campus",
+  "youth_reach": null,
+  "evaluation": "unspecified",
+  "service_geography": "national",
+  "notes": "INCLUDES alliance reforming faculty hiring and inclusive teaching to diversify the STEM professoriate across institutions and regions."
+ },
+ {
+  "id": "1834518",
+  "serves_youth": "none",
+  "audience": [
+   "undergraduates",
+   "teachers_educators"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "network_coalition",
+   "teacher_pd"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "college_campus",
+  "youth_reach": null,
+  "evaluation": "unspecified",
+  "service_geography": "national",
+  "notes": "INCLUDES alliance reforming faculty hiring and inclusive teaching to diversify the STEM professoriate across institutions and regions."
+ },
+ {
+  "id": "1834521",
+  "serves_youth": "none",
+  "audience": [
+   "undergraduates",
+   "teachers_educators"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "network_coalition",
+   "teacher_pd"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "college_campus",
+  "youth_reach": null,
+  "evaluation": "unspecified",
+  "service_geography": "national",
+  "notes": "INCLUDES alliance reforming faculty hiring and inclusive teaching to diversify the STEM professoriate across institutions and regions."
+ },
+ {
+  "id": "1834522",
+  "serves_youth": "none",
+  "audience": [
+   "undergraduates",
+   "teachers_educators"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "network_coalition",
+   "teacher_pd"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "college_campus",
+  "youth_reach": null,
+  "evaluation": "unspecified",
+  "service_geography": "national",
+  "notes": "INCLUDES alliance reforming faculty hiring and inclusive teaching to diversify the STEM professoriate across institutions and regions."
+ },
+ {
+  "id": "1834526",
+  "serves_youth": "none",
+  "audience": [
+   "undergraduates",
+   "teachers_educators"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "network_coalition",
+   "teacher_pd"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "college_campus",
+  "youth_reach": null,
+  "evaluation": "unspecified",
+  "service_geography": "national",
+  "notes": "INCLUDES alliance reforming faculty hiring and inclusive teaching to diversify the STEM professoriate across institutions and regions."
+ },
+ {
+  "id": "1834528",
+  "serves_youth": "none",
+  "audience": [
+   "undergraduates",
+   "teachers_educators",
+   "researchers"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "network_coalition",
+   "mentoring"
+  ],
+  "mentoring": "component",
+  "bridging": "unclear",
+  "ai_cs": "none",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "college_campus",
+  "youth_reach": null,
+  "evaluation": "unspecified",
+  "service_geography": "national",
+  "notes": "Society-led alliance changing graduate admissions and training to raise minority physical-science doctorates; improved mentoring at transitions."
+ },
+ {
+  "id": "1834540",
+  "serves_youth": "none",
+  "audience": [
+   "undergraduates",
+   "teachers_educators",
+   "researchers"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "network_coalition",
+   "mentoring"
+  ],
+  "mentoring": "component",
+  "bridging": "unclear",
+  "ai_cs": "none",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "college_campus",
+  "youth_reach": null,
+  "evaluation": "unspecified",
+  "service_geography": "national",
+  "notes": "Society-led alliance changing graduate admissions and training to raise minority physical-science doctorates; improved mentoring at transitions."
+ },
+ {
+  "id": "1834545",
+  "serves_youth": "none",
+  "audience": [
+   "undergraduates",
+   "teachers_educators",
+   "researchers"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "network_coalition",
+   "mentoring"
+  ],
+  "mentoring": "component",
+  "bridging": "unclear",
+  "ai_cs": "none",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "college_campus",
+  "youth_reach": null,
+  "evaluation": "unspecified",
+  "service_geography": "national",
+  "notes": "Society-led alliance changing graduate admissions and training to raise minority physical-science doctorates; improved mentoring at transitions."
+ },
+ {
+  "id": "1834569",
+  "serves_youth": "indirect",
+  "audience": [
+   "undergraduates",
+   "teachers_educators"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "research_apprenticeship",
+   "mentoring",
+   "network_coalition",
+   "other"
+  ],
+  "mentoring": "component",
+  "bridging": "unclear",
+  "ai_cs": "none",
+  "targets": [
+   "first_generation",
+   "rural"
+  ],
+  "setting": "college_campus",
+  "youth_reach": null,
+  "evaluation": "unspecified",
+  "service_geography": "state_regional",
+  "notes": "West Virginia alliance supporting rural first-generation STEM undergraduates through improvement communities, internships, peer mentoring and ambassador outreach."
+ },
+ {
+  "id": "1834575",
+  "serves_youth": "indirect",
+  "audience": [
+   "undergraduates",
+   "teachers_educators"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "research_apprenticeship",
+   "mentoring",
+   "network_coalition",
+   "other"
+  ],
+  "mentoring": "component",
+  "bridging": "unclear",
+  "ai_cs": "none",
+  "targets": [
+   "first_generation",
+   "rural"
+  ],
+  "setting": "college_campus",
+  "youth_reach": null,
+  "evaluation": "unspecified",
+  "service_geography": "state_regional",
+  "notes": "West Virginia alliance supporting rural first-generation STEM undergraduates through improvement communities, internships, peer mentoring and ambassador outreach."
+ }
+]

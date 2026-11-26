@@ -1,0 +1,549 @@
+[
+ {
+  "id": "ASST_NON_15PJDP22GG01749MENT_015",
+  "org_scope": "national_multisite",
+  "targets": [
+   "justice_involved",
+   "children_of_incarcerated",
+   "tribal_native",
+   "military_families",
+   "disability",
+   "opioid_substance_affected",
+   "at_risk_general"
+  ],
+  "format": "unclear",
+  "purpose": "delinquency_prevention",
+  "notes": "National BBBS federation subawarding to affiliates in 41 states; many priority populations including tribal youth."
+ },
+ {
+  "id": "ASST_NON_15PJDP22GG03726MENT_015",
+  "org_scope": "local",
+  "targets": [
+   "opioid_substance_affected"
+  ],
+  "format": "mixed",
+  "purpose": "youth_development",
+  "notes": "Be A Mentor, Oakland/Richmond: group then one-to-one mentoring for youth affected by substance misuse."
+ },
+ {
+  "id": "ASST_NON_15PJDP22GG03727MENT_015",
+  "org_scope": "local",
+  "targets": [
+   "at_risk_general"
+  ],
+  "format": "mixed",
+  "purpose": "youth_development",
+  "notes": "Youth Mentoring Connection serves 300 underserved Los Angeles teens with individual and group mentoring."
+ },
+ {
+  "id": "ASST_NON_15PJDP22GG03728MENT_015",
+  "org_scope": "local",
+  "targets": [
+   "opioid_substance_affected"
+  ],
+  "format": "one_to_one",
+  "purpose": "youth_development",
+  "notes": "Bethel's Global Reach with Houston ISD: one-on-one mentoring for opioid-affected youth ages 12-17."
+ },
+ {
+  "id": "ASST_NON_15PJDP22GG03729MENT_015",
+  "org_scope": "local",
+  "targets": [
+   "at_risk_general",
+   "boys_young_men_of_color"
+  ],
+  "format": "mixed",
+  "purpose": "youth_development",
+  "notes": "Kentucky State University after-school mentoring for at-risk Black and Hispanic males in Franklin County."
+ },
+ {
+  "id": "ASST_NON_15PJDP22GG03730MENT_015",
+  "org_scope": "local",
+  "targets": [
+   "girls",
+   "children_of_incarcerated",
+   "justice_involved",
+   "opioid_substance_affected"
+  ],
+  "format": "mixed",
+  "purpose": "youth_development",
+  "notes": "Operation Restoration with Son of a Saint: New Orleans girls and boys affected by incarceration."
+ },
+ {
+  "id": "ASST_NON_15PJDP22GG03733MENT_015",
+  "org_scope": "state_regional",
+  "targets": [
+   "opioid_substance_affected",
+   "foster_care"
+  ],
+  "format": "unclear",
+  "purpose": "youth_development",
+  "notes": "Knoxville Leadership Foundation's four-partner KAMI opioid prevention mentoring across Knox and Union counties."
+ },
+ {
+  "id": "ASST_NON_15PJDP22GG03735MENT_015",
+  "org_scope": "national_multisite",
+  "targets": [
+   "opioid_substance_affected",
+   "other"
+  ],
+  "format": "mixed",
+  "purpose": "youth_development",
+  "notes": "NRPA subgrants to ten park and recreation agencies for opioid-prevention mentoring in high-overdose regions."
+ },
+ {
+  "id": "ASST_NON_15PJDP22GG03739MENT_015",
+  "org_scope": "local",
+  "targets": [
+   "opioid_substance_affected"
+  ],
+  "format": "unclear",
+  "purpose": "youth_development",
+  "notes": "Covington Partners expands school-based matches in Covington schools for opioid-impacted students."
+ },
+ {
+  "id": "ASST_NON_15PJDP22GG03740MENT_015",
+  "org_scope": "state_regional",
+  "targets": [
+   "opioid_substance_affected"
+  ],
+  "format": "mixed",
+  "purpose": "youth_development",
+  "notes": "Governor's Prevention Partnership, New Haven high schools: tiered prevention, one-on-one mentoring, student peer leaders."
+ },
+ {
+  "id": "ASST_NON_15PJDP22GG03741MENT_015",
+  "org_scope": "national_multisite",
+  "targets": [
+   "opioid_substance_affected",
+   "at_risk_general"
+  ],
+  "format": "mixed",
+  "purpose": "delinquency_prevention",
+  "notes": "Eluna's Camp Mariposa: group and peer mentoring in 13 states, families with substance use disorder."
+ },
+ {
+  "id": "ASST_NON_15PJDP22GG03742MENT_015",
+  "org_scope": "national_multisite",
+  "targets": [
+   "opioid_substance_affected"
+  ],
+  "format": "unclear",
+  "purpose": "delinquency_prevention",
+  "notes": "BBBSA MYIO5 subawards to roughly 30 affiliates in 20 states serving opioid-impacted youth."
+ },
+ {
+  "id": "ASST_NON_15PJDP22GG03743MENT_015",
+  "org_scope": "national_multisite",
+  "targets": [
+   "opioid_substance_affected"
+  ],
+  "format": "mixed",
+  "purpose": "youth_development",
+  "notes": "Boys & Girls Clubs of America opioid-prevention mentoring through eleven Pennsylvania clubs, group and one-on-one."
+ },
+ {
+  "id": "ASST_NON_15PJDP22GG03787MENT_015",
+  "org_scope": "state_regional",
+  "targets": [
+   "at_risk_general",
+   "justice_involved"
+  ],
+  "format": "one_to_one",
+  "purpose": "delinquency_prevention",
+  "notes": "Be A Mentor expands one-to-one mentoring from Richmond to Antelope Valley, preventing juvenile justice involvement."
+ },
+ {
+  "id": "ASST_NON_15PJDP22GG03803MENT_015",
+  "org_scope": "state_regional",
+  "targets": [
+   "at_risk_general"
+  ],
+  "format": "group",
+  "purpose": "youth_development",
+  "notes": "LA Team Mentoring: in-person and virtual team mentoring for middle schoolers, LA and San Diego."
+ },
+ {
+  "id": "ASST_NON_15PJDP22GG03821MENT_015",
+  "org_scope": "national_multisite",
+  "targets": [
+   "at_risk_general"
+  ],
+  "format": "unclear",
+  "purpose": "academic",
+  "notes": "AARP Foundation Experience Corps: older-adult mentors tutoring struggling K-3 readers, 11 sites, nine states."
+ },
+ {
+  "id": "ASST_NON_15PJDP22GG03823MENT_015",
+  "org_scope": "national_multisite",
+  "targets": [
+   "justice_involved",
+   "children_of_incarcerated",
+   "at_risk_general"
+  ],
+  "format": "mixed",
+  "purpose": "delinquency_prevention",
+  "notes": "Leadership Foundations' 24-site network, 19 states, group and one-to-one mentoring for justice-involved youth."
+ },
+ {
+  "id": "ASST_NON_15PJDP22GG03827MENT_015",
+  "org_scope": "national_multisite",
+  "targets": [
+   "disability"
+  ],
+  "format": "one_to_one",
+  "purpose": "youth_development",
+  "notes": "Partners for Youth with Disabilities: one-on-one Mentor Match for disabled youth in PA, DE, NJ."
+ },
+ {
+  "id": "ASST_NON_15PJDP22GG03830MENT_015",
+  "org_scope": "national_multisite",
+  "targets": [
+   "tribal_native",
+   "at_risk_general"
+  ],
+  "format": "unclear",
+  "purpose": "delinquency_prevention",
+  "notes": "Friends of the Children paid professional mentors, 17 states, strengthening work in Native communities."
+ },
+ {
+  "id": "ASST_NON_15PJDP22GG03832MENT_015",
+  "org_scope": "national_multisite",
+  "targets": [
+   "at_risk_general"
+  ],
+  "format": "unclear",
+  "purpose": "youth_development",
+  "notes": "Up2Us Sports multi-state sports-based mentoring through professional sports teams in six cities."
+ },
+ {
+  "id": "ASST_NON_15PJDP22GG03835MENT_015",
+  "org_scope": "national_multisite",
+  "targets": [
+   "justice_involved",
+   "at_risk_general"
+  ],
+  "format": "one_to_one",
+  "purpose": "delinquency_prevention",
+  "notes": "YMCA San Francisco's Reach & Rise therapeutic one-to-one mentoring through YMCAs in ten states."
+ },
+ {
+  "id": "ASST_NON_15PJDP22GG03854MENT_015",
+  "org_scope": "local",
+  "targets": [
+   "girls",
+   "at_risk_general"
+  ],
+  "format": "mixed",
+  "purpose": "youth_development",
+  "notes": "Atlanta GLOW's LEAP: individual and group mentoring plus leadership for teen girls of color."
+ },
+ {
+  "id": "ASST_NON_15PJDP22GG03860MENT_015",
+  "org_scope": "state_regional",
+  "targets": [
+   "justice_involved",
+   "at_risk_general"
+  ],
+  "format": "unclear",
+  "purpose": "delinquency_prevention",
+  "notes": "Face to Face Enrichment Center COPE: justice-involved youth around Baton Rouge and New Orleans."
+ },
+ {
+  "id": "ASST_NON_15PJDP22GG03868MENT_015",
+  "org_scope": "national_multisite",
+  "targets": [
+   "at_risk_general",
+   "justice_involved",
+   "foster_care",
+   "military_families",
+   "children_of_incarcerated",
+   "opioid_substance_affected"
+  ],
+  "format": "peer",
+  "purpose": "youth_development",
+  "notes": "Youth Rising peer mentor leadership program expanding to five states for high-risk youth."
+ },
+ {
+  "id": "ASST_NON_15PJDP22GG03870MENT_015",
+  "org_scope": "national_multisite",
+  "targets": [
+   "justice_involved",
+   "at_risk_general"
+  ],
+  "format": "group",
+  "purpose": "youth_development",
+  "notes": "National Urban League's Project Ready Mentor: group mentoring in twelve cities, court-involved youth."
+ },
+ {
+  "id": "ASST_NON_15PJDP22GG03873MENT_015",
+  "org_scope": "national_multisite",
+  "targets": [
+   "at_risk_general",
+   "justice_involved"
+  ],
+  "format": "group",
+  "purpose": "delinquency_prevention",
+  "notes": "Cal Ripken Sr. Foundation Badges for Baseball: small-group mentoring with law enforcement mentors, 19 states."
+ },
+ {
+  "id": "ASST_NON_15PJDP22GK00946MUMU_015",
+  "org_scope": "national_multisite",
+  "targets": [
+   "general"
+  ],
+  "format": "unclear",
+  "purpose": "training_technical_assistance",
+  "notes": "MENTOR national mentoring resource center: website, evidence reviews, training and 17,000 hours of technical assistance."
+ },
+ {
+  "id": "ASST_NON_15PJDP23AG00273MENT_015",
+  "org_scope": "local",
+  "targets": [
+   "other"
+  ],
+  "format": "unclear",
+  "purpose": "youth_development",
+  "notes": "RFK Community Alliance: Hampden County mentoring for commercially sexually exploited children, lived-experience mentors."
+ },
+ {
+  "id": "ASST_NON_15PJDP23GG00849MENT_015",
+  "org_scope": "national_multisite",
+  "targets": [
+   "at_risk_general",
+   "tribal_native",
+   "opioid_substance_affected",
+   "justice_involved"
+  ],
+  "format": "group",
+  "purpose": "delinquency_prevention",
+  "notes": "National PAL: small-group mentoring in 100 police athletic league chapters, building police-youth trust."
+ },
+ {
+  "id": "ASST_NON_15PJDP23GG00851MENT_015",
+  "org_scope": "national_multisite",
+  "targets": [
+   "justice_involved",
+   "children_of_incarcerated",
+   "tribal_native",
+   "military_families",
+   "disability",
+   "opioid_substance_affected",
+   "at_risk_general"
+  ],
+  "format": "unclear",
+  "purpose": "delinquency_prevention",
+  "notes": "BBBSA partnering with youth and families: about 90 affiliates, 41 states, many priority populations."
+ },
+ {
+  "id": "ASST_NON_15PJDP23GG01307MENT_015",
+  "org_scope": "state_regional",
+  "targets": [
+   "at_risk_general"
+  ],
+  "format": "unclear",
+  "purpose": "youth_development",
+  "notes": "Boys & Girls Clubs of Tennessee Valley Prevention Works: five counties, trauma-exposed youth."
+ },
+ {
+  "id": "ASST_NON_15PJDP23GG01309MENT_015",
+  "org_scope": "national_multisite",
+  "targets": [
+   "opioid_substance_affected",
+   "foster_care"
+  ],
+  "format": "unclear",
+  "purpose": "youth_development",
+  "notes": "BBBSA MYIO6 phase VI: 700 opioid-impacted youth, about 30 affiliates in 20 states."
+ },
+ {
+  "id": "ASST_NON_15PJDP23GG01311MENT_015",
+  "org_scope": "state_regional",
+  "targets": [
+   "opioid_substance_affected"
+  ],
+  "format": "mixed",
+  "purpose": "youth_development",
+  "notes": "Big Brothers Big Sisters of the Eastern Shore: one-to-one and group mentoring for opioid-impacted children."
+ },
+ {
+  "id": "ASST_NON_15PJDP23GG01314MENT_015",
+  "org_scope": "state_regional",
+  "targets": [
+   "opioid_substance_affected",
+   "at_risk_general"
+  ],
+  "format": "unclear",
+  "purpose": "youth_development",
+  "notes": "Knoxville Leadership Foundation's KAMI renewal for opioid-impacted youth in five Tennessee counties."
+ },
+ {
+  "id": "ASST_NON_15PJDP23GG01316MENT_015",
+  "org_scope": "state_regional",
+  "targets": [
+   "at_risk_general",
+   "opioid_substance_affected"
+  ],
+  "format": "one_to_one",
+  "purpose": "youth_development",
+  "notes": "Colorado statewide Partners association: six affiliates, one-to-one community mentoring for at-risk and opioid-affected youth."
+ },
+ {
+  "id": "ASST_NON_15PJDP23GG01318MENT_015",
+  "org_scope": "state_regional",
+  "targets": [
+   "opioid_substance_affected"
+  ],
+  "format": "mixed",
+  "purpose": "youth_development",
+  "notes": "Helping Services for Youth and Families: rural northeast Iowa, school-based and new group mentoring."
+ },
+ {
+  "id": "ASST_NON_15PJDP23GG01320MENT_015",
+  "org_scope": "national_multisite",
+  "targets": [
+   "opioid_substance_affected",
+   "at_risk_general"
+  ],
+  "format": "group",
+  "purpose": "delinquency_prevention",
+  "notes": "Eluna Camp Mariposa group mentoring in Ohio, New Hampshire and new Baltimore site."
+ },
+ {
+  "id": "ASST_NON_15PJDP23GG01322MENT_015",
+  "org_scope": "national_multisite",
+  "targets": [
+   "opioid_substance_affected"
+  ],
+  "format": "mixed",
+  "purpose": "youth_development",
+  "notes": "Boys & Girls Clubs of America opioid-prevention mentoring via eight Los Angeles County clubs."
+ },
+ {
+  "id": "ASST_NON_15PJDP23GG01327MENT_015",
+  "org_scope": "state_regional",
+  "targets": [
+   "opioid_substance_affected",
+   "foster_care",
+   "justice_involved",
+   "other"
+  ],
+  "format": "unclear",
+  "purpose": "youth_development",
+  "notes": "Beginning New Outreach: mentoring plus prevention curriculum, Troup County Georgia and Russell County Alabama."
+ },
+ {
+  "id": "ASST_NON_15PJDP23GG01331MENT_015",
+  "org_scope": "national_multisite",
+  "targets": [
+   "opioid_substance_affected",
+   "justice_involved"
+  ],
+  "format": "group",
+  "purpose": "delinquency_prevention",
+  "notes": "National PAL ten chapter sites: small-group mentoring for opioid-affected and adjudicated youth."
+ },
+ {
+  "id": "ASST_NON_15PJDP23GG01332MENT_015",
+  "org_scope": "local",
+  "targets": [
+   "opioid_substance_affected",
+   "other"
+  ],
+  "format": "group",
+  "purpose": "delinquency_prevention",
+  "notes": "Keala Foundation Kauai: residential camp and follow-up mentoring for Native Hawaiian high-risk youth."
+ },
+ {
+  "id": "ASST_NON_15PJDP23GG01335MENT_015",
+  "org_scope": "state_regional",
+  "targets": [
+   "opioid_substance_affected",
+   "at_risk_general"
+  ],
+  "format": "unclear",
+  "purpose": "delinquency_prevention",
+  "notes": "Campti Community Development Center: structured mentoring across five Louisiana parishes for opioid-impacted at-risk youth."
+ },
+ {
+  "id": "ASST_NON_15PJDP23GG01336MENT_015",
+  "org_scope": "state_regional",
+  "targets": [
+   "opioid_substance_affected",
+   "other"
+  ],
+  "format": "group",
+  "purpose": "youth_development",
+  "notes": "Road Recovery: group mentoring and creative workshops at 13 New York youth clubhouses."
+ },
+ {
+  "id": "ASST_NON_15PJDP23GG03521MENT_015",
+  "org_scope": "local",
+  "targets": [
+   "justice_involved"
+  ],
+  "format": "unclear",
+  "purpose": "delinquency_prevention",
+  "notes": "Center for Justice Innovation's Brownsville Mentorship: credible messengers serving juvenile-justice-involved youth in Brooklyn."
+ },
+ {
+  "id": "ASST_NON_15PJDP23GG03524MENT_015",
+  "org_scope": "local",
+  "targets": [
+   "justice_involved"
+  ],
+  "format": "mixed",
+  "purpose": "delinquency_prevention",
+  "notes": "Uhuru Foundation Charlottesville: mentoring and life coaching for juvenile-justice-involved youth, mostly individual sessions."
+ },
+ {
+  "id": "ASST_NON_15PJDP23GG03526MENT_015",
+  "org_scope": "local",
+  "targets": [
+   "justice_involved"
+  ],
+  "format": "group",
+  "purpose": "delinquency_prevention",
+  "notes": "Take Heart restorative justice circles and diversion for system-involved youth in St. Joseph County."
+ },
+ {
+  "id": "ASST_NON_15PJDP23GG03529MENT_015",
+  "org_scope": "local",
+  "targets": [
+   "justice_involved"
+  ],
+  "format": "mixed",
+  "purpose": "delinquency_prevention",
+  "notes": "Iron Sharpens Iron Mentoring: Clark County diversion with one-on-one mentoring and circle programs."
+ },
+ {
+  "id": "ASST_NON_15PJDP23GG03532MENT_015",
+  "org_scope": "local",
+  "targets": [
+   "justice_involved"
+  ],
+  "format": "group",
+  "purpose": "delinquency_prevention",
+  "notes": "BCFS Youth Averted from Delinquency: group mentoring and parenting education in Kerr County, Texas."
+ },
+ {
+  "id": "ASST_NON_15PJDP23GG05295MENT_015",
+  "org_scope": "national_multisite",
+  "targets": [
+   "at_risk_general"
+  ],
+  "format": "mixed",
+  "purpose": "academic",
+  "notes": "Center for Supportive Schools: Peer Group Connection plus one-to-one mentoring, 38 high schools."
+ },
+ {
+  "id": "ASST_NON_15PJDP23GG05296MENT_015",
+  "org_scope": "national_multisite",
+  "targets": [
+   "at_risk_general"
+  ],
+  "format": "unclear",
+  "purpose": "academic",
+  "notes": "Friends of the Children: professional mentoring enhanced with adolescent school support and caregiver partnership training."
+ }
+]

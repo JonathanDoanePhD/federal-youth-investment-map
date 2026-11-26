@@ -1,0 +1,955 @@
+[
+ {
+  "id": "2031490",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "middle",
+  "models": [
+   "school_curriculum"
+  ],
+  "mentoring": "component",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "black"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "unspecified",
+  "service_geography": "local",
+  "notes": "Python microworld extending Algebra Project math for middle schoolers, with near-peer tutors, in one Georgia school."
+ },
+ {
+  "id": "2031498",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "elementary",
+  "models": [
+   "school_curriculum",
+   "online_tool_game"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "hispanic_latino"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "local",
+  "notes": "Project SMART game turns pupils physical activity data into computing and data science lessons at a mostly Hispanic elementary school."
+ },
+ {
+  "id": "2031505",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "high",
+  "models": [
+   "school_curriculum",
+   "teacher_pd",
+   "out_of_school_program",
+   "mentoring"
+  ],
+  "mentoring": "component",
+  "bridging": "unclear",
+  "ai_cs": "computing",
+  "targets": [
+   "native_indigenous"
+  ],
+  "setting": "mixed",
+  "youth_reach": null,
+  "evaluation": "design_qualitative",
+  "service_geography": "state_regional",
+  "notes": "Culturally grounded computer science for Navajo Nation high schools, with teacher development, after school activities and peer mentoring."
+ },
+ {
+  "id": "2031515",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "elementary",
+  "models": [
+   "teacher_pd",
+   "school_curriculum"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "girls_women",
+   "underrepresented_general"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "pre_post",
+  "service_geography": "local",
+  "notes": "Second and third grade teachers build computational thinking units; girls and minorities emphasized; two schools; teacher self-efficacy surveys."
+ },
+ {
+  "id": "2031526",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "elementary",
+  "models": [
+   "teacher_pd",
+   "school_curriculum"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "girls_women",
+   "native_indigenous",
+   "rural"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "pre_post",
+  "service_geography": "state_regional",
+  "notes": "South Dakota partnership helping fourth and fifth grade teachers add computational thinking to math and science; pre and post tests."
+ },
+ {
+  "id": "2031527",
+  "serves_youth": "indirect",
+  "audience": [
+   "teachers_educators",
+   "researchers"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "network_coalition",
+   "teacher_pd"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "rural",
+   "native_indigenous",
+   "underrepresented_general"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "unspecified",
+  "service_geography": "state_regional",
+  "notes": "Arizona hub building regional research partnerships and teacher learning communities for rural and tribal K-8 computing education."
+ },
+ {
+  "id": "2031748",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "online_tool_game"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "online",
+  "youth_reach": 1500,
+  "evaluation": "unspecified",
+  "service_geography": "national",
+  "notes": "Virtual epidemic in Whyville world lets students and teachers investigate outbreaks; surveys and observation of engagement."
+ },
+ {
+  "id": "2031795",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "school_curriculum",
+   "teacher_pd"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "native_indigenous"
+  ],
+  "setting": "school_day",
+  "youth_reach": 380,
+  "evaluation": "design_qualitative",
+  "service_geography": "state_regional",
+  "notes": "Montana grades 4-8 computing curriculum using storytelling and e-textiles aligned with Indian Education for All; design-based research."
+ },
+ {
+  "id": "2031884",
+  "serves_youth": "none",
+  "audience": [
+   "general_public",
+   "researchers"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "research_only"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "community",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "unclear",
+  "notes": "Pilot study of whether citizen science participation builds place attachment and critical thinking among adult volunteers."
+ },
+ {
+  "id": "2032179",
+  "serves_youth": "none",
+  "audience": [
+   "teachers_educators",
+   "undergraduates"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "teacher_pd",
+   "online_tool_game"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "online",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "unclear",
+  "notes": "Mixed-reality simulated classrooms give preservice elementary teachers practice teaching math and science during remote courses."
+ },
+ {
+  "id": "2032226",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "undergraduates"
+  ],
+  "grade_band": "high",
+  "models": [
+   "exhibit_media",
+   "research_only"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "unclear",
+  "youth_reach": 60,
+  "evaluation": "design_qualitative",
+  "service_geography": "unclear",
+  "notes": "Youth-of-color focus groups shape a short film framing science as service; follow-up groups gauge motivation."
+ },
+ {
+  "id": "2032359",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "school_curriculum",
+   "other"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "unspecified",
+  "service_geography": "unclear",
+  "notes": "Lego-based liquid handling robots tested in grade 6-12 biology and chemistry classes to study student inquiry."
+ },
+ {
+  "id": "2033368",
+  "serves_youth": "direct",
+  "audience": [
+   "families"
+  ],
+  "grade_band": "mixed_ages",
+  "models": [
+   "other",
+   "research_only"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "home_family",
+  "youth_reach": null,
+  "evaluation": "unspecified",
+  "service_geography": "unclear",
+  "notes": "Remote parent-child handwashing activity studying how goal setting affects childrens recall and later hygiene behavior."
+ },
+ {
+  "id": "2033515",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students"
+  ],
+  "grade_band": "high",
+  "models": [
+   "research_only"
+  ],
+  "mentoring": "component",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "unclear",
+  "youth_reach": 560,
+  "evaluation": "design_qualitative",
+  "service_geography": "local",
+  "notes": "Survey and interviews of underrepresented teens from a New York science research mentoring consortium about pandemic effects on STEM paths."
+ },
+ {
+  "id": "2033922",
+  "serves_youth": "indirect",
+  "audience": [
+   "teachers_educators",
+   "k12_students"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "teacher_pd",
+   "online_tool_game"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "online",
+  "youth_reach": null,
+  "evaluation": "design_qualitative",
+  "service_geography": "unclear",
+  "notes": "Remote professional development for ten secondary science teachers on data-based modeling software; teacher interviews and student log files analyzed."
+ },
+ {
+  "id": "2034013",
+  "serves_youth": "none",
+  "audience": [
+   "general_public",
+   "researchers"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "research_only"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "ai",
+  "targets": [
+   "disability"
+  ],
+  "setting": "unclear",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "unclear",
+  "notes": "Machine learning assessments of visuospatial skills to match autistic adults to workplace jobs; pilot study with eye tracking."
+ },
+ {
+  "id": "2034782",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students"
+  ],
+  "grade_band": "middle",
+  "models": [
+   "out_of_school_program",
+   "online_tool_game"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "mixed",
+  "youth_reach": 400,
+  "evaluation": "design_qualitative",
+  "service_geography": "multi_state",
+  "notes": "Hip hop based computational making for middle schoolers online and in afterschool sites in three cities; observations and design narratives."
+ },
+ {
+  "id": "2035103",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "elementary",
+  "models": [
+   "school_curriculum",
+   "teacher_pd"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "english_learners"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "quasi_experimental",
+  "service_geography": "unclear",
+  "notes": "Fifth grade SAIL science and language curriculum with teacher development, tested against matched comparison schools via propensity scores."
+ },
+ {
+  "id": "2036549",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "research_only",
+   "other"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "hispanic_latino"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "design_qualitative",
+  "service_geography": "unclear",
+  "notes": "Ethnographic study of Latino students stories learning math across elementary to middle transition; video cases for teacher preparation."
+ },
+ {
+  "id": "2037179",
+  "serves_youth": "indirect",
+  "audience": [
+   "families",
+   "researchers"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "research_only"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "home_family",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "national",
+  "notes": "National household panel of parents on how COVID disrupted prek-12 schooling and STEM learning, reported by demographic group."
+ },
+ {
+  "id": "2037357",
+  "serves_youth": "none",
+  "audience": [
+   "undergraduates",
+   "researchers"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "other"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "unclear",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "unclear",
+  "notes": "Wearable sensors and models for circadian rhythm health; trains students and includes STEM outreach to underrepresented groups."
+ },
+ {
+  "id": "2037983",
+  "serves_youth": "none",
+  "audience": [
+   "teachers_educators",
+   "undergraduates"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "teacher_pd",
+   "online_tool_game"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "online",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "unclear",
+  "notes": "Games, simulations and virtual reality classroom for preservice teachers practicing argumentation discussions; design-based research with teacher educators."
+ },
+ {
+  "id": "2038271",
+  "serves_youth": "indirect",
+  "audience": [
+   "k12_students",
+   "undergraduates"
+  ],
+  "grade_band": "mixed_ages",
+  "models": [
+   "network_coalition"
+  ],
+  "mentoring": "none",
+  "bridging": "unclear",
+  "ai_cs": "none",
+  "targets": [
+   "native_indigenous",
+   "rural"
+  ],
+  "setting": "mixed",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "multi_state",
+  "notes": "Six-state alliance with tribal communities and colleges to broaden American Indian and Alaska Native STEM participation."
+ },
+ {
+  "id": "2039175",
+  "serves_youth": "indirect",
+  "audience": [
+   "teachers_educators",
+   "researchers"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "research_only",
+   "teacher_pd"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "general"
+  ],
+  "setting": "online",
+  "youth_reach": null,
+  "evaluation": "unspecified",
+  "service_geography": "national",
+  "notes": "Documents how computer science teacher professional development moved online in summer 2020 and its effect on teachers."
+ },
+ {
+  "id": "2039209",
+  "serves_youth": "indirect",
+  "audience": [
+   "researchers",
+   "teachers_educators"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "network_coalition"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "online",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "national",
+  "notes": "Virtual convening of informal STEM educators and evaluators to shape an outcome progressions measurement framework."
+ },
+ {
+  "id": "2039357",
+  "serves_youth": "indirect",
+  "audience": [
+   "teachers_educators"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "teacher_pd"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "rural"
+  ],
+  "setting": "online",
+  "youth_reach": null,
+  "evaluation": "design_qualitative",
+  "service_geography": "national",
+  "notes": "Brown studies workload and dispositions of math teachers learning Bootstrap computing in virtual professional development; surveys, interviews, case studies."
+ },
+ {
+  "id": "2039745",
+  "serves_youth": "indirect",
+  "audience": [
+   "teachers_educators",
+   "researchers"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "network_coalition"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "underrepresented_general",
+   "girls_women"
+  ],
+  "setting": "unclear",
+  "youth_reach": null,
+  "evaluation": "unspecified",
+  "service_geography": "national",
+  "notes": "Community hub and workshops to build K-12 quantum information science education resources and widen participation."
+ },
+ {
+  "id": "2040350",
+  "serves_youth": "none",
+  "audience": [
+   "general_public",
+   "teachers_educators",
+   "researchers"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "exhibit_media",
+   "network_coalition"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "museum_science_center",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "national",
+  "notes": "Documentary and discussions with scientists and informal educators on ethics and decolonizing practices in science museums."
+ },
+ {
+  "id": "2040595",
+  "serves_youth": "indirect",
+  "audience": [
+   "teachers_educators",
+   "undergraduates",
+   "researchers"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "network_coalition"
+  ],
+  "mentoring": "none",
+  "bridging": "unclear",
+  "ai_cs": "none",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "unclear",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "unclear",
+  "notes": "Two-day workshop and web hub to scale iBEARS, where undergraduates share biology work with grade 4-8 classes."
+ },
+ {
+  "id": "2040634",
+  "serves_youth": "none",
+  "audience": [
+   "general_public"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "network_coalition"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "girls_women",
+   "underrepresented_general"
+  ],
+  "setting": "workplace",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "national",
+  "notes": "Planning a collaborative of engineering societies and companies to retain women engineers of color in the workforce."
+ },
+ {
+  "id": "2040713",
+  "serves_youth": "none",
+  "audience": [
+   "undergraduates",
+   "researchers"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "network_coalition"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "college_campus",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "state_regional",
+  "notes": "Workshop linking UC San Diego environmental PhD program with California State campuses to widen graduate STEM participation."
+ },
+ {
+  "id": "2040736",
+  "serves_youth": "none",
+  "audience": [
+   "undergraduates"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "network_coalition"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "disability"
+  ],
+  "setting": "college_campus",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "multi_state",
+  "notes": "Six universities plan collaborative infrastructure supporting neurodiverse undergraduates, including autism and ADHD, in STEM."
+ },
+ {
+  "id": "2040747",
+  "serves_youth": "none",
+  "audience": [
+   "teachers_educators",
+   "undergraduates"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "network_coalition",
+   "teacher_pd",
+   "online_tool_game"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "unclear",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "national",
+  "notes": "Conference to design mixed-reality simulations for preparing secondary science teachers, forming an improvement community."
+ },
+ {
+  "id": "2040783",
+  "serves_youth": "indirect",
+  "audience": [
+   "teachers_educators",
+   "k12_students"
+  ],
+  "grade_band": "middle",
+  "models": [
+   "network_coalition"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "girls_women",
+   "black",
+   "native_indigenous",
+   "underrepresented_general",
+   "disability",
+   "low_income"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "unspecified",
+  "service_geography": "national",
+  "notes": "Planning a national collective impact alliance to broaden underserved middle grade participation in STEM and career technical education."
+ },
+ {
+  "id": "2040784",
+  "serves_youth": "indirect",
+  "audience": [
+   "teachers_educators",
+   "researchers"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "network_coalition"
+  ],
+  "mentoring": "component",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "unclear",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "national",
+  "notes": "Smithsonian-led network and surveys on diversifying the K-12 STEM teaching workforce, building on summit teams with matched mentors."
+ },
+ {
+  "id": "2040795",
+  "serves_youth": "none",
+  "audience": [
+   "undergraduates"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "network_coalition",
+   "other"
+  ],
+  "mentoring": "component",
+  "bridging": "unclear",
+  "ai_cs": "none",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "unclear",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "national",
+  "notes": "Network planning to expand internship programs for underrepresented undergraduates in coastal and marine science; mentorship measures considered."
+ },
+ {
+  "id": "2040830",
+  "serves_youth": "none",
+  "audience": [
+   "undergraduates"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "network_coalition"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "black",
+   "hispanic_latino",
+   "underrepresented_general"
+  ],
+  "setting": "college_campus",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "multi_state",
+  "notes": "Morgan State led planning for an alliance of HBCUs and minority serving institutions to diversify engineering."
+ },
+ {
+  "id": "2040836",
+  "serves_youth": "none",
+  "audience": [
+   "undergraduates"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "network_coalition"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "hispanic_latino"
+  ],
+  "setting": "college_campus",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "national",
+  "notes": "Hispanic Serving Institutions convene regionally to strengthen Latinx pathways to STEM graduate degrees."
+ },
+ {
+  "id": "2040841",
+  "serves_youth": "indirect",
+  "audience": [
+   "undergraduates",
+   "k12_students"
+  ],
+  "grade_band": "mixed_ages",
+  "models": [
+   "network_coalition"
+  ],
+  "mentoring": "none",
+  "bridging": "unclear",
+  "ai_cs": "none",
+  "targets": [
+   "girls_women",
+   "low_income",
+   "first_generation",
+   "underrepresented_general"
+  ],
+  "setting": "community",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "state_regional",
+  "notes": "North Carolina partners from schools and colleges plan a pathway into engineering for women from underrepresented groups."
+ },
+ {
+  "id": "2040870",
+  "serves_youth": "none",
+  "audience": [
+   "general_public"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "network_coalition",
+   "other"
+  ],
+  "mentoring": "component",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "disability"
+  ],
+  "setting": "workplace",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "local",
+  "notes": "Cincinnati alliance planning workplace training and mentoring so STEM employers can hire adults with intellectual and developmental disabilities."
+ }
+]

@@ -1,0 +1,977 @@
+[
+ {
+  "id": "1850447",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "middle",
+  "models": [
+   "school_curriculum",
+   "career_exposure"
+  ],
+  "mentoring": "none",
+  "bridging": "yes",
+  "ai_cs": "computing",
+  "targets": [
+   "rural",
+   "underrepresented_general"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "pre_post",
+  "service_geography": "state_regional",
+  "notes": "Weather data analysis units for rural New England middle schoolers, with a virtual scientist chat."
+ },
+ {
+  "id": "1850505",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "families"
+  ],
+  "grade_band": "middle",
+  "models": [
+   "out_of_school_program",
+   "network_coalition"
+  ],
+  "mentoring": "component",
+  "bridging": "unclear",
+  "ai_cs": "computing",
+  "targets": [
+   "girls_women"
+  ],
+  "setting": "after_school",
+  "youth_reach": null,
+  "evaluation": "design_qualitative",
+  "service_geography": "local",
+  "notes": "Evanston girls' STEAM ecosystem linking out-of-school providers and parents; research via surveys, interviews, case studies."
+ },
+ {
+  "id": "1850543",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "families"
+  ],
+  "grade_band": "middle",
+  "models": [
+   "out_of_school_program",
+   "network_coalition"
+  ],
+  "mentoring": "component",
+  "bridging": "unclear",
+  "ai_cs": "computing",
+  "targets": [
+   "girls_women"
+  ],
+  "setting": "after_school",
+  "youth_reach": null,
+  "evaluation": "design_qualitative",
+  "service_geography": "local",
+  "notes": "Building a local girls' STEAM learning ecology around a coding and design program; surveys and case studies."
+ },
+ {
+  "id": "1850556",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "elementary",
+  "models": [
+   "school_curriculum",
+   "teacher_pd",
+   "career_exposure"
+  ],
+  "mentoring": "none",
+  "bridging": "unclear",
+  "ai_cs": "none",
+  "targets": [
+   "native_indigenous",
+   "rural"
+  ],
+  "setting": "school_day",
+  "youth_reach": 450,
+  "evaluation": "design_qualitative",
+  "service_geography": "state_regional",
+  "notes": "Place-based drone curriculum and teacher course for Alaska Native upper-elementary students in rural districts."
+ },
+ {
+  "id": "1850561",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "elementary",
+  "models": [
+   "school_curriculum",
+   "teacher_pd",
+   "career_exposure"
+  ],
+  "mentoring": "none",
+  "bridging": "unclear",
+  "ai_cs": "none",
+  "targets": [
+   "native_indigenous",
+   "rural"
+  ],
+  "setting": "school_day",
+  "youth_reach": 450,
+  "evaluation": "design_qualitative",
+  "service_geography": "state_regional",
+  "notes": "Place-based drone curriculum and teacher course for Alaska Native upper-elementary students in rural districts."
+ },
+ {
+  "id": "1850568",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "high",
+  "models": [
+   "mentoring",
+   "research_apprenticeship",
+   "summer_program",
+   "school_curriculum",
+   "career_exposure",
+   "out_of_school_program"
+  ],
+  "mentoring": "central",
+  "bridging": "yes",
+  "ai_cs": "none",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "mixed",
+  "youth_reach": 300,
+  "evaluation": "pre_post",
+  "service_geography": "unclear",
+  "notes": "Paid biotech industry internships with mentors, plus workforce class and tutoring; study of what makes internships effective."
+ },
+ {
+  "id": "1851680",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "high",
+  "models": [
+   "online_tool_game",
+   "school_curriculum"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "unspecified",
+  "service_geography": "unclear",
+  "notes": "Personalized algebra problem-posing tied to STEM careers, delivered through an online tool for teachers and students."
+ },
+ {
+  "id": "1852687",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "undergraduates"
+  ],
+  "grade_band": "mixed_ages",
+  "models": [
+   "mentoring",
+   "exhibit_media",
+   "career_exposure"
+  ],
+  "mentoring": "central",
+  "bridging": "yes",
+  "ai_cs": "none",
+  "targets": [
+   "native_indigenous"
+  ],
+  "setting": "unclear",
+  "youth_reach": null,
+  "evaluation": "pre_post",
+  "service_geography": "state_regional",
+  "notes": "Native youth make environmental podcasts; Native undergraduates mentor them; blends Indigenous and Western knowledge, Coeur d'Alene Reservation."
+ },
+ {
+  "id": "1853923",
+  "serves_youth": "indirect",
+  "audience": [
+   "k12_students",
+   "teachers_educators",
+   "researchers"
+  ],
+  "grade_band": "elementary",
+  "models": [
+   "research_only"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "school_day",
+  "youth_reach": 20,
+  "evaluation": "design_qualitative",
+  "service_geography": "unclear",
+  "notes": "Exploratory design of science-and-literacy assessment tasks for first graders, tested through teacher focus group and student interviews."
+ },
+ {
+  "id": "1853927",
+  "serves_youth": "indirect",
+  "audience": [
+   "k12_students",
+   "teachers_educators",
+   "researchers"
+  ],
+  "grade_band": "elementary",
+  "models": [
+   "research_only"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "school_day",
+  "youth_reach": 20,
+  "evaluation": "design_qualitative",
+  "service_geography": "unclear",
+  "notes": "Exploratory design of science-and-literacy assessment tasks for first graders, tested through teacher focus group and student interviews."
+ },
+ {
+  "id": "1853951",
+  "serves_youth": "indirect",
+  "audience": [
+   "k12_students",
+   "teachers_educators",
+   "researchers"
+  ],
+  "grade_band": "elementary",
+  "models": [
+   "research_only"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "school_day",
+  "youth_reach": 20,
+  "evaluation": "design_qualitative",
+  "service_geography": "unclear",
+  "notes": "Exploratory design of science-and-literacy assessment tasks for first graders, tested through teacher focus group and student interviews."
+ },
+ {
+  "id": "1854059",
+  "serves_youth": "indirect",
+  "audience": [
+   "teachers_educators",
+   "researchers"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "other"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "unclear",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "national",
+  "notes": "Research-based practice briefs for science communicators and informal educators; tests whether the briefs are useful."
+ },
+ {
+  "id": "1854801",
+  "serves_youth": "indirect",
+  "audience": [
+   "teachers_educators",
+   "researchers"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "research_only"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "unclear",
+  "notes": "Building a classroom observation instrument for integrated STEM teaching from hundreds of lesson videos."
+ },
+ {
+  "id": "1855763",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students"
+  ],
+  "grade_band": "high",
+  "models": [
+   "school_curriculum",
+   "career_exposure",
+   "research_apprenticeship"
+  ],
+  "mentoring": "none",
+  "bridging": "yes",
+  "ai_cs": "computing",
+  "targets": [
+   "low_income",
+   "black",
+   "hispanic_latino",
+   "girls_women",
+   "english_learners",
+   "urban"
+  ],
+  "setting": "mixed",
+  "youth_reach": 300,
+  "evaluation": "design_qualitative",
+  "service_geography": "local",
+  "notes": "Industry-informed engineering, design and programming pathways with internships and company tours at one Boston high school."
+ },
+ {
+  "id": "1900606",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "middle",
+  "models": [
+   "school_curriculum",
+   "teacher_pd",
+   "online_tool_game"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "english_learners",
+   "underrepresented_general"
+  ],
+  "setting": "school_day",
+  "youth_reach": 2500,
+  "evaluation": "pre_post",
+  "service_geography": "state_regional",
+  "notes": "Year-long data analysis units in Bay Area middle school science, designed for dual language learners, with teacher training."
+ },
+ {
+  "id": "1901704",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "middle",
+  "models": [
+   "school_curriculum"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "general"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "design_qualitative",
+  "service_geography": "unclear",
+  "notes": "Six-week middle school science modules teaching logic programming; design-based study of motivation and learning."
+ },
+ {
+  "id": "1902536",
+  "serves_youth": "indirect",
+  "audience": [
+   "teachers_educators",
+   "researchers"
+  ],
+  "grade_band": "prek",
+  "models": [
+   "network_coalition"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "unclear",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "national",
+  "notes": "Convening of educators and researchers on using children's storybooks for family STEM learning in informal settings."
+ },
+ {
+  "id": "1903103",
+  "serves_youth": "indirect",
+  "audience": [
+   "k12_students",
+   "teachers_educators",
+   "researchers"
+  ],
+  "grade_band": "middle",
+  "models": [
+   "research_only"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "school_day",
+  "youth_reach": 900,
+  "evaluation": "none_stated",
+  "service_geography": "multi_state",
+  "notes": "Developing and testing technology-supported physical science assessments for grades 6-8 in Florida and Wisconsin districts."
+ },
+ {
+  "id": "1904156",
+  "serves_youth": "indirect",
+  "audience": [
+   "teachers_educators",
+   "researchers"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "research_only"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "quasi_experimental",
+  "service_geography": "state_regional",
+  "notes": "Study of North Carolina school district recovery after hurricanes, comparing student outcomes by storm exposure."
+ },
+ {
+  "id": "1906084",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "families",
+   "general_public",
+   "teachers_educators"
+  ],
+  "grade_band": "mixed_ages",
+  "models": [
+   "exhibit_media",
+   "out_of_school_program",
+   "teacher_pd"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "rural",
+   "hispanic_latino",
+   "english_learners"
+  ],
+  "setting": "library",
+  "youth_reach": null,
+  "evaluation": "design_qualitative",
+  "service_geography": "unclear",
+  "notes": "Library-based STEAM exhibits, programs and kits for rural, largely Latinx communities; librarians trained; efficacy studied."
+ },
+ {
+  "id": "1906147",
+  "serves_youth": "none",
+  "audience": [
+   "undergraduates",
+   "teachers_educators"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "network_coalition",
+   "teacher_pd"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "disability"
+  ],
+  "setting": "museum_science_center",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "national",
+  "notes": "Making informal STEM sites accessible to people with disabilities via student interns, museology training and a community of practice."
+ },
+ {
+  "id": "1906172",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "families",
+   "general_public",
+   "teachers_educators"
+  ],
+  "grade_band": "mixed_ages",
+  "models": [
+   "exhibit_media",
+   "out_of_school_program",
+   "teacher_pd"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "rural",
+   "hispanic_latino",
+   "english_learners"
+  ],
+  "setting": "library",
+  "youth_reach": null,
+  "evaluation": "design_qualitative",
+  "service_geography": "unclear",
+  "notes": "Library-based STEAM exhibits, programs and kits for rural, largely Latinx communities; librarians trained; efficacy studied."
+ },
+ {
+  "id": "1906264",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students"
+  ],
+  "grade_band": "elementary",
+  "models": [
+   "school_curriculum"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "general"
+  ],
+  "setting": "school_day",
+  "youth_reach": 150,
+  "evaluation": "design_qualitative",
+  "service_geography": "multi_state",
+  "notes": "Fourth-grade activities building data literacy with real geoscience datasets; iterative design and classroom testing in Virginia and Maryland."
+ },
+ {
+  "id": "1906286",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students"
+  ],
+  "grade_band": "elementary",
+  "models": [
+   "school_curriculum"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "general"
+  ],
+  "setting": "school_day",
+  "youth_reach": 150,
+  "evaluation": "design_qualitative",
+  "service_geography": "multi_state",
+  "notes": "Fourth-grade activities building data literacy with real geoscience datasets; iterative design and classroom testing in Virginia and Maryland."
+ },
+ {
+  "id": "1906293",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "high",
+  "models": [
+   "school_curriculum"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "unspecified",
+  "service_geography": "unclear",
+  "notes": "Adapting a college chemistry curriculum for high school molecular-level reasoning, with teachers and chemists co-modifying materials."
+ },
+ {
+  "id": "1906320",
+  "serves_youth": "indirect",
+  "audience": [
+   "teachers_educators",
+   "general_public",
+   "researchers"
+  ],
+  "grade_band": "mixed_ages",
+  "models": [
+   "teacher_pd"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "museum_science_center",
+  "youth_reach": null,
+  "evaluation": "design_qualitative",
+  "service_geography": "unclear",
+  "notes": "Framework and training for museum floor staff on facilitating open-ended visitor STEM learning; design-based research."
+ },
+ {
+  "id": "1906321",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "families"
+  ],
+  "grade_band": "prek",
+  "models": [
+   "online_tool_game",
+   "exhibit_media"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "ai",
+  "targets": [
+   "general"
+  ],
+  "setting": "unclear",
+  "youth_reach": 120,
+  "evaluation": "quasi_experimental",
+  "service_geography": "unclear",
+  "notes": "Preschoolers talk with an AI character inside science videos; four-condition comparison of engagement and learning."
+ },
+ {
+  "id": "1906322",
+  "serves_youth": "indirect",
+  "audience": [
+   "teachers_educators",
+   "general_public",
+   "researchers"
+  ],
+  "grade_band": "mixed_ages",
+  "models": [
+   "teacher_pd"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "museum_science_center",
+  "youth_reach": null,
+  "evaluation": "design_qualitative",
+  "service_geography": "unclear",
+  "notes": "Framework and training for museum floor staff on facilitating open-ended visitor STEM learning; design-based research."
+ },
+ {
+  "id": "1906366",
+  "serves_youth": "none",
+  "audience": [
+   "undergraduates",
+   "general_public"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "research_apprenticeship",
+   "exhibit_media"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "unclear",
+  "youth_reach": null,
+  "evaluation": "pre_post",
+  "service_geography": "state_regional",
+  "notes": "Hurricane-affected college students study urban forest damage and build exhibits; resilience and science identity measured before and after."
+ },
+ {
+  "id": "1906368",
+  "serves_youth": "none",
+  "audience": [
+   "general_public",
+   "researchers"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "network_coalition",
+   "teacher_pd"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "rural"
+  ],
+  "setting": "community",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "state_regional",
+  "notes": "Museum-university network engaging rural western Pennsylvania adults in climate discussions with scientists; interviews and case studies."
+ },
+ {
+  "id": "1906396",
+  "serves_youth": "indirect",
+  "audience": [
+   "researchers",
+   "teachers_educators"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "research_only"
+  ],
+  "mentoring": "none",
+  "bridging": "unclear",
+  "ai_cs": "none",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "unclear",
+  "youth_reach": 2000,
+  "evaluation": "design_qualitative",
+  "service_geography": "unclear",
+  "notes": "Retrospective survey and interviews of adult alumni of six multi-year youth STEM programs about long-term effects."
+ },
+ {
+  "id": "1906408",
+  "serves_youth": "indirect",
+  "audience": [
+   "general_public",
+   "researchers"
+  ],
+  "grade_band": "mixed_ages",
+  "models": [
+   "teacher_pd",
+   "mentoring",
+   "exhibit_media"
+  ],
+  "mentoring": "component",
+  "bridging": "yes",
+  "ai_cs": "none",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "community",
+  "youth_reach": null,
+  "evaluation": "unspecified",
+  "service_geography": "unclear",
+  "notes": "Scaling training that prepares scientists to run STEM activities in non-traditional community venues; tests three training formats."
+ },
+ {
+  "id": "1906409",
+  "serves_youth": "direct",
+  "audience": [
+   "families",
+   "k12_students"
+  ],
+  "grade_band": "prek",
+  "models": [
+   "other"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "low_income",
+   "hispanic_latino"
+  ],
+  "setting": "home_family",
+  "youth_reach": null,
+  "evaluation": "design_qualitative",
+  "service_geography": "unclear",
+  "notes": "Bilingual Head Start family engineering challenges at home linked to informal STEM experiences; design-based and case-study research."
+ },
+ {
+  "id": "1906433",
+  "serves_youth": "direct",
+  "audience": [
+   "families",
+   "k12_students"
+  ],
+  "grade_band": "prek",
+  "models": [
+   "other"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "low_income",
+   "hispanic_latino"
+  ],
+  "setting": "home_family",
+  "youth_reach": null,
+  "evaluation": "design_qualitative",
+  "service_geography": "unclear",
+  "notes": "Bilingual Head Start family engineering challenges at home linked to informal STEM experiences; design-based and case-study research."
+ },
+ {
+  "id": "1906473",
+  "serves_youth": "none",
+  "audience": [
+   "general_public"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "other",
+   "network_coalition"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "low_income",
+   "rural"
+  ],
+  "setting": "community",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "local",
+  "notes": "Temporary community STEAM makerspaces in a poor rural Oklahoma county; research on community collaboration and role identity."
+ },
+ {
+  "id": "1906490",
+  "serves_youth": "indirect",
+  "audience": [
+   "teachers_educators",
+   "researchers",
+   "k12_students"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "research_only"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "after_school",
+  "youth_reach": null,
+  "evaluation": "design_qualitative",
+  "service_geography": "state_regional",
+  "notes": "Study of how continuous-improvement culture shapes quality of afterschool STEM across California's publicly funded sites."
+ },
+ {
+  "id": "1906512",
+  "serves_youth": "none",
+  "audience": [
+   "general_public",
+   "researchers"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "research_only"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "community",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "unclear",
+  "notes": "Adult citizen-science volunteers studied for place attachment and critical thinking; surveys and interviews."
+ },
+ {
+  "id": "1906556",
+  "serves_youth": "none",
+  "audience": [
+   "researchers",
+   "teachers_educators"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "research_only"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "museum_science_center",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "unclear",
+  "notes": "Literature synthesis on how informal STEM institutions address societal challenges through exhibits and programs."
+ },
+ {
+  "id": "1906565",
+  "serves_youth": "indirect",
+  "audience": [
+   "teachers_educators",
+   "k12_students",
+   "researchers"
+  ],
+  "grade_band": "elementary",
+  "models": [
+   "teacher_pd"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "quasi_experimental",
+  "service_geography": "local",
+  "notes": "Elementary math specialist coaching models in twelve Portland schools; quasi-experimental study of teacher practice and student achievement."
+ },
+ {
+  "id": "1906588",
+  "serves_youth": "indirect",
+  "audience": [
+   "teachers_educators",
+   "k12_students",
+   "researchers"
+  ],
+  "grade_band": "elementary",
+  "models": [
+   "teacher_pd"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "quasi_experimental",
+  "service_geography": "local",
+  "notes": "Elementary math specialist coaching models in twelve Portland schools; quasi-experimental study of teacher practice and student achievement."
+ }
+]

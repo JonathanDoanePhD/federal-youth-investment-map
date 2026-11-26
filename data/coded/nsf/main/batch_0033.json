@@ -1,0 +1,999 @@
+[
+ {
+  "id": "1837489",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "families",
+   "teachers_educators",
+   "undergraduates"
+  ],
+  "grade_band": "middle",
+  "models": [
+   "out_of_school_program",
+   "mentoring",
+   "teacher_pd",
+   "career_exposure"
+  ],
+  "mentoring": "central",
+  "bridging": "yes",
+  "ai_cs": "computing",
+  "targets": [
+   "underrepresented_general",
+   "urban"
+  ],
+  "setting": "after_school",
+  "youth_reach": null,
+  "evaluation": "pre_post",
+  "service_geography": "local",
+  "notes": "Saturday coding classes in Newark with near-peer mentors, parent night, teacher co-teaching and a community coding space."
+ },
+ {
+  "id": "1837541",
+  "serves_youth": "indirect",
+  "audience": [
+   "teachers_educators",
+   "undergraduates",
+   "k12_students"
+  ],
+  "grade_band": "high",
+  "models": [
+   "teacher_pd",
+   "school_curriculum"
+  ],
+  "mentoring": "component",
+  "bridging": "unclear",
+  "ai_cs": "computing",
+  "targets": [
+   "black",
+   "underrepresented_general"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "unspecified",
+  "service_geography": "local",
+  "notes": "HBCU computing majors assist Atlanta teachers learning an AP computer science principles course; outcomes studied."
+ },
+ {
+  "id": "1837543",
+  "serves_youth": "indirect",
+  "audience": [
+   "teachers_educators",
+   "families"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "research_only",
+   "network_coalition"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "rural",
+   "low_income",
+   "black"
+  ],
+  "setting": "unclear",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "state_regional",
+  "notes": "Research partnership to find why high-poverty Delta districts skip free statewide computer science offerings."
+ },
+ {
+  "id": "1837552",
+  "serves_youth": "indirect",
+  "audience": [
+   "teachers_educators",
+   "undergraduates",
+   "k12_students"
+  ],
+  "grade_band": "high",
+  "models": [
+   "teacher_pd",
+   "network_coalition"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "girls_women",
+   "underrepresented_general"
+  ],
+  "setting": "school_day",
+  "youth_reach": 5000,
+  "evaluation": "unspecified",
+  "service_geography": "local",
+  "notes": "San Francisco teacher summer course, monthly community of practice and undergraduate classroom assistants for inclusive high school computing."
+ },
+ {
+  "id": "1837577",
+  "serves_youth": "indirect",
+  "audience": [
+   "researchers",
+   "teachers_educators"
+  ],
+  "grade_band": "mixed_ages",
+  "models": [
+   "research_only",
+   "network_coalition"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "unclear",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "national",
+  "notes": "Pilot partnership studying barriers to geography and computational thinking courses from preK to college."
+ },
+ {
+  "id": "1837602",
+  "serves_youth": "indirect",
+  "audience": [
+   "teachers_educators",
+   "k12_students",
+   "researchers"
+  ],
+  "grade_band": "high",
+  "models": [
+   "network_coalition",
+   "teacher_pd"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "girls_women"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "design_qualitative",
+  "service_geography": "state_regional",
+  "notes": "Improvement network of Texas educators testing cycles of changes to raise girls enrollment and success in high school computing."
+ },
+ {
+  "id": "1837640",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "high",
+  "models": [
+   "school_curriculum",
+   "teacher_pd"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "black",
+   "low_income"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "local",
+  "notes": "Online AP computing taught with expert fellows and in-school facilitating teachers across Atlanta public high schools."
+ },
+ {
+  "id": "1837655",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "high",
+  "models": [
+   "school_curriculum",
+   "teacher_pd",
+   "network_coalition"
+  ],
+  "mentoring": "none",
+  "bridging": "unclear",
+  "ai_cs": "computing",
+  "targets": [
+   "hispanic_latino",
+   "girls_women",
+   "english_learners",
+   "low_income"
+  ],
+  "setting": "mixed",
+  "youth_reach": 140,
+  "evaluation": "unspecified",
+  "service_geography": "local",
+  "notes": "Cybersecurity pathway from high school to community college via dual enrollment in a majority-Latino district; students tracked."
+ },
+ {
+  "id": "1837661",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "out_of_school_program",
+   "school_curriculum",
+   "teacher_pd",
+   "online_tool_game"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "mixed",
+  "youth_reach": null,
+  "evaluation": "design_qualitative",
+  "service_geography": "local",
+  "notes": "Music and dance themed programming across schools, libraries, community centers and homes in Evanston, with notebook documentation."
+ },
+ {
+  "id": "1837687",
+  "serves_youth": "indirect",
+  "audience": [
+   "k12_students",
+   "teachers_educators",
+   "researchers"
+  ],
+  "grade_band": "high",
+  "models": [
+   "school_curriculum",
+   "teacher_pd",
+   "network_coalition"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "black",
+   "hispanic_latino",
+   "urban"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "design_qualitative",
+  "service_geography": "local",
+  "notes": "Design-based partnership with New York City districts to improve Black and Latino student participation in AP computing course."
+ },
+ {
+  "id": "1837699",
+  "serves_youth": "indirect",
+  "audience": [
+   "teachers_educators",
+   "undergraduates",
+   "k12_students"
+  ],
+  "grade_band": "high",
+  "models": [
+   "teacher_pd",
+   "network_coalition"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "girls_women",
+   "underrepresented_general"
+  ],
+  "setting": "school_day",
+  "youth_reach": 5000,
+  "evaluation": "unspecified",
+  "service_geography": "local",
+  "notes": "San Francisco teacher summer course, monthly community of practice and undergraduate classroom assistants for inclusive high school computing."
+ },
+ {
+  "id": "1837723",
+  "serves_youth": "indirect",
+  "audience": [
+   "teachers_educators",
+   "k12_students"
+  ],
+  "grade_band": "high",
+  "models": [
+   "teacher_pd",
+   "school_curriculum"
+  ],
+  "mentoring": "none",
+  "bridging": "unclear",
+  "ai_cs": "computing",
+  "targets": [
+   "girls_women",
+   "underrepresented_general",
+   "low_income",
+   "rural",
+   "urban"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "unspecified",
+  "service_geography": "multi_state",
+  "notes": "Teacher training to offer a computing principles course for college credit in Minnesota and Connecticut high schools."
+ },
+ {
+  "id": "1837780",
+  "serves_youth": "indirect",
+  "audience": [
+   "teachers_educators",
+   "k12_students"
+  ],
+  "grade_band": "high",
+  "models": [
+   "teacher_pd",
+   "network_coalition"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "low_income",
+   "hispanic_latino",
+   "black",
+   "native_indigenous",
+   "english_learners",
+   "disability"
+  ],
+  "setting": "school_day",
+  "youth_reach": 650000,
+  "evaluation": "unspecified",
+  "service_geography": "state_regional",
+  "notes": "California improvement network scaling teacher training and district leadership toolkits for equitable computing; potential reach of 650,000 students."
+ },
+ {
+  "id": "1837917",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "online_tool_game"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "disability"
+  ],
+  "setting": "unclear",
+  "youth_reach": null,
+  "evaluation": "design_qualitative",
+  "service_geography": "unclear",
+  "notes": "Virtual reality adaptive training helping autistic adolescents flexibly use representations while coding physics and math simulations."
+ },
+ {
+  "id": "1838815",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators",
+   "researchers"
+  ],
+  "grade_band": "high",
+  "models": [
+   "online_tool_game",
+   "summer_program",
+   "research_only"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "general"
+  ],
+  "setting": "mixed",
+  "youth_reach": null,
+  "evaluation": "design_qualitative",
+  "service_geography": "state_regional",
+  "notes": "Designing a web tool for physiological sensing and coding with Alabama Black Belt students, plus summer outreach."
+ },
+ {
+  "id": "1838916",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "families",
+   "teachers_educators"
+  ],
+  "grade_band": "middle",
+  "models": [
+   "out_of_school_program",
+   "network_coalition"
+  ],
+  "mentoring": "component",
+  "bridging": "unclear",
+  "ai_cs": "computing",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "after_school",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "local",
+  "notes": "Community hub with YMCA in Evanston for out-of-school computational making involving youth, parents and mentors."
+ },
+ {
+  "id": "1838992",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "researchers"
+  ],
+  "grade_band": "middle",
+  "models": [
+   "school_curriculum",
+   "research_only"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "general"
+  ],
+  "setting": "school_day",
+  "youth_reach": 1300,
+  "evaluation": "pre_post",
+  "service_geography": "unclear",
+  "notes": "Building assessments of computational thinking for science and following 1300 middle schoolers longitudinally in a science curriculum."
+ },
+ {
+  "id": "1839656",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "middle",
+  "models": [
+   "school_curriculum",
+   "teacher_pd",
+   "summer_program",
+   "career_exposure"
+  ],
+  "mentoring": "none",
+  "bridging": "yes",
+  "ai_cs": "computing",
+  "targets": [
+   "urban"
+  ],
+  "setting": "mixed",
+  "youth_reach": null,
+  "evaluation": "quasi_experimental",
+  "service_geography": "local",
+  "notes": "Harbor habitat restoration field science with data and computing units, teacher training, scientist engagement and summer institute."
+ },
+ {
+  "id": "1840644",
+  "serves_youth": "indirect",
+  "audience": [
+   "researchers",
+   "k12_students",
+   "undergraduates"
+  ],
+  "grade_band": "mixed_ages",
+  "models": [
+   "network_coalition",
+   "online_tool_game"
+  ],
+  "mentoring": "none",
+  "bridging": "unclear",
+  "ai_cs": "computing",
+  "targets": [
+   "girls_women"
+  ],
+  "setting": "online",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "national",
+  "notes": "Women in computing organization helps build online portal connecting computing researchers to broadening participation programs."
+ },
+ {
+  "id": "1840694",
+  "serves_youth": "indirect",
+  "audience": [
+   "teachers_educators"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "network_coalition"
+  ],
+  "mentoring": "none",
+  "bridging": "unclear",
+  "ai_cs": "computing",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "unclear",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "state_regional",
+  "notes": "Conference convening regional corporate, education and nonprofit partners to scale computing participation through collective impact."
+ },
+ {
+  "id": "1840722",
+  "serves_youth": "indirect",
+  "audience": [
+   "teachers_educators",
+   "researchers"
+  ],
+  "grade_band": "mixed_ages",
+  "models": [
+   "network_coalition"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "low_income",
+   "underrepresented_general",
+   "first_generation"
+  ],
+  "setting": "unclear",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "multi_state",
+  "notes": "Conference and follow-up support for state teams aligning high school and college mathematics pathways."
+ },
+ {
+  "id": "1840933",
+  "serves_youth": "indirect",
+  "audience": [
+   "researchers",
+   "teachers_educators",
+   "general_public"
+  ],
+  "grade_band": "mixed_ages",
+  "models": [
+   "network_coalition"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "general"
+  ],
+  "setting": "unclear",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "unclear",
+  "notes": "Workshop gathering educators and researchers to map computational thinking and synthetic biology teaching issues from K through college."
+ },
+ {
+  "id": "1841075",
+  "serves_youth": "none",
+  "audience": [
+   "researchers"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "research_only"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "unclear",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "unclear",
+  "notes": "Statistical methods for defining and judging replication studies; no youth involvement."
+ },
+ {
+  "id": "1841189",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "elementary",
+  "models": [
+   "school_curriculum",
+   "teacher_pd"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "general"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "quasi_experimental",
+  "service_geography": "unclear",
+  "notes": "Adding computational thinking to grade 1 and 4 science modules, with teacher supports and small comparison study."
+ },
+ {
+  "id": "1841271",
+  "serves_youth": "none",
+  "audience": [
+   "undergraduates",
+   "researchers"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "research_apprenticeship",
+   "network_coalition"
+  ],
+  "mentoring": "none",
+  "bridging": "yes",
+  "ai_cs": "computing",
+  "targets": [
+   "girls_women",
+   "underrepresented_general"
+  ],
+  "setting": "college_campus",
+  "youth_reach": null,
+  "evaluation": "unspecified",
+  "service_geography": "national",
+  "notes": "Expanding women-in-computing undergraduate research experience programs by recruiting more federally funded researchers as hosts."
+ },
+ {
+  "id": "1841687",
+  "serves_youth": "none",
+  "audience": [
+   "undergraduates",
+   "researchers"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "network_coalition"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "college_campus",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "national",
+  "notes": "National voluntary recognition system for colleges working toward equity and inclusion in STEM."
+ },
+ {
+  "id": "1841701",
+  "serves_youth": "indirect",
+  "audience": [
+   "teachers_educators",
+   "researchers",
+   "undergraduates",
+   "k12_students"
+  ],
+  "grade_band": "mixed_ages",
+  "models": [
+   "network_coalition"
+  ],
+  "mentoring": "none",
+  "bridging": "yes",
+  "ai_cs": "computing",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "mixed",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "state_regional",
+  "notes": "Massachusetts research network linking high school, college and industry to reduce attrition in computing and engineering pathways."
+ },
+ {
+  "id": "1841928",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "school_curriculum",
+   "online_tool_game"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "school_day",
+  "youth_reach": 800,
+  "evaluation": "quasi_experimental",
+  "service_geography": "unclear",
+  "notes": "Earth science geohazard units with a data visualization programming tool, tested with delayed cohorts of 800 students."
+ },
+ {
+  "id": "1841974",
+  "serves_youth": "none",
+  "audience": [
+   "general_public",
+   "researchers"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "network_coalition",
+   "exhibit_media"
+  ],
+  "mentoring": "none",
+  "bridging": "unclear",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "museum_science_center",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "multi_state",
+  "notes": "University and science center partnerships for designing public outreach about research, with partnership structures studied."
+ },
+ {
+  "id": "1842035",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "high",
+  "models": [
+   "online_tool_game",
+   "school_curriculum",
+   "teacher_pd"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "general"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "unspecified",
+  "service_geography": "unclear",
+  "notes": "Extending a free system modeling tool with curricula across high school sciences and teacher learning community."
+ },
+ {
+  "id": "1842037",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "high",
+  "models": [
+   "online_tool_game",
+   "school_curriculum",
+   "teacher_pd"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "general"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "unspecified",
+  "service_geography": "unclear",
+  "notes": "Extending a free system modeling tool with curricula across high school sciences and teacher learning community."
+ },
+ {
+  "id": "1842085",
+  "serves_youth": "indirect",
+  "audience": [
+   "k12_students"
+  ],
+  "grade_band": "high",
+  "models": [
+   "online_tool_game",
+   "school_curriculum"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "black",
+   "hispanic_latino",
+   "urban"
+  ],
+  "setting": "online",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "local",
+  "notes": "Starting an online Chicago computing course for credit recovery, including incarcerated and homeless students."
+ },
+ {
+  "id": "1842090",
+  "serves_youth": "direct",
+  "audience": [
+   "teachers_educators",
+   "k12_students"
+  ],
+  "grade_band": "high",
+  "models": [
+   "teacher_pd",
+   "school_curriculum",
+   "online_tool_game"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "general"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "design_qualitative",
+  "service_geography": "unclear",
+  "notes": "Teachers trained to weave computational thinking and self-regulated learning into science lessons using an electronic notebook."
+ },
+ {
+  "id": "1842116",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "elementary",
+  "models": [
+   "school_curriculum",
+   "research_only"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "general"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "unspecified",
+  "service_geography": "unclear",
+  "notes": "Creating kindergarten assessment and coding toy modules integrating computational thinking with mathematics problem solving."
+ },
+ {
+  "id": "1842188",
+  "serves_youth": "none",
+  "audience": [
+   "general_public",
+   "researchers"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "network_coalition"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "unclear",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "national",
+  "notes": "Travel support for practitioners from underrepresented groups to attend a citizen science conference."
+ },
+ {
+  "id": "1842220",
+  "serves_youth": "indirect",
+  "audience": [
+   "researchers"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "research_only"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "hispanic_latino"
+  ],
+  "setting": "after_school",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "unclear",
+  "notes": "Developing automated video analysis tools to code student participation in an after-school computing program."
+ },
+ {
+  "id": "1842272",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students"
+  ],
+  "grade_band": "middle",
+  "models": [
+   "out_of_school_program",
+   "online_tool_game"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "mixed",
+  "youth_reach": 400,
+  "evaluation": "design_qualitative",
+  "service_geography": "multi_state",
+  "notes": "Hip hop themed computational making for middle schoolers online and in community spaces across three cities."
+ },
+ {
+  "id": "1842278",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students"
+  ],
+  "grade_band": "middle",
+  "models": [
+   "out_of_school_program",
+   "online_tool_game"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "mixed",
+  "youth_reach": 400,
+  "evaluation": "design_qualitative",
+  "service_geography": "multi_state",
+  "notes": "Hip hop themed computational making for middle schoolers online and in community spaces across three cities."
+ },
+ {
+  "id": "1842342",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "high",
+  "models": [
+   "school_curriculum",
+   "teacher_pd"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "girls_women",
+   "underrepresented_general"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "pre_post",
+  "service_geography": "unclear",
+  "notes": "Digital invention kits teaching high schoolers computational thinking and industrial automation; teacher workshops and materials."
+ },
+ {
+  "id": "1842343",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "high",
+  "models": [
+   "school_curriculum",
+   "teacher_pd"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "girls_women",
+   "underrepresented_general"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "pre_post",
+  "service_geography": "unclear",
+  "notes": "Digital invention kits teaching high schoolers computational thinking and industrial automation; teacher workshops and materials."
+ }
+]

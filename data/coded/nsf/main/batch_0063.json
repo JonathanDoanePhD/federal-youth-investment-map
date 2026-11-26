@@ -1,0 +1,946 @@
+[
+ {
+  "id": "2247807",
+  "serves_youth": "direct",
+  "audience": [
+   "families"
+  ],
+  "grade_band": "prek",
+  "models": [
+   "research_only"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "mixed",
+  "youth_reach": null,
+  "evaluation": "unspecified",
+  "service_geography": "unclear",
+  "notes": "Experiments and longitudinal study of how parents taking over tasks affects preschoolers science persistence and later achievement"
+ },
+ {
+  "id": "2300118",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "school_curriculum",
+   "teacher_pd"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "english_learners"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "design_qualitative",
+  "service_geography": "local",
+  "notes": "Design-based development of a societal-challenge STEM unit, teacher training and measures in New York City schools, including multilingual learners"
+ },
+ {
+  "id": "2300233",
+  "serves_youth": "direct",
+  "audience": [
+   "families"
+  ],
+  "grade_band": "prek",
+  "models": [
+   "other"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "disability"
+  ],
+  "setting": "home_family",
+  "youth_reach": 80,
+  "evaluation": "unspecified",
+  "service_geography": "unclear",
+  "notes": "Co-designing and piloting a home math activity program for preschoolers with developmental delays and their caregivers"
+ },
+ {
+  "id": "2300291",
+  "serves_youth": "indirect",
+  "audience": [
+   "teachers_educators",
+   "researchers"
+  ],
+  "grade_band": "middle",
+  "models": [
+   "research_only"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "ai",
+  "targets": [
+   "general"
+  ],
+  "setting": "unclear",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "unclear",
+  "notes": "Using machine learning plus human coding to measure quality of online middle-grades math lesson plans"
+ },
+ {
+  "id": "2300322",
+  "serves_youth": "indirect",
+  "audience": [
+   "teachers_educators"
+  ],
+  "grade_band": "elementary",
+  "models": [
+   "teacher_pd",
+   "school_curriculum"
+  ],
+  "mentoring": "component",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "rural",
+   "underrepresented_general"
+  ],
+  "setting": "school_day",
+  "youth_reach": 12000,
+  "evaluation": "none_stated",
+  "service_geography": "multi_state",
+  "notes": "Multi-year teacher training with peer mentorship for weaving computational thinking into elementary lessons; rural South Carolina focus, virtual national PD"
+ },
+ {
+  "id": "2300323",
+  "serves_youth": "indirect",
+  "audience": [
+   "teachers_educators"
+  ],
+  "grade_band": "elementary",
+  "models": [
+   "teacher_pd",
+   "school_curriculum"
+  ],
+  "mentoring": "component",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "rural",
+   "underrepresented_general"
+  ],
+  "setting": "school_day",
+  "youth_reach": 12000,
+  "evaluation": "none_stated",
+  "service_geography": "multi_state",
+  "notes": "Multi-year teacher training with peer mentorship for weaving computational thinking into elementary lessons; rural South Carolina focus, virtual national PD"
+ },
+ {
+  "id": "2300357",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "elementary",
+  "models": [
+   "school_curriculum"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "general"
+  ],
+  "setting": "school_day",
+  "youth_reach": 300,
+  "evaluation": "pre_post",
+  "service_geography": "state_regional",
+  "notes": "Design-based research building a math-integrated coding curriculum and learning progression for first and second graders"
+ },
+ {
+  "id": "2300404",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students"
+  ],
+  "grade_band": "middle",
+  "models": [
+   "school_curriculum"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "disability"
+  ],
+  "setting": "school_day",
+  "youth_reach": 70,
+  "evaluation": "rct",
+  "service_geography": "unclear",
+  "notes": "Developing and randomized testing of a supplemental algebra-variable intervention for eighth graders struggling in math"
+ },
+ {
+  "id": "2300433",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "middle",
+  "models": [
+   "school_curriculum",
+   "teacher_pd"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "general"
+  ],
+  "setting": "school_day",
+  "youth_reach": 1000,
+  "evaluation": "unspecified",
+  "service_geography": "multi_state",
+  "notes": "Teacher development and modular biomimicry STEM units with twenty middle school teachers in three states"
+ },
+ {
+  "id": "2300444",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students"
+  ],
+  "grade_band": "middle",
+  "models": [
+   "online_tool_game",
+   "school_curriculum"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "english_learners",
+   "underrepresented_general"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "rct",
+  "service_geography": "unclear",
+  "notes": "Cluster randomized trial of a collaborative game-based seventh-grade math intervention, attention to English learners"
+ },
+ {
+  "id": "2300490",
+  "serves_youth": "indirect",
+  "audience": [
+   "researchers",
+   "families",
+   "teachers_educators"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "research_only"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "unclear",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "unclear",
+  "notes": "Systematic review and meta-analysis of family engagement interventions and student STEM outcomes"
+ },
+ {
+  "id": "2300532",
+  "serves_youth": "indirect",
+  "audience": [
+   "teachers_educators"
+  ],
+  "grade_band": "middle",
+  "models": [
+   "teacher_pd",
+   "network_coalition"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "rural"
+  ],
+  "setting": "school_day",
+  "youth_reach": 20000,
+  "evaluation": "rct",
+  "service_geography": "state_regional",
+  "notes": "Statewide Idaho teacher alliance randomizing rural math teachers to two professional development formats"
+ },
+ {
+  "id": "2300544",
+  "serves_youth": "indirect",
+  "audience": [
+   "researchers",
+   "teachers_educators"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "research_only"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "unclear",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "unclear",
+  "notes": "Meta-analysis linking teacher professional learning features to teacher practice and student outcomes in math and science"
+ },
+ {
+  "id": "2300555",
+  "serves_youth": "indirect",
+  "audience": [
+   "teachers_educators"
+  ],
+  "grade_band": "high",
+  "models": [
+   "teacher_pd",
+   "school_curriculum"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "low_income",
+   "underrepresented_general",
+   "rural",
+   "urban"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "state_regional",
+  "notes": "Co-designing climate science and history materials and training for seventy California high school teachers"
+ },
+ {
+  "id": "2300556",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "high",
+  "models": [
+   "school_curriculum"
+  ],
+  "mentoring": "none",
+  "bridging": "unclear",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "school_day",
+  "youth_reach": 100,
+  "evaluation": "pre_post",
+  "service_geography": "local",
+  "notes": "Co-designed environmental engineering unit on Santa Ana River flooding, tested with about one hundred Orange County students"
+ },
+ {
+  "id": "2300558",
+  "serves_youth": "indirect",
+  "audience": [
+   "teachers_educators"
+  ],
+  "grade_band": "elementary",
+  "models": [
+   "teacher_pd",
+   "school_curriculum"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "school_day",
+  "youth_reach": 1700,
+  "evaluation": "design_qualitative",
+  "service_geography": "unclear",
+  "notes": "Case studies of how elementary teachers adapt a marine science curriculum over repeated uses"
+ },
+ {
+  "id": "2300606",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "prek",
+  "models": [
+   "online_tool_game",
+   "school_curriculum",
+   "teacher_pd"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "quasi_experimental",
+  "service_geography": "unclear",
+  "notes": "Developing and testing a digital early math games and teacher guidance toolset based on learning trajectories"
+ },
+ {
+  "id": "2300607",
+  "serves_youth": "indirect",
+  "audience": [
+   "teachers_educators"
+  ],
+  "grade_band": "high",
+  "models": [
+   "teacher_pd",
+   "network_coalition"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "girls_women",
+   "underrepresented_general"
+  ],
+  "setting": "school_day",
+  "youth_reach": 10000,
+  "evaluation": "quasi_experimental",
+  "service_geography": "national",
+  "notes": "Teacher training on inclusive physics classroom practices, tested against control groups, then scaled via national teacher network"
+ },
+ {
+  "id": "2300608",
+  "serves_youth": "indirect",
+  "audience": [
+   "teachers_educators"
+  ],
+  "grade_band": "high",
+  "models": [
+   "teacher_pd",
+   "network_coalition"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "girls_women",
+   "underrepresented_general"
+  ],
+  "setting": "school_day",
+  "youth_reach": 10000,
+  "evaluation": "quasi_experimental",
+  "service_geography": "national",
+  "notes": "Teacher training on inclusive physics classroom practices, tested against control groups, then scaled via national teacher network"
+ },
+ {
+  "id": "2300609",
+  "serves_youth": "indirect",
+  "audience": [
+   "teachers_educators"
+  ],
+  "grade_band": "high",
+  "models": [
+   "teacher_pd",
+   "network_coalition"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "girls_women",
+   "underrepresented_general"
+  ],
+  "setting": "school_day",
+  "youth_reach": 10000,
+  "evaluation": "quasi_experimental",
+  "service_geography": "national",
+  "notes": "Teacher training on inclusive physics classroom practices, tested against control groups, then scaled via national teacher network"
+ },
+ {
+  "id": "2300618",
+  "serves_youth": "indirect",
+  "audience": [
+   "teachers_educators",
+   "researchers"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "teacher_pd",
+   "network_coalition"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "unclear",
+  "notes": "Learning community linking teachers, STEM coaches and researchers to adapt research-based practices and write practice briefs"
+ },
+ {
+  "id": "2300619",
+  "serves_youth": "indirect",
+  "audience": [
+   "teachers_educators",
+   "researchers"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "teacher_pd",
+   "network_coalition"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "unclear",
+  "notes": "Learning community linking teachers, STEM coaches and researchers to adapt research-based practices and write practice briefs"
+ },
+ {
+  "id": "2300631",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "families",
+   "teachers_educators"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "online_tool_game",
+   "teacher_pd"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "disability"
+  ],
+  "setting": "mixed",
+  "youth_reach": null,
+  "evaluation": "pre_post",
+  "service_geography": "national",
+  "notes": "Co-designing an accessible music-coding platform for blind and visually impaired youth aged twelve to seventeen, with teacher training"
+ },
+ {
+  "id": "2300632",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "families",
+   "teachers_educators"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "online_tool_game",
+   "teacher_pd"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "disability"
+  ],
+  "setting": "mixed",
+  "youth_reach": null,
+  "evaluation": "pre_post",
+  "service_geography": "national",
+  "notes": "Co-designing an accessible music-coding platform for blind and visually impaired youth aged twelve to seventeen, with teacher training"
+ },
+ {
+  "id": "2300633",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "families",
+   "teachers_educators"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "online_tool_game",
+   "teacher_pd"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "disability"
+  ],
+  "setting": "mixed",
+  "youth_reach": null,
+  "evaluation": "pre_post",
+  "service_geography": "national",
+  "notes": "Co-designing an accessible music-coding platform for blind and visually impaired youth aged twelve to seventeen, with teacher training"
+ },
+ {
+  "id": "2300665",
+  "serves_youth": "none",
+  "audience": [
+   "teachers_educators",
+   "researchers"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "mentoring",
+   "teacher_pd"
+  ],
+  "mentoring": "central",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "mixed",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "unclear",
+  "notes": "Training mentor teachers to reason aloud with novice teachers about responsive math teaching; mentoring here is of adult teachers"
+ },
+ {
+  "id": "2300666",
+  "serves_youth": "none",
+  "audience": [
+   "teachers_educators",
+   "researchers"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "mentoring",
+   "teacher_pd"
+  ],
+  "mentoring": "central",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "mixed",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "unclear",
+  "notes": "Training mentor teachers to reason aloud with novice teachers about responsive math teaching; mentoring here is of adult teachers"
+ },
+ {
+  "id": "2300667",
+  "serves_youth": "none",
+  "audience": [
+   "teachers_educators",
+   "researchers"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "mentoring",
+   "teacher_pd"
+  ],
+  "mentoring": "central",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "mixed",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "unclear",
+  "notes": "Training mentor teachers to reason aloud with novice teachers about responsive math teaching; mentoring here is of adult teachers"
+ },
+ {
+  "id": "2300676",
+  "serves_youth": "indirect",
+  "audience": [
+   "teachers_educators"
+  ],
+  "grade_band": "prek",
+  "models": [
+   "teacher_pd"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "rural"
+  ],
+  "setting": "community",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "unclear",
+  "notes": "Science content and reflective practice training for rural early childhood educators to boost science talk with young children"
+ },
+ {
+  "id": "2300689",
+  "serves_youth": "indirect",
+  "audience": [
+   "teachers_educators"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "teacher_pd",
+   "school_curriculum"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "unclear",
+  "notes": "Two-year lesson study with geometry teachers in high-need schools to build human-centered design lessons"
+ },
+ {
+  "id": "2300726",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "middle",
+  "models": [
+   "school_curriculum",
+   "teacher_pd"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "school_day",
+  "youth_reach": 920,
+  "evaluation": "design_qualitative",
+  "service_geography": "unclear",
+  "notes": "Sixth-grade weather engineering unit built around technical journalism, studied through design-based research cycles with seven teachers"
+ },
+ {
+  "id": "2300734",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "elementary",
+  "models": [
+   "online_tool_game",
+   "school_curriculum",
+   "teacher_pd"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "ai",
+  "targets": [
+   "general"
+  ],
+  "setting": "school_day",
+  "youth_reach": 3000,
+  "evaluation": "quasi_experimental",
+  "service_geography": "unclear",
+  "notes": "AI-driven mixed-reality science stations with lessons for kindergarten to fourth grade, compared against usual classroom instruction"
+ },
+ {
+  "id": "2300738",
+  "serves_youth": "indirect",
+  "audience": [
+   "researchers"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "research_only"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "unclear",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "unclear",
+  "notes": "Meta-analysis of links among teacher support, student engagement and math achievement"
+ },
+ {
+  "id": "2300743",
+  "serves_youth": "indirect",
+  "audience": [
+   "teachers_educators"
+  ],
+  "grade_band": "high",
+  "models": [
+   "teacher_pd",
+   "school_curriculum"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "school_day",
+  "youth_reach": 2250,
+  "evaluation": "design_qualitative",
+  "service_geography": "state_regional",
+  "notes": "Co-design teams adapt high school science units to be community-oriented in two Illinois districts, compared as cases"
+ },
+ {
+  "id": "2300747",
+  "serves_youth": "indirect",
+  "audience": [
+   "teachers_educators",
+   "k12_students"
+  ],
+  "grade_band": "middle",
+  "models": [
+   "teacher_pd",
+   "school_curriculum",
+   "career_exposure"
+  ],
+  "mentoring": "none",
+  "bridging": "yes",
+  "ai_cs": "none",
+  "targets": [
+   "rural"
+  ],
+  "setting": "school_day",
+  "youth_reach": 6000,
+  "evaluation": "unspecified",
+  "service_geography": "unclear",
+  "notes": "Rural teachers and counselors co-build place-based STEM units with local careers and community partners for middle schoolers"
+ },
+ {
+  "id": "2300766",
+  "serves_youth": "indirect",
+  "audience": [
+   "teachers_educators"
+  ],
+  "grade_band": "elementary",
+  "models": [
+   "teacher_pd"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "english_learners"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "design_qualitative",
+  "service_geography": "unclear",
+  "notes": "Professional learning community helping eighteen elementary teachers build language-inclusive engineering teaching for multilingual students"
+ },
+ {
+  "id": "2300785",
+  "serves_youth": "none",
+  "audience": [
+   "undergraduates",
+   "researchers"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "research_only"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "college_campus",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "unclear",
+  "notes": "Brain, eye-tracking and training studies of mental rotation and spatial reasoning transfer to introductory chemistry"
+ },
+ {
+  "id": "2300827",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "middle",
+  "models": [
+   "online_tool_game"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "ai",
+  "targets": [
+   "general"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "unspecified",
+  "service_geography": "unclear",
+  "notes": "Web app using machine learning to form peer groups and give real-time support for middle school math collaboration"
+ },
+ {
+  "id": "2300828",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "middle",
+  "models": [
+   "online_tool_game"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "ai",
+  "targets": [
+   "general"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "unspecified",
+  "service_geography": "unclear",
+  "notes": "Web app using machine learning to form peer groups and give real-time support for middle school math collaboration"
+ },
+ {
+  "id": "2300829",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "middle",
+  "models": [
+   "online_tool_game"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "ai",
+  "targets": [
+   "general"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "unspecified",
+  "service_geography": "unclear",
+  "notes": "Web app using machine learning to form peer groups and give real-time support for middle school math collaboration"
+ }
+]

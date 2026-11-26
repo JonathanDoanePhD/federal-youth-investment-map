@@ -1,0 +1,950 @@
+[
+ {
+  "id": "2013116",
+  "serves_youth": "indirect",
+  "audience": [
+   "teachers_educators",
+   "researchers"
+  ],
+  "grade_band": "mixed_ages",
+  "models": [
+   "network_coalition"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "unclear",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "national",
+  "notes": "Planning workshop and working groups of math educators building a shared strategy for underrepresented learners."
+ },
+ {
+  "id": "2013127",
+  "serves_youth": "none",
+  "audience": [
+   "researchers",
+   "teachers_educators"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "network_coalition"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "unclear",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "national",
+  "notes": "Planning an alliance to build inclusive leadership among geoscience faculty, with a backbone organization."
+ },
+ {
+  "id": "2013234",
+  "serves_youth": "indirect",
+  "audience": [
+   "teachers_educators",
+   "general_public"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "network_coalition"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "low_income",
+   "underrepresented_general"
+  ],
+  "setting": "unclear",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "state_regional",
+  "notes": "Statewide STEM education strategic planning and needs assessments across Idaho regions, led by a coalition."
+ },
+ {
+  "id": "2013314",
+  "serves_youth": "none",
+  "audience": [
+   "researchers"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "network_coalition"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "unclear",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "national",
+  "notes": "Workshop of experts to set priorities for mid-scale infrastructure supporting STEM education research."
+ },
+ {
+  "id": "2015205",
+  "serves_youth": "indirect",
+  "audience": [
+   "teachers_educators"
+  ],
+  "grade_band": "high",
+  "models": [
+   "teacher_pd",
+   "school_curriculum",
+   "network_coalition"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "unspecified",
+  "service_geography": "national",
+  "notes": "Summer workshops and teacher community developing high school quantum information curricula, plus stakeholder conference."
+ },
+ {
+  "id": "2016241",
+  "serves_youth": "indirect",
+  "audience": [
+   "teachers_educators",
+   "researchers"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "network_coalition"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "unclear",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "national",
+  "notes": "Funds US teacher practitioners to attend a brain, mind and education research conference."
+ },
+ {
+  "id": "2016442",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "middle",
+  "models": [
+   "mentoring",
+   "teacher_pd",
+   "network_coalition"
+  ],
+  "mentoring": "component",
+  "bridging": "unclear",
+  "ai_cs": "none",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "unclear",
+  "youth_reach": null,
+  "evaluation": "unspecified",
+  "service_geography": "multi_state",
+  "notes": "HBCU-led network improving middle school minority males STEM pathways via instruction, mentoring, and teacher development."
+ },
+ {
+  "id": "2016580",
+  "serves_youth": "indirect",
+  "audience": [
+   "k12_students"
+  ],
+  "grade_band": "high",
+  "models": [
+   "research_only"
+  ],
+  "mentoring": "component",
+  "bridging": "unclear",
+  "ai_cs": "computing",
+  "targets": [
+   "general"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "quasi_experimental",
+  "service_geography": "unclear",
+  "notes": "Studies IT career academies at varying implementation fidelity, comparing students with non-academy peers using existing data."
+ },
+ {
+  "id": "2016707",
+  "serves_youth": "direct",
+  "audience": [
+   "out_of_school_youth",
+   "researchers",
+   "teachers_educators"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "research_only",
+   "network_coalition"
+  ],
+  "mentoring": "none",
+  "bridging": "unclear",
+  "ai_cs": "none",
+  "targets": [
+   "underrepresented_general",
+   "urban"
+  ],
+  "setting": "mixed",
+  "youth_reach": null,
+  "evaluation": "design_qualitative",
+  "service_geography": "multi_state",
+  "notes": "US-UK research-practice partnerships studying equitable informal STEM pathways for underrepresented youth in four cities."
+ },
+ {
+  "id": "2017000",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students"
+  ],
+  "grade_band": "middle",
+  "models": [
+   "online_tool_game",
+   "research_only"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "ai",
+  "targets": [
+   "general"
+  ],
+  "setting": "unclear",
+  "youth_reach": null,
+  "evaluation": "unspecified",
+  "service_geography": "unclear",
+  "notes": "Analyzes middle schoolers learning behaviors in a computational modeling environment with an AI peer agent."
+ },
+ {
+  "id": "2017042",
+  "serves_youth": "indirect",
+  "audience": [],
+  "grade_band": "not_applicable",
+  "models": [
+   "online_tool_game"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "girls_women",
+   "underrepresented_general"
+  ],
+  "setting": "unclear",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "unclear",
+  "notes": "Builds augmented reality headset platform for pair programming aimed at less confident, underrepresented learners."
+ },
+ {
+  "id": "2017280",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "undergraduates"
+  ],
+  "grade_band": "mixed_ages",
+  "models": [
+   "research_only"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "disability",
+   "low_income"
+  ],
+  "setting": "online",
+  "youth_reach": null,
+  "evaluation": "pre_post",
+  "service_geography": "unclear",
+  "notes": "Experiments testing whether gesture in online math lessons helps hearing and deaf children and adults."
+ },
+ {
+  "id": "2021159",
+  "serves_youth": "none",
+  "audience": [
+   "researchers",
+   "teachers_educators"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "network_coalition"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "ai",
+  "targets": [
+   "general"
+  ],
+  "setting": "unclear",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "national",
+  "notes": "Hub connecting learning technology researchers, with convenings, syntheses and AI capacity-building for early-career scholars."
+ },
+ {
+  "id": "2021180",
+  "serves_youth": "direct",
+  "audience": [
+   "teachers_educators",
+   "k12_students"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "teacher_pd",
+   "school_curriculum"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "general"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "unspecified",
+  "service_geography": "unclear",
+  "notes": "Teacher professional development on computational making in math and science classes, with students co-making later."
+ },
+ {
+  "id": "2021587",
+  "serves_youth": "direct",
+  "audience": [
+   "out_of_school_youth",
+   "researchers",
+   "teachers_educators"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "research_only"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "low_income",
+   "black",
+   "underrepresented_general"
+  ],
+  "setting": "community",
+  "youth_reach": null,
+  "evaluation": "design_qualitative",
+  "service_geography": "multi_state",
+  "notes": "Ethnographic study of youth in makerspaces serving marginalized communities to define equitable making."
+ },
+ {
+  "id": "2022023",
+  "serves_youth": "none",
+  "audience": [
+   "researchers"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "other"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "ai",
+  "targets": [
+   "general"
+  ],
+  "setting": "college_campus",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "unclear",
+  "notes": "Graduate traineeship training students in AI-enabled molecular engineering with national lab and industry co-advising."
+ },
+ {
+  "id": "2022502",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students"
+  ],
+  "grade_band": "middle",
+  "models": [
+   "out_of_school_program",
+   "research_only"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "ai",
+  "targets": [
+   "hispanic_latino",
+   "black",
+   "underrepresented_general"
+  ],
+  "setting": "unclear",
+  "youth_reach": null,
+  "evaluation": "unspecified",
+  "service_geography": "unclear",
+  "notes": "Develops and tests an AI literacy curriculum and surveys for middle schoolers in informal settings."
+ },
+ {
+  "id": "2023088",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "high",
+  "models": [
+   "school_curriculum"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "pre_post",
+  "service_geography": "unclear",
+  "notes": "Teachers and researchers build and test an epidemic modeling unit in four diverse high schools."
+ },
+ {
+  "id": "2024933",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "families",
+   "teachers_educators"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "school_curriculum",
+   "other"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "disability"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "design_qualitative",
+  "service_geography": "unclear",
+  "notes": "Case studies of telepresence robots helping medically homebound children join school and learn."
+ },
+ {
+  "id": "2024953",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "families",
+   "teachers_educators"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "school_curriculum",
+   "other"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "disability"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "design_qualitative",
+  "service_geography": "unclear",
+  "notes": "Companion case studies of robot-enabled school participation for homebound children, co-designing accessible controls."
+ },
+ {
+  "id": "2025064",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "undergraduates",
+   "researchers",
+   "general_public"
+  ],
+  "grade_band": "mixed_ages",
+  "models": [
+   "online_tool_game",
+   "network_coalition",
+   "other"
+  ],
+  "mentoring": "none",
+  "bridging": "unclear",
+  "ai_cs": "none",
+  "targets": [
+   "underrepresented_general",
+   "rural"
+  ],
+  "setting": "mixed",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "national",
+  "notes": "University nanotechnology user facility network adding outreach, online course, and community college internships."
+ },
+ {
+  "id": "2025743",
+  "serves_youth": "none",
+  "audience": [
+   "researchers",
+   "general_public"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "research_only",
+   "network_coalition"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "native_indigenous"
+  ],
+  "setting": "unclear",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "unclear",
+  "notes": "Workshops producing ethics guidelines for three-dimensional digitization of Indigenous cultural heritage."
+ },
+ {
+  "id": "2025744",
+  "serves_youth": "none",
+  "audience": [
+   "researchers",
+   "general_public"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "research_only",
+   "network_coalition"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "native_indigenous"
+  ],
+  "setting": "unclear",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "unclear",
+  "notes": "Collaborative partner award developing responsible-research guidance for digitizing Indigenous heritage with tribal and museum partners."
+ },
+ {
+  "id": "2026722",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students"
+  ],
+  "grade_band": "elementary",
+  "models": [
+   "online_tool_game",
+   "research_only"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "unspecified",
+  "service_geography": "unclear",
+  "notes": "Tests phone-based augmented reality embodied math games with intelligent hints in public elementary schools."
+ },
+ {
+  "id": "2027260",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "high",
+  "models": [
+   "school_curriculum",
+   "online_tool_game"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "general"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "unclear",
+  "notes": "Pilot of space station data portal and data literacy lessons in high school computer science."
+ },
+ {
+  "id": "2027368",
+  "serves_youth": "direct",
+  "audience": [
+   "families",
+   "k12_students"
+  ],
+  "grade_band": "elementary",
+  "models": [
+   "exhibit_media",
+   "career_exposure",
+   "network_coalition"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "home_family",
+  "youth_reach": null,
+  "evaluation": "design_qualitative",
+  "service_geography": "national",
+  "notes": "Livestreamed at-home STEM activities for families during school closures, studied with design-based research."
+ },
+ {
+  "id": "2027376",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "high",
+  "models": [
+   "school_curriculum",
+   "teacher_pd"
+  ],
+  "mentoring": "component",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "design_qualitative",
+  "service_geography": "multi_state",
+  "notes": "Design-based testing of student-built evidence-model diagrams in high school earth science, with teacher institutes."
+ },
+ {
+  "id": "2027397",
+  "serves_youth": "indirect",
+  "audience": [
+   "teachers_educators"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "research_only"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "national",
+  "notes": "National teacher survey and interviews on how science teachers addressed COVID-19 in instruction."
+ },
+ {
+  "id": "2027470",
+  "serves_youth": "indirect",
+  "audience": [
+   "families"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "exhibit_media"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "low_income",
+   "hispanic_latino"
+  ],
+  "setting": "home_family",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "national",
+  "notes": "Television news videos with parenting guidance for low-income Latino families, informed by social media text analysis."
+ },
+ {
+  "id": "2027939",
+  "serves_youth": "none",
+  "audience": [
+   "general_public"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "exhibit_media",
+   "research_only"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "unclear",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "national",
+  "notes": "Broadcast segments on pandemic science research plus adult survey of news consumption and attitudes."
+ },
+ {
+  "id": "2027948",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "middle",
+  "models": [
+   "school_curriculum",
+   "teacher_pd"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "low_income",
+   "underrepresented_general"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "unspecified",
+  "service_geography": "unclear",
+  "notes": "Co-developing a Unity game design computer science curriculum with teachers in underserved middle schools."
+ },
+ {
+  "id": "2028026",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "middle",
+  "models": [
+   "exhibit_media",
+   "school_curriculum"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "online",
+  "youth_reach": null,
+  "evaluation": "unspecified",
+  "service_geography": "national",
+  "notes": "Illustrated stories and online materials teaching middle schoolers virus biology, with online surveys of impact."
+ },
+ {
+  "id": "2028370",
+  "serves_youth": "none",
+  "audience": [
+   "general_public",
+   "families"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "research_only"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "low_income"
+  ],
+  "setting": "unclear",
+  "youth_reach": null,
+  "evaluation": "design_qualitative",
+  "service_geography": "multi_state",
+  "notes": "Interview-based study of how sixty adults in two cities learn pandemic science over a year."
+ },
+ {
+  "id": "2028469",
+  "serves_youth": "none",
+  "audience": [
+   "general_public"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "exhibit_media",
+   "research_only"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "online",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "national",
+  "notes": "Public media coverage and audience research on engaging younger adults with pandemic science news."
+ },
+ {
+  "id": "2028473",
+  "serves_youth": "none",
+  "audience": [
+   "general_public"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "exhibit_media",
+   "research_only"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "online",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "national",
+  "notes": "Partner university building and validating a pandemic knowledge assessment alongside media audience research."
+ },
+ {
+  "id": "2029209",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "families"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "exhibit_media"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "home_family",
+  "youth_reach": null,
+  "evaluation": "unspecified",
+  "service_geography": "national",
+  "notes": "Children science podcast episodes on the pandemic, with listener family surveys on understanding and anxiety."
+ },
+ {
+  "id": "2029256",
+  "serves_youth": "indirect",
+  "audience": [
+   "undergraduates",
+   "researchers"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "research_only"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "girls_women",
+   "underrepresented_general"
+  ],
+  "setting": "unclear",
+  "youth_reach": null,
+  "evaluation": "quasi_experimental",
+  "service_geography": "national",
+  "notes": "Retrospective survey of freshmen linking earlier computing experiences to attitudes and career interest, adjusted for background."
+ },
+ {
+  "id": "2029956",
+  "serves_youth": "indirect",
+  "audience": [
+   "researchers",
+   "teachers_educators"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "network_coalition"
+  ],
+  "mentoring": "component",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "unclear",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "national",
+  "notes": "Working conference building shared equity-in-science-education materials and a mentoring network for scholars."
+ },
+ {
+  "id": "2030436",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "researchers"
+  ],
+  "grade_band": "high",
+  "models": [
+   "research_only"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "mixed",
+  "youth_reach": 2500000,
+  "evaluation": "none_stated",
+  "service_geography": "national",
+  "notes": "National data analysis of high schoolers STEM experiences and learning loss during pandemic closures."
+ },
+ {
+  "id": "2030441",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "middle",
+  "models": [
+   "online_tool_game",
+   "research_only"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "mixed",
+  "youth_reach": 250,
+  "evaluation": "design_qualitative",
+  "service_geography": "unclear",
+  "notes": "Develops robotic teachable agents and mixed reality tools for middle school geometry, piloted iteratively."
+ }
+]

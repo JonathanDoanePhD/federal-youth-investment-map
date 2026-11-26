@@ -1,0 +1,502 @@
+[
+ {
+  "id": "ASST_NON_2018JUFX0021_015",
+  "org_scope": "local",
+  "targets": [
+   "at_risk_general"
+  ],
+  "format": "unclear",
+  "purpose": "delinquency_prevention",
+  "notes": "Education compact's Project HERO; no description provided."
+ },
+ {
+  "id": "ASST_NON_2018JUFX0022_015",
+  "org_scope": "state_regional",
+  "targets": [
+   "general"
+  ],
+  "format": "unclear",
+  "purpose": "youth_development",
+  "notes": "State agency Indiana mentoring opportunities for youth; no abstract."
+ },
+ {
+  "id": "ASST_NON_2018JUFX0023_015",
+  "org_scope": "national_multisite",
+  "targets": [
+   "opioid_substance_affected"
+  ],
+  "format": "unclear",
+  "purpose": "youth_development",
+  "notes": "National Big Brothers Big Sisters program for youth impacted by opioids."
+ },
+ {
+  "id": "ASST_NON_2018JUFX0024_015",
+  "org_scope": "national_multisite",
+  "targets": [
+   "opioid_substance_affected"
+  ],
+  "format": "unclear",
+  "purpose": "delinquency_prevention",
+  "notes": "National Boys & Girls Clubs mentoring aimed at opioid abuse prevention."
+ },
+ {
+  "id": "ASST_NON_2018JUFX0025_015",
+  "org_scope": "local",
+  "targets": [
+   "general"
+  ],
+  "format": "unclear",
+  "purpose": "academic",
+  "notes": "STEM mentoring program from a research foundation in Connecticut."
+ },
+ {
+  "id": "ASST_NON_2018JUFX0026_015",
+  "org_scope": "local",
+  "targets": [
+   "general"
+  ],
+  "format": "unclear",
+  "purpose": "youth_development",
+  "notes": "Local Big Brothers Big Sisters mentoring in central Georgia; 'change' unspecified."
+ },
+ {
+  "id": "ASST_NON_2018JUFX0027_015",
+  "org_scope": "local",
+  "targets": [
+   "opioid_substance_affected"
+  ],
+  "format": "unclear",
+  "purpose": "youth_development",
+  "notes": "Mentoring strategies for youth impacted by opioids, Pennsylvania training services organization."
+ },
+ {
+  "id": "ASST_NON_2018JUFX0028_015",
+  "org_scope": "local",
+  "targets": [
+   "general"
+  ],
+  "format": "unclear",
+  "purpose": "unclear",
+  "notes": "South Bronx community connections program; target and method unstated."
+ },
+ {
+  "id": "ASST_NON_2018JUFX0029_015",
+  "org_scope": "local",
+  "targets": [
+   "general"
+  ],
+  "format": "unclear",
+  "purpose": "youth_development",
+  "notes": "Goodwill-run youth mentoring program in South Carolina."
+ },
+ {
+  "id": "ASST_NON_2018JUFX0030_015",
+  "org_scope": "local",
+  "targets": [
+   "opioid_substance_affected"
+  ],
+  "format": "unclear",
+  "purpose": "youth_development",
+  "notes": "Rural opioid family mentoring program in Vermont; family-focused."
+ },
+ {
+  "id": "ASST_NON_2018JUFX0031_015",
+  "org_scope": "local",
+  "targets": [
+   "general"
+  ],
+  "format": "unclear",
+  "purpose": "youth_development",
+  "notes": "Appalachian mentoring initiative by a Kentucky leadership foundation; no detail."
+ },
+ {
+  "id": "ASST_NON_2018JUFX0032_015",
+  "org_scope": "local",
+  "targets": [
+   "general"
+  ],
+  "format": "unclear",
+  "purpose": "unclear",
+  "notes": "Rockland County Big Brothers Big Sisters mentoring program; focus not stated."
+ },
+ {
+  "id": "ASST_NON_2018JUFX0033_015",
+  "org_scope": "local",
+  "targets": [
+   "general"
+  ],
+  "format": "unclear",
+  "purpose": "unclear",
+  "notes": "Youth Action Project's RED program; title gives no target or format."
+ },
+ {
+  "id": "ASST_NON_2018JUFX0034_015",
+  "org_scope": "local",
+  "targets": [
+   "other"
+  ],
+  "format": "unclear",
+  "purpose": "youth_development",
+  "notes": "Mentoring for youth with mental illness; no tag for mental health."
+ },
+ {
+  "id": "ASST_NON_2018JUFX0035_015",
+  "org_scope": "state_regional",
+  "targets": [
+   "general"
+  ],
+  "format": "unclear",
+  "purpose": "youth_development",
+  "notes": "Iowa state commission mentoring project; no further description."
+ },
+ {
+  "id": "ASST_NON_2018JUFX0036_015",
+  "org_scope": "national_multisite",
+  "targets": [
+   "opioid_substance_affected"
+  ],
+  "format": "unclear",
+  "purpose": "youth_development",
+  "notes": "National park association mentoring rural Appalachian youth impacted by opioids."
+ },
+ {
+  "id": "ASST_NON_2018JUFX0037_015",
+  "org_scope": "national_multisite",
+  "targets": [
+   "at_risk_general"
+  ],
+  "format": "group",
+  "purpose": "delinquency_prevention",
+  "notes": "Soccer-based group mentoring for at-risk, high-risk, underserved youth."
+ },
+ {
+  "id": "ASST_NON_2018JUFX0038_015",
+  "org_scope": "national_multisite",
+  "targets": [
+   "general"
+  ],
+  "format": "unclear",
+  "purpose": "youth_development",
+  "notes": "AARP Foundation Experience Corps mentors; youth focus and format not stated."
+ },
+ {
+  "id": "ASST_NON_2018JUFX0039_015",
+  "org_scope": "national_multisite",
+  "targets": [
+   "general"
+  ],
+  "format": "group",
+  "purpose": "youth_development",
+  "notes": "Baseball-themed group mentoring from a national foundation."
+ },
+ {
+  "id": "ASST_NON_2018JUFX0040_015",
+  "org_scope": "national_multisite",
+  "targets": [
+   "at_risk_general"
+  ],
+  "format": "unclear",
+  "purpose": "career_workforce",
+  "notes": "Legal-education cohort mentoring for at-risk and high-risk adolescents."
+ },
+ {
+  "id": "ASST_NON_2018JUFX0041_015",
+  "org_scope": "national_multisite",
+  "targets": [
+   "general"
+  ],
+  "format": "unclear",
+  "purpose": "youth_development",
+  "notes": "National YMCA youth mentoring program; no further detail."
+ },
+ {
+  "id": "ASST_NON_2019JUFX0005_015",
+  "org_scope": "national_multisite",
+  "targets": [
+   "general"
+  ],
+  "format": "unclear",
+  "purpose": "career_workforce",
+  "notes": "YouthBuild USA mentoring initiative; workforce purpose inferred from organization."
+ },
+ {
+  "id": "ASST_NON_2019JUFX0007_015",
+  "org_scope": "local",
+  "targets": [
+   "opioid_substance_affected"
+  ],
+  "format": "unclear",
+  "purpose": "delinquency_prevention",
+  "notes": "Camp-based addiction prevention mentoring for youth affected by a relative's substance use disorder."
+ },
+ {
+  "id": "ASST_NON_2019JUFX0008_015",
+  "org_scope": "national_multisite",
+  "targets": [
+   "general"
+  ],
+  "format": "unclear",
+  "purpose": "youth_development",
+  "notes": "Leadership Foundations' Mentoring2Thrive project; no abstract."
+ },
+ {
+  "id": "ASST_NON_2019JUFX0009_015",
+  "org_scope": "national_multisite",
+  "targets": [
+   "at_risk_general"
+  ],
+  "format": "group",
+  "purpose": "delinquency_prevention",
+  "notes": "Soccer-based group mentoring for at-risk, high-risk, underserved youth."
+ },
+ {
+  "id": "ASST_NON_2019JUFX0011_015",
+  "org_scope": "local",
+  "targets": [
+   "opioid_substance_affected"
+  ],
+  "format": "unclear",
+  "purpose": "delinquency_prevention",
+  "notes": "Two-generation approach to youth substance abuse prevention."
+ },
+ {
+  "id": "ASST_NON_2019JUFX0012_015",
+  "org_scope": "local",
+  "targets": [
+   "general"
+  ],
+  "format": "unclear",
+  "purpose": "academic",
+  "notes": "Ready to Achieve mentoring program from an educational leadership institute."
+ },
+ {
+  "id": "ASST_NON_2019JUFX0013_015",
+  "org_scope": "local",
+  "targets": [
+   "general"
+  ],
+  "format": "unclear",
+  "purpose": "youth_development",
+  "notes": "Youth Collaboratory mentoring program; no detail on target or format."
+ },
+ {
+  "id": "ASST_NON_2019JUFX0014_015",
+  "org_scope": "national_multisite",
+  "targets": [
+   "general"
+  ],
+  "format": "unclear",
+  "purpose": "youth_development",
+  "notes": "Baseball-themed youth mentoring program from a national foundation."
+ },
+ {
+  "id": "ASST_NON_2019JUFX0015_015",
+  "org_scope": "local",
+  "targets": [
+   "at_risk_general"
+  ],
+  "format": "unclear",
+  "purpose": "delinquency_prevention",
+  "notes": "Police activities league mentoring in Richmond, California."
+ },
+ {
+  "id": "ASST_NON_2019JUFX0028_015",
+  "org_scope": "local",
+  "targets": [
+   "at_risk_general"
+  ],
+  "format": "unclear",
+  "purpose": "delinquency_prevention",
+  "notes": "Youth delinquency prevention program in Illinois."
+ },
+ {
+  "id": "ASST_NON_2019JUFX0029_015",
+  "org_scope": "local",
+  "targets": [
+   "general"
+  ],
+  "format": "unclear",
+  "purpose": "youth_development",
+  "notes": "COPE project empowering youth via community organizations in Louisiana."
+ },
+ {
+  "id": "ASST_NON_2019JUFX0030_015",
+  "org_scope": "local",
+  "targets": [
+   "other"
+  ],
+  "format": "unclear",
+  "purpose": "youth_development",
+  "notes": "Trauma-informed mentoring program from a Massachusetts justice institute."
+ },
+ {
+  "id": "ASST_NON_2019JUFX0031_015",
+  "org_scope": "local",
+  "targets": [
+   "other"
+  ],
+  "format": "unclear",
+  "purpose": "youth_development",
+  "notes": "Mentoring addressing adverse childhood experiences in Bexar County, Texas."
+ },
+ {
+  "id": "ASST_NON_2019JUFX0032_015",
+  "org_scope": "local",
+  "targets": [
+   "justice_involved"
+  ],
+  "format": "unclear",
+  "purpose": "delinquency_prevention",
+  "notes": "Prevention and empowerment program tied to juvenile justice, New York."
+ },
+ {
+  "id": "ASST_NON_2019JUFX0038_015",
+  "org_scope": "national_multisite",
+  "targets": [
+   "at_risk_general"
+  ],
+  "format": "unclear",
+  "purpose": "delinquency_prevention",
+  "notes": "National police athletic leagues mentoring initiative."
+ },
+ {
+  "id": "ASST_NON_2019JUFXK001_015",
+  "org_scope": "national_multisite",
+  "targets": [
+   "general"
+  ],
+  "format": "unclear",
+  "purpose": "training_technical_assistance",
+  "notes": "National Mentoring Resource Center development and enhancement."
+ },
+ {
+  "id": "ASST_NON_2019JYFX0006_015",
+  "org_scope": "local",
+  "targets": [
+   "opioid_substance_affected"
+  ],
+  "format": "unclear",
+  "purpose": "delinquency_prevention",
+  "notes": "Camp Mariposa addiction prevention and mentoring program."
+ },
+ {
+  "id": "ASST_NON_2019JYFX0016_015",
+  "org_scope": "local",
+  "targets": [
+   "general"
+  ],
+  "format": "unclear",
+  "purpose": "unclear",
+  "notes": "RED expansion project; title gives no target or format."
+ },
+ {
+  "id": "ASST_NON_2019JYFX0017_015",
+  "org_scope": "local",
+  "targets": [
+   "general"
+  ],
+  "format": "unclear",
+  "purpose": "youth_development",
+  "notes": "Community outreach mentoring program in Campti, Louisiana."
+ },
+ {
+  "id": "ASST_NON_2019JYFX0018_015",
+  "org_scope": "local",
+  "targets": [
+   "opioid_substance_affected"
+  ],
+  "format": "unclear",
+  "purpose": "youth_development",
+  "notes": "Mentoring juveniles impacted by opioids on Maryland's Eastern Shore."
+ },
+ {
+  "id": "ASST_NON_2019JYFX0019_015",
+  "org_scope": "local",
+  "targets": [
+   "general"
+  ],
+  "format": "unclear",
+  "purpose": "youth_development",
+  "notes": "Mentors making resiliency real; California youth mentoring organization."
+ },
+ {
+  "id": "ASST_NON_2019JYFX0020_015",
+  "org_scope": "state_regional",
+  "targets": [
+   "general"
+  ],
+  "format": "unclear",
+  "purpose": "youth_development",
+  "notes": "Boys & Girls Club mentoring across three West Virginia counties."
+ },
+ {
+  "id": "ASST_NON_2019JYFX0021_015",
+  "org_scope": "local",
+  "targets": [
+   "general"
+  ],
+  "format": "unclear",
+  "purpose": "youth_development",
+  "notes": "New Haven mentoring with NIA, run by a Connecticut workforce partnership."
+ },
+ {
+  "id": "ASST_NON_2019JYFX0022_015",
+  "org_scope": "local",
+  "targets": [
+   "general"
+  ],
+  "format": "unclear",
+  "purpose": "delinquency_prevention",
+  "notes": "Safe Yakima youth mentoring by a community safety coalition."
+ },
+ {
+  "id": "ASST_NON_2019JYFX0023_015",
+  "org_scope": "state_regional",
+  "targets": [
+   "general"
+  ],
+  "format": "unclear",
+  "purpose": "youth_development",
+  "notes": "Vermont state agency mentoring project."
+ },
+ {
+  "id": "ASST_NON_2019JYFX0024_015",
+  "org_scope": "national_multisite",
+  "targets": [
+   "opioid_substance_affected"
+  ],
+  "format": "unclear",
+  "purpose": "delinquency_prevention",
+  "notes": "National Boys & Girls Clubs mentoring aimed at opioid abuse prevention."
+ },
+ {
+  "id": "ASST_NON_2019JYFX0025_015",
+  "org_scope": "national_multisite",
+  "targets": [
+   "opioid_substance_affected"
+  ],
+  "format": "unclear",
+  "purpose": "youth_development",
+  "notes": "National Big Brothers Big Sisters phase II for youth impacted by opioids."
+ },
+ {
+  "id": "ASST_NON_2019JYFX0026_015",
+  "org_scope": "national_multisite",
+  "targets": [
+   "general"
+  ],
+  "format": "unclear",
+  "purpose": "youth_development",
+  "notes": "National 4-H regional mentoring program on health."
+ },
+ {
+  "id": "ASST_NON_2019JYFX0027_015",
+  "org_scope": "local",
+  "targets": [
+   "general"
+  ],
+  "format": "unclear",
+  "purpose": "youth_development",
+  "notes": "Knoxville area mentoring initiative by a leadership foundation."
+ }
+]

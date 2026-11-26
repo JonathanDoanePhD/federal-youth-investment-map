@@ -1,0 +1,988 @@
+[
+ {
+  "id": "1906595",
+  "serves_youth": "indirect",
+  "audience": [
+   "teachers_educators"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "teacher_pd",
+   "network_coalition"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "hispanic_latino"
+  ],
+  "setting": "museum_science_center",
+  "youth_reach": null,
+  "evaluation": "unspecified",
+  "service_geography": "multi_state",
+  "notes": "Training museum staff in Latinx cultural competence, with coaching and a practitioner community across fifteen institutions."
+ },
+ {
+  "id": "1906610",
+  "serves_youth": "indirect",
+  "audience": [
+   "k12_students",
+   "researchers"
+  ],
+  "grade_band": "middle",
+  "models": [
+   "research_only"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "black",
+   "hispanic_latino",
+   "low_income",
+   "rural",
+   "urban"
+  ],
+  "setting": "mixed",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "national",
+  "notes": "Observational study of over 800 environmental education field trips to learn which program features drive student outcomes."
+ },
+ {
+  "id": "1906636",
+  "serves_youth": "direct",
+  "audience": [
+   "out_of_school_youth",
+   "general_public"
+  ],
+  "grade_band": "mixed_ages",
+  "models": [
+   "out_of_school_program",
+   "exhibit_media",
+   "career_exposure"
+  ],
+  "mentoring": "none",
+  "bridging": "yes",
+  "ai_cs": "ai",
+  "targets": [
+   "underrepresented_general",
+   "low_income"
+  ],
+  "setting": "after_school",
+  "youth_reach": 250,
+  "evaluation": "design_qualitative",
+  "service_geography": "national",
+  "notes": "Youth Radio teaches AI, app building and ethics to youth of color, with industry contacts and national media distribution."
+ },
+ {
+  "id": "1906640",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "general_public"
+  ],
+  "grade_band": "mixed_ages",
+  "models": [
+   "mentoring",
+   "out_of_school_program",
+   "exhibit_media"
+  ],
+  "mentoring": "central",
+  "bridging": "yes",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "community",
+  "youth_reach": 1000,
+  "evaluation": "quasi_experimental",
+  "service_geography": "multi_state",
+  "notes": "Youth meet expert mentors on extreme weather, then display artwork on transit systems; quasi-experimental learning study."
+ },
+ {
+  "id": "1906654",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "general_public"
+  ],
+  "grade_band": "middle",
+  "models": [
+   "summer_program",
+   "out_of_school_program",
+   "exhibit_media"
+  ],
+  "mentoring": "none",
+  "bridging": "yes",
+  "ai_cs": "none",
+  "targets": [
+   "native_indigenous"
+  ],
+  "setting": "mixed",
+  "youth_reach": 35,
+  "evaluation": "design_qualitative",
+  "service_geography": "state_regional",
+  "notes": "Ojibwe middle schoolers study water in a summer residential program and co-create a planetarium show."
+ },
+ {
+  "id": "1906682",
+  "serves_youth": "indirect",
+  "audience": [
+   "teachers_educators",
+   "k12_students"
+  ],
+  "grade_band": "elementary",
+  "models": [
+   "teacher_pd"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "quasi_experimental",
+  "service_geography": "local",
+  "notes": "Tests four ways of using elementary math specialists in twelve Portland schools, measuring teacher practice and student achievement."
+ },
+ {
+  "id": "1906686",
+  "serves_youth": "direct",
+  "audience": [
+   "general_public",
+   "k12_students"
+  ],
+  "grade_band": "mixed_ages",
+  "models": [
+   "exhibit_media",
+   "career_exposure"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "museum_science_center",
+  "youth_reach": null,
+  "evaluation": "pre_post",
+  "service_geography": "multi_state",
+  "notes": "Traveling light-themed exhibits with virtual reality featuring scientists of color, tested in design-based cycles and copied to seven sites."
+ },
+ {
+  "id": "1906688",
+  "serves_youth": "indirect",
+  "audience": [
+   "general_public",
+   "researchers"
+  ],
+  "grade_band": "mixed_ages",
+  "models": [
+   "research_only",
+   "exhibit_media"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "museum_science_center",
+  "youth_reach": null,
+  "evaluation": "design_qualitative",
+  "service_geography": "local",
+  "notes": "Pilot research linking museum visitors' science identity and emotional appraisal to exhibit engagement, using surveys, observation and biometrics."
+ },
+ {
+  "id": "1906706",
+  "serves_youth": "direct",
+  "audience": [
+   "families",
+   "k12_students"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "exhibit_media",
+   "online_tool_game",
+   "other"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "mixed",
+  "youth_reach": null,
+  "evaluation": "quasi_experimental",
+  "service_geography": "state_regional",
+  "notes": "Food-chemistry labs, take-home kits, conversation prompts and an app for families with children aged seven to thirteen."
+ },
+ {
+  "id": "1906708",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students"
+  ],
+  "grade_band": "middle",
+  "models": [
+   "out_of_school_program",
+   "mentoring",
+   "online_tool_game"
+  ],
+  "mentoring": "central",
+  "bridging": "yes",
+  "ai_cs": "none",
+  "targets": [
+   "black"
+  ],
+  "setting": "community",
+  "youth_reach": 80,
+  "evaluation": "design_qualitative",
+  "service_geography": "state_regional",
+  "notes": "African American youth in community gardens use augmented reality, guided by community mentors and undergraduate role models."
+ },
+ {
+  "id": "1906720",
+  "serves_youth": "none",
+  "audience": [
+   "general_public"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "research_only",
+   "other"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "unclear",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "unclear",
+  "notes": "Pilot measuring engagement and advocacy among adults over fifty in a team engineering challenge."
+ },
+ {
+  "id": "1906724",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "researchers"
+  ],
+  "grade_band": "middle",
+  "models": [
+   "mentoring",
+   "out_of_school_program",
+   "research_only"
+  ],
+  "mentoring": "central",
+  "bridging": "yes",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "community",
+  "youth_reach": 280,
+  "evaluation": "design_qualitative",
+  "service_geography": "local",
+  "notes": "Mixed-methods study of scientist mentoring of middle schoolers in a Chicago community science club and mentor outcomes."
+ },
+ {
+  "id": "1906728",
+  "serves_youth": "direct",
+  "audience": [
+   "general_public",
+   "k12_students"
+  ],
+  "grade_band": "mixed_ages",
+  "models": [
+   "exhibit_media",
+   "online_tool_game"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "mixed",
+  "youth_reach": null,
+  "evaluation": "pre_post",
+  "service_geography": "national",
+  "notes": "Immersive virtual reality coral reef film studied for ocean literacy and empathy, with data from high schools."
+ },
+ {
+  "id": "1906736",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students"
+  ],
+  "grade_band": "middle",
+  "models": [
+   "summer_program",
+   "out_of_school_program",
+   "career_exposure"
+  ],
+  "mentoring": "none",
+  "bridging": "yes",
+  "ai_cs": "computing",
+  "targets": [
+   "black",
+   "hispanic_latino"
+  ],
+  "setting": "mixed",
+  "youth_reach": 250,
+  "evaluation": "pre_post",
+  "service_geography": "state_regional",
+  "notes": "Sports data analytics camps and Saturday sessions for Black and Latinx middle schoolers near Baltimore and Hyattsville."
+ },
+ {
+  "id": "1906753",
+  "serves_youth": "direct",
+  "audience": [
+   "out_of_school_youth"
+  ],
+  "grade_band": "mixed_ages",
+  "models": [
+   "online_tool_game",
+   "out_of_school_program"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "low_income"
+  ],
+  "setting": "after_school",
+  "youth_reach": null,
+  "evaluation": "pre_post",
+  "service_geography": "unclear",
+  "notes": "Design-based development of a co-robotics programming game for low-resource learners in out-of-school spaces."
+ },
+ {
+  "id": "1906761",
+  "serves_youth": "none",
+  "audience": [
+   "general_public"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "exhibit_media",
+   "other"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "unclear",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "national",
+  "notes": "Conference strand training wildlife film and media professionals in science communication, plus a fellows cohort."
+ },
+ {
+  "id": "1906774",
+  "serves_youth": "none",
+  "audience": [
+   "general_public",
+   "researchers"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "network_coalition",
+   "other"
+  ],
+  "mentoring": "none",
+  "bridging": "yes",
+  "ai_cs": "none",
+  "targets": [
+   "rural"
+  ],
+  "setting": "community",
+  "youth_reach": null,
+  "evaluation": "design_qualitative",
+  "service_geography": "state_regional",
+  "notes": "Museum and university build a network with rural Pennsylvania communities for climate discussions with scientists."
+ },
+ {
+  "id": "1906793",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "general_public"
+  ],
+  "grade_band": "mixed_ages",
+  "models": [
+   "mentoring",
+   "out_of_school_program",
+   "exhibit_media"
+  ],
+  "mentoring": "central",
+  "bridging": "yes",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "community",
+  "youth_reach": 1000,
+  "evaluation": "quasi_experimental",
+  "service_geography": "multi_state",
+  "notes": "Youth meet expert mentors on extreme weather, then display artwork on transit systems; quasi-experimental learning study."
+ },
+ {
+  "id": "1906795",
+  "serves_youth": "none",
+  "audience": [
+   "general_public"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "other",
+   "online_tool_game"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "girls_women"
+  ],
+  "setting": "library",
+  "youth_reach": null,
+  "evaluation": "unspecified",
+  "service_geography": "multi_state",
+  "notes": "Technology classes at libraries for formerly incarcerated women in Kansas and Missouri, with online site and app."
+ },
+ {
+  "id": "1906802",
+  "serves_youth": "none",
+  "audience": [
+   "general_public"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "exhibit_media",
+   "research_only",
+   "other"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "online",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "national",
+  "notes": "Research and broadcast news pieces to build adult statistical literacy, plus a symposium for science journalists."
+ },
+ {
+  "id": "1906808",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "families"
+  ],
+  "grade_band": "elementary",
+  "models": [
+   "exhibit_media",
+   "out_of_school_program"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "museum_science_center",
+  "youth_reach": 300,
+  "evaluation": "design_qualitative",
+  "service_geography": "local",
+  "notes": "Design-based study of storytelling during tinkering with young children and parents at a Chicago children's museum."
+ },
+ {
+  "id": "1906810",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "general_public"
+  ],
+  "grade_band": "mixed_ages",
+  "models": [
+   "mentoring",
+   "out_of_school_program",
+   "exhibit_media"
+  ],
+  "mentoring": "central",
+  "bridging": "yes",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "community",
+  "youth_reach": 1000,
+  "evaluation": "quasi_experimental",
+  "service_geography": "multi_state",
+  "notes": "Youth meet expert mentors on extreme weather, then display artwork on transit systems; quasi-experimental learning study."
+ },
+ {
+  "id": "1906839",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "families"
+  ],
+  "grade_band": "elementary",
+  "models": [
+   "exhibit_media",
+   "out_of_school_program"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "museum_science_center",
+  "youth_reach": 300,
+  "evaluation": "design_qualitative",
+  "service_geography": "local",
+  "notes": "Design-based study of storytelling during tinkering with young children and parents at a Chicago children's museum."
+ },
+ {
+  "id": "1906846",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "families"
+  ],
+  "grade_band": "high",
+  "models": [
+   "summer_program",
+   "out_of_school_program"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "rural",
+   "urban"
+  ],
+  "setting": "museum_science_center",
+  "youth_reach": 32,
+  "evaluation": "design_qualitative",
+  "service_geography": "state_regional",
+  "notes": "Rural and urban North Carolina teens learn climate resilience through museum-led summer institute, workshops and action projects."
+ },
+ {
+  "id": "1906854",
+  "serves_youth": "direct",
+  "audience": [
+   "out_of_school_youth"
+  ],
+  "grade_band": "mixed_ages",
+  "models": [
+   "out_of_school_program",
+   "summer_program",
+   "other"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "mixed",
+  "youth_reach": null,
+  "evaluation": "pre_post",
+  "service_geography": "local",
+  "notes": "Companion reading robot at home linked to community-center science activities for low-interest youth over eleven weeks."
+ },
+ {
+  "id": "1906864",
+  "serves_youth": "none",
+  "audience": [
+   "general_public",
+   "researchers"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "research_only"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "online",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "national",
+  "notes": "Survey experiments testing whether humor improves audience response to scientists' social media messages."
+ },
+ {
+  "id": "1906873",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "general_public"
+  ],
+  "grade_band": "mixed_ages",
+  "models": [
+   "summer_program",
+   "out_of_school_program",
+   "exhibit_media",
+   "online_tool_game"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "ai",
+  "targets": [
+   "general"
+  ],
+  "setting": "mixed",
+  "youth_reach": null,
+  "evaluation": "design_qualitative",
+  "service_geography": "national",
+  "notes": "Exoplanet simulations with AI coaching agents, a web lab and planetarium shows to build interest in astronomy."
+ },
+ {
+  "id": "1906874",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "high",
+  "models": [
+   "out_of_school_program",
+   "teacher_pd",
+   "career_exposure",
+   "network_coalition"
+  ],
+  "mentoring": "none",
+  "bridging": "unclear",
+  "ai_cs": "none",
+  "targets": [
+   "rural"
+  ],
+  "setting": "community",
+  "youth_reach": 600,
+  "evaluation": "pre_post",
+  "service_geography": "national",
+  "notes": "Adapting teen science cafes for rural places, with leader community of practice and about 600 participants."
+ },
+ {
+  "id": "1906884",
+  "serves_youth": "direct",
+  "audience": [
+   "families",
+   "general_public"
+  ],
+  "grade_band": "mixed_ages",
+  "models": [
+   "exhibit_media"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "museum_science_center",
+  "youth_reach": null,
+  "evaluation": "design_qualitative",
+  "service_geography": "unclear",
+  "notes": "Cardboard maker galleries studied for how well they engage families, especially underrepresented ones, in early engineering."
+ },
+ {
+  "id": "1906885",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "families",
+   "teachers_educators"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "exhibit_media",
+   "career_exposure",
+   "other"
+  ],
+  "mentoring": "none",
+  "bridging": "yes",
+  "ai_cs": "none",
+  "targets": [
+   "hispanic_latino",
+   "low_income"
+  ],
+  "setting": "college_campus",
+  "youth_reach": null,
+  "evaluation": "pre_post",
+  "service_geography": "state_regional",
+  "notes": "Bilingual live energy science show on a university campus for Rio Grande Valley students and parents."
+ },
+ {
+  "id": "1906889",
+  "serves_youth": "none",
+  "audience": [
+   "researchers",
+   "teachers_educators"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "research_only",
+   "network_coalition"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "museum_science_center",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "national",
+  "notes": "Literature synthesis on whether authentic objects and experiences aid informal science learning, with expert and practitioner convenings."
+ },
+ {
+  "id": "1906895",
+  "serves_youth": "direct",
+  "audience": [
+   "out_of_school_youth",
+   "general_public"
+  ],
+  "grade_band": "mixed_ages",
+  "models": [
+   "out_of_school_program",
+   "exhibit_media",
+   "career_exposure"
+  ],
+  "mentoring": "none",
+  "bridging": "yes",
+  "ai_cs": "ai",
+  "targets": [
+   "underrepresented_general",
+   "low_income"
+  ],
+  "setting": "after_school",
+  "youth_reach": 250,
+  "evaluation": "design_qualitative",
+  "service_geography": "national",
+  "notes": "Youth Radio teaches AI, app building and ethics to youth of color, with industry contacts and national media distribution."
+ },
+ {
+  "id": "1906897",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators",
+   "researchers"
+  ],
+  "grade_band": "middle",
+  "models": [
+   "out_of_school_program",
+   "teacher_pd",
+   "career_exposure"
+  ],
+  "mentoring": "none",
+  "bridging": "yes",
+  "ai_cs": "none",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "after_school",
+  "youth_reach": null,
+  "evaluation": "unspecified",
+  "service_geography": "multi_state",
+  "notes": "Polar scientists join after-school clubs with data kits; educators get training; impact on youth studied at four nodes."
+ },
+ {
+  "id": "1906899",
+  "serves_youth": "none",
+  "audience": [
+   "researchers",
+   "teachers_educators"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "research_only",
+   "network_coalition"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "unclear",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "national",
+  "notes": "Conference and reviews on how imagination can support STEM learning in museums."
+ },
+ {
+  "id": "1906913",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "undergraduates",
+   "teachers_educators"
+  ],
+  "grade_band": "middle",
+  "models": [
+   "out_of_school_program",
+   "mentoring",
+   "teacher_pd",
+   "network_coalition"
+  ],
+  "mentoring": "component",
+  "bridging": "yes",
+  "ai_cs": "none",
+  "targets": [
+   "hispanic_latino"
+  ],
+  "setting": "after_school",
+  "youth_reach": null,
+  "evaluation": "rct",
+  "service_geography": "multi_state",
+  "notes": "Asset-based engineering clubs for Latinx middle schoolers with university student mentors; randomized club comparison."
+ },
+ {
+  "id": "1906929",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators",
+   "researchers"
+  ],
+  "grade_band": "middle",
+  "models": [
+   "out_of_school_program",
+   "teacher_pd",
+   "career_exposure"
+  ],
+  "mentoring": "none",
+  "bridging": "yes",
+  "ai_cs": "none",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "after_school",
+  "youth_reach": null,
+  "evaluation": "unspecified",
+  "service_geography": "multi_state",
+  "notes": "Polar scientists join after-school clubs with data kits; educators get training; impact on youth studied at four nodes."
+ },
+ {
+  "id": "1906933",
+  "serves_youth": "direct",
+  "audience": [
+   "families",
+   "k12_students"
+  ],
+  "grade_band": "mixed_ages",
+  "models": [
+   "other",
+   "career_exposure"
+  ],
+  "mentoring": "none",
+  "bridging": "yes",
+  "ai_cs": "none",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "community",
+  "youth_reach": null,
+  "evaluation": "design_qualitative",
+  "service_geography": "local",
+  "notes": "Maker workshops and STEM expert talks at a women's prison for incarcerated mothers and their children."
+ },
+ {
+  "id": "1906940",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "families"
+  ],
+  "grade_band": "elementary",
+  "models": [
+   "exhibit_media",
+   "out_of_school_program"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "museum_science_center",
+  "youth_reach": 300,
+  "evaluation": "design_qualitative",
+  "service_geography": "local",
+  "notes": "Design-based study of storytelling during tinkering with young children and parents at a Chicago children's museum."
+ },
+ {
+  "id": "1906951",
+  "serves_youth": "direct",
+  "audience": [
+   "general_public",
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "mixed_ages",
+  "models": [
+   "exhibit_media",
+   "network_coalition",
+   "teacher_pd"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "rural",
+   "native_indigenous",
+   "hispanic_latino"
+  ],
+  "setting": "library",
+  "youth_reach": null,
+  "evaluation": "unspecified",
+  "service_geography": "multi_state",
+  "notes": "Traveling water exhibit and programs for small libraries in Four Corners communities, with librarian practice network."
+ },
+ {
+  "id": "1906954",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "exhibit_media",
+   "career_exposure",
+   "other"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "museum_science_center",
+  "youth_reach": null,
+  "evaluation": "quasi_experimental",
+  "service_geography": "local",
+  "notes": "Experimental study of a science museum health lab field trip and its effect on youth career interest."
+ }
+]

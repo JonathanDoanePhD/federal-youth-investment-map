@@ -1,0 +1,548 @@
+[
+ {
+  "id": "ASST_NON_15PJDP23GG05297MENT_015",
+  "org_scope": "national_multisite",
+  "targets": [
+   "tribal_native",
+   "at_risk_general"
+  ],
+  "format": "mixed",
+  "purpose": "delinquency_prevention",
+  "notes": "Group and peer mentoring for mostly American Indian youth across subawarded sites in ten states."
+ },
+ {
+  "id": "ASST_NON_15PJDP23GG05298MENT_015",
+  "org_scope": "national_multisite",
+  "targets": [
+   "at_risk_general",
+   "justice_involved",
+   "opioid_substance_affected",
+   "children_of_incarcerated",
+   "foster_care",
+   "military_families"
+  ],
+  "format": "mixed",
+  "purpose": "delinquency_prevention",
+  "notes": "Intermediary supporting chapters offering one-on-one and group mentoring to marginalized youth at delinquency risk."
+ },
+ {
+  "id": "ASST_NON_15PJDP23GG05300MENT_015",
+  "org_scope": "national_multisite",
+  "targets": [
+   "at_risk_general"
+  ],
+  "format": "mixed",
+  "purpose": "delinquency_prevention",
+  "notes": "After-school hybrid mentoring in Title I schools across metropolitan chapters, involving law enforcement."
+ },
+ {
+  "id": "ASST_NON_15PJDP23GG05302MENT_015",
+  "org_scope": "local",
+  "targets": [
+   "children_of_incarcerated"
+  ],
+  "format": "mixed",
+  "purpose": "youth_development",
+  "notes": "Long-term mentoring, camps and peer mentors for children of incarcerated parents in Bay Area communities."
+ },
+ {
+  "id": "ASST_NON_15PJDP23GG05304MENT_015",
+  "org_scope": "national_multisite",
+  "targets": [
+   "at_risk_general",
+   "justice_involved",
+   "military_families",
+   "tribal_native"
+  ],
+  "format": "group",
+  "purpose": "delinquency_prevention",
+  "notes": "STEM-based group mentoring for young children through affiliate sites in many states, with peer mentors."
+ },
+ {
+  "id": "ASST_NON_15PJDP23GG05305MENT_015",
+  "org_scope": "national_multisite",
+  "targets": [
+   "at_risk_general"
+  ],
+  "format": "group",
+  "purpose": "delinquency_prevention",
+  "notes": "Sports-based group mentoring by coach-mentors for under-resourced youth through partners in fifteen states."
+ },
+ {
+  "id": "ASST_NON_15PJDP23GG05306MENT_015",
+  "org_scope": "national_multisite",
+  "targets": [
+   "at_risk_general",
+   "justice_involved"
+  ],
+  "format": "group",
+  "purpose": "delinquency_prevention",
+  "notes": "Therapeutic cognitive-behavioral group mentoring delivered by YMCAs in ten states for underserved youth."
+ },
+ {
+  "id": "ASST_NON_15PJDP23GG05307MENT_015",
+  "org_scope": "unclear",
+  "targets": [
+   "other"
+  ],
+  "format": "unclear",
+  "purpose": "career_workforce",
+  "notes": "Out-of-school STEM learning with adult mentors preparing underserved youth for technology careers."
+ },
+ {
+  "id": "ASST_NON_15PJDP23GG05308MENT_015",
+  "org_scope": "local",
+  "targets": [
+   "justice_involved",
+   "at_risk_general"
+  ],
+  "format": "mixed",
+  "purpose": "delinquency_prevention",
+  "notes": "Mentoring and peer mentors for detained and probation-referred youth in Los Angeles County."
+ },
+ {
+  "id": "ASST_NON_15PJDP23GG05309MENT_015",
+  "org_scope": "national_multisite",
+  "targets": [
+   "at_risk_general"
+  ],
+  "format": "mixed",
+  "purpose": "youth_development",
+  "notes": "College student mentors blend one-on-one and group mentoring for low-income elementary pupils at several universities."
+ },
+ {
+  "id": "ASST_NON_15PJDP23GG05310MENT_015",
+  "org_scope": "national_multisite",
+  "targets": [
+   "at_risk_general",
+   "justice_involved",
+   "other"
+  ],
+  "format": "group",
+  "purpose": "academic",
+  "notes": "Group mentoring via Urban League affiliates in twelve cities, targeting graduation and college readiness."
+ },
+ {
+  "id": "ASST_NON_15PJDP23GG05311MENT_015",
+  "org_scope": "national_multisite",
+  "targets": [
+   "at_risk_general",
+   "justice_involved"
+  ],
+  "format": "group",
+  "purpose": "delinquency_prevention",
+  "notes": "Baseball-themed small-group mentoring pairing system-involved youth with civilian and law enforcement mentors nationwide."
+ },
+ {
+  "id": "ASST_NON_15PJDP24GG01659MENT_015",
+  "org_scope": "national_multisite",
+  "targets": [
+   "justice_involved",
+   "at_risk_general",
+   "tribal_native",
+   "children_of_incarcerated",
+   "military_families",
+   "disability",
+   "other"
+  ],
+  "format": "one_to_one",
+  "purpose": "delinquency_prevention",
+  "notes": "Subawards to local agencies for year-long evidence-based mentoring of at-risk and system-involved youth."
+ },
+ {
+  "id": "ASST_NON_15PJDP24GG01664MENT_015",
+  "org_scope": "national_multisite",
+  "targets": [
+   "at_risk_general",
+   "tribal_native"
+  ],
+  "format": "group",
+  "purpose": "delinquency_prevention",
+  "notes": "Law enforcement-led small group mentoring through police athletic league chapters nationwide."
+ },
+ {
+  "id": "ASST_NON_15PJDP24GG02576MENT_015",
+  "org_scope": "state_regional",
+  "targets": [
+   "opioid_substance_affected",
+   "other"
+  ],
+  "format": "unclear",
+  "purpose": "delinquency_prevention",
+  "notes": "Mentors, case management and prevention curriculum for rural California youth affected by substance use."
+ },
+ {
+  "id": "ASST_NON_15PJDP24GG02578MENT_015",
+  "org_scope": "national_multisite",
+  "targets": [
+   "opioid_substance_affected",
+   "foster_care"
+  ],
+  "format": "unclear",
+  "purpose": "delinquency_prevention",
+  "notes": "Eighteen-month mentoring for opioid-affected youth through affiliate agencies in many states."
+ },
+ {
+  "id": "ASST_NON_15PJDP24GG02581MENT_015",
+  "org_scope": "state_regional",
+  "targets": [
+   "opioid_substance_affected"
+  ],
+  "format": "mixed",
+  "purpose": "delinquency_prevention",
+  "notes": "Group and one-on-one mentoring with social-emotional learning in five Connecticut communities hit by opioids."
+ },
+ {
+  "id": "ASST_NON_15PJDP24GG02582MENT_015",
+  "org_scope": "state_regional",
+  "targets": [
+   "at_risk_general",
+   "other"
+  ],
+  "format": "mixed",
+  "purpose": "delinquency_prevention",
+  "notes": "Two-tiered peer mentoring plus one-on-one and group mentoring for rural Vermont youth."
+ },
+ {
+  "id": "ASST_NON_15PJDP24GG02583MENT_015",
+  "org_scope": "state_regional",
+  "targets": [
+   "opioid_substance_affected"
+  ],
+  "format": "mixed",
+  "purpose": "delinquency_prevention",
+  "notes": "Statewide 4-H after-school one-on-one and group mentoring for opioid-affected youth and families."
+ },
+ {
+  "id": "ASST_NON_15PJDP24GG02584MENT_015",
+  "org_scope": "local",
+  "targets": [
+   "opioid_substance_affected",
+   "foster_care",
+   "justice_involved",
+   "other"
+  ],
+  "format": "mixed",
+  "purpose": "delinquency_prevention",
+  "notes": "Mentor matching and group activities for opioid-impacted youth in several Los Angeles area communities."
+ },
+ {
+  "id": "ASST_NON_15PJDP24GG02585MENT_015",
+  "org_scope": "local",
+  "targets": [
+   "opioid_substance_affected",
+   "at_risk_general"
+  ],
+  "format": "one_to_one",
+  "purpose": "delinquency_prevention",
+  "notes": "Volunteer mentors matched with substance-affected youth in Worcester County, site or community based."
+ },
+ {
+  "id": "ASST_NON_15PJDP24GG02586MENT_015",
+  "org_scope": "local",
+  "targets": [
+   "opioid_substance_affected",
+   "other"
+  ],
+  "format": "unclear",
+  "purpose": "delinquency_prevention",
+  "notes": "Expanding mentoring in Rockland County for drug-affected youth, including a previously unreached religious community."
+ },
+ {
+  "id": "ASST_NON_15PJDP24GG02587MENT_015",
+  "org_scope": "local",
+  "targets": [
+   "at_risk_general",
+   "opioid_substance_affected",
+   "other"
+  ],
+  "format": "group",
+  "purpose": "delinquency_prevention",
+  "notes": "After-school group mentoring and case management for Black middle schoolers in east Cleveland."
+ },
+ {
+  "id": "ASST_NON_15PJDP24GG02588MENT_015",
+  "org_scope": "local",
+  "targets": [
+   "opioid_substance_affected",
+   "tribal_native",
+   "children_of_incarcerated",
+   "justice_involved",
+   "at_risk_general"
+  ],
+  "format": "unclear",
+  "purpose": "delinquency_prevention",
+  "notes": "Expanding a county mentoring program for youth at elevated risk of substance misuse."
+ },
+ {
+  "id": "ASST_NON_15PJDP24GG02589MENT_015",
+  "org_scope": "national_multisite",
+  "targets": [
+   "opioid_substance_affected",
+   "at_risk_general"
+  ],
+  "format": "group",
+  "purpose": "delinquency_prevention",
+  "notes": "Overnight camp-based group mentoring for youth with substance-affected family members at four sites."
+ },
+ {
+  "id": "ASST_NON_15PJDP24GG02590MENT_015",
+  "org_scope": "local",
+  "targets": [
+   "opioid_substance_affected",
+   "at_risk_general"
+  ],
+  "format": "mixed",
+  "purpose": "delinquency_prevention",
+  "notes": "Group cycles and one-to-one matches for opioid-affected youth in Salt Lake County."
+ },
+ {
+  "id": "ASST_NON_15PJDP24GG02591MENT_015",
+  "org_scope": "state_regional",
+  "targets": [
+   "opioid_substance_affected"
+  ],
+  "format": "unclear",
+  "purpose": "delinquency_prevention",
+  "notes": "Statewide Wyoming mentoring expansion for youth misusing or affected by substances."
+ },
+ {
+  "id": "ASST_NON_15PJDP24GG02862MENT_015",
+  "org_scope": "local",
+  "targets": [
+   "justice_involved"
+  ],
+  "format": "mixed",
+  "purpose": "delinquency_prevention",
+  "notes": "Group and one-on-one mentoring following core programming for juvenile justice-involved youth."
+ },
+ {
+  "id": "ASST_NON_15PJDP24GG02864MENT_015",
+  "org_scope": "local",
+  "targets": [
+   "justice_involved"
+  ],
+  "format": "group",
+  "purpose": "reentry",
+  "notes": "Detention-based and community group mentoring for El Paso youth on probation, supporting reintegration."
+ },
+ {
+  "id": "ASST_NON_15PJDP24GG02865MENT_015",
+  "org_scope": "local",
+  "targets": [
+   "justice_involved"
+  ],
+  "format": "mixed",
+  "purpose": "delinquency_prevention",
+  "notes": "Therapeutic individual and group mentoring for arrested or referred youth in Lake County, Illinois."
+ },
+ {
+  "id": "ASST_NON_15PJDP24GG02868MENT_015",
+  "org_scope": "local",
+  "targets": [
+   "justice_involved"
+  ],
+  "format": "unclear",
+  "purpose": "delinquency_prevention",
+  "notes": "Credible messenger mentoring and sports league for justice-involved youth in Fort Bend County."
+ },
+ {
+  "id": "ASST_NON_15PJDP24GG03790MENT_015",
+  "org_scope": "local",
+  "targets": [
+   "children_of_incarcerated"
+  ],
+  "format": "mixed",
+  "purpose": "youth_development",
+  "notes": "Weekly mentoring plus group events for children of incarcerated parents around New Orleans."
+ },
+ {
+  "id": "ASST_NON_15PJDP24GG03791MENT_015",
+  "org_scope": "state_regional",
+  "targets": [
+   "children_of_incarcerated"
+  ],
+  "format": "one_to_one",
+  "purpose": "youth_development",
+  "notes": "One-to-one mentoring for children of incarcerated parents in two western New York counties."
+ },
+ {
+  "id": "ASST_NON_15PJDP24GG03793MENT_015",
+  "org_scope": "state_regional",
+  "targets": [
+   "children_of_incarcerated",
+   "other"
+  ],
+  "format": "unclear",
+  "purpose": "youth_development",
+  "notes": "Culturally responsive mentoring and family support for Native Hawaiian children of incarcerated parents."
+ },
+ {
+  "id": "ASST_NON_15PJDP24GG03795MENT_015",
+  "org_scope": "national_multisite",
+  "targets": [
+   "children_of_incarcerated",
+   "foster_care",
+   "other"
+  ],
+  "format": "mixed",
+  "purpose": "youth_development",
+  "notes": "Trauma-informed group and one-on-one mentoring for children of incarcerated parents, with economic mobility focus."
+ },
+ {
+  "id": "ASST_NON_15PJDP24GG03814MENT_015",
+  "org_scope": "local",
+  "targets": [
+   "at_risk_general"
+  ],
+  "format": "mixed",
+  "purpose": "youth_development",
+  "notes": "Phased school and community mentoring for grades three to twelve in Washington DC area."
+ },
+ {
+  "id": "ASST_NON_15PJDP24GG03817MENT_015",
+  "org_scope": "state_regional",
+  "targets": [
+   "at_risk_general"
+  ],
+  "format": "group",
+  "purpose": "delinquency_prevention",
+  "notes": "Team mentoring, in-person and virtual, for at-risk middle schoolers in Los Angeles, San Diego, Fresno."
+ },
+ {
+  "id": "ASST_NON_15PJDP24GG03819MENT_015",
+  "org_scope": "national_multisite",
+  "targets": [
+   "at_risk_general",
+   "military_families"
+  ],
+  "format": "group",
+  "purpose": "youth_development",
+  "notes": "Park and recreation agencies adding group mentoring to out-of-school programs across ten states."
+ },
+ {
+  "id": "ASST_NON_15PJDP24GG03823MENT_015",
+  "org_scope": "national_multisite",
+  "targets": [
+   "at_risk_general"
+  ],
+  "format": "group",
+  "purpose": "youth_development",
+  "notes": "Sports-based group mentoring by coach-mentors for at-risk youth through eleven partner organizations."
+ },
+ {
+  "id": "ASST_NON_15PJDP24GG03825MENT_015",
+  "org_scope": "local",
+  "targets": [
+   "at_risk_general"
+  ],
+  "format": "one_to_one",
+  "purpose": "delinquency_prevention",
+  "notes": "Teen and college mentors give weekly school-based one-to-one mentoring to at-risk Oahu children."
+ },
+ {
+  "id": "ASST_NON_15PJDP24GG03827MENT_015",
+  "org_scope": "state_regional",
+  "targets": [
+   "girls",
+   "at_risk_general",
+   "disability"
+  ],
+  "format": "mixed",
+  "purpose": "youth_development",
+  "notes": "Mentoring, life skills and leadership for marginalized teen girls across north Georgia."
+ },
+ {
+  "id": "ASST_NON_15PJDP24GG03829MENT_015",
+  "org_scope": "national_multisite",
+  "targets": [
+   "at_risk_general",
+   "tribal_native"
+  ],
+  "format": "mixed",
+  "purpose": "academic",
+  "notes": "Salaried mentors at affiliate sites help at-risk students stay in school and graduate."
+ },
+ {
+  "id": "ASST_NON_15PJDP24GG03831MENT_015",
+  "org_scope": "national_multisite",
+  "targets": [
+   "at_risk_general",
+   "justice_involved"
+  ],
+  "format": "group",
+  "purpose": "delinquency_prevention",
+  "notes": "Baseball-themed group mentoring with social-emotional learning for at-risk and system-involved youth nationwide."
+ },
+ {
+  "id": "ASST_NON_15PJDP24GG03833MENT_015",
+  "org_scope": "national_multisite",
+  "targets": [
+   "at_risk_general"
+  ],
+  "format": "one_to_one",
+  "purpose": "delinquency_prevention",
+  "notes": "Salaried professional mentors commit to highest-risk children long term through national network chapters."
+ },
+ {
+  "id": "ASST_NON_15PJDP24GG03835MENT_015",
+  "org_scope": "national_multisite",
+  "targets": [
+   "disability",
+   "at_risk_general"
+  ],
+  "format": "mixed",
+  "purpose": "career_workforce",
+  "notes": "Career-focused one-to-one, peer and group mentoring for youth with disabilities at seven sites."
+ },
+ {
+  "id": "ASST_NON_15PJDP24GG03836MENT_015",
+  "org_scope": "national_multisite",
+  "targets": [
+   "at_risk_general"
+  ],
+  "format": "one_to_one",
+  "purpose": "delinquency_prevention",
+  "notes": "National intermediary supporting trauma-informed one-on-one mentoring at seven Catholic Charities agencies."
+ },
+ {
+  "id": "ASST_NON_15PJDP24GG03837MENT_015",
+  "org_scope": "state_regional",
+  "targets": [
+   "at_risk_general",
+   "other"
+  ],
+  "format": "mixed",
+  "purpose": "delinquency_prevention",
+  "notes": "Village mentoring combining one-on-one and team formats in affordable housing communities across the Northeast."
+ },
+ {
+  "id": "ASST_NON_15PJDP24GG03838MENT_015",
+  "org_scope": "national_multisite",
+  "targets": [
+   "at_risk_general",
+   "children_of_incarcerated"
+  ],
+  "format": "peer",
+  "purpose": "youth_development",
+  "notes": "High school peer mentors lead sessions for younger students in schools across six states."
+ },
+ {
+  "id": "ASST_NON_15PNIJ23GG04238MENT_015",
+  "org_scope": "unclear",
+  "targets": [
+   "justice_involved"
+  ],
+  "format": "unclear",
+  "purpose": "research_evaluation",
+  "notes": "Mixed-method evaluation of credible messenger mentoring programs in schools, communities and detention."
+ },
+ {
+  "id": "ASST_NON_2007JUFX0007_015",
+  "org_scope": "unclear",
+  "targets": [],
+  "format": "unclear",
+  "purpose": "unclear",
+  "notes": "Title only; mentoring children of purpose, with no further detail given."
+ }
+]

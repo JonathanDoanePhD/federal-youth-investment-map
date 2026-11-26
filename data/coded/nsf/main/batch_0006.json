@@ -1,0 +1,959 @@
+[
+ {
+  "id": "1461468",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators",
+   "families"
+  ],
+  "grade_band": "prek",
+  "models": [
+   "research_only",
+   "teacher_pd"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "black"
+  ],
+  "setting": "mixed",
+  "youth_reach": null,
+  "evaluation": "design_qualitative",
+  "service_geography": "local",
+  "notes": "Ethnographic study of preschool to first grade math learning at a school and home, plus teacher education cases."
+ },
+ {
+  "id": "1461479",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "undergraduates"
+  ],
+  "grade_band": "mixed_ages",
+  "models": [
+   "research_apprenticeship",
+   "mentoring",
+   "other"
+  ],
+  "mentoring": "component",
+  "bridging": "unclear",
+  "ai_cs": "none",
+  "targets": [
+   "native_indigenous",
+   "low_income",
+   "girls_women"
+  ],
+  "setting": "college_campus",
+  "youth_reach": null,
+  "evaluation": "unspecified",
+  "service_geography": "local",
+  "notes": "Tribal college strengthens STEM and undergraduate research; includes K-12 science fairs and graduates paired with teacher-mentor."
+ },
+ {
+  "id": "1461833",
+  "serves_youth": "indirect",
+  "audience": [
+   "teachers_educators"
+  ],
+  "grade_band": "elementary",
+  "models": [
+   "teacher_pd",
+   "network_coalition"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "unclear",
+  "youth_reach": null,
+  "evaluation": "design_qualitative",
+  "service_geography": "national",
+  "notes": "Conference teaching university instructors a group-work pedagogy for elementary math methods courses, followed up by surveys and interviews."
+ },
+ {
+  "id": "1501158",
+  "serves_youth": "indirect",
+  "audience": [
+   "researchers",
+   "teachers_educators",
+   "general_public"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "network_coalition"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "unclear",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "national",
+  "notes": "Two-day workshop gathering practitioners to plan how citizen science can improve informal and school STEM learning."
+ },
+ {
+  "id": "1502462",
+  "serves_youth": "indirect",
+  "audience": [
+   "teachers_educators"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "teacher_pd",
+   "school_curriculum"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "general"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "unspecified",
+  "service_geography": "national",
+  "notes": "Large-scale blended training for teachers new to computer science, delivered through Project Lead the Way course network."
+ },
+ {
+  "id": "1502507",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "elementary",
+  "models": [
+   "school_curriculum"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "english_learners"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "rct",
+  "service_geography": "unclear",
+  "notes": "Builds year-long fifth grade science curriculum emphasizing language support for English learners; tested in randomized pilot."
+ },
+ {
+  "id": "1502571",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "middle",
+  "models": [
+   "school_curriculum",
+   "teacher_pd",
+   "online_tool_game"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "quasi_experimental",
+  "service_geography": "unclear",
+  "notes": "Rebuilds a middle school life science unit as digital curriculum with online teacher training; quasi-experimental study."
+ },
+ {
+  "id": "1502711",
+  "serves_youth": "indirect",
+  "audience": [
+   "teachers_educators",
+   "researchers"
+  ],
+  "grade_band": "elementary",
+  "models": [
+   "research_only",
+   "other"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "unclear",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "unclear",
+  "notes": "Studies simulated-student assessments for judging elementary math teaching readiness; no youth participants."
+ },
+ {
+  "id": "1502755",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "middle",
+  "models": [
+   "school_curriculum",
+   "research_only"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "school_day",
+  "youth_reach": 500,
+  "evaluation": "design_qualitative",
+  "service_geography": "unclear",
+  "notes": "Design research on engineering identity in grades 6-7 using tools built around sustainability design challenges."
+ },
+ {
+  "id": "1502778",
+  "serves_youth": "indirect",
+  "audience": [
+   "teachers_educators",
+   "researchers"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "network_coalition",
+   "teacher_pd",
+   "other"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "unclear",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "national",
+  "notes": "Item-writing camps pairing mathematicians and educators to build a community and question bank on teachers' math knowledge."
+ },
+ {
+  "id": "1502798",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "middle",
+  "models": [
+   "school_curriculum",
+   "online_tool_game"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "school_day",
+  "youth_reach": 320,
+  "evaluation": "pre_post",
+  "service_geography": "unclear",
+  "notes": "Week-long middle school astronomy labs blending physical and virtual models to build spatial thinking; classroom testing."
+ },
+ {
+  "id": "1502882",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "online_tool_game",
+   "research_only"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "general"
+  ],
+  "setting": "mixed",
+  "youth_reach": null,
+  "evaluation": "pre_post",
+  "service_geography": "unclear",
+  "notes": "Research on computational thinking learned through the Zoombinis game in upper elementary and middle grades, with teacher resources."
+ },
+ {
+  "id": "1502892",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "high",
+  "models": [
+   "teacher_pd",
+   "mentoring",
+   "online_tool_game",
+   "research_apprenticeship"
+  ],
+  "mentoring": "central",
+  "bridging": "yes",
+  "ai_cs": "none",
+  "targets": [
+   "low_income"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "rct",
+  "service_geography": "national",
+  "notes": "Teachers and scientists guide high school biology students online through real plant investigations; randomized trial, Title 1 schools preferred."
+ },
+ {
+  "id": "1503005",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "school_curriculum",
+   "teacher_pd"
+  ],
+  "mentoring": "none",
+  "bridging": "unclear",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "rct",
+  "service_geography": "multi_state",
+  "notes": "Tests short classroom data-analysis activities from real research in grades 6-10 through randomized trial with 30 teachers."
+ },
+ {
+  "id": "1503057",
+  "serves_youth": "indirect",
+  "audience": [
+   "teachers_educators"
+  ],
+  "grade_band": "middle",
+  "models": [
+   "teacher_pd"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "english_learners"
+  ],
+  "setting": "mixed",
+  "youth_reach": null,
+  "evaluation": "rct",
+  "service_geography": "multi_state",
+  "notes": "Blended summer and online training in visual math representations for teachers of English learners; randomized across thirty middle schools."
+ },
+ {
+  "id": "1503153",
+  "serves_youth": "indirect",
+  "audience": [
+   "teachers_educators"
+  ],
+  "grade_band": "middle",
+  "models": [
+   "teacher_pd"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "unclear",
+  "youth_reach": null,
+  "evaluation": "design_qualitative",
+  "service_geography": "unclear",
+  "notes": "Year-long professional learning program turning hands-on activities into standards-aligned investigations for middle school science teachers."
+ },
+ {
+  "id": "1503161",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students"
+  ],
+  "grade_band": "elementary",
+  "models": [
+   "school_curriculum",
+   "online_tool_game"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "school_day",
+  "youth_reach": 700,
+  "evaluation": "rct",
+  "service_geography": "unclear",
+  "notes": "Technology and hands-on math intervention on measurement and data for struggling first and second graders; randomized pilots."
+ },
+ {
+  "id": "1503170",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "school_curriculum",
+   "online_tool_game",
+   "teacher_pd"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "school_day",
+  "youth_reach": 2000,
+  "evaluation": "design_qualitative",
+  "service_geography": "multi_state",
+  "notes": "University of Virginia partner site of SmartCAD, simulation-based automatic feedback on student engineering designs in secondary classrooms."
+ },
+ {
+  "id": "1503196",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "school_curriculum",
+   "online_tool_game",
+   "teacher_pd"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "school_day",
+  "youth_reach": 2000,
+  "evaluation": "design_qualitative",
+  "service_geography": "multi_state",
+  "notes": "Concord lead site of SmartCAD, giving secondary students automatic simulation feedback on engineering designs; design-based research."
+ },
+ {
+  "id": "1503206",
+  "serves_youth": "indirect",
+  "audience": [
+   "teachers_educators",
+   "k12_students"
+  ],
+  "grade_band": "elementary",
+  "models": [
+   "teacher_pd"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "low_income",
+   "urban"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "unspecified",
+  "service_geography": "local",
+  "notes": "Training grades 3-5 teachers in an adaptive approach to fractions and multiplication in an urban district with underserved students."
+ },
+ {
+  "id": "1503211",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "school_curriculum",
+   "teacher_pd"
+  ],
+  "mentoring": "none",
+  "bridging": "unclear",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "rct",
+  "service_geography": "multi_state",
+  "notes": "Data-based science activities for grades 6-10 with teacher training, evaluated by a cluster randomized trial across three states."
+ },
+ {
+  "id": "1503255",
+  "serves_youth": "indirect",
+  "audience": [
+   "teachers_educators"
+  ],
+  "grade_band": "middle",
+  "models": [
+   "online_tool_game",
+   "teacher_pd",
+   "research_only"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "design_qualitative",
+  "service_geography": "multi_state",
+  "notes": "Design research refining a data dashboard so middle school science teachers can use game-based assessment results."
+ },
+ {
+  "id": "1503277",
+  "serves_youth": "indirect",
+  "audience": [
+   "teachers_educators",
+   "researchers"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "network_coalition",
+   "other"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "unclear",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "national",
+  "notes": "Funds travel for math educators to an international congress and produces a report on mathematics education in the US."
+ },
+ {
+  "id": "1503280",
+  "serves_youth": "indirect",
+  "audience": [
+   "teachers_educators",
+   "k12_students"
+  ],
+  "grade_band": "high",
+  "models": [
+   "teacher_pd"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "quasi_experimental",
+  "service_geography": "unclear",
+  "notes": "Video-based professional development for high school biology teachers; teachers serve as own comparison to gauge student achievement effects."
+ },
+ {
+  "id": "1503311",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "high",
+  "models": [
+   "online_tool_game",
+   "school_curriculum"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "unspecified",
+  "service_geography": "multi_state",
+  "notes": "Builds a monitoring tool giving students and teachers feedback inside a digital high school genetics curriculum."
+ },
+ {
+  "id": "1503315",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "school_curriculum",
+   "mentoring",
+   "career_exposure",
+   "exhibit_media",
+   "teacher_pd"
+  ],
+  "mentoring": "component",
+  "bridging": "yes",
+  "ai_cs": "none",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "school_day",
+  "youth_reach": 1700,
+  "evaluation": "quasi_experimental",
+  "service_geography": "national",
+  "notes": "Scales teen STEM news video reporting labs in schools with public-media and professional mentors; compares with control students."
+ },
+ {
+  "id": "1503330",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "elementary",
+  "models": [
+   "school_curriculum"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "english_learners"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "rct",
+  "service_geography": "unclear",
+  "notes": "New York University site of fifth grade science materials supporting English learners through language-focused instruction; randomized pilot."
+ },
+ {
+  "id": "1503342",
+  "serves_youth": "indirect",
+  "audience": [
+   "teachers_educators"
+  ],
+  "grade_band": "high",
+  "models": [
+   "teacher_pd"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "pre_post",
+  "service_geography": "local",
+  "notes": "District partnership using lesson study and coaching tools to improve high school math teaching in Oakland."
+ },
+ {
+  "id": "1503358",
+  "serves_youth": "indirect",
+  "audience": [
+   "teachers_educators",
+   "researchers"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "network_coalition"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "unclear",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "national",
+  "notes": "Conference of forty math teacher educators setting shared research-based practices and questions for methods courses."
+ },
+ {
+  "id": "1503383",
+  "serves_youth": "indirect",
+  "audience": [
+   "teachers_educators"
+  ],
+  "grade_band": "middle",
+  "models": [
+   "teacher_pd",
+   "online_tool_game"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "general"
+  ],
+  "setting": "mixed",
+  "youth_reach": null,
+  "evaluation": "quasi_experimental",
+  "service_geography": "local",
+  "notes": "Santa Fe teacher training in computer modeling and simulation for middle school science, studied through implementation research."
+ },
+ {
+  "id": "1503395",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "middle",
+  "models": [
+   "school_curriculum",
+   "online_tool_game"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "school_day",
+  "youth_reach": 320,
+  "evaluation": "pre_post",
+  "service_geography": "unclear",
+  "notes": "Harvard-based record of middle school astronomy lab units building spatial reasoning with physical and virtual models."
+ },
+ {
+  "id": "1503399",
+  "serves_youth": "indirect",
+  "audience": [
+   "teachers_educators",
+   "k12_students"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "teacher_pd"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "rct",
+  "service_geography": "unclear",
+  "notes": "Randomized efficacy study of a geometry professional development course for secondary teachers across 28 schools."
+ },
+ {
+  "id": "1503414",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "high",
+  "models": [
+   "school_curriculum",
+   "career_exposure"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "general"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "unspecified",
+  "service_geography": "multi_state",
+  "notes": "High school modules combining math, computing and science around sustainability, with green career information; tested in four states."
+ },
+ {
+  "id": "1503428",
+  "serves_youth": "indirect",
+  "audience": [
+   "teachers_educators",
+   "k12_students"
+  ],
+  "grade_band": "elementary",
+  "models": [
+   "teacher_pd",
+   "school_curriculum"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "english_learners"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "design_qualitative",
+  "service_geography": "unclear",
+  "notes": "Helps elementary teachers use engineering design lessons with bilingual learners; mostly measures teacher practice and confidence."
+ },
+ {
+  "id": "1503436",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "school_curriculum",
+   "online_tool_game",
+   "teacher_pd"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "school_day",
+  "youth_reach": 2000,
+  "evaluation": "design_qualitative",
+  "service_geography": "multi_state",
+  "notes": "Purdue partner site of SmartCAD engineering design software with simulation feedback, field tested in several states."
+ },
+ {
+  "id": "1503439",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "middle",
+  "models": [
+   "online_tool_game",
+   "teacher_pd"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "disability"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "design_qualitative",
+  "service_geography": "national",
+  "notes": "Accessible science simulations for middle school students with and without disabilities, studied by interviews."
+ },
+ {
+  "id": "1503451",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students"
+  ],
+  "grade_band": "elementary",
+  "models": [
+   "online_tool_game",
+   "school_curriculum"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "disability"
+  ],
+  "setting": "mixed",
+  "youth_reach": null,
+  "evaluation": "rct",
+  "service_geography": "unclear",
+  "notes": "Tutoring app for second and third graders with math learning disabilities; single-subject then randomized comparison testing."
+ },
+ {
+  "id": "1503454",
+  "serves_youth": "indirect",
+  "audience": [
+   "teachers_educators"
+  ],
+  "grade_band": "high",
+  "models": [
+   "teacher_pd"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "pre_post",
+  "service_geography": "local",
+  "notes": "Berkeley site of lesson study and teaching-framework work to improve high school math instruction in Oakland schools."
+ },
+ {
+  "id": "1503456",
+  "serves_youth": "indirect",
+  "audience": [
+   "teachers_educators",
+   "researchers"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "research_only",
+   "teacher_pd"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "design_qualitative",
+  "service_geography": "unclear",
+  "notes": "Video case studies of strong teachers' discussion strategies for science modeling, yielding framework and website for educators."
+ },
+ {
+  "id": "1503481",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "middle",
+  "models": [
+   "online_tool_game",
+   "teacher_pd",
+   "school_curriculum"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "quasi_experimental",
+  "service_geography": "state_regional",
+  "notes": "Ecosystem simulation games serving as formative assessment for middle schoolers; Bay Area teachers; compared with non-game classes."
+ }
+]

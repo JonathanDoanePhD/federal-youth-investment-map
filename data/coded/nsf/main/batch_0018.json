@@ -1,0 +1,1026 @@
+[
+ {
+  "id": "1649263",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "families"
+  ],
+  "grade_band": "middle",
+  "models": [
+   "network_coalition",
+   "school_curriculum"
+  ],
+  "mentoring": "none",
+  "bridging": "unclear",
+  "ai_cs": "none",
+  "targets": [
+   "underrepresented_general",
+   "girls_women"
+  ],
+  "setting": "unclear",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "state_regional",
+  "notes": "Two HBCUs form a North Carolina network piloting inquiry-based STEM teaching for middle schoolers and families."
+ },
+ {
+  "id": "1649267",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "middle",
+  "models": [
+   "network_coalition",
+   "mentoring",
+   "school_curriculum",
+   "teacher_pd"
+  ],
+  "mentoring": "component",
+  "bridging": "unclear",
+  "ai_cs": "none",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "unclear",
+  "youth_reach": null,
+  "evaluation": "unspecified",
+  "service_geography": "multi_state",
+  "notes": "HBCU-led improvement network building STEM pathways for middle school minority boys, with mentoring and shared metrics."
+ },
+ {
+  "id": "1649270",
+  "serves_youth": "none",
+  "audience": [
+   "undergraduates",
+   "teachers_educators"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "network_coalition",
+   "teacher_pd",
+   "other"
+  ],
+  "mentoring": "none",
+  "bridging": "unclear",
+  "ai_cs": "none",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "college_campus",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "multi_state",
+  "notes": "University alliance piloting student exchanges, social-science inquiry and faculty training to retain underrepresented undergraduates in STEM."
+ },
+ {
+  "id": "1649271",
+  "serves_youth": "none",
+  "audience": [
+   "undergraduates"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "network_coalition",
+   "research_only"
+  ],
+  "mentoring": "none",
+  "bridging": "unclear",
+  "ai_cs": "computing",
+  "targets": [
+   "hispanic_latino"
+  ],
+  "setting": "college_campus",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "multi_state",
+  "notes": "Networked community moving Hispanic students through college transitions toward computing graduate degrees."
+ },
+ {
+  "id": "1649276",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "undergraduates",
+   "teachers_educators",
+   "researchers"
+  ],
+  "grade_band": "mixed_ages",
+  "models": [
+   "network_coalition",
+   "other"
+  ],
+  "mentoring": "none",
+  "bridging": "unclear",
+  "ai_cs": "none",
+  "targets": [
+   "disability"
+  ],
+  "setting": "mixed",
+  "youth_reach": null,
+  "evaluation": "unspecified",
+  "service_geography": "multi_state",
+  "notes": "Southeastern alliance supporting students with disabilities in STEM from high school through faculty roles, using a bridge model."
+ },
+ {
+  "id": "1649277",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "undergraduates"
+  ],
+  "grade_band": "mixed_ages",
+  "models": [
+   "school_curriculum",
+   "network_coalition"
+  ],
+  "mentoring": "none",
+  "bridging": "unclear",
+  "ai_cs": "computing",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "unclear",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "local",
+  "notes": "San Francisco university, school district and chamber partnership for inclusive computing education at every level."
+ },
+ {
+  "id": "1649285",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "undergraduates",
+   "teachers_educators",
+   "researchers"
+  ],
+  "grade_band": "mixed_ages",
+  "models": [
+   "network_coalition",
+   "other"
+  ],
+  "mentoring": "none",
+  "bridging": "unclear",
+  "ai_cs": "none",
+  "targets": [
+   "disability"
+  ],
+  "setting": "mixed",
+  "youth_reach": null,
+  "evaluation": "unspecified",
+  "service_geography": "multi_state",
+  "notes": "Southeastern alliance supporting students with disabilities in STEM from high school through faculty roles, using a bridge model."
+ },
+ {
+  "id": "1649289",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "families",
+   "undergraduates"
+  ],
+  "grade_band": "high",
+  "models": [
+   "summer_program",
+   "out_of_school_program",
+   "mentoring",
+   "other"
+  ],
+  "mentoring": "component",
+  "bridging": "unclear",
+  "ai_cs": "none",
+  "targets": [
+   "hispanic_latino",
+   "girls_women"
+  ],
+  "setting": "mixed",
+  "youth_reach": null,
+  "evaluation": "unspecified",
+  "service_geography": "unclear",
+  "notes": "Recruits Hispanic girls from ninth grade into summer lab and year-round STEM activities, scholarships and mentoring toward college."
+ },
+ {
+  "id": "1649296",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "undergraduates",
+   "teachers_educators"
+  ],
+  "grade_band": "high",
+  "models": [
+   "mentoring",
+   "teacher_pd",
+   "network_coalition",
+   "career_exposure"
+  ],
+  "mentoring": "central",
+  "bridging": "yes",
+  "ai_cs": "none",
+  "targets": [
+   "native_indigenous",
+   "hispanic_latino",
+   "low_income",
+   "rural"
+  ],
+  "setting": "mixed",
+  "youth_reach": null,
+  "evaluation": "unspecified",
+  "service_geography": "state_regional",
+  "notes": "Trains local Native and Hispanic college students as STEM mentors placed in schools for high schoolers."
+ },
+ {
+  "id": "1649297",
+  "serves_youth": "none",
+  "audience": [
+   "researchers"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "network_coalition",
+   "research_only",
+   "other"
+  ],
+  "mentoring": "none",
+  "bridging": "unclear",
+  "ai_cs": "none",
+  "targets": [
+   "girls_women",
+   "underrepresented_general"
+  ],
+  "setting": "college_campus",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "national",
+  "notes": "Physics departments network on inclusive graduate admissions, with faculty training and data reporting."
+ },
+ {
+  "id": "1649298",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "undergraduates",
+   "teachers_educators",
+   "general_public"
+  ],
+  "grade_band": "mixed_ages",
+  "models": [
+   "network_coalition",
+   "school_curriculum",
+   "out_of_school_program"
+  ],
+  "mentoring": "none",
+  "bridging": "yes",
+  "ai_cs": "none",
+  "targets": [
+   "underrepresented_general",
+   "girls_women",
+   "urban"
+  ],
+  "setting": "mixed",
+  "youth_reach": null,
+  "evaluation": "pre_post",
+  "service_geography": "local",
+  "notes": "Chicago alliance with community STEM center linking students, residents and experts; pre/post surveys plus case study."
+ },
+ {
+  "id": "1649300",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "undergraduates"
+  ],
+  "grade_band": "mixed_ages",
+  "models": [
+   "research_apprenticeship",
+   "mentoring",
+   "network_coalition"
+  ],
+  "mentoring": "component",
+  "bridging": "yes",
+  "ai_cs": "none",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "mixed",
+  "youth_reach": null,
+  "evaluation": "unspecified",
+  "service_geography": "state_regional",
+  "notes": "Virgin Islands marine science field and research experiences from middle school to doctoral bridge, plus intensive mentoring."
+ },
+ {
+  "id": "1649310",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators",
+   "undergraduates",
+   "researchers"
+  ],
+  "grade_band": "high",
+  "models": [
+   "research_apprenticeship",
+   "mentoring",
+   "summer_program",
+   "network_coalition"
+  ],
+  "mentoring": "central",
+  "bridging": "yes",
+  "ai_cs": "none",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "mixed",
+  "youth_reach": null,
+  "evaluation": "unspecified",
+  "service_geography": "state_regional",
+  "notes": "Expands a Columbia field research internship for high schoolers to about eleven Hudson Valley sites with layered mentoring."
+ },
+ {
+  "id": "1649312",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "undergraduates"
+  ],
+  "grade_band": "mixed_ages",
+  "models": [
+   "out_of_school_program",
+   "mentoring",
+   "career_exposure",
+   "network_coalition",
+   "other"
+  ],
+  "mentoring": "component",
+  "bridging": "yes",
+  "ai_cs": "computing",
+  "targets": [
+   "girls_women",
+   "black"
+  ],
+  "setting": "mixed",
+  "youth_reach": null,
+  "evaluation": "quasi_experimental",
+  "service_geography": "state_regional",
+  "notes": "Mississippi alliance drawing girls and women into computing via outreach, scholarships and job shadowing; compares participants with non-participants."
+ },
+ {
+  "id": "1649316",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "middle",
+  "models": [
+   "network_coalition",
+   "mentoring",
+   "school_curriculum",
+   "teacher_pd"
+  ],
+  "mentoring": "component",
+  "bridging": "unclear",
+  "ai_cs": "none",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "unclear",
+  "youth_reach": null,
+  "evaluation": "unspecified",
+  "service_geography": "multi_state",
+  "notes": "HBCU-led improvement network building STEM pathways for middle school minority boys, with mentoring and shared metrics."
+ },
+ {
+  "id": "1649320",
+  "serves_youth": "none",
+  "audience": [
+   "researchers"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "research_only",
+   "network_coalition"
+  ],
+  "mentoring": "central",
+  "bridging": "unclear",
+  "ai_cs": "none",
+  "targets": [
+   "black",
+   "hispanic_latino"
+  ],
+  "setting": "college_campus",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "national",
+  "notes": "Data portal studying mentoring effectiveness across three minority doctoral scholar programs."
+ },
+ {
+  "id": "1649323",
+  "serves_youth": "indirect",
+  "audience": [
+   "undergraduates",
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "mixed_ages",
+  "models": [
+   "other",
+   "career_exposure",
+   "mentoring"
+  ],
+  "mentoring": "component",
+  "bridging": "yes",
+  "ai_cs": "none",
+  "targets": [
+   "first_generation",
+   "rural"
+  ],
+  "setting": "college_campus",
+  "youth_reach": null,
+  "evaluation": "unspecified",
+  "service_geography": "state_regional",
+  "notes": "West Virginia early-college courses with research internships; student ambassadors mentor peers and visit hometown schools."
+ },
+ {
+  "id": "1649328",
+  "serves_youth": "none",
+  "audience": [
+   "researchers"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "research_only",
+   "network_coalition"
+  ],
+  "mentoring": "central",
+  "bridging": "unclear",
+  "ai_cs": "none",
+  "targets": [
+   "black",
+   "hispanic_latino"
+  ],
+  "setting": "college_campus",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "national",
+  "notes": "Data portal studying mentoring effectiveness across three minority doctoral scholar programs."
+ },
+ {
+  "id": "1649338",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "undergraduates",
+   "researchers"
+  ],
+  "grade_band": "mixed_ages",
+  "models": [
+   "network_coalition",
+   "research_apprenticeship",
+   "other"
+  ],
+  "mentoring": "none",
+  "bridging": "yes",
+  "ai_cs": "none",
+  "targets": [
+   "native_indigenous"
+  ],
+  "setting": "mixed",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "multi_state",
+  "notes": "Partnerships linking tribal communities and geoscience institutions, building Native student pathways from middle school through graduate study."
+ },
+ {
+  "id": "1649342",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators",
+   "researchers"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "school_curriculum",
+   "teacher_pd",
+   "network_coalition",
+   "other"
+  ],
+  "mentoring": "none",
+  "bridging": "unclear",
+  "ai_cs": "none",
+  "targets": [
+   "black",
+   "hispanic_latino",
+   "native_indigenous",
+   "disability",
+   "urban",
+   "rural"
+  ],
+  "setting": "mixed",
+  "youth_reach": null,
+  "evaluation": "unspecified",
+  "service_geography": "national",
+  "notes": "Algebra Project and youth group network planning math improvement for lowest-quartile students, with game workshops and teacher support."
+ },
+ {
+  "id": "1649344",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "undergraduates",
+   "teachers_educators",
+   "researchers"
+  ],
+  "grade_band": "mixed_ages",
+  "models": [
+   "network_coalition",
+   "other"
+  ],
+  "mentoring": "none",
+  "bridging": "unclear",
+  "ai_cs": "none",
+  "targets": [
+   "disability"
+  ],
+  "setting": "mixed",
+  "youth_reach": null,
+  "evaluation": "unspecified",
+  "service_geography": "multi_state",
+  "notes": "Southeastern alliance supporting students with disabilities in STEM from high school through faculty roles, using a bridge model."
+ },
+ {
+  "id": "1649346",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "families",
+   "teachers_educators",
+   "undergraduates"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "research_apprenticeship",
+   "mentoring",
+   "network_coalition",
+   "career_exposure"
+  ],
+  "mentoring": "component",
+  "bridging": "yes",
+  "ai_cs": "none",
+  "targets": [
+   "underrepresented_general",
+   "girls_women"
+  ],
+  "setting": "mixed",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "multi_state",
+  "notes": "Scaling a stormwater research program with mentored apprenticeships into a pre-college collaborative across several locations."
+ },
+ {
+  "id": "1649355",
+  "serves_youth": "indirect",
+  "audience": [
+   "undergraduates",
+   "k12_students"
+  ],
+  "grade_band": "mixed_ages",
+  "models": [
+   "network_coalition",
+   "other"
+  ],
+  "mentoring": "none",
+  "bridging": "unclear",
+  "ai_cs": "none",
+  "targets": [
+   "black",
+   "native_indigenous",
+   "hispanic_latino",
+   "girls_women"
+  ],
+  "setting": "unclear",
+  "youth_reach": null,
+  "evaluation": "unspecified",
+  "service_geography": "national",
+  "notes": "Coalition of engineering societies pursuing more degrees for minorities and women, including K-12 support and shared metrics."
+ },
+ {
+  "id": "1649361",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students"
+  ],
+  "grade_band": "middle",
+  "models": [
+   "summer_program",
+   "network_coalition"
+  ],
+  "mentoring": "none",
+  "bridging": "unclear",
+  "ai_cs": "none",
+  "targets": [
+   "low_income",
+   "first_generation",
+   "girls_women",
+   "underrepresented_general"
+  ],
+  "setting": "summer",
+  "youth_reach": null,
+  "evaluation": "unspecified",
+  "service_geography": "state_regional",
+  "notes": "Utah partners run seven-week summer math and science programs for seventh graders, expanding to more campuses."
+ },
+ {
+  "id": "1649365",
+  "serves_youth": "none",
+  "audience": [
+   "undergraduates",
+   "researchers"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "research_only",
+   "network_coalition",
+   "other"
+  ],
+  "mentoring": "none",
+  "bridging": "unclear",
+  "ai_cs": "none",
+  "targets": [
+   "girls_women",
+   "underrepresented_general"
+  ],
+  "setting": "college_campus",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "national",
+  "notes": "Study and coordination of programs retaining women in mathematics graduate study, with interviews and a community website."
+ },
+ {
+  "id": "1649367",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "undergraduates"
+  ],
+  "grade_band": "mixed_ages",
+  "models": [
+   "research_apprenticeship",
+   "career_exposure",
+   "network_coalition"
+  ],
+  "mentoring": "component",
+  "bridging": "unclear",
+  "ai_cs": "none",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "mixed",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "multi_state",
+  "notes": "Geoscience pathways in Atlanta, San Bernardino and Oklahoma using local problems and mentored research from middle school onward."
+ },
+ {
+  "id": "1649375",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "undergraduates",
+   "researchers"
+  ],
+  "grade_band": "mixed_ages",
+  "models": [
+   "network_coalition",
+   "research_apprenticeship",
+   "other"
+  ],
+  "mentoring": "none",
+  "bridging": "yes",
+  "ai_cs": "none",
+  "targets": [
+   "native_indigenous"
+  ],
+  "setting": "mixed",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "multi_state",
+  "notes": "Partnerships linking tribal communities and geoscience institutions, building Native student pathways from middle school through graduate study."
+ },
+ {
+  "id": "1649377",
+  "serves_youth": "direct",
+  "audience": [
+   "out_of_school_youth"
+  ],
+  "grade_band": "mixed_ages",
+  "models": [
+   "other",
+   "career_exposure",
+   "network_coalition"
+  ],
+  "mentoring": "component",
+  "bridging": "yes",
+  "ai_cs": "computing",
+  "targets": [
+   "girls_women",
+   "low_income",
+   "underrepresented_general"
+  ],
+  "setting": "community",
+  "youth_reach": 150,
+  "evaluation": "rct",
+  "service_geography": "local",
+  "notes": "Orange County coding boot camp for low-income, unemployed women aged 16 to 34, with internships and randomized comparison."
+ },
+ {
+  "id": "1649378",
+  "serves_youth": "indirect",
+  "audience": [
+   "k12_students",
+   "undergraduates"
+  ],
+  "grade_band": "mixed_ages",
+  "models": [
+   "network_coalition",
+   "research_only"
+  ],
+  "mentoring": "none",
+  "bridging": "unclear",
+  "ai_cs": "none",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "unclear",
+  "youth_reach": null,
+  "evaluation": "unspecified",
+  "service_geography": "state_regional",
+  "notes": "New Mexico effort coordinating existing STEM pipeline programs, with common assessment of why minority students leave."
+ },
+ {
+  "id": "1649380",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "families"
+  ],
+  "grade_band": "mixed_ages",
+  "models": [
+   "network_coalition",
+   "research_only"
+  ],
+  "mentoring": "none",
+  "bridging": "unclear",
+  "ai_cs": "none",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "community",
+  "youth_reach": null,
+  "evaluation": "design_qualitative",
+  "service_geography": "state_regional",
+  "notes": "Bay Area planning of a STEM collective impact network using participatory action research with youth and families."
+ },
+ {
+  "id": "1649381",
+  "serves_youth": "none",
+  "audience": [
+   "undergraduates"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "other",
+   "career_exposure",
+   "network_coalition"
+  ],
+  "mentoring": "none",
+  "bridging": "yes",
+  "ai_cs": "none",
+  "targets": [
+   "underrepresented_general",
+   "girls_women"
+  ],
+  "setting": "college_campus",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "multi_state",
+  "notes": "Community college accelerated math sequence with paid employer internships, replicated across California and Maryland campuses."
+ },
+ {
+  "id": "1649384",
+  "serves_youth": "none",
+  "audience": [
+   "teachers_educators"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "teacher_pd",
+   "mentoring",
+   "network_coalition"
+  ],
+  "mentoring": "component",
+  "bridging": "unclear",
+  "ai_cs": "none",
+  "targets": [
+   "underrepresented_general",
+   "native_indigenous"
+  ],
+  "setting": "online",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "national",
+  "notes": "Professional society alliance supporting early-career underrepresented engineering faculty through year-round programming and mentoring."
+ },
+ {
+  "id": "1649979",
+  "serves_youth": "indirect",
+  "audience": [
+   "teachers_educators",
+   "researchers"
+  ],
+  "grade_band": "middle",
+  "models": [
+   "research_only",
+   "teacher_pd"
+  ],
+  "mentoring": "none",
+  "bridging": "unclear",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "design_qualitative",
+  "service_geography": "unclear",
+  "notes": "Video study of math classroom talk in grades five to seven, informing redesigned teacher preparation courses."
+ },
+ {
+  "id": "1649981",
+  "serves_youth": "indirect",
+  "audience": [
+   "researchers"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "research_only"
+  ],
+  "mentoring": "none",
+  "bridging": "unclear",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "unclear",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "national",
+  "notes": "International comparison of mathematics standards and textbooks to benchmark US Common Core standards."
+ },
+ {
+  "id": "1650158",
+  "serves_youth": "none",
+  "audience": [
+   "researchers"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "network_coalition"
+  ],
+  "mentoring": "none",
+  "bridging": "unclear",
+  "ai_cs": "none",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "mixed",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "national",
+  "notes": "Conference, in person and virtual, shaping backbone organizations and shared measurement for broadening-participation projects."
+ },
+ {
+  "id": "1650289",
+  "serves_youth": "none",
+  "audience": [
+   "researchers"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "network_coalition"
+  ],
+  "mentoring": "none",
+  "bridging": "unclear",
+  "ai_cs": "none",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "mixed",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "national",
+  "notes": "Conference, in person and virtual, shaping backbone organizations and shared measurement for broadening-participation projects."
+ },
+ {
+  "id": "1650390",
+  "serves_youth": "none",
+  "audience": [
+   "researchers",
+   "teachers_educators"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "network_coalition",
+   "other"
+  ],
+  "mentoring": "none",
+  "bridging": "unclear",
+  "ai_cs": "none",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "mixed",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "national",
+  "notes": "Conference, tutorial and webinar teaching evaluation methods to broadening-participation project teams."
+ },
+ {
+  "id": "1650433",
+  "serves_youth": "none",
+  "audience": [
+   "researchers"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "network_coalition"
+  ],
+  "mentoring": "none",
+  "bridging": "unclear",
+  "ai_cs": "none",
+  "targets": [
+   "girls_women",
+   "underrepresented_general",
+   "low_income",
+   "disability"
+  ],
+  "setting": "unclear",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "multi_state",
+  "notes": "Three-day Cincinnati-area conference on building a backbone organization for broadening STEM participation."
+ },
+ {
+  "id": "1650452",
+  "serves_youth": "indirect",
+  "audience": [
+   "researchers",
+   "teachers_educators"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "network_coalition"
+  ],
+  "mentoring": "none",
+  "bridging": "unclear",
+  "ai_cs": "none",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "unclear",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "unclear",
+  "notes": "Akron conference to design a backbone organization supporting minorities in bioengineering from K-12 to careers."
+ },
+ {
+  "id": "1650490",
+  "serves_youth": "none",
+  "audience": [
+   "researchers"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "network_coalition",
+   "other"
+  ],
+  "mentoring": "none",
+  "bridging": "unclear",
+  "ai_cs": "none",
+  "targets": [
+   "underrepresented_general",
+   "low_income",
+   "girls_women",
+   "disability"
+  ],
+  "setting": "mixed",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "national",
+  "notes": "Conference and technical assistance helping pilot projects use data for collaboration and evidence-based decisions."
+ }
+]

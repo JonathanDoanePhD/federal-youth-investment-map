@@ -1,0 +1,983 @@
+[
+ {
+  "id": "1738776",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "high",
+  "models": [
+   "school_curriculum",
+   "teacher_pd",
+   "network_coalition"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "school_day",
+  "youth_reach": 25000,
+  "evaluation": "none_stated",
+  "service_geography": "local",
+  "notes": "Chicago partnership scaling Exploring Computer Science courses and teacher support across the public high schools district-wide."
+ },
+ {
+  "id": "1738784",
+  "serves_youth": "indirect",
+  "audience": [
+   "teachers_educators"
+  ],
+  "grade_band": "high",
+  "models": [
+   "teacher_pd",
+   "network_coalition"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "mixed",
+  "youth_reach": null,
+  "evaluation": "unspecified",
+  "service_geography": "state_regional",
+  "notes": "Iowa planning grant: network to prepare high school CS teachers through summer courses, piloted in one education agency."
+ },
+ {
+  "id": "1738814",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators",
+   "families"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "school_curriculum",
+   "teacher_pd",
+   "network_coalition"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "low_income",
+   "hispanic_latino",
+   "girls_women",
+   "english_learners"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "unspecified",
+  "service_geography": "local",
+  "notes": "Santa Cruz partnership studying district-wide K-8 computer science integration, with inclusive materials, teacher training and parent engagement."
+ },
+ {
+  "id": "1738824",
+  "serves_youth": "indirect",
+  "audience": [
+   "teachers_educators",
+   "k12_students"
+  ],
+  "grade_band": "high",
+  "models": [
+   "school_curriculum",
+   "teacher_pd",
+   "network_coalition"
+  ],
+  "mentoring": "component",
+  "bridging": "unclear",
+  "ai_cs": "computing",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "state_regional",
+  "notes": "Hawaii replication of a CS Principles course and teacher training, with industry mentors supporting teachers and improvement networks."
+ },
+ {
+  "id": "1738825",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "elementary",
+  "models": [
+   "school_curriculum",
+   "teacher_pd",
+   "network_coalition"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "low_income",
+   "hispanic_latino",
+   "english_learners"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "design_qualitative",
+  "service_geography": "local",
+  "notes": "Orange County and Santa Ana network designing computational thinking units for grades three to five using design-based implementation research."
+ },
+ {
+  "id": "1738830",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "families",
+   "teachers_educators"
+  ],
+  "grade_band": "middle",
+  "models": [
+   "school_curriculum",
+   "out_of_school_program",
+   "online_tool_game",
+   "network_coalition"
+  ],
+  "mentoring": "component",
+  "bridging": "unclear",
+  "ai_cs": "computing",
+  "targets": [
+   "urban"
+  ],
+  "setting": "mixed",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "local",
+  "notes": "Bronzeville partnership adding school-day computational making for middle graders, linked through a citywide learning platform and community showcases."
+ },
+ {
+  "id": "1738849",
+  "serves_youth": "indirect",
+  "audience": [
+   "undergraduates",
+   "teachers_educators"
+  ],
+  "grade_band": "high",
+  "models": [
+   "teacher_pd",
+   "network_coalition"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "college_campus",
+  "youth_reach": null,
+  "evaluation": "unspecified",
+  "service_geography": "local",
+  "notes": "Alabama two-course sequence preparing preservice math teachers to offer AP CS Principles, with practicum in partner high schools."
+ },
+ {
+  "id": "1738855",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators",
+   "families"
+  ],
+  "grade_band": "high",
+  "models": [
+   "school_curriculum",
+   "teacher_pd",
+   "network_coalition"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "rural",
+   "native_indigenous"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "unspecified",
+  "service_geography": "state_regional",
+  "notes": "South Dakota statewide extension of Exploring Computer Science teacher training, culturally adapted for American Indian communities and remote rural schools."
+ },
+ {
+  "id": "1738883",
+  "serves_youth": "indirect",
+  "audience": [
+   "teachers_educators",
+   "undergraduates"
+  ],
+  "grade_band": "high",
+  "models": [
+   "teacher_pd",
+   "school_curriculum",
+   "network_coalition"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "underrepresented_general",
+   "rural",
+   "urban"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "state_regional",
+  "notes": "Oregon statewide effort to broaden high school CS access: teacher development, counselor workshops and preservice teacher curriculum."
+ },
+ {
+  "id": "1739139",
+  "serves_youth": "indirect",
+  "audience": [
+   "researchers"
+  ],
+  "grade_band": "mixed_ages",
+  "models": [
+   "network_coalition"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "college_campus",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "unclear",
+  "notes": "Two-day Xavier workshop helping minority serving institutions design life science interventions and write research proposals."
+ },
+ {
+  "id": "1739251",
+  "serves_youth": "indirect",
+  "audience": [
+   "researchers"
+  ],
+  "grade_band": "mixed_ages",
+  "models": [
+   "network_coalition"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "college_campus",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "unclear",
+  "notes": "Spelman-hosted workshop for administrators and researchers at minority serving institutions on retaining underrepresented students in bioscience."
+ },
+ {
+  "id": "1741148",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "high",
+  "models": [
+   "school_curriculum",
+   "teacher_pd",
+   "career_exposure"
+  ],
+  "mentoring": "none",
+  "bridging": "yes",
+  "ai_cs": "computing",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "school_day",
+  "youth_reach": 1200,
+  "evaluation": "unspecified",
+  "service_geography": "state_regional",
+  "notes": "Connecticut courses embedding computing in biology, chemistry and earth science, with student innovation projects judged at an expo."
+ },
+ {
+  "id": "1741575",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "high",
+  "models": [
+   "teacher_pd",
+   "school_curriculum"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "school_day",
+  "youth_reach": 1000,
+  "evaluation": "unspecified",
+  "service_geography": "state_regional",
+  "notes": "Michigan physics teachers trained to bring computational modeling into classes; research tracks learning, practice and equitable participation."
+ },
+ {
+  "id": "1741748",
+  "serves_youth": "indirect",
+  "audience": [
+   "researchers",
+   "undergraduates"
+  ],
+  "grade_band": "mixed_ages",
+  "models": [
+   "network_coalition"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "college_campus",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "unclear",
+  "notes": "Rutgers Newark workshop convening minority serving institution teams on intervention research for retaining underrepresented students in STEM."
+ },
+ {
+  "id": "1741756",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "high",
+  "models": [
+   "online_tool_game",
+   "teacher_pd",
+   "school_curriculum"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "general"
+  ],
+  "setting": "school_day",
+  "youth_reach": 160,
+  "evaluation": "pre_post",
+  "service_geography": "local",
+  "notes": "Students build their own physics simulations with a game-engine environment (STEPP), tested in two high schools with teacher summer institute."
+ },
+ {
+  "id": "1741784",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "high",
+  "models": [
+   "school_curriculum",
+   "teacher_pd"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "general"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "unspecified",
+  "service_geography": "unclear",
+  "notes": "Smart vehicle project-based learning linking career technical and math teachers to teach computational thinking and secure technology design."
+ },
+ {
+  "id": "1741792",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "elementary",
+  "models": [
+   "school_curriculum"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "general"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "quasi_experimental",
+  "service_geography": "unclear",
+  "notes": "Think Math+C weaves programming into an elementary math curriculum, piloted in grade 2 and compared with regular classrooms."
+ },
+ {
+  "id": "1741831",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "high",
+  "models": [
+   "school_curriculum",
+   "teacher_pd"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "general"
+  ],
+  "setting": "school_day",
+  "youth_reach": 800,
+  "evaluation": "unspecified",
+  "service_geography": "unclear",
+  "notes": "Horizon Research develops biology and chemistry modules embedding computational thinking, plus measures; pilot then field trial with trained teachers."
+ },
+ {
+  "id": "1741910",
+  "serves_youth": "direct",
+  "audience": [
+   "teachers_educators",
+   "k12_students"
+  ],
+  "grade_band": "elementary",
+  "models": [
+   "teacher_pd",
+   "school_curriculum"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "general"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "design_qualitative",
+  "service_geography": "unclear",
+  "notes": "Georgia project teaching grade 3-5 teachers an argumentation approach to coding within math and science; classroom video and interviews studied."
+ },
+ {
+  "id": "1741956",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "middle",
+  "models": [
+   "online_tool_game"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "low_income"
+  ],
+  "setting": "school_day",
+  "youth_reach": 600,
+  "evaluation": "unspecified",
+  "service_geography": "local",
+  "notes": "SRI builds a technology-based formative assessment of middle school computational thinking for NYC CS4All, with participatory design."
+ },
+ {
+  "id": "1741989",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "middle",
+  "models": [
+   "out_of_school_program",
+   "summer_program",
+   "school_curriculum"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "rural",
+   "urban"
+  ],
+  "setting": "mixed",
+  "youth_reach": null,
+  "evaluation": "design_qualitative",
+  "service_geography": "unclear",
+  "notes": "Maine team designs data science modules tested in middle school after-school clubs and camps using design-based research."
+ },
+ {
+  "id": "1741999",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students"
+  ],
+  "grade_band": "elementary",
+  "models": [
+   "out_of_school_program"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "low_income",
+   "girls_women",
+   "underrepresented_general",
+   "urban"
+  ],
+  "setting": "after_school",
+  "youth_reach": 40,
+  "evaluation": "unspecified",
+  "service_geography": "local",
+  "notes": "East St. Louis out-of-school program adding computational thinking to a science curriculum for low income minority girls in grades three and four."
+ },
+ {
+  "id": "1742011",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "middle",
+  "models": [
+   "online_tool_game"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "low_income"
+  ],
+  "setting": "school_day",
+  "youth_reach": 600,
+  "evaluation": "unspecified",
+  "service_geography": "local",
+  "notes": "Teachers College version of NYC formative assessment tool for middle school computational thinking, designed with teachers and students."
+ },
+ {
+  "id": "1742046",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "middle",
+  "models": [
+   "teacher_pd",
+   "school_curriculum",
+   "other"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "low_income"
+  ],
+  "setting": "school_day",
+  "youth_reach": 2400,
+  "evaluation": "unspecified",
+  "service_geography": "local",
+  "notes": "Utah State partner on Denver middle school sensor-kit science lessons and teacher learning cycle for integrating computational thinking."
+ },
+ {
+  "id": "1742053",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "middle",
+  "models": [
+   "teacher_pd",
+   "school_curriculum",
+   "other"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "low_income"
+  ],
+  "setting": "school_day",
+  "youth_reach": 2400,
+  "evaluation": "unspecified",
+  "service_geography": "local",
+  "notes": "Colorado Boulder partner on Denver schoolwide sensing platform and teacher professional development to support computational thinking in science classes."
+ },
+ {
+  "id": "1742081",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "high",
+  "models": [
+   "school_curriculum",
+   "other"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "general"
+  ],
+  "setting": "school_day",
+  "youth_reach": 420,
+  "evaluation": "unspecified",
+  "service_geography": "multi_state",
+  "notes": "Boulder partner on electronic textile debugging activities that students and teachers design in Exploring Computer Science classrooms in Los Angeles and Philadelphia."
+ },
+ {
+  "id": "1742083",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "high",
+  "models": [
+   "online_tool_game",
+   "school_curriculum"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "general"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "quasi_experimental",
+  "service_geography": "unclear",
+  "notes": "Concord Consortium builds online R-based modules coupling computational thinking with high school mathematical modeling; compares design patterns in field tests."
+ },
+ {
+  "id": "1742091",
+  "serves_youth": "direct",
+  "audience": [
+   "teachers_educators",
+   "k12_students"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "teacher_pd",
+   "school_curriculum"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "general"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "unclear",
+  "notes": "TERC teacher development for grades 7-12 on computational making in physics, biology and math, then students co-make community projects."
+ },
+ {
+  "id": "1742125",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "school_curriculum",
+   "teacher_pd",
+   "online_tool_game"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "general"
+  ],
+  "setting": "school_day",
+  "youth_reach": 2820,
+  "evaluation": "quasi_experimental",
+  "service_geography": "unclear",
+  "notes": "Twelve Earth and environmental science modules for grades 5-7 integrating computation, with teacher training and treatment versus comparison analysis."
+ },
+ {
+  "id": "1742127",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "middle",
+  "models": [
+   "school_curriculum",
+   "teacher_pd"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "general"
+  ],
+  "setting": "school_day",
+  "youth_reach": 3200,
+  "evaluation": "unspecified",
+  "service_geography": "multi_state",
+  "notes": "Four-week middle school biomimicry robotics curriculum blending engineering, science and programming, in Massachusetts, Maryland and Maine classrooms."
+ },
+ {
+  "id": "1742138",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "elementary",
+  "models": [
+   "school_curriculum",
+   "online_tool_game"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "english_learners"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "pre_post",
+  "service_geography": "multi_state",
+  "notes": "Yearlong NGSS science curriculum for English learners using StarLogo Nova computational modeling, tested in New Jersey and Tennessee districts."
+ },
+ {
+  "id": "1742140",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "high",
+  "models": [
+   "school_curriculum",
+   "other"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "general"
+  ],
+  "setting": "school_day",
+  "youth_reach": 420,
+  "evaluation": "unspecified",
+  "service_geography": "multi_state",
+  "notes": "Penn partner on e-textile debugging design project for high school computer science classes in Los Angeles and Philadelphia."
+ },
+ {
+  "id": "1742195",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "elementary",
+  "models": [
+   "school_curriculum",
+   "online_tool_game"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "design_qualitative",
+  "service_geography": "unclear",
+  "notes": "SRI six-week upper elementary unit combining Earth science, engineering design and computational modeling, developed through design-based studies."
+ },
+ {
+  "id": "1742242",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "other",
+   "summer_program"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "disability"
+  ],
+  "setting": "mixed",
+  "youth_reach": null,
+  "evaluation": "pre_post",
+  "service_geography": "unclear",
+  "notes": "tScratch tangible non-visual interface letting blind and visually impaired students program Scratch, trialed in a computer camp setting."
+ },
+ {
+  "id": "1742255",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "middle",
+  "models": [
+   "out_of_school_program",
+   "summer_program",
+   "school_curriculum"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "rural",
+   "urban"
+  ],
+  "setting": "mixed",
+  "youth_reach": null,
+  "evaluation": "design_qualitative",
+  "service_geography": "unclear",
+  "notes": "TERC partner developing data science modules for middle schoolers in after-school clubs and camps, studied through design-based research."
+ },
+ {
+  "id": "1742257",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "middle",
+  "models": [
+   "summer_program",
+   "school_curriculum"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "general"
+  ],
+  "setting": "mixed",
+  "youth_reach": null,
+  "evaluation": "quasi_experimental",
+  "service_geography": "unclear",
+  "notes": "Vanderbilt tests math and computational thinking modules contrasting agency with structure, in summer camps then classrooms, comparing section conditions."
+ },
+ {
+  "id": "1742320",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "elementary",
+  "models": [
+   "school_curriculum",
+   "teacher_pd",
+   "out_of_school_program",
+   "network_coalition"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "low_income",
+   "black",
+   "hispanic_latino"
+  ],
+  "setting": "mixed",
+  "youth_reach": null,
+  "evaluation": "pre_post",
+  "service_geography": "local",
+  "notes": "NYC maker curriculum and teacher training integrating computing into elementary science, first after school then in class, in high-poverty schools."
+ },
+ {
+  "id": "1742332",
+  "serves_youth": "indirect",
+  "audience": [
+   "teachers_educators"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "teacher_pd",
+   "school_curriculum"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "general"
+  ],
+  "setting": "mixed",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "multi_state",
+  "notes": "Citadel partner testing team-based versus individual summer PD for about 360 middle and high school teachers integrating computing in the Carolinas."
+ },
+ {
+  "id": "1742351",
+  "serves_youth": "indirect",
+  "audience": [
+   "teachers_educators"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "teacher_pd",
+   "school_curriculum"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "general"
+  ],
+  "setting": "mixed",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "multi_state",
+  "notes": "NC State partner comparing team-based and single-teacher professional development on integrating computing into STEM lessons across two Carolinas states."
+ },
+ {
+  "id": "1742369",
+  "serves_youth": "direct",
+  "audience": [
+   "teachers_educators",
+   "k12_students"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "teacher_pd",
+   "school_curriculum"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "general"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "unclear",
+  "notes": "Tufts partner on teacher development for computational making in grades 7-12 science and math, later co-making community projects with students."
+ }
+]

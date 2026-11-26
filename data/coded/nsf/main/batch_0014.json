@@ -1,0 +1,967 @@
+[
+ {
+  "id": "1621176",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "middle",
+  "models": [
+   "school_curriculum",
+   "online_tool_game",
+   "teacher_pd"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "school_day",
+  "youth_reach": 4000,
+  "evaluation": "design_qualitative",
+  "service_geography": "unclear",
+  "notes": "Design-based research building online geodynamic modeling units for middle school Earth science, tested with thousands of students and teachers."
+ },
+ {
+  "id": "1621194",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "high",
+  "models": [
+   "school_curriculum",
+   "teacher_pd"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "school_day",
+  "youth_reach": 800,
+  "evaluation": "quasi_experimental",
+  "service_geography": "unclear",
+  "notes": "Two high school evolution units, human versus other species, plus teacher sensitivity resource, compared in classrooms."
+ },
+ {
+  "id": "1621210",
+  "serves_youth": "indirect",
+  "audience": [
+   "k12_students",
+   "teachers_educators",
+   "researchers"
+  ],
+  "grade_band": "high",
+  "models": [
+   "other"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "school_day",
+  "youth_reach": 10000,
+  "evaluation": "none_stated",
+  "service_geography": "national",
+  "notes": "Building and validating five hundred chemistry and physics test items for high school, using a national student sample."
+ },
+ {
+  "id": "1621228",
+  "serves_youth": "indirect",
+  "audience": [
+   "teachers_educators"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "teacher_pd"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "design_qualitative",
+  "service_geography": "state_regional",
+  "notes": "Yearlong professional development helping chemistry teachers in Boston and New England use formative assessment; small teacher cohorts."
+ },
+ {
+  "id": "1621238",
+  "serves_youth": "indirect",
+  "audience": [
+   "teachers_educators"
+  ],
+  "grade_band": "middle",
+  "models": [
+   "teacher_pd",
+   "other"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "unspecified",
+  "service_geography": "multi_state",
+  "notes": "Practical measures and improvement routines for middle-grades math materials, worked out with districts in three states."
+ },
+ {
+  "id": "1621253",
+  "serves_youth": "indirect",
+  "audience": [
+   "teachers_educators",
+   "researchers"
+  ],
+  "grade_band": "elementary",
+  "models": [
+   "online_tool_game",
+   "teacher_pd",
+   "research_only"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "online",
+  "youth_reach": null,
+  "evaluation": "design_qualitative",
+  "service_geography": "national",
+  "notes": "Studying how elementary math teachers learn from an online classroom video community and linking it to student results."
+ },
+ {
+  "id": "1621254",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "middle",
+  "models": [
+   "online_tool_game",
+   "other"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "unclear",
+  "notes": "Diagnostic math assessment and reporting system for grades six to eight, tracking students and informing instruction."
+ },
+ {
+  "id": "1621265",
+  "serves_youth": "indirect",
+  "audience": [
+   "teachers_educators",
+   "researchers"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "other"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "unclear",
+  "notes": "Adapting an existing assessment system so teachers get usable evidence of learning; observed with teachers, new psychometric models."
+ },
+ {
+  "id": "1621289",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "high",
+  "models": [
+   "school_curriculum",
+   "online_tool_game",
+   "teacher_pd"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "general"
+  ],
+  "setting": "school_day",
+  "youth_reach": 100,
+  "evaluation": "rct",
+  "service_geography": "unclear",
+  "notes": "Digital high school data-literacy science modules on an online platform, piloted in New York and tested by cluster randomization."
+ },
+ {
+  "id": "1621290",
+  "serves_youth": "indirect",
+  "audience": [
+   "teachers_educators",
+   "researchers"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "online_tool_game",
+   "research_only"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "design_qualitative",
+  "service_geography": "unclear",
+  "notes": "iPad microworld for teachers to deepen proportional reasoning, refined through teaching experiments and interviews with forty teachers."
+ },
+ {
+  "id": "1621294",
+  "serves_youth": "indirect",
+  "audience": [
+   "teachers_educators",
+   "researchers"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "teacher_pd",
+   "research_only"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "design_qualitative",
+  "service_geography": "national",
+  "notes": "Observing math intervention classes, surveying three hundred teachers nationally, then designing professional development for intervention teachers."
+ },
+ {
+  "id": "1621299",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "elementary",
+  "models": [
+   "school_curriculum",
+   "online_tool_game",
+   "teacher_pd"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "school_day",
+  "youth_reach": 300,
+  "evaluation": "design_qualitative",
+  "service_geography": "multi_state",
+  "notes": "Kindergarten matter-and-change curriculum using probeware and simulations, iteratively designed in Massachusetts and Indiana classrooms."
+ },
+ {
+  "id": "1621301",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "high",
+  "models": [
+   "school_curriculum",
+   "online_tool_game",
+   "teacher_pd"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "quasi_experimental",
+  "service_geography": "unclear",
+  "notes": "Technology-enhanced experiment-based activities for high school physics, biology, chemistry with real-time feedback, compared against usual teaching."
+ },
+ {
+  "id": "1621308",
+  "serves_youth": "indirect",
+  "audience": [
+   "teachers_educators",
+   "researchers"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "research_only"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "design_qualitative",
+  "service_geography": "unclear",
+  "notes": "Analyzing archived video of science coaching sessions with grade six to twelve teachers to find effective coaching elements."
+ },
+ {
+  "id": "1621325",
+  "serves_youth": "indirect",
+  "audience": [
+   "teachers_educators"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "teacher_pd"
+  ],
+  "mentoring": "component",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "black",
+   "urban",
+   "rural"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "quasi_experimental",
+  "service_geography": "multi_state",
+  "notes": "Teacher residency recruiting and retaining science and math teachers from historically Black universities for high-need Southern schools."
+ },
+ {
+  "id": "1621333",
+  "serves_youth": "indirect",
+  "audience": [
+   "teachers_educators",
+   "k12_students"
+  ],
+  "grade_band": "elementary",
+  "models": [
+   "teacher_pd",
+   "other"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "urban"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "quasi_experimental",
+  "service_geography": "local",
+  "notes": "Systemic leadership supports for a math formative assessment program in Philadelphia elementary schools, tested with comparison groups."
+ },
+ {
+  "id": "1621344",
+  "serves_youth": "none",
+  "audience": [
+   "teachers_educators"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "teacher_pd",
+   "online_tool_game"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "college_campus",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "unclear",
+  "notes": "Simulated classroom tasks to build preservice elementary teachers discussion skills in science and math, tested at four universities."
+ },
+ {
+  "id": "1621363",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "middle",
+  "models": [
+   "online_tool_game",
+   "teacher_pd"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "disability"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "design_qualitative",
+  "service_geography": "unclear",
+  "notes": "Adding sound-based representations to five middle school physical science simulations for students with visual impairments."
+ },
+ {
+  "id": "1621387",
+  "serves_youth": "indirect",
+  "audience": [
+   "teachers_educators"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "teacher_pd"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "urban"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "unspecified",
+  "service_geography": "state_regional",
+  "notes": "Refining professional development for K-8 teachers and leaders on transdisciplinary STEM in twelve high-need New York City area schools."
+ },
+ {
+  "id": "1621400",
+  "serves_youth": "indirect",
+  "audience": [
+   "teachers_educators",
+   "k12_students"
+  ],
+  "grade_band": "elementary",
+  "models": [
+   "teacher_pd"
+  ],
+  "mentoring": "component",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "mixed",
+  "youth_reach": 200,
+  "evaluation": "pre_post",
+  "service_geography": "local",
+  "notes": "Saturday workshops and learning communities helping kindergarten and first-grade teachers in New York City teach science, with pre-post measures."
+ },
+ {
+  "id": "1621416",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "school_curriculum",
+   "teacher_pd"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "low_income",
+   "black",
+   "hispanic_latino",
+   "urban"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "quasi_experimental",
+  "service_geography": "unclear",
+  "notes": "Algebra Project teacher institutes and pedagogy in four distressed districts with HBCU partners, studied longitudinally across grades five to twelve."
+ },
+ {
+  "id": "1621438",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "middle",
+  "models": [
+   "school_curriculum",
+   "teacher_pd"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "quasi_experimental",
+  "service_geography": "unclear",
+  "notes": "Eighth-grade argumentation and proof intervention across math content, with teacher summer institute and coaching, tested experimentally."
+ },
+ {
+  "id": "1621441",
+  "serves_youth": "indirect",
+  "audience": [
+   "teachers_educators",
+   "researchers"
+  ],
+  "grade_band": "middle",
+  "models": [
+   "teacher_pd",
+   "online_tool_game",
+   "school_curriculum"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "rct",
+  "service_geography": "unclear",
+  "notes": "Refining a classroom talk assessment tool for middle school science argumentation, tested in a randomized trial with a hundred teachers."
+ },
+ {
+  "id": "1621470",
+  "serves_youth": "indirect",
+  "audience": [
+   "k12_students",
+   "teachers_educators",
+   "researchers"
+  ],
+  "grade_band": "mixed_ages",
+  "models": [
+   "online_tool_game",
+   "other",
+   "research_only"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "english_learners"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "unclear",
+  "notes": "Developing an adaptive game-based electronic numeracy test for ages three to eight, in English and Spanish."
+ },
+ {
+  "id": "1621496",
+  "serves_youth": "indirect",
+  "audience": [
+   "teachers_educators",
+   "researchers"
+  ],
+  "grade_band": "middle",
+  "models": [
+   "teacher_pd",
+   "online_tool_game",
+   "school_curriculum"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "rct",
+  "service_geography": "unclear",
+  "notes": "Companion collaborative award refining a technology tool for scoring oral argumentation in middle school science, randomized teacher trial."
+ },
+ {
+  "id": "1623018",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "high",
+  "models": [
+   "school_curriculum",
+   "out_of_school_program",
+   "other"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "mixed",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "local",
+  "notes": "Wetlab starter kit and activities letting Philadelphia high school students and museum workshop youth build engineered microorganisms."
+ },
+ {
+  "id": "1623258",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "mixed_ages",
+  "models": [
+   "online_tool_game",
+   "other"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "general"
+  ],
+  "setting": "online",
+  "youth_reach": null,
+  "evaluation": "design_qualitative",
+  "service_geography": "national",
+  "notes": "Building visualization tools so adolescents in a global online writing community analyze their own participation data."
+ },
+ {
+  "id": "1623404",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators",
+   "general_public"
+  ],
+  "grade_band": "mixed_ages",
+  "models": [
+   "out_of_school_program"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "native_indigenous"
+  ],
+  "setting": "community",
+  "youth_reach": null,
+  "evaluation": "unspecified",
+  "service_geography": "multi_state",
+  "notes": "Culturally grounded fixed and mobile makerspaces with American Indian communities in Arizona and Utah, mixing craft and technology."
+ },
+ {
+  "id": "1623431",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "school_curriculum"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "rural"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "quasi_experimental",
+  "service_geography": "local",
+  "notes": "Case study of one semi-rural district bringing maker activities into middle and high school, compared with other districts."
+ },
+ {
+  "id": "1623453",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators",
+   "general_public"
+  ],
+  "grade_band": "mixed_ages",
+  "models": [
+   "out_of_school_program"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "native_indigenous"
+  ],
+  "setting": "community",
+  "youth_reach": null,
+  "evaluation": "unspecified",
+  "service_geography": "multi_state",
+  "notes": "Companion award at another university: culturally responsive local and mobile makerspaces serving Native communities in Arizona and Utah."
+ },
+ {
+  "id": "1623468",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "mixed_ages",
+  "models": [
+   "online_tool_game",
+   "other"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "general"
+  ],
+  "setting": "online",
+  "youth_reach": null,
+  "evaluation": "design_qualitative",
+  "service_geography": "national",
+  "notes": "Companion award building data visualization tools for youth in a worldwide online writing network, using design-based research."
+ },
+ {
+  "id": "1623470",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students"
+  ],
+  "grade_band": "mixed_ages",
+  "models": [
+   "online_tool_game",
+   "research_only"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "ai",
+  "targets": [
+   "general"
+  ],
+  "setting": "unclear",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "unclear",
+  "notes": "Data-driven automated hints and feedback for novices programming open-ended projects in Snap, tested across six studies."
+ },
+ {
+  "id": "1623543",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students"
+  ],
+  "grade_band": "high",
+  "models": [
+   "research_apprenticeship",
+   "out_of_school_program",
+   "summer_program"
+  ],
+  "mentoring": "none",
+  "bridging": "yes",
+  "ai_cs": "none",
+  "targets": [
+   "low_income",
+   "underrepresented_general"
+  ],
+  "setting": "mixed",
+  "youth_reach": 6,
+  "evaluation": "pre_post",
+  "service_geography": "state_regional",
+  "notes": "Two-year paid making and micro-manufacturing apprenticeship for six border-community high schoolers, working with university students and staff."
+ },
+ {
+  "id": "1623550",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "high",
+  "models": [
+   "out_of_school_program",
+   "summer_program",
+   "research_apprenticeship",
+   "school_curriculum",
+   "teacher_pd"
+  ],
+  "mentoring": "none",
+  "bridging": "yes",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "mixed",
+  "youth_reach": 153,
+  "evaluation": "design_qualitative",
+  "service_geography": "unclear",
+  "notes": "Students and teachers design Arduino scientific instruments through a club, university internships, and physics classroom pilot."
+ },
+ {
+  "id": "1623910",
+  "serves_youth": "indirect",
+  "audience": [
+   "teachers_educators"
+  ],
+  "grade_band": "elementary",
+  "models": [
+   "teacher_pd"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "urban"
+  ],
+  "setting": "mixed",
+  "youth_reach": null,
+  "evaluation": "design_qualitative",
+  "service_geography": "unclear",
+  "notes": "Community-based engineering module for novice urban elementary teachers in preparation coursework, followed into their first teaching years."
+ },
+ {
+  "id": "1623969",
+  "serves_youth": "direct",
+  "audience": [
+   "general_public",
+   "out_of_school_youth"
+  ],
+  "grade_band": "mixed_ages",
+  "models": [
+   "online_tool_game",
+   "other"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "rural",
+   "urban"
+  ],
+  "setting": "online",
+  "youth_reach": null,
+  "evaluation": "design_qualitative",
+  "service_geography": "unclear",
+  "notes": "Zoomable image training environment teaching volunteers, including urban youth, to identify stream insects for water quality monitoring."
+ },
+ {
+  "id": "1624552",
+  "serves_youth": "indirect",
+  "audience": [
+   "researchers",
+   "general_public",
+   "k12_students"
+  ],
+  "grade_band": "mixed_ages",
+  "models": [
+   "exhibit_media",
+   "other"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "mixed",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "unclear",
+  "notes": "Power, laboratory and small museum upgrades at a Tanzanian chimpanzee research station, aiding visiting scientists and school groups."
+ },
+ {
+  "id": "1624600",
+  "serves_youth": "none",
+  "audience": [
+   "undergraduates",
+   "researchers"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "other"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "native_indigenous",
+   "underrepresented_general"
+  ],
+  "setting": "college_campus",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "state_regional",
+  "notes": "New instruments and seawater system for a Hawaii marine lab, supporting research and training including Native Hawaiian students."
+ },
+ {
+  "id": "1624642",
+  "serves_youth": "none",
+  "audience": [
+   "undergraduates",
+   "researchers"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "other"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "college_campus",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "state_regional",
+  "notes": "Purchase of a research and dive vessel for a Rhode Island university to expand bay research and undergraduate courses."
+ },
+ {
+  "id": "1626365",
+  "serves_youth": "indirect",
+  "audience": [
+   "teachers_educators",
+   "researchers"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "network_coalition",
+   "other"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "online",
+  "youth_reach": null,
+  "evaluation": "unspecified",
+  "service_geography": "national",
+  "notes": "Collaboratory linking STEM education researchers and practitioners through online resource center, association partners and adaptation sites."
+ }
+]

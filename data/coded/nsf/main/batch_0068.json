@@ -1,0 +1,983 @@
+[
+ {
+  "id": "2333764",
+  "serves_youth": "indirect",
+  "audience": [
+   "teachers_educators",
+   "researchers"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "research_only",
+   "other"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "ai",
+  "targets": [
+   "general"
+  ],
+  "setting": "unclear",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "state_regional",
+  "notes": "Interviews and survey of Western New York school leaders on AI decisions; builds online guidance resources."
+ },
+ {
+  "id": "2333959",
+  "serves_youth": "indirect",
+  "audience": [
+   "teachers_educators"
+  ],
+  "grade_band": "elementary",
+  "models": [
+   "teacher_pd",
+   "network_coalition"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "underrepresented_general",
+   "rural"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "design_qualitative",
+  "service_geography": "state_regional",
+  "notes": "Online coaching coursework and virtual community supporting beginning elementary math teachers in rural Georgia; case study methods."
+ },
+ {
+  "id": "2334172",
+  "serves_youth": "indirect",
+  "audience": [
+   "k12_students",
+   "teachers_educators",
+   "families"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "research_only"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "ai",
+  "targets": [
+   "general"
+  ],
+  "setting": "online",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "national",
+  "notes": "Nationally representative survey and interviews of parents, teachers and youth about perceptions and use of AI in schooling."
+ },
+ {
+  "id": "2334313",
+  "serves_youth": "none",
+  "audience": [
+   "undergraduates",
+   "researchers"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "research_only"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "disability"
+  ],
+  "setting": "workplace",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "unclear",
+  "notes": "Exploratory case studies of customized STEM employment for people with intellectual disabilities, partnering with a corporate employer."
+ },
+ {
+  "id": "2334525",
+  "serves_youth": "indirect",
+  "audience": [
+   "teachers_educators"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "network_coalition",
+   "other"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "ai",
+  "targets": [
+   "general"
+  ],
+  "setting": "unclear",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "national",
+  "notes": "District leader working group drafting sample generative AI acceptable use policies and sharing them via webinar."
+ },
+ {
+  "id": "2334631",
+  "serves_youth": "indirect",
+  "audience": [
+   "teachers_educators"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "online_tool_game",
+   "research_only"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "ai",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "online",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "unclear",
+  "notes": "Community-informed chatbot built with focus groups to help teachers design culturally responsive, universally designed STEM activities."
+ },
+ {
+  "id": "2334693",
+  "serves_youth": "indirect",
+  "audience": [
+   "teachers_educators"
+  ],
+  "grade_band": "high",
+  "models": [
+   "teacher_pd",
+   "school_curriculum"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "disability"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "national",
+  "notes": "Studies teacher knowledge of accessible technology for blind students; builds case library, preservice units and open resources."
+ },
+ {
+  "id": "2334829",
+  "serves_youth": "indirect",
+  "audience": [
+   "researchers"
+  ],
+  "grade_band": "elementary",
+  "models": [
+   "research_only"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "ai",
+  "targets": [
+   "disability",
+   "underrepresented_general"
+  ],
+  "setting": "unclear",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "unclear",
+  "notes": "Expert panel Delphi process to build an AI literacy framework for children ages five to eight."
+ },
+ {
+  "id": "2335009",
+  "serves_youth": "indirect",
+  "audience": [
+   "researchers",
+   "general_public"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "network_coalition"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "online",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "national",
+  "notes": "Virtual conference convening researchers and community groups to plan equity-focused research infrastructure for informal STEM learning."
+ },
+ {
+  "id": "2335072",
+  "serves_youth": "none",
+  "audience": [
+   "undergraduates",
+   "researchers"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "research_only",
+   "network_coalition"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "unclear",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "national",
+  "notes": "Center providing surveys, evaluation services and community resources to broaden participation in computing, mostly higher education."
+ },
+ {
+  "id": "2335755",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "high",
+  "models": [
+   "school_curriculum",
+   "teacher_pd"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "general"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "unspecified",
+  "service_geography": "national",
+  "notes": "Groundwork for AP-style high school cybersecurity pathway courses with college credit, teacher training and piloting."
+ },
+ {
+  "id": "2335834",
+  "serves_youth": "indirect",
+  "audience": [
+   "teachers_educators"
+  ],
+  "grade_band": "high",
+  "models": [
+   "teacher_pd",
+   "online_tool_game"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "ai",
+  "targets": [
+   "general"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "multi_state",
+  "notes": "Teachers use an LLM tool to generate math assessments in 34 Indiana and Illinois schools; usage logs and interviews."
+ },
+ {
+  "id": "2335835",
+  "serves_youth": "indirect",
+  "audience": [
+   "teachers_educators"
+  ],
+  "grade_band": "high",
+  "models": [
+   "teacher_pd",
+   "online_tool_game"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "ai",
+  "targets": [
+   "general"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "multi_state",
+  "notes": "Collaborating institution's share of study of teacher use of LLM assessment generator in Indiana and Illinois high schools."
+ },
+ {
+  "id": "2335926",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators",
+   "researchers"
+  ],
+  "grade_band": "high",
+  "models": [
+   "school_curriculum",
+   "out_of_school_program",
+   "research_only"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "ai",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "mixed",
+  "youth_reach": null,
+  "evaluation": "design_qualitative",
+  "service_geography": "unclear",
+  "notes": "Pilots generative AI activities in classrooms and clubs with high school youth of color, studying how they interact with AI."
+ },
+ {
+  "id": "2335975",
+  "serves_youth": "indirect",
+  "audience": [
+   "teachers_educators",
+   "k12_students"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "online_tool_game"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "ai",
+  "targets": [
+   "general"
+  ],
+  "setting": "online",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "national",
+  "notes": "Platform letting teachers steer an AI tutor embedded in public television STEM videos; builds on existing streaming library."
+ },
+ {
+  "id": "2336391",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators",
+   "researchers"
+  ],
+  "grade_band": "middle",
+  "models": [
+   "school_curriculum",
+   "research_only"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "design_qualitative",
+  "service_geography": "local",
+  "notes": "Follows middle schoolers through tracked and de-tracked math in one Oregon district, studying math identity with district partnership."
+ },
+ {
+  "id": "2336456",
+  "serves_youth": "none",
+  "audience": [
+   "undergraduates"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "other"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "ai",
+  "targets": [
+   "general"
+  ],
+  "setting": "college_campus",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "local",
+  "notes": "Florida university scholarship-for-service cybersecurity master's program with research, internships and federal career preparation; includes AI topics."
+ },
+ {
+  "id": "2336586",
+  "serves_youth": "none",
+  "audience": [
+   "undergraduates",
+   "general_public"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "other"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "general"
+  ],
+  "setting": "college_campus",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "local",
+  "notes": "Delaware cybersecurity scholarship program for twenty university students: research, enrichment, competitions, internships, independent evaluator."
+ },
+ {
+  "id": "2336629",
+  "serves_youth": "none",
+  "audience": [
+   "undergraduates"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "mentoring",
+   "other"
+  ],
+  "mentoring": "component",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "general"
+  ],
+  "setting": "college_campus",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "state_regional",
+  "notes": "Renewal of cybersecurity scholarships at an Alabama university and two community colleges; scholars research with federal partners and get alumni mentors."
+ },
+ {
+  "id": "2337457",
+  "serves_youth": "indirect",
+  "audience": [
+   "teachers_educators",
+   "k12_students",
+   "researchers"
+  ],
+  "grade_band": "middle",
+  "models": [
+   "teacher_pd",
+   "school_curriculum",
+   "research_only"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "design_qualitative",
+  "service_geography": "local",
+  "notes": "Co-designs multilingual-student math pedagogy with one middle school's math teachers; video clubs and classroom observation studies."
+ },
+ {
+  "id": "2337709",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "families",
+   "teachers_educators"
+  ],
+  "grade_band": "elementary",
+  "models": [
+   "school_curriculum",
+   "teacher_pd",
+   "research_only"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "mixed",
+  "youth_reach": null,
+  "evaluation": "design_qualitative",
+  "service_geography": "local",
+  "notes": "Participatory design of math discussion routines for kindergarten to third grade, drawing on family knowledge, across three schools and a community center."
+ },
+ {
+  "id": "2337772",
+  "serves_youth": "indirect",
+  "audience": [
+   "teachers_educators"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "teacher_pd",
+   "online_tool_game"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "ai",
+  "targets": [
+   "low_income",
+   "underrepresented_general"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "unclear",
+  "notes": "Designs coaching routines for instructional coaches to use automated AI teacher feedback in math classrooms serving marginalized students."
+ },
+ {
+  "id": "2337969",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "online_tool_game",
+   "school_curriculum"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "ai",
+  "targets": [
+   "general"
+  ],
+  "setting": "online",
+  "youth_reach": null,
+  "evaluation": "design_qualitative",
+  "service_geography": "unclear",
+  "notes": "Builds web platform guiding elementary and middle students to critically judge AI-generated text for science writing; think-aloud studies."
+ },
+ {
+  "id": "2338735",
+  "serves_youth": "indirect",
+  "audience": [
+   "teachers_educators",
+   "researchers"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "teacher_pd",
+   "research_only"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "design_qualitative",
+  "service_geography": "unclear",
+  "notes": "Ethnography of antiracist science teaching, then framework and professional development for up to sixty science teachers."
+ },
+ {
+  "id": "2338987",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "high",
+  "models": [
+   "summer_program",
+   "teacher_pd",
+   "career_exposure"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "ai",
+  "targets": [
+   "low_income",
+   "black",
+   "rural"
+  ],
+  "setting": "summer",
+  "youth_reach": 50,
+  "evaluation": "pre_post",
+  "service_geography": "state_regional",
+  "notes": "One-week AI and smart manufacturing summer camp for fifty underserved Alabama Black Belt high schoolers, with teacher training."
+ },
+ {
+  "id": "2340829",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "middle",
+  "models": [
+   "school_curriculum",
+   "teacher_pd",
+   "research_only"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "low_income",
+   "underrepresented_general"
+  ],
+  "setting": "school_day",
+  "youth_reach": 1500,
+  "evaluation": "unspecified",
+  "service_geography": "state_regional",
+  "notes": "Co-designed wildfire data storytelling unit for about 1500 northwestern Nevada middle schoolers and 15 teachers."
+ },
+ {
+  "id": "2341159",
+  "serves_youth": "indirect",
+  "audience": [
+   "researchers",
+   "teachers_educators"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "network_coalition"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "unclear",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "unclear",
+  "notes": "Conference of researchers, school leaders and teachers developing frameworks for culturally sustaining science and engineering classroom assessment."
+ },
+ {
+  "id": "2341190",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "online_tool_game",
+   "research_only"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "ai",
+  "targets": [
+   "general"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "quasi_experimental",
+  "service_geography": "unclear",
+  "notes": "Prototype generative AI design helper inside a virtual robot-building game; crossover classroom study targets lower-experience learners."
+ },
+ {
+  "id": "2341860",
+  "serves_youth": "none",
+  "audience": [
+   "researchers",
+   "general_public"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "research_only",
+   "exhibit_media"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "girls_women",
+   "underrepresented_general"
+  ],
+  "setting": "unclear",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "national",
+  "notes": "Historical archival and media study of a children's science book and TV franchise and its public-private partnerships."
+ },
+ {
+  "id": "2341861",
+  "serves_youth": "none",
+  "audience": [
+   "researchers",
+   "general_public"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "research_only",
+   "exhibit_media"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "girls_women",
+   "underrepresented_general"
+  ],
+  "setting": "unclear",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "national",
+  "notes": "Partner institution's portion of the history-of-science-media study on a children's educational franchise; same collaborative project."
+ },
+ {
+  "id": "2341948",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "middle",
+  "models": [
+   "online_tool_game",
+   "school_curriculum",
+   "teacher_pd"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "ai",
+  "targets": [
+   "general"
+  ],
+  "setting": "unclear",
+  "youth_reach": null,
+  "evaluation": "unspecified",
+  "service_geography": "unclear",
+  "notes": "Generative AI makes algebra problems matching seventh graders' interests; tests effects on math performance with teacher co-design."
+ },
+ {
+  "id": "2341962",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators",
+   "families"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "school_curriculum",
+   "teacher_pd",
+   "other"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "rural",
+   "urban"
+  ],
+  "setting": "school_day",
+  "youth_reach": 300,
+  "evaluation": "unspecified",
+  "service_geography": "state_regional",
+  "notes": "Prepares New York technology and engineering teachers to teach computer science via design challenges; dual certification, family engagement, twelve classrooms."
+ },
+ {
+  "id": "2342099",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students"
+  ],
+  "grade_band": "middle",
+  "models": [
+   "out_of_school_program",
+   "mentoring",
+   "career_exposure"
+  ],
+  "mentoring": "component",
+  "bridging": "yes",
+  "ai_cs": "computing",
+  "targets": [
+   "girls_women"
+  ],
+  "setting": "after_school",
+  "youth_reach": null,
+  "evaluation": "design_qualitative",
+  "service_geography": "local",
+  "notes": "Middle school girls co-design afterschool social robotics program with women industry and undergraduate mentors; mixed methods on computing interest."
+ },
+ {
+  "id": "2342369",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "prek",
+  "models": [
+   "school_curriculum",
+   "teacher_pd",
+   "career_exposure"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "native_indigenous",
+   "rural"
+  ],
+  "setting": "school_day",
+  "youth_reach": 100,
+  "evaluation": "design_qualitative",
+  "service_geography": "local",
+  "notes": "Culturally grounded maker carts with weaving-based e-textile activities for young Navajo children and early childhood educators."
+ },
+ {
+  "id": "2342370",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "prek",
+  "models": [
+   "school_curriculum",
+   "teacher_pd",
+   "career_exposure"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "native_indigenous",
+   "rural"
+  ],
+  "setting": "school_day",
+  "youth_reach": 100,
+  "evaluation": "design_qualitative",
+  "service_geography": "local",
+  "notes": "Partner institution's share of Navajo early childhood maker cart computing project, identical collaborative scope."
+ },
+ {
+  "id": "2342438",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "high",
+  "models": [
+   "school_curriculum",
+   "teacher_pd",
+   "research_only"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "ai",
+  "targets": [
+   "black",
+   "hispanic_latino",
+   "underrepresented_general",
+   "rural",
+   "urban"
+  ],
+  "setting": "school_day",
+  "youth_reach": 210,
+  "evaluation": "design_qualitative",
+  "service_geography": "multi_state",
+  "notes": "Teachers and 210 high schoolers in three states audit machine learning applications for fairness; observation, interviews and surveys."
+ },
+ {
+  "id": "2342470",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators",
+   "general_public"
+  ],
+  "grade_band": "middle",
+  "models": [
+   "school_curriculum",
+   "teacher_pd",
+   "career_exposure",
+   "mentoring"
+  ],
+  "mentoring": "component",
+  "bridging": "yes",
+  "ai_cs": "computing",
+  "targets": [
+   "rural"
+  ],
+  "setting": "school_day",
+  "youth_reach": 720,
+  "evaluation": "unspecified",
+  "service_geography": "state_regional",
+  "notes": "Rural Maine middle school math modeling unit on local energy transition, with energy workforce mentors and student community roundtables."
+ },
+ {
+  "id": "2342489",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "elementary",
+  "models": [
+   "school_curriculum",
+   "teacher_pd",
+   "other"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "disability",
+   "rural",
+   "urban"
+  ],
+  "setting": "school_day",
+  "youth_reach": 1700,
+  "evaluation": "design_qualitative",
+  "service_geography": "state_regional",
+  "notes": "Low-cost adaptable classroom robot for elementary computer science in Virginia schools, including students with disabilities; design-based research."
+ },
+ {
+  "id": "2342550",
+  "serves_youth": "indirect",
+  "audience": [
+   "researchers",
+   "teachers_educators",
+   "undergraduates"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "network_coalition"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "unclear",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "national",
+  "notes": "Multi-day workshop convening math education leaders and industry to recommend future research, policy and practice directions."
+ },
+ {
+  "id": "2342574",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "high",
+  "models": [
+   "out_of_school_program",
+   "teacher_pd",
+   "school_curriculum"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "ai",
+  "targets": [
+   "native_indigenous",
+   "rural",
+   "underrepresented_general"
+  ],
+  "setting": "after_school",
+  "youth_reach": 60,
+  "evaluation": "pre_post",
+  "service_geography": "state_regional",
+  "notes": "Year-long out-of-school machine learning and computer vision program for sixty Mississippi high schoolers and fifteen teachers, repeated measures."
+ }
+]

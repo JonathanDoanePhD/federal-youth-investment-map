@@ -1,0 +1,502 @@
+[
+ {
+  "id": "ASST_NON_2016JUFX0018_015",
+  "org_scope": "national_multisite",
+  "targets": [
+   "general"
+  ],
+  "format": "unclear",
+  "purpose": "youth_development",
+  "notes": "Southwest Key multi-state youth mentoring program; no format stated."
+ },
+ {
+  "id": "ASST_NON_2016JUFX0019_015",
+  "org_scope": "local",
+  "targets": [
+   "general"
+  ],
+  "format": "unclear",
+  "purpose": "youth_development",
+  "notes": "Big Brothers Big Sisters South Texas, My Brother's Keeper mentoring in San Antonio."
+ },
+ {
+  "id": "ASST_NON_2016JUFX0020_015",
+  "org_scope": "local",
+  "targets": [
+   "general"
+  ],
+  "format": "unclear",
+  "purpose": "youth_development",
+  "notes": "Knoxville area mentoring initiative run by a local leadership foundation."
+ },
+ {
+  "id": "ASST_NON_2016JUFX0021_015",
+  "org_scope": "national_multisite",
+  "targets": [
+   "general"
+  ],
+  "format": "unclear",
+  "purpose": "youth_development",
+  "notes": "Boys & Girls Clubs of America national mentoring program across clubs."
+ },
+ {
+  "id": "ASST_NON_2016JUFX0022_015",
+  "org_scope": "national_multisite",
+  "targets": [
+   "general"
+  ],
+  "format": "unclear",
+  "purpose": "youth_development",
+  "notes": "National 4-H Council national mentoring program."
+ },
+ {
+  "id": "ASST_NON_2016JUFX0023_015",
+  "org_scope": "national_multisite",
+  "targets": [
+   "general"
+  ],
+  "format": "group",
+  "purpose": "youth_development",
+  "notes": "Cal Ripken Sr. Foundation Badges for Baseball group mentoring program."
+ },
+ {
+  "id": "ASST_NON_2016JUFX0024_015",
+  "org_scope": "local",
+  "targets": [
+   "at_risk_general"
+  ],
+  "format": "unclear",
+  "purpose": "delinquency_prevention",
+  "notes": "US Dream Academy mentoring expansion in high risk neighborhoods, building perseverance."
+ },
+ {
+  "id": "ASST_NON_2016JUFX0025_015",
+  "org_scope": "national_multisite",
+  "targets": [
+   "general"
+  ],
+  "format": "peer",
+  "purpose": "youth_development",
+  "notes": "Friends First STARS peer mentoring, multistate initiative."
+ },
+ {
+  "id": "ASST_NON_2016JUFX0026_015",
+  "org_scope": "national_multisite",
+  "targets": [
+   "at_risk_general"
+  ],
+  "format": "one_to_one",
+  "purpose": "delinquency_prevention",
+  "notes": "Friends of the Children salaried professional mentors for high risk youth."
+ },
+ {
+  "id": "ASST_NON_2016JUFX0027_015",
+  "org_scope": "national_multisite",
+  "targets": [
+   "general"
+  ],
+  "format": "unclear",
+  "purpose": "youth_development",
+  "notes": "Youth Collaboratory multi-state mentoring application, 2016."
+ },
+ {
+  "id": "ASST_NON_2016MUMUK001_015",
+  "org_scope": "national_multisite",
+  "targets": [
+   "general"
+  ],
+  "format": "unclear",
+  "purpose": "training_technical_assistance",
+  "notes": "MENTOR national mentoring resource center development and enhancement."
+ },
+ {
+  "id": "ASST_NON_2017JUFX0001_015",
+  "org_scope": "state_regional",
+  "targets": [
+   "general"
+  ],
+  "format": "unclear",
+  "purpose": "youth_development",
+  "notes": "Massachusetts Success Mentors Collaborative led by Family Services of Merrimack Valley."
+ },
+ {
+  "id": "ASST_NON_2017JUFX0002_015",
+  "org_scope": "national_multisite",
+  "targets": [
+   "at_risk_general"
+  ],
+  "format": "one_to_one",
+  "purpose": "delinquency_prevention",
+  "notes": "Big Brothers Big Sisters of America mentoring connecting at-risk youth with communities."
+ },
+ {
+  "id": "ASST_NON_2017JUFX0003_015",
+  "org_scope": "local",
+  "targets": [
+   "at_risk_general"
+  ],
+  "format": "peer",
+  "purpose": "academic",
+  "notes": "Center for Supportive Schools peer group mentoring and high school transition program."
+ },
+ {
+  "id": "ASST_NON_2017JUFX0004_015",
+  "org_scope": "national_multisite",
+  "targets": [
+   "general"
+  ],
+  "format": "unclear",
+  "purpose": "youth_development",
+  "notes": "Youth Collaboratory Many Mentoring Program."
+ },
+ {
+  "id": "ASST_NON_2017JUFX0005_015",
+  "org_scope": "national_multisite",
+  "targets": [
+   "general"
+  ],
+  "format": "unclear",
+  "purpose": "youth_development",
+  "notes": "Boys & Girls Clubs of America mentoring at clubs."
+ },
+ {
+  "id": "ASST_NON_2017JUFX0006_015",
+  "org_scope": "national_multisite",
+  "targets": [
+   "general"
+  ],
+  "format": "peer",
+  "purpose": "youth_development",
+  "notes": "Friends First STARS peer mentoring partnership."
+ },
+ {
+  "id": "ASST_NON_2017JUFX0007_015",
+  "org_scope": "national_multisite",
+  "targets": [
+   "general"
+  ],
+  "format": "unclear",
+  "purpose": "youth_development",
+  "notes": "National PAL mentoring initiative from police athletic leagues association."
+ },
+ {
+  "id": "ASST_NON_2017JUFX0008_015",
+  "org_scope": "national_multisite",
+  "targets": [
+   "general"
+  ],
+  "format": "group",
+  "purpose": "youth_development",
+  "notes": "Cal Ripken Sr. Foundation Badges for Baseball group mentoring program."
+ },
+ {
+  "id": "ASST_NON_2017JUFX0009_015",
+  "org_scope": "national_multisite",
+  "targets": [
+   "general"
+  ],
+  "format": "unclear",
+  "purpose": "youth_development",
+  "notes": "Museum of Science Clubhouse Network, increasing mentor participation and commitment."
+ },
+ {
+  "id": "ASST_NON_2017JUFX0010_015",
+  "org_scope": "local",
+  "targets": [
+   "general"
+  ],
+  "format": "unclear",
+  "purpose": "youth_development",
+  "notes": "Leadership Foundations Mentoring Youth for Leadership II."
+ },
+ {
+  "id": "ASST_NON_2017JUFX0011_015",
+  "org_scope": "national_multisite",
+  "targets": [
+   "tribal_native"
+  ],
+  "format": "unclear",
+  "purpose": "youth_development",
+  "notes": "National Indian Youth Leadership Project, Project Venture."
+ },
+ {
+  "id": "ASST_NON_2017JUFX0012_015",
+  "org_scope": "state_regional",
+  "targets": [
+   "general"
+  ],
+  "format": "unclear",
+  "purpose": "youth_development",
+  "notes": "Colorado metro area mentoring initiative by a community mental health center."
+ },
+ {
+  "id": "ASST_NON_2017JUFX0013_015",
+  "org_scope": "national_multisite",
+  "targets": [
+   "girls"
+  ],
+  "format": "unclear",
+  "purpose": "youth_development",
+  "notes": "Girls Inc. Bold Futures mentoring program expansion."
+ },
+ {
+  "id": "ASST_NON_2017JUFX0014_015",
+  "org_scope": "local",
+  "targets": [
+   "at_risk_general"
+  ],
+  "format": "unclear",
+  "purpose": "research_evaluation",
+  "notes": "Mentoring research partners evaluating impact, practices and implementation for high-risk youth."
+ },
+ {
+  "id": "ASST_NON_2017JUFX0015_015",
+  "org_scope": "local",
+  "targets": [
+   "general"
+  ],
+  "format": "unclear",
+  "purpose": "youth_development",
+  "notes": "Los Angeles sports-based youth development project by UP2US."
+ },
+ {
+  "id": "ASST_NON_2017JUFX0016_015",
+  "org_scope": "national_multisite",
+  "targets": [
+   "general"
+  ],
+  "format": "unclear",
+  "purpose": "youth_development",
+  "notes": "National 4-H Council national mentoring program."
+ },
+ {
+  "id": "ASST_NON_2017JUFX0017_015",
+  "org_scope": "national_multisite",
+  "targets": [
+   "general"
+  ],
+  "format": "unclear",
+  "purpose": "youth_development",
+  "notes": "National Urban League multistate mentoring project, Project Ready."
+ },
+ {
+  "id": "ASST_NON_2017JUFX0018_015",
+  "org_scope": "state_regional",
+  "targets": [
+   "general"
+  ],
+  "format": "unclear",
+  "purpose": "youth_development",
+  "notes": "Utah State University Utah 4-H mentoring initiative."
+ },
+ {
+  "id": "ASST_NON_2017JUFX0019_015",
+  "org_scope": "local",
+  "targets": [
+   "general"
+  ],
+  "format": "unclear",
+  "purpose": "youth_development",
+  "notes": "College Mentors for Kids program enhancement and expansion."
+ },
+ {
+  "id": "ASST_NON_2017JUFX0020_015",
+  "org_scope": "local",
+  "targets": [
+   "general"
+  ],
+  "format": "unclear",
+  "purpose": "academic",
+  "notes": "Sea Research Foundation STEM mentoring program."
+ },
+ {
+  "id": "ASST_NON_2017JUFX0021_015",
+  "org_scope": "local",
+  "targets": [
+   "general"
+  ],
+  "format": "unclear",
+  "purpose": "youth_development",
+  "notes": "Pathstone mentoring opportunities for youth."
+ },
+ {
+  "id": "ASST_NON_2017MUFX0024_015",
+  "org_scope": "local",
+  "targets": [
+   "general"
+  ],
+  "format": "unclear",
+  "purpose": "youth_development",
+  "notes": "YWCA Greater Harrisburg PAATH to Success enhancement."
+ },
+ {
+  "id": "ASST_NON_2017MUFX0025_015",
+  "org_scope": "national_multisite",
+  "targets": [
+   "other"
+  ],
+  "format": "unclear",
+  "purpose": "youth_development",
+  "notes": "Volunteers of America mentoring vulnerable populations."
+ },
+ {
+  "id": "ASST_NON_2018JUFX0001_015",
+  "org_scope": "local",
+  "targets": [
+   "general"
+  ],
+  "format": "group",
+  "purpose": "research_evaluation",
+  "notes": "Georgia State assessing key elements of group mentoring at Boys & Girls Club Atlanta."
+ },
+ {
+  "id": "ASST_NON_2018JUFX0005_015",
+  "org_scope": "national_multisite",
+  "targets": [
+   "general"
+  ],
+  "format": "unclear",
+  "purpose": "youth_development",
+  "notes": "National 4-H Council national mentoring program."
+ },
+ {
+  "id": "ASST_NON_2018JUFX0006_015",
+  "org_scope": "national_multisite",
+  "targets": [
+   "general"
+  ],
+  "format": "unclear",
+  "purpose": "youth_development",
+  "notes": "National PAL mentoring program from police athletic leagues association."
+ },
+ {
+  "id": "ASST_NON_2018JUFX0007_015",
+  "org_scope": "state_regional",
+  "targets": [
+   "general"
+  ],
+  "format": "unclear",
+  "purpose": "youth_development",
+  "notes": "Mountain-Plains Youth Services Coalition youth empowerment mentoring initiative."
+ },
+ {
+  "id": "ASST_NON_2018JUFX0008_015",
+  "org_scope": "local",
+  "targets": [
+   "general"
+  ],
+  "format": "unclear",
+  "purpose": "youth_development",
+  "notes": "Fayette County youth mentoring initiative by Youth Advocate Programs."
+ },
+ {
+  "id": "ASST_NON_2018JUFX0009_015",
+  "org_scope": "local",
+  "targets": [
+   "opioid_substance_affected"
+  ],
+  "format": "unclear",
+  "purpose": "youth_development",
+  "notes": "LUK Crisis Center mentoring for youth impacted by opioids."
+ },
+ {
+  "id": "ASST_NON_2018JUFX0010_015",
+  "org_scope": "national_multisite",
+  "targets": [
+   "at_risk_general"
+  ],
+  "format": "unclear",
+  "purpose": "delinquency_prevention",
+  "notes": "Big Brothers Big Sisters of America reducing risk and strengthening community relationships."
+ },
+ {
+  "id": "ASST_NON_2018JUFX0011_015",
+  "org_scope": "local",
+  "targets": [
+   "general"
+  ],
+  "format": "peer",
+  "purpose": "youth_development",
+  "notes": "Center for Supportive Schools peer group connection enhancement and expansion project."
+ },
+ {
+  "id": "ASST_NON_2018JUFX0012_015",
+  "org_scope": "local",
+  "targets": [
+   "general"
+  ],
+  "format": "unclear",
+  "purpose": "youth_development",
+  "notes": "Center for Family Services Reach for Success."
+ },
+ {
+  "id": "ASST_NON_2018JUFX0013_015",
+  "org_scope": "national_multisite",
+  "targets": [
+   "general"
+  ],
+  "format": "unclear",
+  "purpose": "youth_development",
+  "notes": "Boys & Girls Clubs of America mentoring at clubs."
+ },
+ {
+  "id": "ASST_NON_2018JUFX0014_015",
+  "org_scope": "national_multisite",
+  "targets": [
+   "general"
+  ],
+  "format": "unclear",
+  "purpose": "delinquency_prevention",
+  "notes": "Friends of the Children prevention project."
+ },
+ {
+  "id": "ASST_NON_2018JUFX0015_015",
+  "org_scope": "state_regional",
+  "targets": [
+   "general"
+  ],
+  "format": "unclear",
+  "purpose": "youth_development",
+  "notes": "Volunteers of America of Utah youth mentoring program."
+ },
+ {
+  "id": "ASST_NON_2018JUFX0016_015",
+  "org_scope": "national_multisite",
+  "targets": [
+   "foster_care"
+  ],
+  "format": "unclear",
+  "purpose": "youth_development",
+  "notes": "National CASA court-appointed special advocates mentoring program."
+ },
+ {
+  "id": "ASST_NON_2018JUFX0018_015",
+  "org_scope": "national_multisite",
+  "targets": [
+   "other"
+  ],
+  "format": "unclear",
+  "purpose": "youth_development",
+  "notes": "Catholic Charities USA trauma informed youth mentoring."
+ },
+ {
+  "id": "ASST_NON_2018JUFX0019_015",
+  "org_scope": "local",
+  "targets": [
+   "general"
+  ],
+  "format": "unclear",
+  "purpose": "youth_development",
+  "notes": "Goodwill Industries of the Valleys youth mentoring program."
+ },
+ {
+  "id": "ASST_NON_2018JUFX0020_015",
+  "org_scope": "local",
+  "targets": [
+   "general"
+  ],
+  "format": "unclear",
+  "purpose": "youth_development",
+  "notes": "Family Services of Merrimack Valley Amigos mentoring program."
+ }
+]

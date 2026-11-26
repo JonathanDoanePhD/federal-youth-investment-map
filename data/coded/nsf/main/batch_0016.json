@@ -1,0 +1,947 @@
+[
+ {
+  "id": "1640131",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "school_curriculum",
+   "research_apprenticeship",
+   "mentoring"
+  ],
+  "mentoring": "component",
+  "bridging": "yes",
+  "ai_cs": "computing",
+  "targets": [
+   "disability"
+  ],
+  "setting": "school_day",
+  "youth_reach": 200,
+  "evaluation": "design_qualitative",
+  "service_geography": "national",
+  "notes": "Accessible astronomy tools and computing modules for blind and sighted students, with astronomer role models; longitudinal study."
+ },
+ {
+  "id": "1640135",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "prek",
+  "models": [
+   "research_only",
+   "online_tool_game"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "rural",
+   "urban"
+  ],
+  "setting": "school_day",
+  "youth_reach": 100,
+  "evaluation": "design_qualitative",
+  "service_geography": "multi_state",
+  "notes": "Exploratory research on computational thinking within preschool math, using hands-on and tablet prototypes in three states."
+ },
+ {
+  "id": "1640141",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "middle",
+  "models": [
+   "school_curriculum",
+   "teacher_pd",
+   "online_tool_game"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "general"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "quasi_experimental",
+  "service_geography": "multi_state",
+  "notes": "Game-based life science curriculum embedding computational thinking, compared against baseline and non-game conditions; teacher training included."
+ },
+ {
+  "id": "1640178",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "middle",
+  "models": [
+   "school_curriculum",
+   "out_of_school_program"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "mixed",
+  "youth_reach": 2850,
+  "evaluation": "rct",
+  "service_geography": "unclear",
+  "notes": "Randomized trial comparing afterschool, elective and embedded-module contexts for fitness-themed computational thinking; assessment tool developed."
+ },
+ {
+  "id": "1640199",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "high",
+  "models": [
+   "school_curriculum",
+   "online_tool_game"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "general"
+  ],
+  "setting": "school_day",
+  "youth_reach": 450,
+  "evaluation": "unspecified",
+  "service_geography": "multi_state",
+  "notes": "Physics units and programming environment where students build computational models; co-designed with four teachers in two states."
+ },
+ {
+  "id": "1640201",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "high",
+  "models": [
+   "school_curriculum",
+   "teacher_pd",
+   "career_exposure"
+  ],
+  "mentoring": "none",
+  "bridging": "yes",
+  "ai_cs": "computing",
+  "targets": [
+   "general"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "design_qualitative",
+  "service_geography": "unclear",
+  "notes": "Whole-school integration of computational thinking across STEM courses, with industry-partnered capstone challenges and statewide showcase."
+ },
+ {
+  "id": "1640215",
+  "serves_youth": "indirect",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "high",
+  "models": [
+   "teacher_pd",
+   "school_curriculum"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "urban"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "design_qualitative",
+  "service_geography": "local",
+  "notes": "Teacher leadership and coaching to embed computing in math and science in Chicago schools resisting the CS requirement."
+ },
+ {
+  "id": "1640217",
+  "serves_youth": "indirect",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "high",
+  "models": [
+   "teacher_pd"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "underrepresented_general",
+   "urban"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "local",
+  "notes": "Multi-track teacher professional development to bring AP CS Principles and Exploring CS to every Milwaukee high school."
+ },
+ {
+  "id": "1640228",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "out_of_school_program",
+   "teacher_pd"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "low_income"
+  ],
+  "setting": "after_school",
+  "youth_reach": 144,
+  "evaluation": "design_qualitative",
+  "service_geography": "local",
+  "notes": "Community center afterschool model for fourth to sixth graders in Boise, with teachers leading integrated project-based computing inquiry."
+ },
+ {
+  "id": "1640237",
+  "serves_youth": "indirect",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "teacher_pd"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "school_day",
+  "youth_reach": 2200,
+  "evaluation": "unspecified",
+  "service_geography": "unclear",
+  "notes": "Assessment literacy training materials for Exploring Computer Science teachers, studied with 75 teachers and their students."
+ },
+ {
+  "id": "1640247",
+  "serves_youth": "indirect",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "teacher_pd"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "low_income",
+   "girls_women",
+   "underrepresented_general"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "unspecified",
+  "service_geography": "local",
+  "notes": "Summer coursework certifying Orange County secondary teachers in computer science, plus a hybrid teacher learning community."
+ },
+ {
+  "id": "1640726",
+  "serves_youth": "indirect",
+  "audience": [
+   "researchers",
+   "teachers_educators"
+  ],
+  "grade_band": "high",
+  "models": [
+   "network_coalition"
+  ],
+  "mentoring": "none",
+  "bridging": "unclear",
+  "ai_cs": "none",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "museum_science_center",
+  "youth_reach": null,
+  "evaluation": "unspecified",
+  "service_geography": "national",
+  "notes": "Workshop convening researchers and museum staff to plan high school research and science communication roles in Living Laboratory."
+ },
+ {
+  "id": "1640791",
+  "serves_youth": "indirect",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "high",
+  "models": [
+   "teacher_pd",
+   "school_curriculum"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "school_day",
+  "youth_reach": 6000,
+  "evaluation": "unspecified",
+  "service_geography": "multi_state",
+  "notes": "Teacher training in computational modeling for algebra-based physics using Bootstrap, with modules and a new survey instrument."
+ },
+ {
+  "id": "1641257",
+  "serves_youth": "none",
+  "audience": [
+   "researchers"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "research_only"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "unclear",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "national",
+  "notes": "Statistical analysis of national assessment data to explain the recent fourth and eighth grade math score decline."
+ },
+ {
+  "id": "1642187",
+  "serves_youth": "none",
+  "audience": [
+   "researchers",
+   "general_public",
+   "teachers_educators"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "exhibit_media",
+   "network_coalition"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "online",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "national",
+  "notes": "Online video showcase where federally funded STEM education projects present work and receive public discussion; participation studied."
+ },
+ {
+  "id": "1642413",
+  "serves_youth": "indirect",
+  "audience": [
+   "teachers_educators",
+   "researchers"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "research_only"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "national",
+  "notes": "Sixth national survey of science and math teaching practices, adding computer science and engineering, with weighted national estimates."
+ },
+ {
+  "id": "1643294",
+  "serves_youth": "none",
+  "audience": [
+   "researchers"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "other"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "workplace",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "national",
+  "notes": "Fellowship placing early and mid-career scientists inside NSF for policy immersion and leadership development."
+ },
+ {
+  "id": "1643308",
+  "serves_youth": "indirect",
+  "audience": [
+   "researchers",
+   "teachers_educators"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "network_coalition"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "underrepresented_general",
+   "low_income",
+   "girls_women"
+  ],
+  "setting": "unclear",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "national",
+  "notes": "International conference on STEM achievement gaps by ethnicity, income and gender, convening policymakers, researchers and practitioners from six countries."
+ },
+ {
+  "id": "1643313",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "families"
+  ],
+  "grade_band": "mixed_ages",
+  "models": [
+   "exhibit_media",
+   "research_only"
+  ],
+  "mentoring": "none",
+  "bridging": "yes",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "community",
+  "youth_reach": null,
+  "evaluation": "design_qualitative",
+  "service_geography": "state_regional",
+  "notes": "Observing children and mathematician volunteers at a state fair math playground to inform informal learning design."
+ },
+ {
+  "id": "1644314",
+  "serves_youth": "none",
+  "audience": [
+   "researchers"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "network_coalition"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "unclear",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "national",
+  "notes": "Two-day gathering of scholars to produce measurement validity guidelines for mathematics education research."
+ },
+ {
+  "id": "1644321",
+  "serves_youth": "none",
+  "audience": [
+   "researchers"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "network_coalition"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "unclear",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "national",
+  "notes": "Scholar conference creating measurement validity guidance for math education researchers; journal articles and website planned."
+ },
+ {
+  "id": "1644471",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "online_tool_game",
+   "school_curriculum"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "disability"
+  ],
+  "setting": "school_day",
+  "youth_reach": 150,
+  "evaluation": "design_qualitative",
+  "service_geography": "unclear",
+  "notes": "Touchscreen tactile graphics materials for blind and visually impaired students in algebra, biology and geography; video-based qualitative analysis."
+ },
+ {
+  "id": "1644476",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "online_tool_game",
+   "school_curriculum"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "disability"
+  ],
+  "setting": "school_day",
+  "youth_reach": 150,
+  "evaluation": "design_qualitative",
+  "service_geography": "unclear",
+  "notes": "Studies which tactile and auditory feedback helps visually impaired learners access STEM graphics on touchscreens; classroom pilot."
+ },
+ {
+  "id": "1644479",
+  "serves_youth": "indirect",
+  "audience": [
+   "researchers",
+   "teachers_educators"
+  ],
+  "grade_band": "mixed_ages",
+  "models": [
+   "network_coalition",
+   "research_only"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "online",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "national",
+  "notes": "Virtual conference of ten youth program representatives and researchers to build a template for long-term impact studies."
+ },
+ {
+  "id": "1644488",
+  "serves_youth": "indirect",
+  "audience": [
+   "teachers_educators"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "other"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "girls_women",
+   "underrepresented_general"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "unclear",
+  "notes": "Commercialization planning for an equity audit tool helping districts find disparities in access to math and science courses."
+ },
+ {
+  "id": "1644491",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "online_tool_game",
+   "school_curriculum"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "disability"
+  ],
+  "setting": "school_day",
+  "youth_reach": 150,
+  "evaluation": "design_qualitative",
+  "service_geography": "unclear",
+  "notes": "Develops perception-based framework and tactile graphic lessons for students with visual impairments; qualitative video analysis of about 150 learners."
+ },
+ {
+  "id": "1644538",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "online_tool_game",
+   "school_curriculum"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "disability"
+  ],
+  "setting": "school_day",
+  "youth_reach": 150,
+  "evaluation": "design_qualitative",
+  "service_geography": "unclear",
+  "notes": "Tests digital tactile graphics with sighted and blind students across algebra, cell biology and geography content."
+ },
+ {
+  "id": "1644554",
+  "serves_youth": "none",
+  "audience": [
+   "general_public"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "online_tool_game"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "online",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "national",
+  "notes": "Helping citizen science volunteers obtain instruments through a platform that links them with research projects."
+ },
+ {
+  "id": "1644725",
+  "serves_youth": "indirect",
+  "audience": [
+   "teachers_educators",
+   "k12_students",
+   "families"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "network_coalition",
+   "school_curriculum"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "girls_women",
+   "underrepresented_general"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "unspecified",
+  "service_geography": "state_regional",
+  "notes": "Planning districtwide computer science for all strategies with two Massachusetts districts through networked improvement communities."
+ },
+ {
+  "id": "1644848",
+  "serves_youth": "indirect",
+  "audience": [
+   "k12_students"
+  ],
+  "grade_band": "high",
+  "models": [
+   "online_tool_game",
+   "school_curriculum"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "general"
+  ],
+  "setting": "online",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "national",
+  "notes": "Building a visual block programming environment for high schoolers to create distributed networked applications, with curricular components."
+ },
+ {
+  "id": "1644976",
+  "serves_youth": "indirect",
+  "audience": [
+   "researchers",
+   "teachers_educators"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "network_coalition"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "english_learners",
+   "underrepresented_general"
+  ],
+  "setting": "unclear",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "national",
+  "notes": "Conference to set a research agenda on literacy in engineering education, especially for multilingual and diverse students."
+ },
+ {
+  "id": "1645442",
+  "serves_youth": "none",
+  "audience": [
+   "researchers"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "network_coalition"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "girls_women"
+  ],
+  "setting": "unclear",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "national",
+  "notes": "Professional development workshops on negotiation and grant writing for early-career women in cognitive and vision science."
+ },
+ {
+  "id": "1645700",
+  "serves_youth": "indirect",
+  "audience": [
+   "teachers_educators",
+   "k12_students"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "research_only"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "underrepresented_general",
+   "urban"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "design_qualitative",
+  "service_geography": "local",
+  "notes": "Qualitative study of how New York City's citywide computer science rollout is designed, adopted and experienced."
+ },
+ {
+  "id": "1645707",
+  "serves_youth": "indirect",
+  "audience": [
+   "teachers_educators",
+   "k12_students"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "research_only"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "underrepresented_general",
+   "urban"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "design_qualitative",
+  "service_geography": "local",
+  "notes": "Interview and observation research on implementation of citywide computer science education across diverse New York City communities."
+ },
+ {
+  "id": "1645710",
+  "serves_youth": "indirect",
+  "audience": [
+   "teachers_educators",
+   "k12_students"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "research_only"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "underrepresented_general",
+   "urban"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "design_qualitative",
+  "service_geography": "local",
+  "notes": "Grounded theory study of stakeholder decisions during New York City's large-scale computer science curriculum launch."
+ },
+ {
+  "id": "1645894",
+  "serves_youth": "indirect",
+  "audience": [
+   "teachers_educators"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "network_coalition"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "unclear",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "national",
+  "notes": "Collective impact consortium coordinating federal, state and local actors to support computer science for all implementation."
+ },
+ {
+  "id": "1646690",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students"
+  ],
+  "grade_band": "mixed_ages",
+  "models": [
+   "out_of_school_program",
+   "online_tool_game"
+  ],
+  "mentoring": "none",
+  "bridging": "unclear",
+  "ai_cs": "computing",
+  "targets": [
+   "low_income",
+   "underrepresented_general"
+  ],
+  "setting": "after_school",
+  "youth_reach": 300,
+  "evaluation": "design_qualitative",
+  "service_geography": "unclear",
+  "notes": "Afterschool data science where youth map and visualize community data to make interactive media; toolkits for other educators."
+ },
+ {
+  "id": "1646940",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students"
+  ],
+  "grade_band": "prek",
+  "models": [
+   "exhibit_media",
+   "research_only"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "museum_science_center",
+  "youth_reach": 400,
+  "evaluation": "pre_post",
+  "service_geography": "multi_state",
+  "notes": "Research on how bodily movement shows young children's science understanding at museum exhibits across US and UK sites."
+ },
+ {
+  "id": "1647018",
+  "serves_youth": "indirect",
+  "audience": [
+   "researchers",
+   "teachers_educators"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "network_coalition"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "general"
+  ],
+  "setting": "unclear",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "national",
+  "notes": "Multi-day workshop to build a cross-discipline framework defining computational thinking by grade band, with assessment recommendations."
+ },
+ {
+  "id": "1647023",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "middle",
+  "models": [
+   "school_curriculum",
+   "online_tool_game",
+   "teacher_pd"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "general"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "design_qualitative",
+  "service_geography": "unclear",
+  "notes": "Middle schoolers program wearables and phones as state machines to design math games; mixed-methods design studies."
+ }
+]

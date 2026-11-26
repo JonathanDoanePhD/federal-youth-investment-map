@@ -1,0 +1,937 @@
+[
+ {
+  "id": "2226312",
+  "serves_youth": "none",
+  "audience": [
+   "researchers"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "network_coalition"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "college_campus",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "state_regional",
+  "notes": "Network building shared geospatial data layers and open data support for HBCU and minority-serving institution researchers"
+ },
+ {
+  "id": "2227240",
+  "serves_youth": "indirect",
+  "audience": [],
+  "grade_band": "not_applicable",
+  "models": [
+   "network_coalition"
+  ],
+  "mentoring": "none",
+  "bridging": "unclear",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "unclear",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "unclear",
+  "notes": "Interagency agreement aimed at better coordinating youth programs; no abstract text provided, so tags rest on title"
+ },
+ {
+  "id": "2229061",
+  "serves_youth": "indirect",
+  "audience": [
+   "teachers_educators",
+   "researchers"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "network_coalition"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "mixed",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "national",
+  "notes": "Resource center and website serving informal STEM learning professionals, with convenings and awardee meetings"
+ },
+ {
+  "id": "2230636",
+  "serves_youth": "none",
+  "audience": [
+   "general_public"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "research_only",
+   "online_tool_game"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "community",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "state_regional",
+  "notes": "Digital twin and serious games for community wildfire risk decisions in Northern California; no youth involved"
+ },
+ {
+  "id": "2230850",
+  "serves_youth": "indirect",
+  "audience": [
+   "teachers_educators",
+   "researchers"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "network_coalition"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "ai",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "museum_science_center",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "unclear",
+  "notes": "Science museum convenes a conference on AI literacy for underserved youth, producing a guide of priorities"
+ },
+ {
+  "id": "2231557",
+  "serves_youth": "none",
+  "audience": [
+   "general_public"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "research_only",
+   "online_tool_game"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "ai",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "community",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "state_regional",
+  "notes": "Sensor networks and machine learning for environmental hazard awareness in Texas Gulf Coast communities; adults, no youth"
+ },
+ {
+  "id": "2231623",
+  "serves_youth": "none",
+  "audience": [
+   "undergraduates",
+   "researchers"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "other"
+  ],
+  "mentoring": "component",
+  "bridging": "no",
+  "ai_cs": "ai",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "college_campus",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "unclear",
+  "notes": "University-industry research center on intelligent embedded devices; trains students with collaborative mentoring"
+ },
+ {
+  "id": "2231898",
+  "serves_youth": "indirect",
+  "audience": [
+   "general_public",
+   "teachers_educators"
+  ],
+  "grade_band": "mixed_ages",
+  "models": [
+   "exhibit_media",
+   "network_coalition"
+  ],
+  "mentoring": "none",
+  "bridging": "unclear",
+  "ai_cs": "none",
+  "targets": [
+   "girls_women"
+  ],
+  "setting": "mixed",
+  "youth_reach": null,
+  "evaluation": "unspecified",
+  "service_geography": "national",
+  "notes": "Hybrid conference supporting women who make STEM media, plus a curriculum guide for high schools and colleges"
+ },
+ {
+  "id": "2232057",
+  "serves_youth": "none",
+  "audience": [
+   "undergraduates",
+   "researchers"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "other"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "college_campus",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "local",
+  "notes": "Materials engineering research on nanoscale solar antennas, with engineering students taking part"
+ },
+ {
+  "id": "2232070",
+  "serves_youth": "none",
+  "audience": [
+   "researchers"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "other"
+  ],
+  "mentoring": "component",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "workplace",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "national",
+  "notes": "Fellowship placing scientists and engineers in policy offices at the research agency, guided by mentors"
+ },
+ {
+  "id": "2233622",
+  "serves_youth": "none",
+  "audience": [
+   "researchers",
+   "teachers_educators"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "network_coalition"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "girls_women",
+   "underrepresented_general"
+  ],
+  "setting": "unclear",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "national",
+  "notes": "Expert workshop to set an intersectional research agenda on gender identity in computing education"
+ },
+ {
+  "id": "2234413",
+  "serves_youth": "none",
+  "audience": [],
+  "grade_band": "not_applicable",
+  "models": [
+   "other"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "unclear",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "unclear",
+  "notes": "Laser lens technology translation toward commercial products; no education component"
+ },
+ {
+  "id": "2234910",
+  "serves_youth": "none",
+  "audience": [
+   "undergraduates"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "other"
+  ],
+  "mentoring": "component",
+  "bridging": "yes",
+  "ai_cs": "ai",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "college_campus",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "multi_state",
+  "notes": "Two universities run a cybersecurity and AI scholarship-for-service program with career mentoring toward federal jobs"
+ },
+ {
+  "id": "2234911",
+  "serves_youth": "none",
+  "audience": [
+   "undergraduates"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "other"
+  ],
+  "mentoring": "component",
+  "bridging": "yes",
+  "ai_cs": "ai",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "college_campus",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "multi_state",
+  "notes": "Partner-campus half of the shared cybersecurity and AI scholarship-for-service renewal, with career mentoring"
+ },
+ {
+  "id": "2234915",
+  "serves_youth": "none",
+  "audience": [
+   "undergraduates"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "other"
+  ],
+  "mentoring": "component",
+  "bridging": "yes",
+  "ai_cs": "computing",
+  "targets": [
+   "general"
+  ],
+  "setting": "college_campus",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "local",
+  "notes": "New cybersecurity scholarship-for-service program at one university, with faculty-mentored research and agency partnerships"
+ },
+ {
+  "id": "2235183",
+  "serves_youth": "none",
+  "audience": [
+   "undergraduates"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "other"
+  ],
+  "mentoring": "none",
+  "bridging": "yes",
+  "ai_cs": "computing",
+  "targets": [
+   "first_generation",
+   "low_income"
+  ],
+  "setting": "college_campus",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "state_regional",
+  "notes": "Cybersecurity scholarships using for-credit clinical rotations in a university operations center serving public bodies"
+ },
+ {
+  "id": "2235437",
+  "serves_youth": "none",
+  "audience": [
+   "researchers"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "other"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "college_campus",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "state_regional",
+  "notes": "Sub-terahertz wireless semiconductor research team in South Texas with a general workforce outreach plan"
+ },
+ {
+  "id": "2235466",
+  "serves_youth": "none",
+  "audience": [
+   "researchers",
+   "undergraduates"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "other"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "college_campus",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "unclear",
+  "notes": "Electronic-photonic chip research and student training toward a larger co-design center"
+ },
+ {
+  "id": "2236739",
+  "serves_youth": "indirect",
+  "audience": [
+   "teachers_educators"
+  ],
+  "grade_band": "elementary",
+  "models": [
+   "teacher_pd"
+  ],
+  "mentoring": "component",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "underrepresented_general",
+   "rural"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "design_qualitative",
+  "service_geography": "state_regional",
+  "notes": "Online coaching coursework and induction supporting beginning elementary math teachers in rural Georgia, studied through case studies"
+ },
+ {
+  "id": "2236832",
+  "serves_youth": "indirect",
+  "audience": [
+   "teachers_educators",
+   "general_public"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "network_coalition"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "rural"
+  ],
+  "setting": "mixed",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "national",
+  "notes": "Annual hybrid summit linking rural informal STEM educators and organizations to share practice"
+ },
+ {
+  "id": "2237035",
+  "serves_youth": "indirect",
+  "audience": [
+   "teachers_educators",
+   "researchers"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "research_only"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "rural"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "national",
+  "notes": "Regression studies of STEM teacher supply, qualifications and mobility using national and Kansas data"
+ },
+ {
+  "id": "2237053",
+  "serves_youth": "indirect",
+  "audience": [
+   "teachers_educators",
+   "undergraduates",
+   "researchers"
+  ],
+  "grade_band": "elementary",
+  "models": [
+   "research_only"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "disability"
+  ],
+  "setting": "unclear",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "unclear",
+  "notes": "Testing infographic summaries of math research for teachers; also research roles for university students with disabilities"
+ },
+ {
+  "id": "2237151",
+  "serves_youth": "indirect",
+  "audience": [
+   "teachers_educators",
+   "undergraduates"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "teacher_pd",
+   "school_curriculum"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "mixed",
+  "youth_reach": null,
+  "evaluation": "design_qualitative",
+  "service_geography": "unclear",
+  "notes": "Methods course materials and mentor-teacher development to prepare equity-minded secondary math teachers, studied qualitatively"
+ },
+ {
+  "id": "2237593",
+  "serves_youth": "none",
+  "audience": [
+   "teachers_educators"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "research_only"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "ai",
+  "targets": [
+   "general"
+  ],
+  "setting": "online",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "national",
+  "notes": "Online experiments with educators on trust in predictive analytics, plus a campus field trial"
+ },
+ {
+  "id": "2237703",
+  "serves_youth": "indirect",
+  "audience": [
+   "teachers_educators",
+   "researchers"
+  ],
+  "grade_band": "high",
+  "models": [
+   "research_only"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "national",
+  "notes": "Studies of school decision policies for high school STEM credit recovery, ending in a national survey"
+ },
+ {
+  "id": "2237739",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "elementary",
+  "models": [
+   "school_curriculum"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "black",
+   "urban"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "design_qualitative",
+  "service_geography": "local",
+  "notes": "Community-based science curriculum with Black elementary students in a Detroit charter school; qualitative identity study"
+ },
+ {
+  "id": "2237902",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "prek",
+  "models": [
+   "research_only"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "school_day",
+  "youth_reach": 15,
+  "evaluation": "design_qualitative",
+  "service_geography": "unclear",
+  "notes": "Longitudinal qualitative study following fifteen children from preschool through kindergarten math experiences"
+ },
+ {
+  "id": "2237986",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "elementary",
+  "models": [
+   "school_curriculum",
+   "research_only"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "english_learners",
+   "underrepresented_general"
+  ],
+  "setting": "school_day",
+  "youth_reach": 250,
+  "evaluation": "design_qualitative",
+  "service_geography": "local",
+  "notes": "Co-designed math lessons affirming bilingual children, in two schools using participatory design research"
+ },
+ {
+  "id": "2238712",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators",
+   "undergraduates"
+  ],
+  "grade_band": "elementary",
+  "models": [
+   "school_curriculum",
+   "teacher_pd"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "ai",
+  "targets": [
+   "rural",
+   "underrepresented_general"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "unspecified",
+  "service_geography": "unclear",
+  "notes": "Co-designed critical computing curriculum on AI for rural elementary pupils, with effectiveness measured on interest"
+ },
+ {
+  "id": "2238882",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "undergraduates"
+  ],
+  "grade_band": "middle",
+  "models": [
+   "mentoring",
+   "school_curriculum"
+  ],
+  "mentoring": "central",
+  "bridging": "unclear",
+  "ai_cs": "none",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "quasi_experimental",
+  "service_geography": "local",
+  "notes": "Robotics and social-emotional program for confined middle schoolers, mentored by pre-service teachers, compared with other student groups"
+ },
+ {
+  "id": "2239021",
+  "serves_youth": "none",
+  "audience": [
+   "undergraduates",
+   "researchers",
+   "general_public"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "research_only",
+   "exhibit_media"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "black",
+   "girls_women"
+  ],
+  "setting": "mixed",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "national",
+  "notes": "National survey on Black women undergraduates in computing, plus a documentary and curriculum"
+ },
+ {
+  "id": "2239152",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "high",
+  "models": [
+   "teacher_pd",
+   "school_curriculum",
+   "online_tool_game"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "general"
+  ],
+  "setting": "school_day",
+  "youth_reach": 1200,
+  "evaluation": "quasi_experimental",
+  "service_geography": "unclear",
+  "notes": "Teacher development and software for Bayesian data analysis in high school biology, tested in a field experiment"
+ },
+ {
+  "id": "2239316",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators",
+   "researchers"
+  ],
+  "grade_band": "middle",
+  "models": [
+   "research_only"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "unclear",
+  "youth_reach": null,
+  "evaluation": "design_qualitative",
+  "service_geography": "unclear",
+  "notes": "Interview-based design research on how middle school students think about graphs, yielding tasks and videos"
+ },
+ {
+  "id": "2239481",
+  "serves_youth": "indirect",
+  "audience": [
+   "teachers_educators",
+   "researchers"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "research_only"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "general"
+  ],
+  "setting": "unclear",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "multi_state",
+  "notes": "Comparative study of state computer science supervisors, producing a toolkit supporting their work"
+ },
+ {
+  "id": "2240535",
+  "serves_youth": "none",
+  "audience": [
+   "undergraduates",
+   "researchers"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "mentoring",
+   "network_coalition"
+  ],
+  "mentoring": "central",
+  "bridging": "yes",
+  "ai_cs": "none",
+  "targets": [
+   "black",
+   "hispanic_latino",
+   "native_indigenous"
+  ],
+  "setting": "mixed",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "national",
+  "notes": "Group and peer mentoring community for marginalized cognitive science students and scholars, plus study of graduate recruitment policy"
+ },
+ {
+  "id": "2241021",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "middle",
+  "models": [
+   "school_curriculum",
+   "career_exposure"
+  ],
+  "mentoring": "none",
+  "bridging": "unclear",
+  "ai_cs": "computing",
+  "targets": [
+   "hispanic_latino",
+   "black",
+   "urban"
+  ],
+  "setting": "school_day",
+  "youth_reach": 1120,
+  "evaluation": "pre_post",
+  "service_geography": "local",
+  "notes": "Four-week computational geoscience unit on local earthquake hazards for middle schoolers in Stockton"
+ },
+ {
+  "id": "2241350",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "undergraduates"
+  ],
+  "grade_band": "high",
+  "models": [
+   "mentoring",
+   "out_of_school_program",
+   "career_exposure"
+  ],
+  "mentoring": "central",
+  "bridging": "yes",
+  "ai_cs": "none",
+  "targets": [
+   "disability"
+  ],
+  "setting": "after_school",
+  "youth_reach": 135,
+  "evaluation": "pre_post",
+  "service_geography": "unclear",
+  "notes": "Autistic college students mentor autistic high schoolers in maker clubs to ease the move toward STEM careers"
+ },
+ {
+  "id": "2241380",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "out_of_school_program"
+  ],
+  "mentoring": "none",
+  "bridging": "unclear",
+  "ai_cs": "none",
+  "targets": [
+   "disability",
+   "underrepresented_general"
+  ],
+  "setting": "community",
+  "youth_reach": 85,
+  "evaluation": "pre_post",
+  "service_geography": "unclear",
+  "notes": "Makerspace brain-sensor curriculum co-developed with neurodivergent youth aged ten to fourteen to build STEM career interest"
+ },
+ {
+  "id": "2241483",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "middle",
+  "models": [
+   "school_curriculum",
+   "teacher_pd"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "hispanic_latino",
+   "english_learners"
+  ],
+  "setting": "school_day",
+  "youth_reach": 3000,
+  "evaluation": "pre_post",
+  "service_geography": "local",
+  "notes": "Text analytics and data literacy lessons in middle school English classes with partner district teachers"
+ },
+ {
+  "id": "2241576",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students"
+  ],
+  "grade_band": "high",
+  "models": [
+   "online_tool_game"
+  ],
+  "mentoring": "none",
+  "bridging": "unclear",
+  "ai_cs": "ai",
+  "targets": [
+   "low_income",
+   "underrepresented_general"
+  ],
+  "setting": "online",
+  "youth_reach": 120,
+  "evaluation": "design_qualitative",
+  "service_geography": "multi_state",
+  "notes": "Online collaborative AI and ethics course for Title I high school students, studied by design research"
+ }
+]

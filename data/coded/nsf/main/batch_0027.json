@@ -1,0 +1,974 @@
+[
+ {
+  "id": "1759370",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "high",
+  "models": [
+   "school_curriculum",
+   "teacher_pd"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "underrepresented_general",
+   "urban"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "pre_post",
+  "service_geography": "local",
+  "notes": "Adapting a dual-credit GIS course for Chicago career-technical high schools using co-design with teachers."
+ },
+ {
+  "id": "1759371",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "high",
+  "models": [
+   "school_curriculum",
+   "teacher_pd"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "underrepresented_general",
+   "urban"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "pre_post",
+  "service_geography": "local",
+  "notes": "Same Chicago geospatial course adaptation project, partner institution's award; co-designed materials, teacher training, spatial-thinking assessments."
+ },
+ {
+  "id": "1759372",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators",
+   "families"
+  ],
+  "grade_band": "elementary",
+  "models": [
+   "school_curriculum"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "pre_post",
+  "service_geography": "local",
+  "notes": "Third to fifth graders map and tell STEM stories from family and neighborhood interviews in two schools."
+ },
+ {
+  "id": "1759407",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "undergraduates"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "mentoring",
+   "other"
+  ],
+  "mentoring": "central",
+  "bridging": "yes",
+  "ai_cs": "none",
+  "targets": [
+   "native_indigenous"
+  ],
+  "setting": "community",
+  "youth_reach": null,
+  "evaluation": "pre_post",
+  "service_geography": "local",
+  "notes": "Tribal youth make environmental podcasts, mentored by Native undergraduates and experts, blending Indigenous and Western knowledge."
+ },
+ {
+  "id": "1759421",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students"
+  ],
+  "grade_band": "high",
+  "models": [
+   "summer_program",
+   "out_of_school_program"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "black",
+   "girls_women",
+   "rural"
+  ],
+  "setting": "mixed",
+  "youth_reach": 120,
+  "evaluation": "unspecified",
+  "service_geography": "state_regional",
+  "notes": "Year-long computing workshops and online peer community preparing Alabama Black girls for AP computer science and careers."
+ },
+ {
+  "id": "1759430",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students"
+  ],
+  "grade_band": "high",
+  "models": [
+   "summer_program",
+   "career_exposure"
+  ],
+  "mentoring": "component",
+  "bridging": "yes",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "summer",
+  "youth_reach": null,
+  "evaluation": "quasi_experimental",
+  "service_geography": "state_regional",
+  "notes": "Week-long residential JROTC leadership academy adding STEM projects and site visits, studied against a comparison group."
+ },
+ {
+  "id": "1759442",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "undergraduates"
+  ],
+  "grade_band": "high",
+  "models": [
+   "mentoring",
+   "other"
+  ],
+  "mentoring": "central",
+  "bridging": "yes",
+  "ai_cs": "none",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "mixed",
+  "youth_reach": null,
+  "evaluation": "rct",
+  "service_geography": "unclear",
+  "notes": "High schoolers film near-peer conversations with undergraduates; videos shown to classmates; schools randomized across three conditions."
+ },
+ {
+  "id": "1759448",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "high",
+  "models": [
+   "school_curriculum",
+   "teacher_pd"
+  ],
+  "mentoring": "none",
+  "bridging": "unclear",
+  "ai_cs": "none",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "school_day",
+  "youth_reach": 2100,
+  "evaluation": "rct",
+  "service_geography": "local",
+  "notes": "Air quality lessons in Riverside high school science classes, tested with randomized teachers and summer teacher research."
+ },
+ {
+  "id": "1760055",
+  "serves_youth": "indirect",
+  "audience": [
+   "k12_students",
+   "teachers_educators",
+   "researchers"
+  ],
+  "grade_band": "elementary",
+  "models": [
+   "research_only",
+   "school_curriculum"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "disability",
+   "english_learners",
+   "underrepresented_general"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "unspecified",
+  "service_geography": "unclear",
+  "notes": "Studying whether reading comprehension strategies can improve programming instruction for upper elementary students, then piloting them."
+ },
+ {
+  "id": "1760311",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "families",
+   "undergraduates",
+   "teachers_educators"
+  ],
+  "grade_band": "elementary",
+  "models": [
+   "mentoring",
+   "out_of_school_program"
+  ],
+  "mentoring": "central",
+  "bridging": "yes",
+  "ai_cs": "none",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "after_school",
+  "youth_reach": 120,
+  "evaluation": "design_qualitative",
+  "service_geography": "state_regional",
+  "notes": "Undergraduate and father mentors support fourth and fifth grade boys in afterschool and Saturday hands-on STEM sessions in Houston."
+ },
+ {
+  "id": "1763558",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students"
+  ],
+  "grade_band": "high",
+  "models": [
+   "research_apprenticeship",
+   "mentoring",
+   "career_exposure"
+  ],
+  "mentoring": "component",
+  "bridging": "yes",
+  "ai_cs": "none",
+  "targets": [
+   "girls_women",
+   "underrepresented_general",
+   "urban",
+   "rural"
+  ],
+  "setting": "mixed",
+  "youth_reach": 240,
+  "evaluation": "unspecified",
+  "service_geography": "state_regional",
+  "notes": "Cleveland-area manufacturing career pathway with paid internships, college credit, credentials and mentors for high school juniors and seniors."
+ },
+ {
+  "id": "1764404",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "families",
+   "general_public"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "network_coalition",
+   "summer_program",
+   "out_of_school_program"
+  ],
+  "mentoring": "none",
+  "bridging": "unclear",
+  "ai_cs": "none",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "mixed",
+  "youth_reach": null,
+  "evaluation": "design_qualitative",
+  "service_geography": "local",
+  "notes": "Texas university, schools, city and faith groups design blended STEM enrichment model for underserved San Marcos middle and high schoolers."
+ },
+ {
+  "id": "1806229",
+  "serves_youth": "none",
+  "audience": [
+   "researchers"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "network_coalition",
+   "other"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "black",
+   "hispanic_latino",
+   "native_indigenous",
+   "disability"
+  ],
+  "setting": "college_campus",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "unclear",
+  "notes": "Pilot to diversify future computing professors by changing PhD recruitment, admissions and development at top-producing research universities."
+ },
+ {
+  "id": "1808749",
+  "serves_youth": "none",
+  "audience": [
+   "general_public"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "exhibit_media",
+   "research_only"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "native_indigenous",
+   "rural"
+  ],
+  "setting": "museum_science_center",
+  "youth_reach": null,
+  "evaluation": "unspecified",
+  "service_geography": "national",
+  "notes": "Traveling snow museum exhibit plus visits to remote Alaska villages, with research on cultural influences on informal learning."
+ },
+ {
+  "id": "1809208",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "undergraduates",
+   "researchers"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "out_of_school_program",
+   "mentoring",
+   "research_only"
+  ],
+  "mentoring": "component",
+  "bridging": "unclear",
+  "ai_cs": "none",
+  "targets": [
+   "hispanic_latino",
+   "underrepresented_general"
+  ],
+  "setting": "after_school",
+  "youth_reach": null,
+  "evaluation": "design_qualitative",
+  "service_geography": "local",
+  "notes": "Postdoctoral study of a university math afterschool program with undergraduate mentors, examining culturally responsive practices and youth motivation."
+ },
+ {
+  "id": "1809324",
+  "serves_youth": "none",
+  "audience": [
+   "researchers",
+   "general_public"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "other"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "unclear",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "state_regional",
+  "notes": "Rapid disaster-response project building a shared data repository on Puerto Rico drinking water after Hurricane Maria."
+ },
+ {
+  "id": "1809412",
+  "serves_youth": "none",
+  "audience": [
+   "researchers",
+   "general_public"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "other"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "unclear",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "state_regional",
+  "notes": "Rapid disaster-response project building a shared data repository on Puerto Rico drinking water after Hurricane Maria."
+ },
+ {
+  "id": "1810151",
+  "serves_youth": "none",
+  "audience": [
+   "researchers",
+   "general_public"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "other"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "unclear",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "state_regional",
+  "notes": "Rapid disaster-response project building a shared data repository on Puerto Rico drinking water after Hurricane Maria."
+ },
+ {
+  "id": "1810172",
+  "serves_youth": "none",
+  "audience": [
+   "researchers",
+   "general_public"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "other"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "unclear",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "state_regional",
+  "notes": "Rapid disaster-response project building a shared data repository on Puerto Rico drinking water after Hurricane Maria."
+ },
+ {
+  "id": "1810587",
+  "serves_youth": "none",
+  "audience": [
+   "general_public",
+   "researchers"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "other",
+   "research_only"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "community",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "state_regional",
+  "notes": "Pilot study of mapping events as an informal route for military veterans toward civilian geospatial and STEM careers across Texas."
+ },
+ {
+  "id": "1810647",
+  "serves_youth": "none",
+  "audience": [
+   "researchers",
+   "general_public"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "other"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "unclear",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "state_regional",
+  "notes": "Rapid disaster-response project building a shared data repository on Puerto Rico drinking water after Hurricane Maria."
+ },
+ {
+  "id": "1810778",
+  "serves_youth": "none",
+  "audience": [
+   "general_public"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "exhibit_media",
+   "research_only"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "native_indigenous",
+   "rural"
+  ],
+  "setting": "museum_science_center",
+  "youth_reach": null,
+  "evaluation": "unspecified",
+  "service_geography": "national",
+  "notes": "Traveling snow museum exhibit plus visits to remote Alaska villages, with research on cultural influences on informal learning."
+ },
+ {
+  "id": "1810802",
+  "serves_youth": "none",
+  "audience": [
+   "researchers",
+   "general_public"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "other"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "unclear",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "state_regional",
+  "notes": "Rapid disaster-response project building a shared data repository on Puerto Rico drinking water after Hurricane Maria."
+ },
+ {
+  "id": "1810851",
+  "serves_youth": "none",
+  "audience": [
+   "general_public",
+   "researchers"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "other",
+   "research_only"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "community",
+  "youth_reach": null,
+  "evaluation": "design_qualitative",
+  "service_geography": "multi_state",
+  "notes": "Studying and iteratively redesigning environmental adaptation workshops in eight communities to promote adult learning and collective action."
+ },
+ {
+  "id": "1810886",
+  "serves_youth": "none",
+  "audience": [
+   "researchers",
+   "general_public"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "other"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "unclear",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "state_regional",
+  "notes": "Rapid disaster-response project building a shared data repository on Puerto Rico drinking water after Hurricane Maria."
+ },
+ {
+  "id": "1810923",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "out_of_school_youth"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "research_only"
+  ],
+  "mentoring": "central",
+  "bridging": "yes",
+  "ai_cs": "computing",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "after_school",
+  "youth_reach": 200,
+  "evaluation": "design_qualitative",
+  "service_geography": "local",
+  "notes": "Interview and network study of how mentorship and brokering build social capital in Orange County youth engineering and coding programs."
+ },
+ {
+  "id": "1810972",
+  "serves_youth": "none",
+  "audience": [
+   "general_public"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "online_tool_game",
+   "research_only"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "girls_women",
+   "underrepresented_general"
+  ],
+  "setting": "online",
+  "youth_reach": null,
+  "evaluation": "unspecified",
+  "service_geography": "national",
+  "notes": "Developing a 3D puzzle game teaching programming concepts, using play logs to study how novices learn coding."
+ },
+ {
+  "id": "1810984",
+  "serves_youth": "none",
+  "audience": [
+   "general_public"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "exhibit_media",
+   "research_only"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "museum_science_center",
+  "youth_reach": null,
+  "evaluation": "unspecified",
+  "service_geography": "local",
+  "notes": "Comparing augmented reality exhibit designs about La Brea paleontology to learn what boosts visitor engagement and understanding."
+ },
+ {
+  "id": "1810990",
+  "serves_youth": "none",
+  "audience": [
+   "general_public"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "exhibit_media",
+   "research_only"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "online",
+  "youth_reach": null,
+  "evaluation": "unspecified",
+  "service_geography": "national",
+  "notes": "Profiling millennial science media audiences and testing public radio produced content with online experiments to spark engagement."
+ },
+ {
+  "id": "1810992",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "summer_program"
+  ],
+  "mentoring": "none",
+  "bridging": "yes",
+  "ai_cs": "none",
+  "targets": [
+   "rural",
+   "underrepresented_general"
+  ],
+  "setting": "summer",
+  "youth_reach": null,
+  "evaluation": "design_qualitative",
+  "service_geography": "state_regional",
+  "notes": "Residential university summer math modeling program for rural Montana youth, built with 4-H and local knowledge."
+ },
+ {
+  "id": "1811007",
+  "serves_youth": "none",
+  "audience": [
+   "families",
+   "general_public"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "exhibit_media",
+   "research_only"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "hispanic_latino"
+  ],
+  "setting": "home_family",
+  "youth_reach": null,
+  "evaluation": "rct",
+  "service_geography": "national",
+  "notes": "Local TV news segments on child development research aimed at Latino parents, with a randomized viewer impact study."
+ },
+ {
+  "id": "1811014",
+  "serves_youth": "none",
+  "audience": [
+   "general_public"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "exhibit_media",
+   "research_only"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "museum_science_center",
+  "youth_reach": null,
+  "evaluation": "unspecified",
+  "service_geography": "local",
+  "notes": "Comparing augmented reality exhibit designs about La Brea paleontology to learn what boosts visitor engagement and understanding."
+ },
+ {
+  "id": "1811019",
+  "serves_youth": "none",
+  "audience": [
+   "general_public"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "exhibit_media",
+   "research_only"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "online",
+  "youth_reach": null,
+  "evaluation": "unspecified",
+  "service_geography": "national",
+  "notes": "Profiling millennial science media audiences and testing public media content with online experiments to spark engagement."
+ },
+ {
+  "id": "1811022",
+  "serves_youth": "none",
+  "audience": [
+   "researchers",
+   "general_public"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "other",
+   "research_only"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "unclear",
+  "youth_reach": null,
+  "evaluation": "unspecified",
+  "service_geography": "multi_state",
+  "notes": "Developing quick audience assessment methods that scientists can use during public outreach, iteratively tested with trained scientists."
+ },
+ {
+  "id": "1811028",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "out_of_school_program",
+   "career_exposure",
+   "mentoring",
+   "teacher_pd"
+  ],
+  "mentoring": "component",
+  "bridging": "yes",
+  "ai_cs": "none",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "after_school",
+  "youth_reach": 100,
+  "evaluation": "design_qualitative",
+  "service_geography": "local",
+  "notes": "Pilot adding STEM career programming, mentors and internships to Boys & Girls Clubs in two Massachusetts towns."
+ },
+ {
+  "id": "1811043",
+  "serves_youth": "none",
+  "audience": [
+   "general_public"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "exhibit_media",
+   "research_only"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "museum_science_center",
+  "youth_reach": null,
+  "evaluation": "unspecified",
+  "service_geography": "local",
+  "notes": "Museum exhibit letting visitors contribute data to social psychology studies about cooperation, with evaluation of learning effects."
+ },
+ {
+  "id": "1811063",
+  "serves_youth": "none",
+  "audience": [
+   "teachers_educators"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "network_coalition",
+   "exhibit_media"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "museum_science_center",
+  "youth_reach": null,
+  "evaluation": "unspecified",
+  "service_geography": "national",
+  "notes": "Conference bringing museum professionals together to rethink exhibit design for participatory public engagement with science."
+ },
+ {
+  "id": "1811086",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "undergraduates"
+  ],
+  "grade_band": "middle",
+  "models": [
+   "out_of_school_program",
+   "mentoring",
+   "online_tool_game"
+  ],
+  "mentoring": "component",
+  "bridging": "yes",
+  "ai_cs": "computing",
+  "targets": [
+   "girls_women",
+   "hispanic_latino",
+   "black",
+   "native_indigenous",
+   "rural",
+   "urban"
+  ],
+  "setting": "after_school",
+  "youth_reach": null,
+  "evaluation": "quasi_experimental",
+  "service_geography": "state_regional",
+  "notes": "Middle school girls learn programming with an expressive social robot and college women mentors in Girl Scout courses in Arizona."
+ },
+ {
+  "id": "1811118",
+  "serves_youth": "none",
+  "audience": [
+   "teachers_educators",
+   "general_public",
+   "researchers"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "network_coalition",
+   "exhibit_media"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "museum_science_center",
+  "youth_reach": null,
+  "evaluation": "design_qualitative",
+  "service_geography": "multi_state",
+  "notes": "Four science museums co-create public dialogue forums with community and scientist partners to reduce polarization over science topics."
+ },
+ {
+  "id": "1811119",
+  "serves_youth": "direct",
+  "audience": [
+   "researchers",
+   "general_public",
+   "k12_students"
+  ],
+  "grade_band": "mixed_ages",
+  "models": [
+   "other",
+   "exhibit_media"
+  ],
+  "mentoring": "none",
+  "bridging": "unclear",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "mixed",
+  "youth_reach": null,
+  "evaluation": "design_qualitative",
+  "service_geography": "local",
+  "notes": "Preparing researchers from different fields to communicate science at community events, youth problem-solving events and a museum in Columbus."
+ }
+]

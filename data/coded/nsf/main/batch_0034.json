@@ -1,0 +1,995 @@
+[
+ {
+  "id": "1842358",
+  "serves_youth": "indirect",
+  "audience": [
+   "teachers_educators"
+  ],
+  "grade_band": "middle",
+  "models": [
+   "teacher_pd",
+   "school_curriculum"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "general"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "unclear",
+  "notes": "Researchers and teachers co-design computational thinking inquiry on societal science issues for middle school classrooms."
+ },
+ {
+  "id": "1842359",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "middle",
+  "models": [
+   "school_curriculum",
+   "teacher_pd"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "rural"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "rct",
+  "service_geography": "state_regional",
+  "notes": "Computing-integrated middle school science modules for rural Maine schools, with teacher development and a randomized trial."
+ },
+ {
+  "id": "1842374",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "high",
+  "models": [
+   "school_curriculum",
+   "online_tool_game"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "general"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "unspecified",
+  "service_geography": "local",
+  "notes": "Chicago-area high school science units adding agent-based modeling tools and assessments of computational thinking."
+ },
+ {
+  "id": "1842375",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students"
+  ],
+  "grade_band": "middle",
+  "models": [
+   "research_only",
+   "school_curriculum"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "general"
+  ],
+  "setting": "unclear",
+  "youth_reach": null,
+  "evaluation": "design_qualitative",
+  "service_geography": "unclear",
+  "notes": "Studies how eighth graders build scientific theories by pattern or agent-based models, then tests curricular units."
+ },
+ {
+  "id": "1842385",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "high",
+  "models": [
+   "online_tool_game",
+   "school_curriculum"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "ai",
+  "targets": [
+   "general"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "unspecified",
+  "service_geography": "multi_state",
+  "notes": "Explainable AI robot simulation teaching high school math and AI, developed with teachers at Virginia and California schools."
+ },
+ {
+  "id": "1844140",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "research_only"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "unclear",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "unclear",
+  "notes": "Longitudinal and modeling research on how conceptual knowledge helps children learn decimal arithmetic procedures."
+ },
+ {
+  "id": "1844256",
+  "serves_youth": "indirect",
+  "audience": [
+   "teachers_educators"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "teacher_pd",
+   "research_only"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "mixed",
+  "youth_reach": null,
+  "evaluation": "design_qualitative",
+  "service_geography": "unclear",
+  "notes": "Qualitative longitudinal study of teacher identity growth through formal-informal science collaborations, informing teacher education courses."
+ },
+ {
+  "id": "1844298",
+  "serves_youth": "none",
+  "audience": [
+   "researchers"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "network_coalition"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "black",
+   "hispanic_latino",
+   "native_indigenous",
+   "girls_women"
+  ],
+  "setting": "unclear",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "national",
+  "notes": "National summit on increasing minority and women participation in innovation and I-Corps entrepreneurship among institutions."
+ },
+ {
+  "id": "1844431",
+  "serves_youth": "indirect",
+  "audience": [
+   "families",
+   "teachers_educators"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "network_coalition"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "english_learners",
+   "first_generation"
+  ],
+  "setting": "museum_science_center",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "local",
+  "notes": "Science museum convenes Queens school staff and parents to plan STEM activities for first-generation immigrant families."
+ },
+ {
+  "id": "1844453",
+  "serves_youth": "indirect",
+  "audience": [
+   "teachers_educators"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "teacher_pd",
+   "research_only"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "design_qualitative",
+  "service_geography": "unclear",
+  "notes": "Design-based study of cultivating teacher empathy for student thinking in science and math teacher education."
+ },
+ {
+  "id": "1844719",
+  "serves_youth": "none",
+  "audience": [
+   "researchers"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "network_coalition"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "general"
+  ],
+  "setting": "unclear",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "national",
+  "notes": "Working summit gathering computing-integrated STEM education researchers to share findings and shape future research directions."
+ },
+ {
+  "id": "1845048",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "middle",
+  "models": [
+   "research_only",
+   "school_curriculum"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "underrepresented_general",
+   "urban"
+  ],
+  "setting": "school_day",
+  "youth_reach": 450,
+  "evaluation": "design_qualitative",
+  "service_geography": "unclear",
+  "notes": "Mixed-methods, design-based study of using urban middle schoolers' home knowledge to strengthen science discussion."
+ },
+ {
+  "id": "1845241",
+  "serves_youth": "none",
+  "audience": [
+   "researchers",
+   "general_public"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "network_coalition",
+   "online_tool_game"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "unclear",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "national",
+  "notes": "Workshop for citizen science project leaders on adopting digital tools that track volunteer engagement and learning."
+ },
+ {
+  "id": "1845490",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "research_only",
+   "online_tool_game"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "disability"
+  ],
+  "setting": "unclear",
+  "youth_reach": 65,
+  "evaluation": "unspecified",
+  "service_geography": "unclear",
+  "notes": "Touchscreen tools making graphs and simulations accessible by touch and sound for students with visual impairments."
+ },
+ {
+  "id": "1845841",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "summer_program",
+   "research_only"
+  ],
+  "mentoring": "none",
+  "bridging": "unclear",
+  "ai_cs": "none",
+  "targets": [
+   "black"
+  ],
+  "setting": "summer",
+  "youth_reach": null,
+  "evaluation": "design_qualitative",
+  "service_geography": "state_regional",
+  "notes": "Case studies of Black students' math identity growth in a summer college bridge program near Detroit."
+ },
+ {
+  "id": "1846073",
+  "serves_youth": "indirect",
+  "audience": [
+   "teachers_educators",
+   "researchers",
+   "general_public"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "network_coalition",
+   "other"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "ai",
+  "targets": [
+   "general"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "national",
+  "notes": "Experts and teachers draft K-12 AI education guidelines and an online resource directory for teachers."
+ },
+ {
+  "id": "1846167",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "undergraduates",
+   "teachers_educators",
+   "families"
+  ],
+  "grade_band": "elementary",
+  "models": [
+   "research_only",
+   "summer_program",
+   "teacher_pd"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "hispanic_latino",
+   "underrepresented_general"
+  ],
+  "setting": "summer",
+  "youth_reach": 50,
+  "evaluation": "design_qualitative",
+  "service_geography": "local",
+  "notes": "Interview study of everyday science talk and STEM identity among young Miami summer camp children."
+ },
+ {
+  "id": "1846227",
+  "serves_youth": "indirect",
+  "audience": [
+   "teachers_educators",
+   "k12_students"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "teacher_pd",
+   "school_curriculum"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "hispanic_latino"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "unspecified",
+  "service_geography": "local",
+  "notes": "Year-long teacher development partnership with one district to build inclusive secondary science curricula for Latinx students."
+ },
+ {
+  "id": "1849719",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "middle",
+  "models": [
+   "school_curriculum",
+   "career_exposure"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "low_income",
+   "english_learners",
+   "disability"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "quasi_experimental",
+  "service_geography": "multi_state",
+  "notes": "Water-themed middle school GIS curriculum with accessibility supports, tested with comparison groups in three states."
+ },
+ {
+  "id": "1849735",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "high",
+  "models": [
+   "mentoring",
+   "out_of_school_program",
+   "career_exposure"
+  ],
+  "mentoring": "central",
+  "bridging": "yes",
+  "ai_cs": "none",
+  "targets": [
+   "girls_women",
+   "urban",
+   "underrepresented_general"
+  ],
+  "setting": "after_school",
+  "youth_reach": null,
+  "evaluation": "quasi_experimental",
+  "service_geography": "local",
+  "notes": "Trains working engineers to mentor urban high school girls in out-of-school engineering program; compares mentored and unmentored students."
+ },
+ {
+  "id": "1849768",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "elementary",
+  "models": [
+   "out_of_school_program",
+   "online_tool_game",
+   "teacher_pd"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "girls_women",
+   "black"
+  ],
+  "setting": "after_school",
+  "youth_reach": null,
+  "evaluation": "pre_post",
+  "service_geography": "unclear",
+  "notes": "After-school cryptography and cybersecurity curriculum for grades three to five, mostly girls and Black students."
+ },
+ {
+  "id": "1849773",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "high",
+  "models": [
+   "school_curriculum",
+   "online_tool_game",
+   "teacher_pd"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "school_day",
+  "youth_reach": 900,
+  "evaluation": "unspecified",
+  "service_geography": "state_regional",
+  "notes": "Augmented reality labs added to a high school project-based STEM curriculum in Connecticut, with teacher coaching."
+ },
+ {
+  "id": "1849849",
+  "serves_youth": "direct",
+  "audience": [
+   "out_of_school_youth"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "summer_program",
+   "career_exposure",
+   "mentoring"
+  ],
+  "mentoring": "component",
+  "bridging": "yes",
+  "ai_cs": "computing",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "college_campus",
+  "youth_reach": null,
+  "evaluation": "quasi_experimental",
+  "service_geography": "local",
+  "notes": "Residential Esports computing experience for at-risk youth with industry professionals, compared with a control group."
+ },
+ {
+  "id": "1849902",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "research_only"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "girls_women"
+  ],
+  "setting": "unclear",
+  "youth_reach": null,
+  "evaluation": "unspecified",
+  "service_geography": "unclear",
+  "notes": "Experiments on how interest stereotypes affect children's computer science motivation, plus a stereotype-reducing intervention."
+ },
+ {
+  "id": "1849958",
+  "serves_youth": "direct",
+  "audience": [
+   "out_of_school_youth"
+  ],
+  "grade_band": "mixed_ages",
+  "models": [
+   "out_of_school_program",
+   "summer_program",
+   "career_exposure"
+  ],
+  "mentoring": "component",
+  "bridging": "unclear",
+  "ai_cs": "none",
+  "targets": [
+   "low_income",
+   "urban",
+   "underrepresented_general"
+  ],
+  "setting": "mixed",
+  "youth_reach": 180,
+  "evaluation": "design_qualitative",
+  "service_geography": "state_regional",
+  "notes": "Clean energy career pathway activities for disconnected opportunity youth in the East Bay, studied qualitatively."
+ },
+ {
+  "id": "1850024",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "undergraduates"
+  ],
+  "grade_band": "high",
+  "models": [
+   "mentoring",
+   "career_exposure"
+  ],
+  "mentoring": "central",
+  "bridging": "yes",
+  "ai_cs": "none",
+  "targets": [
+   "underrepresented_general",
+   "rural",
+   "low_income"
+  ],
+  "setting": "online",
+  "youth_reach": 100,
+  "evaluation": "unspecified",
+  "service_geography": "state_regional",
+  "notes": "Online near-peer mentoring pairing rural North Carolina high schoolers with college engineering majors."
+ },
+ {
+  "id": "1850051",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "middle",
+  "models": [
+   "school_curriculum",
+   "career_exposure"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "low_income",
+   "english_learners",
+   "disability"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "quasi_experimental",
+  "service_geography": "multi_state",
+  "notes": "Water-themed middle school GIS curriculum with accessibility supports, compared against a group lacking the technologies, across three states."
+ },
+ {
+  "id": "1850060",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "middle",
+  "models": [
+   "school_curriculum",
+   "career_exposure"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "low_income",
+   "english_learners",
+   "disability"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "quasi_experimental",
+  "service_geography": "multi_state",
+  "notes": "Watershed curriculum unit using GIS and universal design, piloted with nine teachers and comparison classrooms in three states."
+ },
+ {
+  "id": "1850072",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students"
+  ],
+  "grade_band": "high",
+  "models": [
+   "career_exposure",
+   "school_curriculum",
+   "research_only"
+  ],
+  "mentoring": "none",
+  "bridging": "yes",
+  "ai_cs": "none",
+  "targets": [
+   "girls_women",
+   "underrepresented_general"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "design_qualitative",
+  "service_geography": "local",
+  "notes": "Exploratory case study of a school district program pairing high school STEM learning with real business projects."
+ },
+ {
+  "id": "1850116",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "middle",
+  "models": [
+   "out_of_school_program",
+   "summer_program",
+   "teacher_pd",
+   "career_exposure"
+  ],
+  "mentoring": "none",
+  "bridging": "yes",
+  "ai_cs": "computing",
+  "targets": [
+   "low_income"
+  ],
+  "setting": "mixed",
+  "youth_reach": null,
+  "evaluation": "pre_post",
+  "service_geography": "unclear",
+  "notes": "University engineering academy with after-school sessions, summer camp, engineer role models, and teacher training for middle schools."
+ },
+ {
+  "id": "1850283",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "families",
+   "teachers_educators"
+  ],
+  "grade_band": "elementary",
+  "models": [
+   "school_curriculum",
+   "career_exposure",
+   "mentoring"
+  ],
+  "mentoring": "component",
+  "bridging": "yes",
+  "ai_cs": "none",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "mixed",
+  "youth_reach": null,
+  "evaluation": "unspecified",
+  "service_geography": "unclear",
+  "notes": "Technology-rich STEM Academy with culturally relevant career modules for elementary students in low-performing schools, linking home and school."
+ },
+ {
+  "id": "1850289",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "school_curriculum",
+   "teacher_pd"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "disability"
+  ],
+  "setting": "unclear",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "local",
+  "notes": "Scaling museum-style maker programs to New York City autism inclusion schools with teacher co-design."
+ },
+ {
+  "id": "1850296",
+  "serves_youth": "indirect",
+  "audience": [
+   "teachers_educators",
+   "k12_students"
+  ],
+  "grade_band": "elementary",
+  "models": [
+   "teacher_pd",
+   "school_curriculum"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "rural",
+   "black",
+   "hispanic_latino",
+   "low_income"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "quasi_experimental",
+  "service_geography": "state_regional",
+  "notes": "Professional development helping Virginia elementary teachers use engineering and technology to build systems thinking, tested with delayed treatment."
+ },
+ {
+  "id": "1850302",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "families"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "summer_program",
+   "out_of_school_program",
+   "career_exposure",
+   "mentoring"
+  ],
+  "mentoring": "component",
+  "bridging": "yes",
+  "ai_cs": "none",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "mixed",
+  "youth_reach": 36,
+  "evaluation": "unspecified",
+  "service_geography": "local",
+  "notes": "College-run summer and Saturday entrepreneurship-themed STEM program with academic and industry role models for underrepresented students."
+ },
+ {
+  "id": "1850343",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "families",
+   "general_public"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "out_of_school_program",
+   "summer_program",
+   "exhibit_media"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "low_income",
+   "underrepresented_general"
+  ],
+  "setting": "community",
+  "youth_reach": 45,
+  "evaluation": "design_qualitative",
+  "service_geography": "local",
+  "notes": "Youth in subsidized housing run environmental citizen science with sensors and lead community science cafes."
+ },
+ {
+  "id": "1850367",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "elementary",
+  "models": [
+   "school_curriculum",
+   "teacher_pd",
+   "career_exposure"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "english_learners"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "unspecified",
+  "service_geography": "unclear",
+  "notes": "Maker-based math units for fourth and fifth grade English learners, with teacher learning resources and two studies."
+ },
+ {
+  "id": "1850372",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "elementary",
+  "models": [
+   "school_curriculum",
+   "teacher_pd",
+   "career_exposure"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "english_learners"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "unspecified",
+  "service_geography": "unclear",
+  "notes": "Maker-based math units for fourth and fifth grade English learners, with teacher learning resources and two studies."
+ },
+ {
+  "id": "1850398",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "out_of_school_program",
+   "summer_program",
+   "teacher_pd",
+   "network_coalition"
+  ],
+  "mentoring": "none",
+  "bridging": "yes",
+  "ai_cs": "computing",
+  "targets": [
+   "girls_women",
+   "underrepresented_general",
+   "low_income"
+  ],
+  "setting": "mixed",
+  "youth_reach": 1000,
+  "evaluation": "unspecified",
+  "service_geography": "unclear",
+  "notes": "School teams including counselors run STEM clubs and university summer camp scholarships to widen student access."
+ },
+ {
+  "id": "1850405",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "families"
+  ],
+  "grade_band": "high",
+  "models": [
+   "summer_program",
+   "career_exposure"
+  ],
+  "mentoring": "none",
+  "bridging": "yes",
+  "ai_cs": "none",
+  "targets": [
+   "hispanic_latino",
+   "girls_women"
+  ],
+  "setting": "summer",
+  "youth_reach": null,
+  "evaluation": "pre_post",
+  "service_geography": "unclear",
+  "notes": "Three-summer college campus program for Latina high schoolers with corporate partners, role models, scholarships and family activities."
+ },
+ {
+  "id": "1850430",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students"
+  ],
+  "grade_band": "elementary",
+  "models": [
+   "school_curriculum",
+   "online_tool_game",
+   "career_exposure"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "unspecified",
+  "service_geography": "unclear",
+  "notes": "Virtual reality sea turtle problem-based curriculum exposing underserved third to fifth graders to marine and computer science careers."
+ }
+]

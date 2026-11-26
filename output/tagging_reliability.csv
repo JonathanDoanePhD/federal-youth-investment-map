@@ -1,0 +1,45 @@
+field,n,pct_agree,kappa
+serves_youth,320,0.944,0.910
+grade_band,320,0.931,0.917
+mentoring,320,0.972,0.851
+bridging,320,0.903,0.713
+ai_cs,320,0.994,0.988
+setting,320,0.831,0.794
+evaluation,320,0.809,0.747
+service_geography,320,0.897,0.867
+evaluation (both say youth served),251,0.845,0.798
+"evaluation rigorous (rct/quasi) yes-no, youth served",251,0.996,0.979
+audience (mean Jaccard),320,0.815,
+audience:families,320,0.981,0.886
+audience:general_public,320,0.959,0.864
+audience:k12_students,320,0.856,0.718
+audience:out_of_school_youth,320,0.891,0.304
+audience:researchers,320,0.912,0.785
+audience:teachers_educators,320,0.941,0.879
+audience:undergraduates,320,0.984,0.909
+models (mean Jaccard),320,0.830,
+models:career_exposure,320,0.988,0.902
+models:exhibit_media,320,0.975,0.881
+models:mentoring,320,0.975,0.796
+models:network_coalition,320,0.966,0.896
+models:online_tool_game,320,0.947,0.827
+models:other,320,0.909,0.648
+models:out_of_school_program,320,0.969,0.844
+models:research_apprenticeship,320,0.984,0.849
+models:research_only,320,0.922,0.768
+models:school_curriculum,320,0.972,0.932
+models:summer_program,320,0.984,0.849
+models:teacher_pd,320,0.988,0.972
+targets (mean Jaccard),320,0.893,
+targets:black,320,0.994,0.957
+targets:disability,320,0.994,0.906
+targets:english_learners,320,0.997,0.940
+targets:general,320,0.934,0.860
+targets:girls_women,320,0.978,0.877
+targets:hispanic_latino,320,0.997,0.981
+targets:low_income,320,0.988,0.922
+targets:native_indigenous,320,0.997,0.976
+targets:rural,320,0.984,0.909
+targets:underrepresented_general,320,0.919,0.821
+targets:urban,320,0.978,0.861
+youth_reach (same value or both null),320,0.991,

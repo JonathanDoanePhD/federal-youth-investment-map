@@ -1,0 +1,979 @@
+[
+ {
+  "id": "2300831",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "school_curriculum",
+   "online_tool_game",
+   "teacher_pd"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "design_qualitative",
+  "service_geography": "multi_state",
+  "notes": "Software-supported classroom discussion on judging science models; design experiments in two states, with curriculum and teacher support."
+ },
+ {
+  "id": "2300832",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "school_curriculum",
+   "online_tool_game",
+   "teacher_pd"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "design_qualitative",
+  "service_geography": "multi_state",
+  "notes": "Software-supported classroom discussion on judging science models; design experiments in two states, with curriculum and teacher support."
+ },
+ {
+  "id": "2300865",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "mentoring",
+   "school_curriculum",
+   "teacher_pd",
+   "career_exposure"
+  ],
+  "mentoring": "central",
+  "bridging": "yes",
+  "ai_cs": "computing",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "school_day",
+  "youth_reach": 650,
+  "evaluation": "quasi_experimental",
+  "service_geography": "unclear",
+  "notes": "Cascading peer mentoring ladder linking high, middle and elementary students to a university robotics lab through CS curriculum."
+ },
+ {
+  "id": "2300927",
+  "serves_youth": "indirect",
+  "audience": [
+   "teachers_educators"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "teacher_pd",
+   "mentoring",
+   "research_only"
+  ],
+  "mentoring": "component",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "hispanic_latino",
+   "english_learners"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "design_qualitative",
+  "service_geography": "local",
+  "notes": "Study of novice Latine bilingual teachers supported by peer coaching and a learning community while teaching science."
+ },
+ {
+  "id": "2301114",
+  "serves_youth": "indirect",
+  "audience": [
+   "teachers_educators",
+   "undergraduates"
+  ],
+  "grade_band": "elementary",
+  "models": [
+   "teacher_pd",
+   "research_only"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "black",
+   "hispanic_latino",
+   "native_indigenous"
+  ],
+  "setting": "college_campus",
+  "youth_reach": null,
+  "evaluation": "design_qualitative",
+  "service_geography": "unclear",
+  "notes": "Longitudinal study of preservice elementary math teachers learning to notice children's thinking equitably, using micromodules and assessments."
+ },
+ {
+  "id": "2301115",
+  "serves_youth": "indirect",
+  "audience": [
+   "teachers_educators",
+   "undergraduates"
+  ],
+  "grade_band": "elementary",
+  "models": [
+   "teacher_pd",
+   "research_only"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "black",
+   "hispanic_latino",
+   "native_indigenous"
+  ],
+  "setting": "college_campus",
+  "youth_reach": null,
+  "evaluation": "design_qualitative",
+  "service_geography": "unclear",
+  "notes": "Longitudinal study of preservice elementary math teachers learning to notice children's thinking equitably, using micromodules and assessments."
+ },
+ {
+  "id": "2301116",
+  "serves_youth": "indirect",
+  "audience": [
+   "teachers_educators",
+   "undergraduates"
+  ],
+  "grade_band": "elementary",
+  "models": [
+   "teacher_pd",
+   "research_only"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "black",
+   "hispanic_latino",
+   "native_indigenous"
+  ],
+  "setting": "college_campus",
+  "youth_reach": null,
+  "evaluation": "design_qualitative",
+  "service_geography": "unclear",
+  "notes": "Longitudinal study of preservice elementary math teachers learning to notice children's thinking equitably, using micromodules and assessments."
+ },
+ {
+  "id": "2301130",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "online_tool_game",
+   "research_only"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "school_day",
+  "youth_reach": 1200,
+  "evaluation": "quasi_experimental",
+  "service_geography": "multi_state",
+  "notes": "Classroom studies testing adaptive spaced retrieval practice in a web app for middle and high school STEM."
+ },
+ {
+  "id": "2301172",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students"
+  ],
+  "grade_band": "middle",
+  "models": [
+   "online_tool_game",
+   "summer_program",
+   "out_of_school_program",
+   "research_only"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "ai",
+  "targets": [
+   "low_income"
+  ],
+  "setting": "mixed",
+  "youth_reach": null,
+  "evaluation": "design_qualitative",
+  "service_geography": "unclear",
+  "notes": "Minecraft-based science game in camps; machine learning flags moments to interview middle schoolers about developing STEM interest."
+ },
+ {
+  "id": "2301247",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "families",
+   "teachers_educators"
+  ],
+  "grade_band": "elementary",
+  "models": [
+   "school_curriculum",
+   "other"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "general"
+  ],
+  "setting": "school_day",
+  "youth_reach": 500,
+  "evaluation": "pre_post",
+  "service_geography": "multi_state",
+  "notes": "Co-designed screen-free robotic playground tools and lessons for kindergartners' computational thinking, tested in California and Massachusetts."
+ },
+ {
+  "id": "2301248",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "families",
+   "teachers_educators"
+  ],
+  "grade_band": "elementary",
+  "models": [
+   "school_curriculum",
+   "other"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "general"
+  ],
+  "setting": "school_day",
+  "youth_reach": 500,
+  "evaluation": "pre_post",
+  "service_geography": "multi_state",
+  "notes": "Co-designed screen-free robotic playground tools and lessons for kindergartners' computational thinking, tested in California and Massachusetts."
+ },
+ {
+  "id": "2301249",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "families",
+   "teachers_educators"
+  ],
+  "grade_band": "elementary",
+  "models": [
+   "school_curriculum",
+   "other"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "general"
+  ],
+  "setting": "school_day",
+  "youth_reach": 500,
+  "evaluation": "pre_post",
+  "service_geography": "multi_state",
+  "notes": "Co-designed screen-free robotic playground tools and lessons for kindergartners' computational thinking, tested in California and Massachusetts."
+ },
+ {
+  "id": "2301272",
+  "serves_youth": "indirect",
+  "audience": [
+   "teachers_educators"
+  ],
+  "grade_band": "elementary",
+  "models": [
+   "teacher_pd",
+   "online_tool_game",
+   "research_only"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "online",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "national",
+  "notes": "Nationwide study of how elementary math teachers use a self-paced online professional learning site and what they learn."
+ },
+ {
+  "id": "2301273",
+  "serves_youth": "indirect",
+  "audience": [
+   "teachers_educators"
+  ],
+  "grade_band": "elementary",
+  "models": [
+   "teacher_pd",
+   "online_tool_game",
+   "research_only"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "online",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "national",
+  "notes": "Nationwide study of how elementary math teachers use a self-paced online professional learning site and what they learn."
+ },
+ {
+  "id": "2301274",
+  "serves_youth": "indirect",
+  "audience": [
+   "teachers_educators"
+  ],
+  "grade_band": "elementary",
+  "models": [
+   "teacher_pd",
+   "online_tool_game",
+   "research_only"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "online",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "national",
+  "notes": "Nationwide study of how elementary math teachers use a self-paced online professional learning site and what they learn."
+ },
+ {
+  "id": "2301992",
+  "serves_youth": "none",
+  "audience": [
+   "researchers"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "network_coalition",
+   "research_only"
+  ],
+  "mentoring": "component",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "unclear",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "national",
+  "notes": "International network-of-networks to advance learning science, using children's self-regulation as test case; includes mentoring early-career scientists."
+ },
+ {
+  "id": "2302659",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "middle",
+  "models": [
+   "school_curriculum",
+   "teacher_pd",
+   "online_tool_game"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "general"
+  ],
+  "setting": "school_day",
+  "youth_reach": 1300,
+  "evaluation": "design_qualitative",
+  "service_geography": "multi_state",
+  "notes": "Teachers and researchers co-design media-remixing tools and units for middle schoolers' critical data literacy; classroom trials nationwide."
+ },
+ {
+  "id": "2302773",
+  "serves_youth": "indirect",
+  "audience": [
+   "teachers_educators"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "teacher_pd",
+   "research_only"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "design_qualitative",
+  "service_geography": "unclear",
+  "notes": "Two-year community-centered professional development for teacher leaders on anti-bias math teaching across three districts, studied via design research."
+ },
+ {
+  "id": "2302778",
+  "serves_youth": "none",
+  "audience": [],
+  "grade_band": "not_applicable",
+  "models": [
+   "online_tool_game",
+   "research_only"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "ai",
+  "targets": [
+   "general"
+  ],
+  "setting": "unclear",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "unclear",
+  "notes": "Game-based parallel programming learning plus AI-supported visualization tools to help learners self-regulate; learner age not stated."
+ },
+ {
+  "id": "2302816",
+  "serves_youth": "none",
+  "audience": [
+   "undergraduates",
+   "general_public"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "online_tool_game",
+   "research_only"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "ai",
+  "targets": [
+   "general"
+  ],
+  "setting": "college_campus",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "unclear",
+  "notes": "Virtual reality quantum computing tutor using machine learning to detect misconceptions, tested with undergraduates and general adults."
+ },
+ {
+  "id": "2302817",
+  "serves_youth": "none",
+  "audience": [
+   "undergraduates",
+   "general_public"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "online_tool_game",
+   "research_only"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "ai",
+  "targets": [
+   "general"
+  ],
+  "setting": "college_campus",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "unclear",
+  "notes": "Virtual reality quantum computing tutor using machine learning to detect misconceptions, tested with undergraduates and general adults."
+ },
+ {
+  "id": "2302818",
+  "serves_youth": "none",
+  "audience": [
+   "undergraduates",
+   "general_public"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "online_tool_game",
+   "research_only"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "ai",
+  "targets": [
+   "general"
+  ],
+  "setting": "college_campus",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "unclear",
+  "notes": "Virtual reality quantum computing tutor using machine learning to detect misconceptions, tested with undergraduates and general adults."
+ },
+ {
+  "id": "2302975",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "online_tool_game"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "ai",
+  "targets": [
+   "general"
+  ],
+  "setting": "online",
+  "youth_reach": null,
+  "evaluation": "rct",
+  "service_geography": "national",
+  "notes": "Language-model conversational coach teaching teens online safety and digital literacy, tested in a randomized field experiment."
+ },
+ {
+  "id": "2302976",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "online_tool_game"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "ai",
+  "targets": [
+   "general"
+  ],
+  "setting": "online",
+  "youth_reach": null,
+  "evaluation": "rct",
+  "service_geography": "national",
+  "notes": "Language-model conversational coach teaching teens online safety and digital literacy, tested in a randomized field experiment."
+ },
+ {
+  "id": "2302977",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "online_tool_game"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "ai",
+  "targets": [
+   "general"
+  ],
+  "setting": "online",
+  "youth_reach": null,
+  "evaluation": "rct",
+  "service_geography": "national",
+  "notes": "Language-model conversational coach teaching teens online safety and digital literacy, tested in a randomized field experiment."
+ },
+ {
+  "id": "2303019",
+  "serves_youth": "none",
+  "audience": [
+   "general_public"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "online_tool_game",
+   "research_only"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "ai",
+  "targets": [
+   "general"
+  ],
+  "setting": "online",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "unclear",
+  "notes": "Explainable-AI tutoring for adult volunteers monitoring native bees; adult informal learning study."
+ },
+ {
+  "id": "2303042",
+  "serves_youth": "none",
+  "audience": [
+   "undergraduates",
+   "teachers_educators"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "online_tool_game",
+   "research_only"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "general"
+  ],
+  "setting": "college_campus",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "unclear",
+  "notes": "Chatbot to help software engineering students onboard to open source projects, designed participatively and tested in classes."
+ },
+ {
+  "id": "2303585",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators",
+   "researchers"
+  ],
+  "grade_band": "high",
+  "models": [
+   "school_curriculum",
+   "online_tool_game",
+   "network_coalition"
+  ],
+  "mentoring": "none",
+  "bridging": "unclear",
+  "ai_cs": "none",
+  "targets": [
+   "disability",
+   "underrepresented_general"
+  ],
+  "setting": "unclear",
+  "youth_reach": null,
+  "evaluation": "unspecified",
+  "service_geography": "unclear",
+  "notes": "Virtual reality engineering activities for autistic high schoolers, plus a collaborator network including educators, researchers and industry engineers."
+ },
+ {
+  "id": "2303986",
+  "serves_youth": "none",
+  "audience": [
+   "undergraduates",
+   "teachers_educators"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "research_apprenticeship",
+   "mentoring",
+   "teacher_pd",
+   "career_exposure",
+   "network_coalition"
+  ],
+  "mentoring": "component",
+  "bridging": "yes",
+  "ai_cs": "none",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "college_campus",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "unclear",
+  "notes": "Pilot interventions helping community college STEM transfer students reach research, graduate study and jobs; includes faculty and advisor training."
+ },
+ {
+  "id": "2304093",
+  "serves_youth": "none",
+  "audience": [
+   "undergraduates"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "mentoring",
+   "network_coalition"
+  ],
+  "mentoring": "central",
+  "bridging": "unclear",
+  "ai_cs": "none",
+  "targets": [
+   "girls_women",
+   "underrepresented_general"
+  ],
+  "setting": "mixed",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "multi_state",
+  "notes": "Co-mentoring network for minoritized women in STEM across four universities, run in hybrid virtual and in-person settings."
+ },
+ {
+  "id": "2304100",
+  "serves_youth": "none",
+  "audience": [
+   "undergraduates",
+   "teachers_educators"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "school_curriculum",
+   "teacher_pd",
+   "network_coalition"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "college_campus",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "multi_state",
+  "notes": "Faculty network and project-based data science modules for colleges, including HBCUs and Hispanic-serving institutions, across the South and California."
+ },
+ {
+  "id": "2304106",
+  "serves_youth": "none",
+  "audience": [
+   "undergraduates",
+   "teachers_educators",
+   "researchers"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "teacher_pd",
+   "network_coalition"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "college_campus",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "unclear",
+  "notes": "Leadership institute training math and statistics consultants and department teams to improve diversity and inclusion in college programs."
+ },
+ {
+  "id": "2304197",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "families"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "network_coalition",
+   "other"
+  ],
+  "mentoring": "none",
+  "bridging": "unclear",
+  "ai_cs": "none",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "community",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "multi_state",
+  "notes": "Faith-based institution consortium in Texas and Florida to boost STEM+C course-taking from middle school into college degrees."
+ },
+ {
+  "id": "2304456",
+  "serves_youth": "none",
+  "audience": [
+   "undergraduates"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "research_apprenticeship",
+   "mentoring",
+   "career_exposure",
+   "network_coalition"
+  ],
+  "mentoring": "central",
+  "bridging": "yes",
+  "ai_cs": "none",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "mixed",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "multi_state",
+  "notes": "Network expanding aerospace research, internships and structured mentoring for underrepresented college students across HBCUs and industry partners."
+ },
+ {
+  "id": "2306603",
+  "serves_youth": "none",
+  "audience": [
+   "general_public",
+   "researchers"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "other",
+   "research_only"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "rural"
+  ],
+  "setting": "community",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "state_regional",
+  "notes": "Sensing and planning platform for safe prescribed burning, demonstrated with two Kansas communities; landowner and operator training."
+ },
+ {
+  "id": "2308531",
+  "serves_youth": "none",
+  "audience": [
+   "undergraduates",
+   "teachers_educators"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "teacher_pd",
+   "network_coalition"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "college_campus",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "multi_state",
+  "notes": "Faculty development center and communities of practice for equitable engineering teaching, partnering a research university with an HBCU."
+ },
+ {
+  "id": "2308532",
+  "serves_youth": "none",
+  "audience": [
+   "undergraduates",
+   "teachers_educators"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "teacher_pd",
+   "network_coalition"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "college_campus",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "multi_state",
+  "notes": "Faculty development center and communities of practice for equitable engineering teaching, partnering a research university with an HBCU."
+ },
+ {
+  "id": "2308600",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "high",
+  "models": [
+   "school_curriculum",
+   "teacher_pd",
+   "research_only"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "school_day",
+  "youth_reach": 16200,
+  "evaluation": "rct",
+  "service_geography": "multi_state",
+  "notes": "Genetics curriculum and teacher institutes to reduce racial essentialism beliefs; cluster randomized trial across 33 states."
+ },
+ {
+  "id": "2309037",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "undergraduates",
+   "researchers"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "mentoring",
+   "other"
+  ],
+  "mentoring": "component",
+  "bridging": "unclear",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "unclear",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "unclear",
+  "notes": "Materials science research center on electron and ion transport, with K-12 outreach and mentoring of participants from students to faculty."
+ },
+ {
+  "id": "2309657",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "prek",
+  "models": [
+   "research_only",
+   "teacher_pd"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "low_income"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "rct",
+  "service_geography": "unclear",
+  "notes": "Randomized trial of structured versus unstructured block play on low-income preschoolers' math, testing language and spatial mechanisms."
+ }
+]

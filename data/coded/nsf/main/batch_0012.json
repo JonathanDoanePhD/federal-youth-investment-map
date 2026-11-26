@@ -1,0 +1,992 @@
+[
+ {
+  "id": "1612688",
+  "serves_youth": "direct",
+  "audience": [
+   "out_of_school_youth"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "out_of_school_program"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "english_learners",
+   "underrepresented_general"
+  ],
+  "setting": "after_school",
+  "youth_reach": null,
+  "evaluation": "design_qualitative",
+  "service_geography": "local",
+  "notes": "Community afterschool climate program with resettled Burmese refugee teens, studying STEM identity through ethnographic methods."
+ },
+ {
+  "id": "1612699",
+  "serves_youth": "none",
+  "audience": [
+   "general_public",
+   "teachers_educators",
+   "researchers"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "research_only"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "museum_science_center",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "national",
+  "notes": "Nationwide visitor study of zoos and aquariums and their informal science learning role."
+ },
+ {
+  "id": "1612719",
+  "serves_youth": "none",
+  "audience": [
+   "general_public"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "exhibit_media"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "community",
+  "youth_reach": null,
+  "evaluation": "quasi_experimental",
+  "service_geography": "local",
+  "notes": "Science woven into arts festival events for audiences uninterested in STEM; comparison study of follow-up interest."
+ },
+ {
+  "id": "1612729",
+  "serves_youth": "none",
+  "audience": [
+   "general_public",
+   "teachers_educators",
+   "researchers"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "research_only"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "museum_science_center",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "national",
+  "notes": "Nationwide visitor study of zoos and aquariums and their informal science learning role."
+ },
+ {
+  "id": "1612739",
+  "serves_youth": "none",
+  "audience": [
+   "teachers_educators",
+   "researchers"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "network_coalition"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "unclear",
+  "youth_reach": null,
+  "evaluation": "unspecified",
+  "service_geography": "national",
+  "notes": "Resource center connecting informal science education and science communication professionals through task forces, convenings and website."
+ },
+ {
+  "id": "1612741",
+  "serves_youth": "none",
+  "audience": [
+   "general_public"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "online_tool_game"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "online",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "national",
+  "notes": "Free web app visualizing weather and climate data, including polar regions, with companion education site."
+ },
+ {
+  "id": "1612744",
+  "serves_youth": "direct",
+  "audience": [
+   "families",
+   "k12_students"
+  ],
+  "grade_band": "mixed_ages",
+  "models": [
+   "exhibit_media",
+   "online_tool_game"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "ai",
+  "targets": [
+   "general"
+  ],
+  "setting": "museum_science_center",
+  "youth_reach": null,
+  "evaluation": "unspecified",
+  "service_geography": "local",
+  "notes": "Camera-sensing adaptive tutoring layered onto hands-on museum exhibits for children and parents."
+ },
+ {
+  "id": "1612747",
+  "serves_youth": "indirect",
+  "audience": [
+   "families",
+   "general_public"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "exhibit_media"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "hispanic_latino",
+   "low_income"
+  ],
+  "setting": "home_family",
+  "youth_reach": null,
+  "evaluation": "quasi_experimental",
+  "service_geography": "unclear",
+  "notes": "Television news reports on child research aimed at Latino parents, tested with treatment and control groups."
+ },
+ {
+  "id": "1612770",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "middle",
+  "models": [
+   "out_of_school_program",
+   "summer_program",
+   "teacher_pd"
+  ],
+  "mentoring": "component",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "mixed",
+  "youth_reach": null,
+  "evaluation": "design_qualitative",
+  "service_geography": "state_regional",
+  "notes": "Coding workshops for underrepresented middle schoolers teaching productive responses to debugging failure; instructor training and design-based study."
+ },
+ {
+  "id": "1612775",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "undergraduates"
+  ],
+  "grade_band": "middle",
+  "models": [
+   "out_of_school_program"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "low_income",
+   "underrepresented_general"
+  ],
+  "setting": "after_school",
+  "youth_reach": 1800,
+  "evaluation": "unspecified",
+  "service_geography": "state_regional",
+  "notes": "University-run mobile making program at twelve San Diego afterschool sites, staffed by undergraduate volunteers."
+ },
+ {
+  "id": "1612782",
+  "serves_youth": "direct",
+  "audience": [
+   "out_of_school_youth",
+   "teachers_educators"
+  ],
+  "grade_band": "high",
+  "models": [
+   "out_of_school_program"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "girls_women",
+   "low_income",
+   "underrepresented_general",
+   "urban"
+  ],
+  "setting": "museum_science_center",
+  "youth_reach": null,
+  "evaluation": "design_qualitative",
+  "service_geography": "local",
+  "notes": "Study of a museum youth center's social-justice STEM model for teens; youth join research teams."
+ },
+ {
+  "id": "1612808",
+  "serves_youth": "none",
+  "audience": [
+   "researchers",
+   "general_public"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "network_coalition"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "museum_science_center",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "multi_state",
+  "notes": "Building lasting partnerships between universities and science centers to deliver public outreach on research; tools and partnership study."
+ },
+ {
+  "id": "1612810",
+  "serves_youth": "none",
+  "audience": [
+   "researchers",
+   "general_public"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "network_coalition"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "museum_science_center",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "multi_state",
+  "notes": "Building lasting partnerships between universities and science centers to deliver public outreach on research; tools and partnership study."
+ },
+ {
+  "id": "1612823",
+  "serves_youth": "indirect",
+  "audience": [
+   "families",
+   "teachers_educators",
+   "researchers"
+  ],
+  "grade_band": "prek",
+  "models": [
+   "network_coalition",
+   "research_only"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "hispanic_latino",
+   "low_income",
+   "english_learners"
+  ],
+  "setting": "community",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "local",
+  "notes": "Planning project mapping assets for an early childhood STEM ecosystem in Southeast San Diego."
+ },
+ {
+  "id": "1612824",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "out_of_school_program",
+   "network_coalition"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "after_school",
+  "youth_reach": null,
+  "evaluation": "design_qualitative",
+  "service_geography": "national",
+  "notes": "International network of afterschool media-making clubs where teens create STEM teaching media; mixed qualitative and network analysis."
+ },
+ {
+  "id": "1612831",
+  "serves_youth": "none",
+  "audience": [
+   "general_public"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "exhibit_media"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "museum_science_center",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "unclear",
+  "notes": "Interactive museum exhibit letting visitors steer living microbes; prototype comparisons and user testing."
+ },
+ {
+  "id": "1612840",
+  "serves_youth": "direct",
+  "audience": [
+   "families",
+   "k12_students"
+  ],
+  "grade_band": "mixed_ages",
+  "models": [
+   "exhibit_media",
+   "online_tool_game"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "home_family",
+  "youth_reach": null,
+  "evaluation": "unspecified",
+  "service_geography": "national",
+  "notes": "Companion app for a public TV marine science show prompting parent-child science conversations, with new measurement tools."
+ },
+ {
+  "id": "1612848",
+  "serves_youth": "none",
+  "audience": [
+   "general_public",
+   "families"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "other"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "native_indigenous"
+  ],
+  "setting": "community",
+  "youth_reach": null,
+  "evaluation": "unspecified",
+  "service_geography": "multi_state",
+  "notes": "Intergenerational geo-literacy learning modules combining Indigenous and Western knowledge across twelve Pacific island communities."
+ },
+ {
+  "id": "1613268",
+  "serves_youth": "none",
+  "audience": [
+   "undergraduates",
+   "teachers_educators",
+   "general_public"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "network_coalition"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "unclear",
+  "youth_reach": null,
+  "evaluation": "unspecified",
+  "service_geography": "national",
+  "notes": "Secretariat supporting six partnerships between universities and informal science institutions on science and civic engagement."
+ },
+ {
+  "id": "1613637",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "undergraduates",
+   "teachers_educators"
+  ],
+  "grade_band": "middle",
+  "models": [
+   "out_of_school_program",
+   "school_curriculum"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "hispanic_latino",
+   "rural",
+   "urban"
+  ],
+  "setting": "after_school",
+  "youth_reach": null,
+  "evaluation": "pre_post",
+  "service_geography": "state_regional",
+  "notes": "Afterschool integrated math, engineering and programming curriculum for mostly Latino middle schoolers, with baseline and follow-up data."
+ },
+ {
+  "id": "1613811",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators",
+   "families"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "out_of_school_program",
+   "teacher_pd",
+   "mentoring",
+   "school_curriculum"
+  ],
+  "mentoring": "component",
+  "bridging": "unclear",
+  "ai_cs": "none",
+  "targets": [
+   "native_indigenous"
+  ],
+  "setting": "mixed",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "state_regional",
+  "notes": "Culturally grounded stewardship science learning for Native students in grades 8-12 with four Wisconsin tribal nations."
+ },
+ {
+  "id": "1614085",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "high",
+  "models": [
+   "summer_program",
+   "teacher_pd",
+   "school_curriculum"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "underrepresented_general",
+   "girls_women",
+   "urban"
+  ],
+  "setting": "mixed",
+  "youth_reach": 1200,
+  "evaluation": "unspecified",
+  "service_geography": "local",
+  "notes": "Summer robotics-entrepreneurship institute plus school-year elective for New York City high school teachers and students."
+ },
+ {
+  "id": "1614107",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators",
+   "families"
+  ],
+  "grade_band": "middle",
+  "models": [
+   "out_of_school_program",
+   "teacher_pd",
+   "career_exposure"
+  ],
+  "mentoring": "none",
+  "bridging": "yes",
+  "ai_cs": "computing",
+  "targets": [
+   "black",
+   "low_income"
+  ],
+  "setting": "after_school",
+  "youth_reach": null,
+  "evaluation": "pre_post",
+  "service_geography": "unclear",
+  "notes": "Motivation-focused engineering afterschool program for Black middle schoolers; trains teachers, career professionals and caregivers."
+ },
+ {
+  "id": "1614167",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "high",
+  "models": [
+   "school_curriculum",
+   "teacher_pd",
+   "online_tool_game",
+   "career_exposure"
+  ],
+  "mentoring": "none",
+  "bridging": "unclear",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "quasi_experimental",
+  "service_geography": "unclear",
+  "notes": "Online bioscience career-awareness curriculum with simulations and professional videos, plus teacher development; compared with comparison classes."
+ },
+ {
+  "id": "1614182",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "high",
+  "models": [
+   "school_curriculum",
+   "mentoring",
+   "career_exposure",
+   "online_tool_game"
+  ],
+  "mentoring": "component",
+  "bridging": "yes",
+  "ai_cs": "none",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "school_day",
+  "youth_reach": 1100,
+  "evaluation": "quasi_experimental",
+  "service_geography": "unclear",
+  "notes": "Entrepreneurship capstone course with industry mentors for mostly underrepresented seniors, compared against traditional capstone classes."
+ },
+ {
+  "id": "1614187",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "elementary",
+  "models": [
+   "school_curriculum",
+   "teacher_pd",
+   "career_exposure"
+  ],
+  "mentoring": "none",
+  "bridging": "yes",
+  "ai_cs": "none",
+  "targets": [
+   "urban"
+  ],
+  "setting": "mixed",
+  "youth_reach": 2300,
+  "evaluation": "rct",
+  "service_geography": "local",
+  "notes": "Aquarium field-trip and curriculum program for Detroit fifth graders; teachers randomly assigned to staggered cohorts."
+ },
+ {
+  "id": "1614216",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "high",
+  "models": [
+   "school_curriculum",
+   "mentoring",
+   "career_exposure"
+  ],
+  "mentoring": "central",
+  "bridging": "yes",
+  "ai_cs": "none",
+  "targets": [
+   "low_income",
+   "underrepresented_general"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "unspecified",
+  "service_geography": "local",
+  "notes": "Ninth graders do geospatial environmental investigations paired with STEM mentors; instruments built to measure mentoring effects."
+ },
+ {
+  "id": "1614239",
+  "serves_youth": "direct",
+  "audience": [
+   "out_of_school_youth",
+   "teachers_educators"
+  ],
+  "grade_band": "mixed_ages",
+  "models": [
+   "out_of_school_program",
+   "exhibit_media"
+  ],
+  "mentoring": "none",
+  "bridging": "unclear",
+  "ai_cs": "computing",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "mixed",
+  "youth_reach": null,
+  "evaluation": "design_qualitative",
+  "service_geography": "national",
+  "notes": "Scaling youth journalism and app-building bootcamps nationwide with partner organizations; embedded ethnographic research."
+ },
+ {
+  "id": "1614249",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "middle",
+  "models": [
+   "summer_program",
+   "teacher_pd",
+   "school_curriculum"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "girls_women",
+   "rural"
+  ],
+  "setting": "mixed",
+  "youth_reach": 75,
+  "evaluation": "pre_post",
+  "service_geography": "local",
+  "notes": "Flight simulation modules, summer camp and teacher workshop for rural seventh and eighth graders, measured pre and post."
+ },
+ {
+  "id": "1614436",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "middle",
+  "models": [
+   "out_of_school_program",
+   "school_curriculum",
+   "career_exposure"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "disability",
+   "urban"
+  ],
+  "setting": "mixed",
+  "youth_reach": null,
+  "evaluation": "design_qualitative",
+  "service_geography": "local",
+  "notes": "Co-designed maker program preparing autistic and non-autistic middle schoolers for design careers in New York inclusion schools."
+ },
+ {
+  "id": "1614468",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "families"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "out_of_school_program",
+   "career_exposure",
+   "research_only"
+  ],
+  "mentoring": "none",
+  "bridging": "unclear",
+  "ai_cs": "none",
+  "targets": [
+   "low_income",
+   "underrepresented_general"
+  ],
+  "setting": "museum_science_center",
+  "youth_reach": null,
+  "evaluation": "quasi_experimental",
+  "service_geography": "unclear",
+  "notes": "Studies science capital in children aged 8-12, then tests a family and museum program against a control group."
+ },
+ {
+  "id": "1614496",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "school_curriculum",
+   "summer_program",
+   "teacher_pd",
+   "career_exposure"
+  ],
+  "mentoring": "none",
+  "bridging": "yes",
+  "ai_cs": "none",
+  "targets": [
+   "hispanic_latino",
+   "black"
+  ],
+  "setting": "mixed",
+  "youth_reach": null,
+  "evaluation": "unspecified",
+  "service_geography": "local",
+  "notes": "Building-automation engineering design with industry support for Houston junior high and high schoolers; summer camps and dual-credit course."
+ },
+ {
+  "id": "1614511",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "elementary",
+  "models": [
+   "school_curriculum",
+   "out_of_school_program",
+   "mentoring",
+   "career_exposure",
+   "teacher_pd"
+  ],
+  "mentoring": "component",
+  "bridging": "yes",
+  "ai_cs": "none",
+  "targets": [
+   "low_income",
+   "urban",
+   "underrepresented_general"
+  ],
+  "setting": "mixed",
+  "youth_reach": 400,
+  "evaluation": "unspecified",
+  "service_geography": "local",
+  "notes": "Philadelphia upper-elementary students map neighborhood biodiversity with college scientist mentors; teacher and afterschool educator training."
+ },
+ {
+  "id": "1614548",
+  "serves_youth": "direct",
+  "audience": [
+   "out_of_school_youth",
+   "teachers_educators"
+  ],
+  "grade_band": "mixed_ages",
+  "models": [
+   "out_of_school_program",
+   "exhibit_media"
+  ],
+  "mentoring": "none",
+  "bridging": "unclear",
+  "ai_cs": "computing",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "mixed",
+  "youth_reach": null,
+  "evaluation": "design_qualitative",
+  "service_geography": "national",
+  "notes": "National youth news network with STEM stories and app-building workshops; ethnographic study and outside evaluation."
+ },
+ {
+  "id": "1614663",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "families"
+  ],
+  "grade_band": "elementary",
+  "models": [
+   "out_of_school_program"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "general"
+  ],
+  "setting": "unclear",
+  "youth_reach": null,
+  "evaluation": "design_qualitative",
+  "service_geography": "unclear",
+  "notes": "Playful data-modeling workshop series for young children and caregivers, developed through design-based research."
+ },
+ {
+  "id": "1614697",
+  "serves_youth": "indirect",
+  "audience": [
+   "researchers",
+   "teachers_educators"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "network_coalition"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "online",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "national",
+  "notes": "Support center for grantee projects: dissemination, research synthesis, community building, fellows and mini-grants."
+ },
+ {
+  "id": "1614707",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students"
+  ],
+  "grade_band": "high",
+  "models": [
+   "school_curriculum",
+   "career_exposure",
+   "research_only"
+  ],
+  "mentoring": "none",
+  "bridging": "unclear",
+  "ai_cs": "computing",
+  "targets": [
+   "general"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "quasi_experimental",
+  "service_geography": "unclear",
+  "notes": "Study of IT career academies at varying implementation fidelity, comparing readiness against students outside academies."
+ },
+ {
+  "id": "1614710",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "undergraduates"
+  ],
+  "grade_band": "elementary",
+  "models": [
+   "summer_program",
+   "mentoring"
+  ],
+  "mentoring": "component",
+  "bridging": "yes",
+  "ai_cs": "none",
+  "targets": [
+   "black",
+   "hispanic_latino",
+   "girls_women"
+  ],
+  "setting": "summer",
+  "youth_reach": 27000,
+  "evaluation": "pre_post",
+  "service_geography": "national",
+  "notes": "Expanding a national summer engineering program for Black, Hispanic and girl elementary students, with college mentor-teachers; pre-post and case studies."
+ },
+ {
+  "id": "1614727",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "out_of_school_youth"
+  ],
+  "grade_band": "high",
+  "models": [
+   "out_of_school_program",
+   "other"
+  ],
+  "mentoring": "none",
+  "bridging": "unclear",
+  "ai_cs": "computing",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "after_school",
+  "youth_reach": null,
+  "evaluation": "quasi_experimental",
+  "service_geography": "unclear",
+  "notes": "Afterschool design program where digital badge portfolios serve as admissions credentials; compared with students not building portfolios."
+ },
+ {
+  "id": "1614739",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "undergraduates"
+  ],
+  "grade_band": "elementary",
+  "models": [
+   "summer_program",
+   "mentoring"
+  ],
+  "mentoring": "component",
+  "bridging": "yes",
+  "ai_cs": "none",
+  "targets": [
+   "black",
+   "hispanic_latino",
+   "girls_women"
+  ],
+  "setting": "summer",
+  "youth_reach": 27000,
+  "evaluation": "pre_post",
+  "service_geography": "national",
+  "notes": "Expanding a national summer engineering program for Black, Hispanic and girl elementary students, with college mentor-teachers; pre-post and case studies."
+ }
+]

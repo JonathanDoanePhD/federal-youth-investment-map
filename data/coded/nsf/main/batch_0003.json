@@ -1,0 +1,951 @@
+[
+ {
+  "id": "1421112",
+  "serves_youth": "indirect",
+  "audience": [
+   "k12_students",
+   "teachers_educators",
+   "researchers"
+  ],
+  "grade_band": "middle",
+  "models": [
+   "research_only"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "mixed",
+  "youth_reach": null,
+  "evaluation": "design_qualitative",
+  "service_geography": "national",
+  "notes": "Study of middle school science fair models, their learning impact and costs, via teacher survey and school case studies."
+ },
+ {
+  "id": "1421116",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students"
+  ],
+  "grade_band": "middle",
+  "models": [
+   "out_of_school_program"
+  ],
+  "mentoring": "none",
+  "bridging": "yes",
+  "ai_cs": "none",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "after_school",
+  "youth_reach": null,
+  "evaluation": "design_qualitative",
+  "service_geography": "multi_state",
+  "notes": "Makerspace plus community ethnography engineering model with Boys and Girls Clubs in Lansing and Greensboro; youth join expert network."
+ },
+ {
+  "id": "1421179",
+  "serves_youth": "none",
+  "audience": [
+   "general_public",
+   "researchers"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "exhibit_media"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "museum_science_center",
+  "youth_reach": null,
+  "evaluation": "unspecified",
+  "service_geography": "national",
+  "notes": "Museum events pairing scientists with visitors to discuss synthetic biology, piloted at eight sites then scaled via kit."
+ },
+ {
+  "id": "1421198",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students"
+  ],
+  "grade_band": "middle",
+  "models": [
+   "research_only"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "summer",
+  "youth_reach": null,
+  "evaluation": "pre_post",
+  "service_geography": "unclear",
+  "notes": "Descriptive study of which instructional practices build middle schoolers' interest in summer out-of-school STEM programs, using experience sampling."
+ },
+ {
+  "id": "1421214",
+  "serves_youth": "none",
+  "audience": [
+   "researchers"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "research_only"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "unclear",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "national",
+  "notes": "Interviews and surveys of scientists about their attitudes and goals toward public engagement; Michigan State lead."
+ },
+ {
+  "id": "1421427",
+  "serves_youth": "direct",
+  "audience": [
+   "general_public",
+   "families"
+  ],
+  "grade_band": "mixed_ages",
+  "models": [
+   "exhibit_media"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "rural",
+   "underrepresented_general"
+  ],
+  "setting": "library",
+  "youth_reach": null,
+  "evaluation": "unspecified",
+  "service_geography": "national",
+  "notes": "Traveling Discover Earth, Technology and Space exhibits placed three months each in rural public libraries nationwide."
+ },
+ {
+  "id": "1421723",
+  "serves_youth": "none",
+  "audience": [
+   "researchers"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "research_only"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "unclear",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "national",
+  "notes": "Interviews and surveys of scientists about public engagement goals and willingness; University of Texas Austin collaborator."
+ },
+ {
+  "id": "1421788",
+  "serves_youth": "indirect",
+  "audience": [
+   "general_public",
+   "teachers_educators",
+   "researchers"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "research_only",
+   "network_coalition"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "underrepresented_general",
+   "urban"
+  ],
+  "setting": "museum_science_center",
+  "youth_reach": null,
+  "evaluation": "design_qualitative",
+  "service_geography": "multi_state",
+  "notes": "Comparative case studies of Celebrate Urban Birds citizen science at science centers plus educator community of practice (ASTC)."
+ },
+ {
+  "id": "1421806",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students"
+  ],
+  "grade_band": "middle",
+  "models": [
+   "online_tool_game",
+   "out_of_school_program"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "girls_women"
+  ],
+  "setting": "after_school",
+  "youth_reach": 70,
+  "evaluation": "quasi_experimental",
+  "service_geography": "multi_state",
+  "notes": "Story-based videogame Gram's House teaching computer science concepts to middle school girls afterschool; compares game conditions."
+ },
+ {
+  "id": "1422022",
+  "serves_youth": "indirect",
+  "audience": [
+   "general_public",
+   "teachers_educators",
+   "researchers"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "research_only",
+   "network_coalition"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "underrepresented_general",
+   "urban"
+  ],
+  "setting": "museum_science_center",
+  "youth_reach": null,
+  "evaluation": "design_qualitative",
+  "service_geography": "multi_state",
+  "notes": "Cornell-led case studies of Celebrate Urban Birds implementation and educator learning community for diverse participation."
+ },
+ {
+  "id": "1422099",
+  "serves_youth": "none",
+  "audience": [
+   "general_public",
+   "researchers"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "research_only"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "unclear",
+  "youth_reach": null,
+  "evaluation": "design_qualitative",
+  "service_geography": "unclear",
+  "notes": "Developing embedded assessments of inquiry skills in environmental citizen science, via needs review and three project case studies."
+ },
+ {
+  "id": "1422198",
+  "serves_youth": "none",
+  "audience": [
+   "general_public"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "exhibit_media"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "online",
+  "youth_reach": null,
+  "evaluation": "quasi_experimental",
+  "service_geography": "national",
+  "notes": "Public TV series, videos and second screen app promoting citizen science to national audience; app tested quasi-experimentally."
+ },
+ {
+  "id": "1422236",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "middle",
+  "models": [
+   "out_of_school_program",
+   "online_tool_game",
+   "network_coalition"
+  ],
+  "mentoring": "none",
+  "bridging": "yes",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "after_school",
+  "youth_reach": 130000,
+  "evaluation": "unspecified",
+  "service_geography": "national",
+  "notes": "Design Squad engineering afterschool curriculum extended to Southern Africa, linking US and African middle schoolers; web platform and community of practice."
+ },
+ {
+  "id": "1422431",
+  "serves_youth": "none",
+  "audience": [
+   "general_public"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "exhibit_media",
+   "other"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "unclear",
+  "youth_reach": null,
+  "evaluation": "quasi_experimental",
+  "service_geography": "national",
+  "notes": "Recruiting and training TV weathercasters to deliver Climate Matters climate education; viewers' learning tracked with national surveys."
+ },
+ {
+  "id": "1422436",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "middle",
+  "models": [
+   "out_of_school_program",
+   "online_tool_game",
+   "teacher_pd",
+   "career_exposure"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "after_school",
+  "youth_reach": 6000,
+  "evaluation": "unspecified",
+  "service_geography": "multi_state",
+  "notes": "WISEngineering online engineering challenges in 25 Boys and Girls Clubs in New York and New Jersey with staff training."
+ },
+ {
+  "id": "1422532",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "general_public",
+   "researchers"
+  ],
+  "grade_band": "mixed_ages",
+  "models": [
+   "research_only"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "mixed",
+  "youth_reach": null,
+  "evaluation": "design_qualitative",
+  "service_geography": "unclear",
+  "notes": "Ethnographic and design research on STEM literacies in adult, out-of-school youth and school maker spaces."
+ },
+ {
+  "id": "1422750",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students"
+  ],
+  "grade_band": "middle",
+  "models": [
+   "online_tool_game"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "girls_women"
+  ],
+  "setting": "unclear",
+  "youth_reach": 100,
+  "evaluation": "quasi_experimental",
+  "service_geography": "local",
+  "notes": "GrACE procedurally generated puzzle game teaching algorithmic thinking to middle schoolers, gender-inclusive, tested in Boston with Northeastern."
+ },
+ {
+  "id": "1422764",
+  "serves_youth": "none",
+  "audience": [
+   "general_public"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "online_tool_game"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "unclear",
+  "youth_reach": null,
+  "evaluation": "unspecified",
+  "service_geography": "local",
+  "notes": "Mobile phone apps giving park visitors just-in-time STEM information at Cuyahoga Valley National Park."
+ },
+ {
+  "id": "1422917",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "general_public"
+  ],
+  "grade_band": "mixed_ages",
+  "models": [
+   "mentoring",
+   "research_apprenticeship"
+  ],
+  "mentoring": "component",
+  "bridging": "yes",
+  "ai_cs": "none",
+  "targets": [
+   "native_indigenous"
+  ],
+  "setting": "community",
+  "youth_reach": null,
+  "evaluation": "unspecified",
+  "service_geography": "local",
+  "notes": "Walking Two Worlds: Fond du Lac Band youth and community do resource-management research blending Western science and traditional knowledge, with mentors."
+ },
+ {
+  "id": "1423004",
+  "serves_youth": "none",
+  "audience": [
+   "general_public",
+   "researchers"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "research_only",
+   "network_coalition"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "community",
+  "youth_reach": null,
+  "evaluation": "unspecified",
+  "service_geography": "national",
+  "notes": "EvalFest: common evaluation metrics and shared database across twenty science festivals; North Carolina Chapel Hill partner."
+ },
+ {
+  "id": "1423050",
+  "serves_youth": "none",
+  "audience": [
+   "general_public",
+   "researchers"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "research_only",
+   "network_coalition"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "community",
+  "youth_reach": null,
+  "evaluation": "unspecified",
+  "service_geography": "national",
+  "notes": "EvalFest: shared festival evaluation tools and attendee database across science festivals; University of California San Francisco partner."
+ },
+ {
+  "id": "1423207",
+  "serves_youth": "none",
+  "audience": [
+   "general_public"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "online_tool_game",
+   "other"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "low_income",
+   "underrepresented_general"
+  ],
+  "setting": "community",
+  "youth_reach": null,
+  "evaluation": "design_qualitative",
+  "service_geography": "multi_state",
+  "notes": "NatureNet technology adapted by diverse communities for watershed and preserve projects in Washington DC, Maryland and Charlotte; Maryland lead."
+ },
+ {
+  "id": "1423212",
+  "serves_youth": "none",
+  "audience": [
+   "general_public"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "online_tool_game",
+   "other"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "low_income",
+   "underrepresented_general"
+  ],
+  "setting": "community",
+  "youth_reach": null,
+  "evaluation": "design_qualitative",
+  "service_geography": "multi_state",
+  "notes": "NatureNet technology for community-driven environmental projects at Reedy Creek preserve in Charlotte and Anacostia; UNC Charlotte collaborator."
+ },
+ {
+  "id": "1423226",
+  "serves_youth": "direct",
+  "audience": [
+   "teachers_educators",
+   "k12_students",
+   "general_public"
+  ],
+  "grade_band": "mixed_ages",
+  "models": [
+   "teacher_pd",
+   "other"
+  ],
+  "mentoring": "none",
+  "bridging": "unclear",
+  "ai_cs": "none",
+  "targets": [
+   "native_indigenous"
+  ],
+  "setting": "community",
+  "youth_reach": null,
+  "evaluation": "unspecified",
+  "service_geography": "multi_state",
+  "notes": "Earth Partnership blends Indigenous knowledge with ecological restoration, citizen science and educator training; Wisconsin Madison network."
+ },
+ {
+  "id": "1423338",
+  "serves_youth": "none",
+  "audience": [
+   "general_public"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "online_tool_game",
+   "other"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "low_income",
+   "underrepresented_general"
+  ],
+  "setting": "community",
+  "youth_reach": null,
+  "evaluation": "design_qualitative",
+  "service_geography": "multi_state",
+  "notes": "NatureNet community environmental learning projects in nature preserves; Colorado Boulder collaborator studying participant motivation."
+ },
+ {
+  "id": "1423496",
+  "serves_youth": "none",
+  "audience": [
+   "undergraduates",
+   "researchers"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "mentoring",
+   "research_only",
+   "other"
+  ],
+  "mentoring": "component",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "college_campus",
+  "youth_reach": null,
+  "evaluation": "pre_post",
+  "service_geography": "unclear",
+  "notes": "Assessing and improving communication skills of physics student mentors in public outreach, with baseline and remedial interventions."
+ },
+ {
+  "id": "1423550",
+  "serves_youth": "none",
+  "audience": [
+   "general_public"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "exhibit_media"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "native_indigenous",
+   "rural"
+  ],
+  "setting": "museum_science_center",
+  "youth_reach": null,
+  "evaluation": "design_qualitative",
+  "service_geography": "national",
+  "notes": "Permafrost traveling exhibition, Alaska tunnel upgrades and Native village programs; Fairbanks team studying real versus replica objects."
+ },
+ {
+  "id": "1423561",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students"
+  ],
+  "grade_band": "elementary",
+  "models": [
+   "out_of_school_program",
+   "online_tool_game"
+  ],
+  "mentoring": "none",
+  "bridging": "yes",
+  "ai_cs": "none",
+  "targets": [
+   "rural",
+   "native_indigenous"
+  ],
+  "setting": "after_school",
+  "youth_reach": null,
+  "evaluation": "quasi_experimental",
+  "service_geography": "state_regional",
+  "notes": "UTRAC: iPad sensors and web portal for Montana afterschool snow science, testing physical versus virtual facilitation visits."
+ },
+ {
+  "id": "1423587",
+  "serves_youth": "none",
+  "audience": [
+   "general_public"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "exhibit_media"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "native_indigenous",
+   "rural"
+  ],
+  "setting": "museum_science_center",
+  "youth_reach": null,
+  "evaluation": "design_qualitative",
+  "service_geography": "national",
+  "notes": "Permafrost exhibit and village programs; Oregon museum builds the travelling exhibition shown at museums yearly."
+ },
+ {
+  "id": "1423612",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "families",
+   "undergraduates"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "out_of_school_program",
+   "mentoring"
+  ],
+  "mentoring": "component",
+  "bridging": "yes",
+  "ai_cs": "none",
+  "targets": [
+   "hispanic_latino",
+   "low_income",
+   "underrepresented_general"
+  ],
+  "setting": "after_school",
+  "youth_reach": null,
+  "evaluation": "unspecified",
+  "service_geography": "local",
+  "notes": "Mobile Making van brings maker equipment and undergraduate mentors to four San Diego afterschool sites in underserved communities."
+ },
+ {
+  "id": "1423655",
+  "serves_youth": "none",
+  "audience": [
+   "general_public",
+   "teachers_educators"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "exhibit_media"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "museum_science_center",
+  "youth_reach": null,
+  "evaluation": "pre_post",
+  "service_geography": "national",
+  "notes": "Giant screen film on Amazon mimicry with outreach; researchers compare 2D, 3D and dome formats using tablet game assessment."
+ },
+ {
+  "id": "1424325",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "career_exposure",
+   "exhibit_media",
+   "school_curriculum"
+  ],
+  "mentoring": "none",
+  "bridging": "yes",
+  "ai_cs": "computing",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "unspecified",
+  "service_geography": "state_regional",
+  "notes": "CS Roadtrip pilot: videos of diverse computing professionals and learning guides used in four California schools."
+ },
+ {
+  "id": "1426989",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students"
+  ],
+  "grade_band": "middle",
+  "models": [
+   "school_curriculum",
+   "out_of_school_program",
+   "summer_program"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "girls_women",
+   "rural",
+   "low_income"
+  ],
+  "setting": "mixed",
+  "youth_reach": null,
+  "evaluation": "unspecified",
+  "service_geography": "unclear",
+  "notes": "Co-robot platforms (underwater glider, muscle-controlled arm) in classroom, afterschool and summer activities, testing appeal to rural girls."
+ },
+ {
+  "id": "1428550",
+  "serves_youth": "indirect",
+  "audience": [
+   "teachers_educators",
+   "researchers"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "research_only"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "design_qualitative",
+  "service_geography": "unclear",
+  "notes": "Exploratory case studies of what it takes to implement and sustain research-based educational technology in schools."
+ },
+ {
+  "id": "1430260",
+  "serves_youth": "indirect",
+  "audience": [
+   "general_public",
+   "teachers_educators",
+   "researchers"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "exhibit_media",
+   "other"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "community",
+  "youth_reach": null,
+  "evaluation": "unspecified",
+  "service_geography": "local",
+  "notes": "Smart Living Bridge sensing and tidal energy testbed in New Hampshire with public kiosk outreach to residents and educators."
+ },
+ {
+  "id": "1431133",
+  "serves_youth": "indirect",
+  "audience": [
+   "teachers_educators",
+   "undergraduates"
+  ],
+  "grade_band": "elementary",
+  "models": [
+   "teacher_pd"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "college_campus",
+  "youth_reach": null,
+  "evaluation": "pre_post",
+  "service_geography": "multi_state",
+  "notes": "Project TECHNO modules teaching prospective elementary teachers to notice children's math thinking; Morehead State partner, Kentucky and North Carolina."
+ },
+ {
+  "id": "1431631",
+  "serves_youth": "indirect",
+  "audience": [
+   "teachers_educators",
+   "undergraduates"
+  ],
+  "grade_band": "elementary",
+  "models": [
+   "teacher_pd"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "college_campus",
+  "youth_reach": null,
+  "evaluation": "pre_post",
+  "service_geography": "multi_state",
+  "notes": "Project TECHNO professional noticing modules for pre-service elementary teachers, online versus face-to-face; University of Kentucky collaborator."
+ },
+ {
+  "id": "1431846",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "high",
+  "models": [
+   "school_curriculum",
+   "research_only"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "girls_women"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "quasi_experimental",
+  "service_geography": "unclear",
+  "notes": "Physics identity among high school students, especially girls: case studies, longitudinal tracking and tested lesson plan against comparison groups."
+ },
+ {
+  "id": "1433065",
+  "serves_youth": "indirect",
+  "audience": [
+   "teachers_educators"
+  ],
+  "grade_band": "high",
+  "models": [
+   "teacher_pd",
+   "network_coalition",
+   "online_tool_game"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "online",
+  "youth_reach": null,
+  "evaluation": "unspecified",
+  "service_geography": "national",
+  "notes": "CS 10K Community online platform supporting high school computer science teachers, with computational thinking assessments."
+ },
+ {
+  "id": "1433181",
+  "serves_youth": "indirect",
+  "audience": [
+   "researchers"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "research_only"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "unclear",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "unclear",
+  "notes": "Study group of scholars on diversity, equity and excellence in STEM assessment, producing report and research agenda."
+ }
+]

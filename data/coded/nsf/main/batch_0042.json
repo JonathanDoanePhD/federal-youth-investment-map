@@ -1,0 +1,988 @@
+[
+ {
+  "id": "1949393",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "high",
+  "models": [
+   "school_curriculum",
+   "teacher_pd"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "urban",
+   "rural"
+  ],
+  "setting": "school_day",
+  "youth_reach": 1500,
+  "evaluation": "quasi_experimental",
+  "service_geography": "multi_state",
+  "notes": "Geospatial GIS investigations in six high schools across three regions, with teachers co-designing and a comparison group."
+ },
+ {
+  "id": "1949400",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "high",
+  "models": [
+   "school_curriculum",
+   "teacher_pd"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "urban",
+   "rural"
+  ],
+  "setting": "school_day",
+  "youth_reach": 1500,
+  "evaluation": "quasi_experimental",
+  "service_geography": "multi_state",
+  "notes": "Geospatial GIS investigations in six high schools across three regions, with teachers co-designing and a comparison group."
+ },
+ {
+  "id": "1949437",
+  "serves_youth": "indirect",
+  "audience": [
+   "researchers"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "research_only"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "unclear",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "national",
+  "notes": "Meta-analysis and qualitative synthesis of technology interventions and their effects on PreK-12 STEM career outcomes."
+ },
+ {
+  "id": "1949439",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "undergraduates"
+  ],
+  "grade_band": "high",
+  "models": [
+   "school_curriculum",
+   "career_exposure",
+   "mentoring"
+  ],
+  "mentoring": "component",
+  "bridging": "yes",
+  "ai_cs": "computing",
+  "targets": [
+   "low_income",
+   "black",
+   "hispanic_latino"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "quasi_experimental",
+  "service_geography": "local",
+  "notes": "Two-year career-technical course in manufacturing technologies, with industry visits and university mentors, in a disadvantaged district."
+ },
+ {
+  "id": "1949454",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "middle",
+  "models": [
+   "school_curriculum",
+   "mentoring",
+   "career_exposure"
+  ],
+  "mentoring": "component",
+  "bridging": "yes",
+  "ai_cs": "none",
+  "targets": [
+   "low_income",
+   "rural"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "quasi_experimental",
+  "service_geography": "local",
+  "notes": "Rural middle-school engineering design course tied to local manufacturers, with undergraduate and industry mentors."
+ },
+ {
+  "id": "1949458",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "high",
+  "models": [
+   "career_exposure",
+   "teacher_pd",
+   "other"
+  ],
+  "mentoring": "none",
+  "bridging": "yes",
+  "ai_cs": "none",
+  "targets": [
+   "disability"
+  ],
+  "setting": "unclear",
+  "youth_reach": null,
+  "evaluation": "pre_post",
+  "service_geography": "multi_state",
+  "notes": "Astronomy and 3D-printing career labs for visually impaired teens plus educator institutes, across twelve states."
+ },
+ {
+  "id": "1949463",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students"
+  ],
+  "grade_band": "high",
+  "models": [
+   "mentoring",
+   "career_exposure",
+   "other"
+  ],
+  "mentoring": "component",
+  "bridging": "yes",
+  "ai_cs": "none",
+  "targets": [
+   "underrepresented_general",
+   "urban",
+   "rural"
+  ],
+  "setting": "unclear",
+  "youth_reach": null,
+  "evaluation": "pre_post",
+  "service_geography": "unclear",
+  "notes": "Teams build augmented-reality plant models with scientist mentors and present at a national teachers conference."
+ },
+ {
+  "id": "1949472",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "high",
+  "models": [
+   "school_curriculum",
+   "summer_program"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "girls_women"
+  ],
+  "setting": "mixed",
+  "youth_reach": null,
+  "evaluation": "design_qualitative",
+  "service_geography": "multi_state",
+  "notes": "Open curriculum on advanced computing topics designed with teachers and camps to engage high school girls, piloted in two states."
+ },
+ {
+  "id": "1949484",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators",
+   "families"
+  ],
+  "grade_band": "middle",
+  "models": [
+   "school_curriculum",
+   "out_of_school_program",
+   "network_coalition"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "hispanic_latino",
+   "underrepresented_general"
+  ],
+  "setting": "mixed",
+  "youth_reach": 600,
+  "evaluation": "design_qualitative",
+  "service_geography": "local",
+  "notes": "Network science curriculum in and after school for mostly Latinx Boston middle schoolers, with collective-impact partnership."
+ },
+ {
+  "id": "1949488",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "high",
+  "models": [
+   "school_curriculum",
+   "summer_program"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "girls_women"
+  ],
+  "setting": "mixed",
+  "youth_reach": null,
+  "evaluation": "design_qualitative",
+  "service_geography": "multi_state",
+  "notes": "Open curriculum on advanced computing topics designed with teachers and camps to engage high school girls, piloted in two states."
+ },
+ {
+  "id": "1949492",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "high",
+  "models": [
+   "school_curriculum",
+   "summer_program"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "girls_women"
+  ],
+  "setting": "mixed",
+  "youth_reach": null,
+  "evaluation": "design_qualitative",
+  "service_geography": "multi_state",
+  "notes": "Open curriculum on advanced computing topics designed with teachers and camps to engage high school girls, piloted in two states."
+ },
+ {
+  "id": "1949493",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "middle",
+  "models": [
+   "summer_program",
+   "school_curriculum",
+   "teacher_pd"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "ai",
+  "targets": [
+   "hispanic_latino",
+   "black",
+   "rural"
+  ],
+  "setting": "mixed",
+  "youth_reach": null,
+  "evaluation": "unspecified",
+  "service_geography": "multi_state",
+  "notes": "Summer workshops teaching computer vision and machine learning with cameras, co-created with teachers and carried into classrooms."
+ },
+ {
+  "id": "1949526",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators",
+   "families"
+  ],
+  "grade_band": "middle",
+  "models": [
+   "school_curriculum",
+   "out_of_school_program",
+   "network_coalition"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "hispanic_latino",
+   "underrepresented_general"
+  ],
+  "setting": "mixed",
+  "youth_reach": 600,
+  "evaluation": "design_qualitative",
+  "service_geography": "local",
+  "notes": "Network science curriculum in and after school for mostly Latinx Boston middle schoolers, with collective-impact partnership."
+ },
+ {
+  "id": "1949585",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "undergraduates",
+   "teachers_educators"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "summer_program",
+   "mentoring",
+   "out_of_school_program"
+  ],
+  "mentoring": "component",
+  "bridging": "yes",
+  "ai_cs": "computing",
+  "targets": [
+   "girls_women"
+  ],
+  "setting": "summer",
+  "youth_reach": 120,
+  "evaluation": "unspecified",
+  "service_geography": "unclear",
+  "notes": "Five-week summer camp for girls learning Python and Arduino, with college and teacher mentors and a competition."
+ },
+ {
+  "id": "1949586",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "summer_program"
+  ],
+  "mentoring": "none",
+  "bridging": "unclear",
+  "ai_cs": "none",
+  "targets": [
+   "black",
+   "girls_women",
+   "underrepresented_general"
+  ],
+  "setting": "summer",
+  "youth_reach": null,
+  "evaluation": "quasi_experimental",
+  "service_geography": "unclear",
+  "notes": "Two culturally relevant solar summer camp models co-designed with community partners for Black, brown and female youth."
+ },
+ {
+  "id": "1953801",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "undergraduates",
+   "researchers"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "other"
+  ],
+  "mentoring": "none",
+  "bridging": "unclear",
+  "ai_cs": "ai",
+  "targets": [
+   "underrepresented_general",
+   "girls_women"
+  ],
+  "setting": "unclear",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "local",
+  "notes": "Low-power in-sensor machine learning and encryption hardware research with modest outreach to local K-12 students."
+ },
+ {
+  "id": "1956119",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators",
+   "researchers"
+  ],
+  "grade_band": "high",
+  "models": [
+   "school_curriculum",
+   "research_only"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "rct",
+  "service_geography": "unclear",
+  "notes": "Experiments revising high school genetics lessons to avoid beliefs in innate ability differences, tested in two randomized trials."
+ },
+ {
+  "id": "1956152",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators",
+   "researchers"
+  ],
+  "grade_band": "high",
+  "models": [
+   "school_curriculum",
+   "research_only"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "girls_women"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "rct",
+  "service_geography": "unclear",
+  "notes": "Revising high school genetics lessons to prevent beliefs in innate sex differences, tested in two randomized trials."
+ },
+ {
+  "id": "2000388",
+  "serves_youth": "indirect",
+  "audience": [
+   "researchers"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "research_only"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "unclear",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "unclear",
+  "notes": "Uses state administrative records to estimate variance across students, teachers, schools for designing better trials of STEM interventions."
+ },
+ {
+  "id": "2000405",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "researchers"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "research_only",
+   "online_tool_game"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "ai",
+  "targets": [
+   "general"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "design_qualitative",
+  "service_geography": "unclear",
+  "notes": "Studies identity and algorithmic bias in machine-learning adaptive math software through observations, interviews and usage logs."
+ },
+ {
+  "id": "2000424",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "researchers"
+  ],
+  "grade_band": "elementary",
+  "models": [
+   "research_only"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "underrepresented_general",
+   "low_income"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "quasi_experimental",
+  "service_geography": "state_regional",
+  "notes": "Observational and training studies of first graders informal fraction knowledge and later math learning in Delaware schools."
+ },
+ {
+  "id": "2000495",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "researchers"
+  ],
+  "grade_band": "elementary",
+  "models": [
+   "research_only"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "underrepresented_general",
+   "low_income"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "quasi_experimental",
+  "service_geography": "state_regional",
+  "notes": "Observational and training studies of first graders informal fraction knowledge and later math learning in Delaware schools."
+ },
+ {
+  "id": "2000545",
+  "serves_youth": "indirect",
+  "audience": [
+   "teachers_educators"
+  ],
+  "grade_band": "middle",
+  "models": [
+   "teacher_pd"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "design_qualitative",
+  "service_geography": "unclear",
+  "notes": "Summer workshops plus coaching help middle school math teachers foster argumentation; case studies and a pilot impact study."
+ },
+ {
+  "id": "2000638",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "researchers"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "research_only",
+   "online_tool_game"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "ai",
+  "targets": [
+   "general"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "design_qualitative",
+  "service_geography": "unclear",
+  "notes": "Studies identity and algorithmic bias in machine-learning adaptive math software through observations, interviews and usage logs."
+ },
+ {
+  "id": "2000641",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators",
+   "researchers"
+  ],
+  "grade_band": "prek",
+  "models": [
+   "other"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "low_income"
+  ],
+  "setting": "unclear",
+  "youth_reach": null,
+  "evaluation": "rct",
+  "service_geography": "unclear",
+  "notes": "Randomized trial of structured and unstructured block play with low-income preschoolers to see effects on early math."
+ },
+ {
+  "id": "2000661",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "researchers"
+  ],
+  "grade_band": "prek",
+  "models": [
+   "research_only"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "unclear",
+  "youth_reach": null,
+  "evaluation": "unspecified",
+  "service_geography": "unclear",
+  "notes": "Behavioral experiments with four- and five-year-olds on exact equality and fairness, plus a learning intervention test."
+ },
+ {
+  "id": "2000827",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "researchers"
+  ],
+  "grade_band": "prek",
+  "models": [
+   "research_only"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "unclear",
+  "youth_reach": null,
+  "evaluation": "unspecified",
+  "service_geography": "unclear",
+  "notes": "Behavioral experiments with four- and five-year-olds on exact equality and fairness, plus a learning intervention test."
+ },
+ {
+  "id": "2000833",
+  "serves_youth": "indirect",
+  "audience": [
+   "teachers_educators",
+   "researchers"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "teacher_pd",
+   "research_only"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "unclear",
+  "youth_reach": null,
+  "evaluation": "design_qualitative",
+  "service_geography": "unclear",
+  "notes": "Design-based study of how science teachers learn from classroom video clips in professional development."
+ },
+ {
+  "id": "2001116",
+  "serves_youth": "indirect",
+  "audience": [
+   "teachers_educators"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "teacher_pd"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "unspecified",
+  "service_geography": "unclear",
+  "notes": "Eighty-hour professional development on reasoning language in algebra for grade 7-9 teachers, three cohorts."
+ },
+ {
+  "id": "2001688",
+  "serves_youth": "direct",
+  "audience": [
+   "teachers_educators",
+   "k12_students"
+  ],
+  "grade_band": "high",
+  "models": [
+   "teacher_pd",
+   "out_of_school_program"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "english_learners"
+  ],
+  "setting": "after_school",
+  "youth_reach": 2000,
+  "evaluation": "none_stated",
+  "service_geography": "local",
+  "notes": "Teacher professional development embedded in an afterschool science program serving English learners and refugees at one Chicago high school."
+ },
+ {
+  "id": "2002727",
+  "serves_youth": "direct",
+  "audience": [
+   "out_of_school_youth",
+   "general_public"
+  ],
+  "grade_band": "mixed_ages",
+  "models": [
+   "summer_program",
+   "other"
+  ],
+  "mentoring": "none",
+  "bridging": "unclear",
+  "ai_cs": "computing",
+  "targets": [
+   "girls_women",
+   "underrepresented_general"
+  ],
+  "setting": "mixed",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "multi_state",
+  "notes": "Conference and residential camp gathering women and girls of color from Pacific and Alaska to inform inclusive computing."
+ },
+ {
+  "id": "2002729",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "general_public"
+  ],
+  "grade_band": "mixed_ages",
+  "models": [
+   "exhibit_media"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "native_indigenous",
+   "rural"
+  ],
+  "setting": "community",
+  "youth_reach": 120,
+  "evaluation": "pre_post",
+  "service_geography": "state_regional",
+  "notes": "Pop-up exhibit linking Native Hawaiian traditional knowledge to science, piloted with rural middle schoolers and older visitors."
+ },
+ {
+  "id": "2002734",
+  "serves_youth": "direct",
+  "audience": [
+   "out_of_school_youth",
+   "general_public"
+  ],
+  "grade_band": "mixed_ages",
+  "models": [
+   "summer_program",
+   "other"
+  ],
+  "mentoring": "none",
+  "bridging": "unclear",
+  "ai_cs": "computing",
+  "targets": [
+   "girls_women",
+   "underrepresented_general"
+  ],
+  "setting": "mixed",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "multi_state",
+  "notes": "Conference and residential camp gathering women and girls of color from Pacific and Alaska to inform inclusive computing."
+ },
+ {
+  "id": "2003126",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "families",
+   "undergraduates"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "mentoring",
+   "career_exposure",
+   "other"
+  ],
+  "mentoring": "central",
+  "bridging": "yes",
+  "ai_cs": "none",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "mixed",
+  "youth_reach": null,
+  "evaluation": "unspecified",
+  "service_geography": "unclear",
+  "notes": "Family-centered STEM outreach for Burundian refugees with university contacts, campus trips and remote professional mentoring journals."
+ },
+ {
+  "id": "2003680",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators",
+   "researchers"
+  ],
+  "grade_band": "high",
+  "models": [
+   "school_curriculum"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "unspecified",
+  "service_geography": "unclear",
+  "notes": "Adapting a college chemistry curriculum for high school molecular reasoning, studying student learning and teacher modifications."
+ },
+ {
+  "id": "2004085",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators",
+   "general_public"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "exhibit_media",
+   "career_exposure",
+   "teacher_pd",
+   "out_of_school_program"
+  ],
+  "mentoring": "component",
+  "bridging": "yes",
+  "ai_cs": "none",
+  "targets": [
+   "girls_women",
+   "rural",
+   "underrepresented_general",
+   "low_income"
+  ],
+  "setting": "mixed",
+  "youth_reach": 160,
+  "evaluation": "pre_post",
+  "service_geography": "national",
+  "notes": "Television episodes and citizen science in national parks featuring women mentors and role models to build girls STEM identity."
+ },
+ {
+  "id": "2005319",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "families"
+  ],
+  "grade_band": "middle",
+  "models": [
+   "out_of_school_program"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "hispanic_latino",
+   "girls_women"
+  ],
+  "setting": "community",
+  "youth_reach": null,
+  "evaluation": "quasi_experimental",
+  "service_geography": "multi_state",
+  "notes": "Seven-week family rocket and urban farming activities plus conversation groups to build Latina middle schoolers science interest."
+ },
+ {
+  "id": "2005404",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "general_public"
+  ],
+  "grade_band": "mixed_ages",
+  "models": [
+   "exhibit_media"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "girls_women",
+   "black",
+   "disability"
+  ],
+  "setting": "museum_science_center",
+  "youth_reach": null,
+  "evaluation": "design_qualitative",
+  "service_geography": "unclear",
+  "notes": "Sports-themed Smithsonian invention exhibit with design-based research on inventive identity among girls, Black youth and people with disabilities."
+ },
+ {
+  "id": "2005447",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "general_public"
+  ],
+  "grade_band": "mixed_ages",
+  "models": [
+   "online_tool_game"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "disability"
+  ],
+  "setting": "museum_science_center",
+  "youth_reach": null,
+  "evaluation": "design_qualitative",
+  "service_geography": "multi_state",
+  "notes": "Immersive virtual reality space-station STEM simulation designed with and tested by autistic teens and adults in science museums."
+ },
+ {
+  "id": "2005484",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "out_of_school_program",
+   "teacher_pd",
+   "online_tool_game"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "underrepresented_general",
+   "urban"
+  ],
+  "setting": "community",
+  "youth_reach": 240,
+  "evaluation": "pre_post",
+  "service_geography": "multi_state",
+  "notes": "Maker-based technology programs at four recreation centers in two cities, with educator training and a localization toolkit."
+ }
+]

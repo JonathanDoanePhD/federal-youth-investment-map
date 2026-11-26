@@ -1,0 +1,36 @@
+stream,need_quintile,share_children,share_dollars,dollars_per_child,share_counties_with_none
+NSF youth STEM (all awards),Q1 lowest need,0.1581,0.2579,74.7273,0.8998
+NSF youth STEM (all awards),Q2,0.1879,0.1926,46.9411,0.8854
+NSF youth STEM (all awards),Q3,0.2082,0.1661,36.5480,0.8998
+NSF youth STEM (all awards),Q4,0.2773,0.3065,50.6232,0.8917
+NSF youth STEM (all awards),Q5 highest need,0.1685,0.0769,20.8905,0.9205
+NSF: youth served directly,Q1 lowest need,0.1581,0.2680,38.2651,0.9205
+NSF: youth served directly,Q2,0.1879,0.1959,23.5316,0.9108
+NSF: youth served directly,Q3,0.2082,0.1832,19.8554,0.9141
+NSF: youth served directly,Q4,0.2773,0.2736,22.2711,0.9236
+NSF: youth served directly,Q5 highest need,0.1685,0.0793,10.6228,0.9364
+"NSF: direct youth, local/state delivery",Q1 lowest need,0.1581,0.2379,11.5437,0.9459
+"NSF: direct youth, local/state delivery",Q2,0.1879,0.1630,6.6518,0.9570
+"NSF: direct youth, local/state delivery",Q3,0.2082,0.1615,5.9495,0.9428
+"NSF: direct youth, local/state delivery",Q4,0.2773,0.3395,9.3907,0.9427
+"NSF: direct youth, local/state delivery",Q5 highest need,0.1685,0.0982,4.4680,0.9539
+NSF: mentoring or bridging,Q1 lowest need,0.1581,0.1920,12.0076,0.9523
+NSF: mentoring or bridging,Q2,0.1879,0.1989,10.4582,0.9268
+NSF: mentoring or bridging,Q3,0.2082,0.1747,8.2932,0.9444
+NSF: mentoring or bridging,Q4,0.2773,0.3370,12.0144,0.9331
+NSF: mentoring or bridging,Q5 highest need,0.1685,0.0974,5.7148,0.9459
+OJJDP mentoring (all),Q1 lowest need,0.1581,0.0938,6.5131,0.9603
+OJJDP mentoring (all),Q2,0.1879,0.1321,7.7148,0.9634
+OJJDP mentoring (all),Q3,0.2082,0.0715,3.7709,0.9682
+OJJDP mentoring (all),Q4,0.2773,0.6574,26.0289,0.9522
+OJJDP mentoring (all),Q5 highest need,0.1685,0.0452,2.9452,0.9698
+"College access: GEAR UP, Upward Bound, Talent Search",Q1 lowest need,0.1581,0.1207,93.5427,0.8633
+"College access: GEAR UP, Upward Bound, Talent Search",Q2,0.1879,0.1436,93.5361,0.8408
+"College access: GEAR UP, Upward Bound, Talent Search",Q3,0.2082,0.1734,101.9640,0.7901
+"College access: GEAR UP, Upward Bound, Talent Search",Q4,0.2773,0.3258,143.8996,0.7261
+"College access: GEAR UP, Upward Bound, Talent Search",Q5 highest need,0.1685,0.2365,171.8392,0.7361
+OJJDP mentoring: local/state grantees,Q1 lowest need,0.1581,0.1853,2.2723,0.9730
+OJJDP mentoring: local/state grantees,Q2,0.1879,0.2403,2.4785,0.9682
+OJJDP mentoring: local/state grantees,Q3,0.2082,0.1606,1.4956,0.9730
+OJJDP mentoring: local/state grantees,Q4,0.2773,0.2599,1.8172,0.9634
+OJJDP mentoring: local/state grantees,Q5 highest need,0.1685,0.1539,1.7701,0.9730

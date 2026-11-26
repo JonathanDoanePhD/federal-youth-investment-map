@@ -1,0 +1,992 @@
+[
+ {
+  "id": "2115620",
+  "serves_youth": "direct",
+  "audience": [
+   "out_of_school_youth",
+   "teachers_educators",
+   "researchers"
+  ],
+  "grade_band": "mixed_ages",
+  "models": [
+   "out_of_school_program",
+   "teacher_pd"
+  ],
+  "mentoring": "none",
+  "bridging": "unclear",
+  "ai_cs": "none",
+  "targets": [
+   "native_indigenous"
+  ],
+  "setting": "community",
+  "youth_reach": null,
+  "evaluation": "design_qualitative",
+  "service_geography": "multi_state",
+  "notes": "Community design studies of Indigenous land and water science learning with three Pacific Northwest and Great Lakes communities."
+ },
+ {
+  "id": "2115621",
+  "serves_youth": "indirect",
+  "audience": [
+   "families"
+  ],
+  "grade_band": "mixed_ages",
+  "models": [
+   "exhibit_media",
+   "career_exposure",
+   "other"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "hispanic_latino",
+   "low_income"
+  ],
+  "setting": "mixed",
+  "youth_reach": null,
+  "evaluation": "rct",
+  "service_geography": "national",
+  "notes": "Telenovela episodes and caregiver workshops promoting family science learning among Latinx households, tested with randomized trial of caregivers."
+ },
+ {
+  "id": "2115637",
+  "serves_youth": "direct",
+  "audience": [
+   "general_public",
+   "out_of_school_youth",
+   "families"
+  ],
+  "grade_band": "mixed_ages",
+  "models": [
+   "exhibit_media",
+   "other"
+  ],
+  "mentoring": "none",
+  "bridging": "yes",
+  "ai_cs": "none",
+  "targets": [
+   "black",
+   "hispanic_latino",
+   "urban"
+  ],
+  "setting": "community",
+  "youth_reach": null,
+  "evaluation": "unspecified",
+  "service_geography": "local",
+  "notes": "Art-and-science neighborhood walks and workshops about Milwaukee water, including teen programming, in segregated neighborhoods."
+ },
+ {
+  "id": "2115669",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "families"
+  ],
+  "grade_band": "elementary",
+  "models": [
+   "exhibit_media",
+   "other"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "low_income",
+   "hispanic_latino"
+  ],
+  "setting": "home_family",
+  "youth_reach": null,
+  "evaluation": "pre_post",
+  "service_geography": "national",
+  "notes": "Cyberchase videos plus weekly texting engaging low-income Latinx families with young children in math and environment learning."
+ },
+ {
+  "id": "2115695",
+  "serves_youth": "direct",
+  "audience": [
+   "out_of_school_youth",
+   "teachers_educators",
+   "researchers"
+  ],
+  "grade_band": "mixed_ages",
+  "models": [
+   "out_of_school_program",
+   "teacher_pd"
+  ],
+  "mentoring": "none",
+  "bridging": "unclear",
+  "ai_cs": "none",
+  "targets": [
+   "native_indigenous"
+  ],
+  "setting": "community",
+  "youth_reach": null,
+  "evaluation": "design_qualitative",
+  "service_geography": "multi_state",
+  "notes": "Community design studies of Indigenous land and water science learning with three Pacific Northwest and Great Lakes communities."
+ },
+ {
+  "id": "2115712",
+  "serves_youth": "none",
+  "audience": [
+   "general_public"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "other"
+  ],
+  "mentoring": "none",
+  "bridging": "unclear",
+  "ai_cs": "none",
+  "targets": [
+   "native_indigenous",
+   "hispanic_latino",
+   "girls_women",
+   "rural",
+   "underrepresented_general"
+  ],
+  "setting": "community",
+  "youth_reach": null,
+  "evaluation": "unspecified",
+  "service_geography": "unclear",
+  "notes": "Co-designing a community climate science curriculum with extension volunteers from underrepresented groups, as a pilot."
+ },
+ {
+  "id": "2115718",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "out_of_school_program",
+   "summer_program",
+   "career_exposure",
+   "network_coalition"
+  ],
+  "mentoring": "none",
+  "bridging": "yes",
+  "ai_cs": "none",
+  "targets": [
+   "native_indigenous"
+  ],
+  "setting": "mixed",
+  "youth_reach": null,
+  "evaluation": "unspecified",
+  "service_geography": "multi_state",
+  "notes": "Native-led network of tribal nations running place-based informal STEM programs with Native STEM professional role models."
+ },
+ {
+  "id": "2115730",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "out_of_school_program",
+   "mentoring",
+   "research_apprenticeship"
+  ],
+  "mentoring": "component",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "black",
+   "low_income",
+   "urban",
+   "rural"
+  ],
+  "setting": "mixed",
+  "youth_reach": 600,
+  "evaluation": "design_qualitative",
+  "service_geography": "multi_state",
+  "notes": "Paid Black teen math teachers lead peer activities for younger youth; study of how their mathematical identity develops."
+ },
+ {
+  "id": "2115750",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students"
+  ],
+  "grade_band": "middle",
+  "models": [
+   "out_of_school_program",
+   "mentoring"
+  ],
+  "mentoring": "component",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "black",
+   "girls_women"
+  ],
+  "setting": "unclear",
+  "youth_reach": 120,
+  "evaluation": "quasi_experimental",
+  "service_geography": "unclear",
+  "notes": "Maker program for Black middle school girls using Black women's STEM history, tested with pre-post quasi-experimental design."
+ },
+ {
+  "id": "2115751",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "general_public",
+   "undergraduates"
+  ],
+  "grade_band": "mixed_ages",
+  "models": [
+   "exhibit_media",
+   "research_only"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "disability"
+  ],
+  "setting": "museum_science_center",
+  "youth_reach": 425,
+  "evaluation": "unspecified",
+  "service_geography": "multi_state",
+  "notes": "Sound-based displays of ocean data for blind and low-vision learners in museums, built through user-centered design."
+ },
+ {
+  "id": "2115773",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "researchers"
+  ],
+  "grade_band": "middle",
+  "models": [
+   "summer_program",
+   "research_apprenticeship"
+  ],
+  "mentoring": "none",
+  "bridging": "yes",
+  "ai_cs": "computing",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "summer",
+  "youth_reach": 40,
+  "evaluation": "design_qualitative",
+  "service_geography": "multi_state",
+  "notes": "Summer program where scientists, choreographers and middle schoolers model complex systems through dance and agent-based modeling."
+ },
+ {
+  "id": "2115780",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students"
+  ],
+  "grade_band": "middle",
+  "models": [
+   "online_tool_game"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "online",
+  "youth_reach": null,
+  "evaluation": "unspecified",
+  "service_geography": "national",
+  "notes": "Free digital games teaching quantum information concepts to middle schoolers, with study of understanding and interest."
+ },
+ {
+  "id": "2115781",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "out_of_school_program",
+   "summer_program",
+   "career_exposure",
+   "network_coalition"
+  ],
+  "mentoring": "none",
+  "bridging": "yes",
+  "ai_cs": "none",
+  "targets": [
+   "native_indigenous"
+  ],
+  "setting": "mixed",
+  "youth_reach": null,
+  "evaluation": "unspecified",
+  "service_geography": "multi_state",
+  "notes": "Native-led network of tribal nations running place-based informal STEM programs with Native STEM professional role models."
+ },
+ {
+  "id": "2115843",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students"
+  ],
+  "grade_band": "middle",
+  "models": [
+   "online_tool_game"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "online",
+  "youth_reach": null,
+  "evaluation": "unspecified",
+  "service_geography": "national",
+  "notes": "Free digital games teaching quantum information concepts to middle schoolers, with study of understanding and interest."
+ },
+ {
+  "id": "2115860",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "families",
+   "general_public",
+   "teachers_educators"
+  ],
+  "grade_band": "mixed_ages",
+  "models": [
+   "exhibit_media",
+   "teacher_pd"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "rural"
+  ],
+  "setting": "mixed",
+  "youth_reach": null,
+  "evaluation": "unspecified",
+  "service_geography": "multi_state",
+  "notes": "Giant screen blue whale film with modules for science centers and rural libraries, plus facilitator webinars."
+ },
+ {
+  "id": "2115868",
+  "serves_youth": "indirect",
+  "audience": [
+   "researchers",
+   "teachers_educators"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "research_only"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "unclear",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "national",
+  "notes": "Literature synthesis on combining STEM and social-emotional skills in out-of-school programs for K-12 youth."
+ },
+ {
+  "id": "2115905",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators",
+   "researchers"
+  ],
+  "grade_band": "middle",
+  "models": [
+   "exhibit_media",
+   "research_only"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "rural"
+  ],
+  "setting": "museum_science_center",
+  "youth_reach": 3000,
+  "evaluation": "design_qualitative",
+  "service_geography": "state_regional",
+  "notes": "Design research on drawing and reflection to extend learning from a Maine marine science field trip."
+ },
+ {
+  "id": "2115921",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students"
+  ],
+  "grade_band": "high",
+  "models": [
+   "out_of_school_program"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "black",
+   "hispanic_latino"
+  ],
+  "setting": "community",
+  "youth_reach": 200,
+  "evaluation": "pre_post",
+  "service_geography": "unclear",
+  "notes": "Dance-based embodied physics learning lab for Black and Latinx teens, refined over three design cycles at four sites."
+ },
+ {
+  "id": "2115963",
+  "serves_youth": "direct",
+  "audience": [
+   "out_of_school_youth",
+   "teachers_educators",
+   "researchers"
+  ],
+  "grade_band": "mixed_ages",
+  "models": [
+   "out_of_school_program",
+   "teacher_pd"
+  ],
+  "mentoring": "none",
+  "bridging": "unclear",
+  "ai_cs": "none",
+  "targets": [
+   "native_indigenous"
+  ],
+  "setting": "community",
+  "youth_reach": null,
+  "evaluation": "design_qualitative",
+  "service_geography": "multi_state",
+  "notes": "Community design studies of Indigenous land and water science learning with three Pacific Northwest and Great Lakes communities."
+ },
+ {
+  "id": "2115971",
+  "serves_youth": "none",
+  "audience": [
+   "researchers",
+   "general_public"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "other",
+   "exhibit_media"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "unclear",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "national",
+  "notes": "Culturally tailored science communication training for minoritized pre-tenure faculty, plus a public podcast."
+ },
+ {
+  "id": "2116026",
+  "serves_youth": "none",
+  "audience": [
+   "general_public",
+   "teachers_educators",
+   "families"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "research_only",
+   "network_coalition"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "disability"
+  ],
+  "setting": "museum_science_center",
+  "youth_reach": null,
+  "evaluation": "unspecified",
+  "service_geography": "national",
+  "notes": "Framework and practitioner network making zoos and aquariums more accessible to autistic visitors."
+ },
+ {
+  "id": "2116046",
+  "serves_youth": "none",
+  "audience": [
+   "general_public",
+   "teachers_educators"
+  ],
+  "grade_band": "mixed_ages",
+  "models": [
+   "online_tool_game",
+   "network_coalition"
+  ],
+  "mentoring": "none",
+  "bridging": "yes",
+  "ai_cs": "computing",
+  "targets": [
+   "rural"
+  ],
+  "setting": "library",
+  "youth_reach": null,
+  "evaluation": "unspecified",
+  "service_geography": "state_regional",
+  "notes": "Virtual reality polar science experiences co-designed with rural librarians, with gaze-based learning assessment research."
+ },
+ {
+  "id": "2116070",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators",
+   "general_public"
+  ],
+  "grade_band": "middle",
+  "models": [
+   "exhibit_media",
+   "teacher_pd",
+   "other"
+  ],
+  "mentoring": "component",
+  "bridging": "unclear",
+  "ai_cs": "none",
+  "targets": [
+   "native_indigenous"
+  ],
+  "setting": "mixed",
+  "youth_reach": null,
+  "evaluation": "pre_post",
+  "service_geography": "national",
+  "notes": "Polar giant screen film, Native youth filmmaking workshop and climate storytelling training for informal educators."
+ },
+ {
+  "id": "2116109",
+  "serves_youth": "direct",
+  "audience": [
+   "general_public",
+   "k12_students",
+   "families"
+  ],
+  "grade_band": "mixed_ages",
+  "models": [
+   "exhibit_media",
+   "online_tool_game"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "ai",
+  "targets": [
+   "general"
+  ],
+  "setting": "museum_science_center",
+  "youth_reach": null,
+  "evaluation": "rct",
+  "service_geography": "multi_state",
+  "notes": "Interactive virtual human museum exhibit teaching visitors how AI works, tested experimentally."
+ },
+ {
+  "id": "2116110",
+  "serves_youth": "none",
+  "audience": [
+   "general_public"
+  ],
+  "grade_band": "mixed_ages",
+  "models": [
+   "exhibit_media"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "urban",
+   "underrepresented_general"
+  ],
+  "setting": "community",
+  "youth_reach": null,
+  "evaluation": "design_qualitative",
+  "service_geography": "local",
+  "notes": "Facilitated social science exhibits in outdoor public spaces at three San Francisco sites."
+ },
+ {
+  "id": "2116116",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "families",
+   "teachers_educators"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "out_of_school_program",
+   "teacher_pd",
+   "network_coalition"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "native_indigenous"
+  ],
+  "setting": "community",
+  "youth_reach": 360,
+  "evaluation": "unspecified",
+  "service_geography": "state_regional",
+  "notes": "Land-based environmental activities for Native Hawaiian youth and families run by six community organizations."
+ },
+ {
+  "id": "2116118",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "undergraduates"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "out_of_school_program",
+   "mentoring",
+   "career_exposure"
+  ],
+  "mentoring": "central",
+  "bridging": "yes",
+  "ai_cs": "computing",
+  "targets": [
+   "black",
+   "girls_women"
+  ],
+  "setting": "unclear",
+  "youth_reach": 2000,
+  "evaluation": "pre_post",
+  "service_geography": "state_regional",
+  "notes": "Coding and robotics program for Black girls with layered peer, college and industry mentoring across California."
+ },
+ {
+  "id": "2116697",
+  "serves_youth": "none",
+  "audience": [
+   "researchers"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "mentoring",
+   "network_coalition",
+   "other"
+  ],
+  "mentoring": "central",
+  "bridging": "yes",
+  "ai_cs": "none",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "online",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "national",
+  "notes": "Year-long virtual workshops, panels and mentoring for early career minority scientists in marine and ecology fields."
+ },
+ {
+  "id": "2116959",
+  "serves_youth": "direct",
+  "audience": [
+   "general_public",
+   "undergraduates",
+   "researchers"
+  ],
+  "grade_band": "mixed_ages",
+  "models": [
+   "exhibit_media",
+   "other"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "museum_science_center",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "local",
+  "notes": "Museum visitors of all ages join language science studies at a Washington language museum; students trained."
+ },
+ {
+  "id": "2117322",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "undergraduates"
+  ],
+  "grade_band": "mixed_ages",
+  "models": [
+   "out_of_school_program",
+   "mentoring",
+   "research_apprenticeship",
+   "career_exposure"
+  ],
+  "mentoring": "component",
+  "bridging": "yes",
+  "ai_cs": "none",
+  "targets": [
+   "native_indigenous"
+  ],
+  "setting": "community",
+  "youth_reach": 32,
+  "evaluation": "design_qualitative",
+  "service_geography": "local",
+  "notes": "Tribal stewardship program where Nez Perce youth monitor climate impacts with resource offices and elders."
+ },
+ {
+  "id": "2118453",
+  "serves_youth": "indirect",
+  "audience": [
+   "teachers_educators",
+   "undergraduates",
+   "k12_students"
+  ],
+  "grade_band": "high",
+  "models": [
+   "network_coalition",
+   "teacher_pd",
+   "school_curriculum"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "school_day",
+  "youth_reach": 525000,
+  "evaluation": "unspecified",
+  "service_geography": "national",
+  "notes": "National alliance integrating social science into secondary and college computing education through collective impact."
+ },
+ {
+  "id": "2118725",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "online_tool_game"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "ai",
+  "targets": [
+   "general"
+  ],
+  "setting": "mixed",
+  "youth_reach": null,
+  "evaluation": "rct",
+  "service_geography": "national",
+  "notes": "AI diagnosis of common student math errors inside ASSISTments, with teacher-designed supports tested in randomized trial."
+ },
+ {
+  "id": "2118883",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "middle",
+  "models": [
+   "online_tool_game"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "ai",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "school_day",
+  "youth_reach": 2000,
+  "evaluation": "design_qualitative",
+  "service_geography": "unclear",
+  "notes": "Machine learning tool flagging student robot-programming moments so teachers can focus troubleshooting in middle school classrooms."
+ },
+ {
+  "id": "2118904",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "online_tool_game"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "ai",
+  "targets": [
+   "general"
+  ],
+  "setting": "mixed",
+  "youth_reach": null,
+  "evaluation": "rct",
+  "service_geography": "national",
+  "notes": "AI diagnosis of common student math errors inside ASSISTments, with teacher-designed supports tested in randomized trial."
+ },
+ {
+  "id": "2119174",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "elementary",
+  "models": [
+   "out_of_school_program",
+   "summer_program",
+   "teacher_pd",
+   "other"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "ai",
+  "targets": [
+   "general"
+  ],
+  "setting": "mixed",
+  "youth_reach": 1000,
+  "evaluation": "design_qualitative",
+  "service_geography": "local",
+  "notes": "Tangible AI hardware kit linked to reading stories for upper elementary students in St. Louis programs."
+ },
+ {
+  "id": "2119485",
+  "serves_youth": "direct",
+  "audience": [
+   "researchers",
+   "undergraduates",
+   "k12_students"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "other"
+  ],
+  "mentoring": "none",
+  "bridging": "unclear",
+  "ai_cs": "ai",
+  "targets": [
+   "general"
+  ],
+  "setting": "unclear",
+  "youth_reach": 100,
+  "evaluation": "none_stated",
+  "service_geography": "multi_state",
+  "notes": "Wireless infrastructure research with AI and microrobots in Vermont and Maine, including workforce outreach reaching K-12 students."
+ },
+ {
+  "id": "2119501",
+  "serves_youth": "indirect",
+  "audience": [
+   "teachers_educators"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "teacher_pd",
+   "online_tool_game"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "ai",
+  "targets": [
+   "general"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "unspecified",
+  "service_geography": "unclear",
+  "notes": "Analytics tool helping teachers reflect together on classroom practice with intelligent tutoring software."
+ },
+ {
+  "id": "2119902",
+  "serves_youth": "none",
+  "audience": [
+   "undergraduates",
+   "researchers",
+   "teachers_educators"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "network_coalition",
+   "research_only",
+   "teacher_pd"
+  ],
+  "mentoring": "component",
+  "bridging": "yes",
+  "ai_cs": "none",
+  "targets": [
+   "disability"
+  ],
+  "setting": "college_campus",
+  "youth_reach": null,
+  "evaluation": "unspecified",
+  "service_geography": "national",
+  "notes": "Alliance of colleges and partners raising STEM degree completion and workforce entry for students with disabilities."
+ },
+ {
+  "id": "2119930",
+  "serves_youth": "none",
+  "audience": [
+   "undergraduates",
+   "researchers"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "network_coalition",
+   "research_only"
+  ],
+  "mentoring": "none",
+  "bridging": "unclear",
+  "ai_cs": "none",
+  "targets": [
+   "underrepresented_general",
+   "girls_women"
+  ],
+  "setting": "college_campus",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "national",
+  "notes": "Alliance scaling practices that increase minority and women engineering degree completion across regions."
+ },
+ {
+  "id": "2120001",
+  "serves_youth": "none",
+  "audience": [
+   "undergraduates",
+   "teachers_educators"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "school_curriculum",
+   "mentoring",
+   "network_coalition"
+  ],
+  "mentoring": "component",
+  "bridging": "unclear",
+  "ai_cs": "none",
+  "targets": [
+   "native_indigenous",
+   "rural"
+  ],
+  "setting": "college_campus",
+  "youth_reach": null,
+  "evaluation": "unspecified",
+  "service_geography": "national",
+  "notes": "Alliance building Native food-energy-water curricula, mentoring guides and pathways with tribal colleges and partners."
+ }
+]

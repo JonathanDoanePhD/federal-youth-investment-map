@@ -1,0 +1,982 @@
+[
+ {
+  "id": "1513287",
+  "serves_youth": "indirect",
+  "audience": [
+   "teachers_educators",
+   "k12_students"
+  ],
+  "grade_band": "high",
+  "models": [
+   "teacher_pd",
+   "school_curriculum",
+   "career_exposure"
+  ],
+  "mentoring": "none",
+  "bridging": "yes",
+  "ai_cs": "none",
+  "targets": [
+   "underrepresented_general",
+   "urban",
+   "rural"
+  ],
+  "setting": "mixed",
+  "youth_reach": 27000,
+  "evaluation": "unspecified",
+  "service_geography": "unclear",
+  "notes": "Train-the-trainer workshops bring geospatial technology careers and project-based lessons to secondary students via teacher educators."
+ },
+ {
+  "id": "1513296",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "out_of_school_program",
+   "online_tool_game"
+  ],
+  "mentoring": "none",
+  "bridging": "unclear",
+  "ai_cs": "computing",
+  "targets": [
+   "low_income",
+   "underrepresented_general"
+  ],
+  "setting": "after_school",
+  "youth_reach": 300,
+  "evaluation": "design_qualitative",
+  "service_geography": "unclear",
+  "notes": "Youth analyze and map community data into interactive media with Local Ground; toolkits shared for educators."
+ },
+ {
+  "id": "1513320",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "summer_program",
+   "mentoring",
+   "career_exposure"
+  ],
+  "mentoring": "central",
+  "bridging": "yes",
+  "ai_cs": "none",
+  "targets": [
+   "low_income",
+   "underrepresented_general"
+  ],
+  "setting": "mixed",
+  "youth_reach": null,
+  "evaluation": "quasi_experimental",
+  "service_geography": "state_regional",
+  "notes": "Students make environmental change videos paired with graduate and undergraduate mentors; summer and school-year models compared with matched group."
+ },
+ {
+  "id": "1513328",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students"
+  ],
+  "grade_band": "high",
+  "models": [
+   "summer_program",
+   "out_of_school_program",
+   "research_apprenticeship",
+   "career_exposure",
+   "mentoring"
+  ],
+  "mentoring": "component",
+  "bridging": "yes",
+  "ai_cs": "none",
+  "targets": [
+   "girls_women",
+   "native_indigenous",
+   "low_income"
+  ],
+  "setting": "mixed",
+  "youth_reach": null,
+  "evaluation": "design_qualitative",
+  "service_geography": "state_regional",
+  "notes": "Alaskan high school girls do place-based ecosystem research with female scientist role models in summer academy and Saturday events."
+ },
+ {
+  "id": "1513332",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "middle",
+  "models": [
+   "school_curriculum",
+   "teacher_pd",
+   "exhibit_media"
+  ],
+  "mentoring": "component",
+  "bridging": "yes",
+  "ai_cs": "none",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "school_day",
+  "youth_reach": 2000,
+  "evaluation": "pre_post",
+  "service_geography": "unclear",
+  "notes": "Middle schoolers tell climate stories through video in science class, with trained teachers and university student mentors; film festival."
+ },
+ {
+  "id": "1513349",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students"
+  ],
+  "grade_band": "high",
+  "models": [
+   "summer_program",
+   "career_exposure"
+  ],
+  "mentoring": "none",
+  "bridging": "unclear",
+  "ai_cs": "none",
+  "targets": [
+   "native_indigenous",
+   "low_income",
+   "rural"
+  ],
+  "setting": "mixed",
+  "youth_reach": 90,
+  "evaluation": "pre_post",
+  "service_geography": "local",
+  "notes": "Nez Perce teens use drones and remote sensing on tribal ecosystems in a residential summer program plus virtual school-year sessions."
+ },
+ {
+  "id": "1514494",
+  "serves_youth": "none",
+  "audience": [
+   "general_public",
+   "researchers"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "exhibit_media",
+   "other"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "community",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "unclear",
+  "notes": "Scientists and graduate students trained to bring their research to community groups through outreach events; ambassador model studied."
+ },
+ {
+  "id": "1514593",
+  "serves_youth": "direct",
+  "audience": [
+   "out_of_school_youth",
+   "researchers"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "out_of_school_program",
+   "research_only"
+  ],
+  "mentoring": "none",
+  "bridging": "unclear",
+  "ai_cs": "none",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "after_school",
+  "youth_reach": 200,
+  "evaluation": "pre_post",
+  "service_geography": "unclear",
+  "notes": "Four-year longitudinal study following adolescents in a museum out-of-school science program, tracking career choices and science attitudes."
+ },
+ {
+  "id": "1514612",
+  "serves_youth": "none",
+  "audience": [
+   "general_public",
+   "researchers"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "exhibit_media"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "museum_science_center",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "unclear",
+  "notes": "Prototype microscope exhibit with virtual prompts helps museum visitors observe live specimens scientifically; iterative testing with think-aloud interviews."
+ },
+ {
+  "id": "1514726",
+  "serves_youth": "none",
+  "audience": [
+   "researchers",
+   "teachers_educators"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "network_coalition"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "unclear",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "unclear",
+  "notes": "Two-day conference gathers researchers and making practitioners to integrate mathematics into tinkering environments; yields activity sampler, guidebook, white paper."
+ },
+ {
+  "id": "1514766",
+  "serves_youth": "none",
+  "audience": [
+   "general_public",
+   "researchers"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "exhibit_media"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "unclear",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "multi_state",
+  "notes": "Scientists and national park interpreters collaborate to turn research in six parks into visitor learning; evaluation tracks translation and learning."
+ },
+ {
+  "id": "1514776",
+  "serves_youth": "none",
+  "audience": [
+   "general_public",
+   "researchers"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "exhibit_media"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "unclear",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "multi_state",
+  "notes": "Scientists and national park interpreters collaborate to turn research in six parks into visitor learning; evaluation tracks translation and learning."
+ },
+ {
+  "id": "1514815",
+  "serves_youth": "none",
+  "audience": [
+   "teachers_educators",
+   "researchers"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "other",
+   "network_coalition"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "museum_science_center",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "national",
+  "notes": "Builds and tests a competency framework for informal STEM learning professionals using workshops, stakeholder review and an online platform."
+ },
+ {
+  "id": "1514884",
+  "serves_youth": "none",
+  "audience": [
+   "teachers_educators",
+   "researchers"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "other",
+   "network_coalition"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "museum_science_center",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "national",
+  "notes": "Builds and tests a competency framework for informal STEM learning professionals using workshops, stakeholder review and an online platform."
+ },
+ {
+  "id": "1514890",
+  "serves_youth": "none",
+  "audience": [
+   "teachers_educators",
+   "researchers"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "other",
+   "network_coalition"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "museum_science_center",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "national",
+  "notes": "Builds and tests a competency framework for informal STEM learning professionals using workshops, stakeholder review and an online platform."
+ },
+ {
+  "id": "1515241",
+  "serves_youth": "indirect",
+  "audience": [
+   "teachers_educators",
+   "general_public"
+  ],
+  "grade_band": "mixed_ages",
+  "models": [
+   "teacher_pd"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "rural"
+  ],
+  "setting": "library",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "unclear",
+  "notes": "Online professional development turns 110 rural librarians into facilitators of informal STEM learning for local youth and adults."
+ },
+ {
+  "id": "1515315",
+  "serves_youth": "none",
+  "audience": [
+   "teachers_educators",
+   "researchers"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "other",
+   "network_coalition"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "museum_science_center",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "national",
+  "notes": "Builds and tests a competency framework for informal STEM learning professionals using workshops, stakeholder review and an online platform."
+ },
+ {
+  "id": "1515507",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "families"
+  ],
+  "grade_band": "middle",
+  "models": [
+   "exhibit_media",
+   "career_exposure"
+  ],
+  "mentoring": "component",
+  "bridging": "yes",
+  "ai_cs": "none",
+  "targets": [
+   "hispanic_latino",
+   "girls_women"
+  ],
+  "setting": "mixed",
+  "youth_reach": null,
+  "evaluation": "design_qualitative",
+  "service_geography": "national",
+  "notes": "Spanish-language television series, online profiles and community events pair Hispanic girls and families with Latina STEM role models."
+ },
+ {
+  "id": "1515520",
+  "serves_youth": "none",
+  "audience": [
+   "general_public"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "exhibit_media",
+   "online_tool_game"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "online",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "national",
+  "notes": "Adult-targeted PBS specials on behavioral science plus participatory online studies; randomized viewing and participation conditions test interest gains."
+ },
+ {
+  "id": "1515550",
+  "serves_youth": "none",
+  "audience": [
+   "researchers",
+   "teachers_educators"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "research_only",
+   "online_tool_game"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "general"
+  ],
+  "setting": "online",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "national",
+  "notes": "Mines social media data with crawlers and visual analytics to trace lasting effects of informal STEM learning; builds practitioner tool."
+ },
+ {
+  "id": "1515586",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students"
+  ],
+  "grade_band": "elementary",
+  "models": [
+   "out_of_school_program"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "low_income",
+   "underrepresented_general"
+  ],
+  "setting": "after_school",
+  "youth_reach": null,
+  "evaluation": "rct",
+  "service_geography": "state_regional",
+  "notes": "Randomized trial across 30 South Carolina after-school sites testing a math identity program for fourth and fifth graders."
+ },
+ {
+  "id": "1515628",
+  "serves_youth": "direct",
+  "audience": [
+   "families"
+  ],
+  "grade_band": "prek",
+  "models": [
+   "research_only",
+   "other"
+  ],
+  "mentoring": "none",
+  "bridging": "unclear",
+  "ai_cs": "none",
+  "targets": [
+   "low_income",
+   "underrepresented_general"
+  ],
+  "setting": "mixed",
+  "youth_reach": null,
+  "evaluation": "pre_post",
+  "service_geography": "local",
+  "notes": "Pilot with Head Start families of four-year-olds studies how parent-child engineering activities build early interest; mixed-method, short-term longitudinal."
+ },
+ {
+  "id": "1515767",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "middle",
+  "models": [
+   "out_of_school_program",
+   "career_exposure"
+  ],
+  "mentoring": "none",
+  "bridging": "yes",
+  "ai_cs": "computing",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "after_school",
+  "youth_reach": null,
+  "evaluation": "unspecified",
+  "service_geography": "local",
+  "notes": "Middle schoolers program choral music with Audacity and Scratch in after-school choir, guided by role models matching their backgrounds."
+ },
+ {
+  "id": "1515771",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "families"
+  ],
+  "grade_band": "elementary",
+  "models": [
+   "exhibit_media",
+   "research_only"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "museum_science_center",
+  "youth_reach": 350,
+  "evaluation": "design_qualitative",
+  "service_geography": "local",
+  "notes": "Parents and young children reflect together while tinkering at a children's museum lab; design-based study of effects on STEM engagement."
+ },
+ {
+  "id": "1515788",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "families"
+  ],
+  "grade_band": "elementary",
+  "models": [
+   "exhibit_media",
+   "research_only"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "museum_science_center",
+  "youth_reach": 350,
+  "evaluation": "design_qualitative",
+  "service_geography": "local",
+  "notes": "Parents and young children reflect together while tinkering at a children's museum lab; design-based study of effects on STEM engagement."
+ },
+ {
+  "id": "1515856",
+  "serves_youth": "direct",
+  "audience": [
+   "general_public",
+   "out_of_school_youth"
+  ],
+  "grade_band": "mixed_ages",
+  "models": [
+   "exhibit_media"
+  ],
+  "mentoring": "none",
+  "bridging": "yes",
+  "ai_cs": "none",
+  "targets": [
+   "rural",
+   "underrepresented_general"
+  ],
+  "setting": "mixed",
+  "youth_reach": null,
+  "evaluation": "unspecified",
+  "service_geography": "unclear",
+  "notes": "Pop-up ocean science exhibits in parks and libraries, then deeper talks with shipboard scientists, for rural communities, youth and Girl Scouts."
+ },
+ {
+  "id": "1516149",
+  "serves_youth": "direct",
+  "audience": [
+   "general_public",
+   "out_of_school_youth",
+   "researchers"
+  ],
+  "grade_band": "mixed_ages",
+  "models": [
+   "online_tool_game"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "rural",
+   "urban"
+  ],
+  "setting": "community",
+  "youth_reach": null,
+  "evaluation": "design_qualitative",
+  "service_geography": "unclear",
+  "notes": "Image-rich online training helps water quality volunteers, including urban youth, identify stream insects accurately; developed through design studies."
+ },
+ {
+  "id": "1516191",
+  "serves_youth": "direct",
+  "audience": [
+   "teachers_educators"
+  ],
+  "grade_band": "prek",
+  "models": [
+   "teacher_pd",
+   "school_curriculum",
+   "research_only"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "mixed",
+  "youth_reach": null,
+  "evaluation": "design_qualitative",
+  "service_geography": "local",
+  "notes": "Digital play-based training modules for preschool educators in nature playscapes; studies effects on children aged three to five."
+ },
+ {
+  "id": "1516255",
+  "serves_youth": "none",
+  "audience": [
+   "researchers",
+   "general_public"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "research_only"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "museum_science_center",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "national",
+  "notes": "Studies how museums and science centers change equity practices after hosting the RACE exhibition, including a national survey."
+ },
+ {
+  "id": "1516269",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "high",
+  "models": [
+   "research_apprenticeship",
+   "out_of_school_program",
+   "online_tool_game",
+   "mentoring"
+  ],
+  "mentoring": "component",
+  "bridging": "yes",
+  "ai_cs": "none",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "mixed",
+  "youth_reach": 2000,
+  "evaluation": "unspecified",
+  "service_geography": "national",
+  "notes": "High schoolers join afterschool clubs and online platform searching for pulsars with scientists and college mentors; followed into college."
+ },
+ {
+  "id": "1516347",
+  "serves_youth": "none",
+  "audience": [
+   "general_public",
+   "undergraduates"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "exhibit_media",
+   "other"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "online",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "national",
+  "notes": "Tests how repackaged PBS NewsHour science stories on social media engage adults aged 18 to 35; journalism students apprentice with reporters."
+ },
+ {
+  "id": "1516446",
+  "serves_youth": "direct",
+  "audience": [
+   "teachers_educators",
+   "families"
+  ],
+  "grade_band": "prek",
+  "models": [
+   "exhibit_media",
+   "teacher_pd",
+   "summer_program",
+   "online_tool_game"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "mixed",
+  "youth_reach": null,
+  "evaluation": "unspecified",
+  "service_geography": "national",
+  "notes": "Peg+Cat television, games and a summer camp plus educator training build preschoolers' social-emotional skills and early math mindset."
+ },
+ {
+  "id": "1516466",
+  "serves_youth": "direct",
+  "audience": [
+   "families",
+   "out_of_school_youth",
+   "teachers_educators"
+  ],
+  "grade_band": "mixed_ages",
+  "models": [
+   "out_of_school_program",
+   "online_tool_game"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "low_income",
+   "urban",
+   "english_learners"
+  ],
+  "setting": "community",
+  "youth_reach": null,
+  "evaluation": "design_qualitative",
+  "service_geography": "multi_state",
+  "notes": "Design-based research refines environmental science toolkit for outdoor prescription programs serving low-income English and Spanish-speaking urban families."
+ },
+ {
+  "id": "1516512",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "high",
+  "models": [
+   "research_apprenticeship",
+   "out_of_school_program",
+   "online_tool_game",
+   "mentoring"
+  ],
+  "mentoring": "component",
+  "bridging": "yes",
+  "ai_cs": "none",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "mixed",
+  "youth_reach": 2000,
+  "evaluation": "unspecified",
+  "service_geography": "national",
+  "notes": "High schoolers join afterschool clubs and online platform searching for pulsars with scientists and college mentors; followed into college."
+ },
+ {
+  "id": "1516541",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "families"
+  ],
+  "grade_band": "elementary",
+  "models": [
+   "exhibit_media",
+   "research_only"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "museum_science_center",
+  "youth_reach": 350,
+  "evaluation": "design_qualitative",
+  "service_geography": "local",
+  "notes": "Parents and young children reflect together while tinkering at a children's museum lab; design-based study of effects on STEM engagement."
+ },
+ {
+  "id": "1516562",
+  "serves_youth": "direct",
+  "audience": [
+   "families",
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "mixed_ages",
+  "models": [
+   "teacher_pd",
+   "out_of_school_program"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "library",
+  "youth_reach": null,
+  "evaluation": "design_qualitative",
+  "service_geography": "local",
+  "notes": "Librarians trained to run robotics and e-textile backpack workshops for families in libraries and community centers; design-based research."
+ },
+ {
+  "id": "1516684",
+  "serves_youth": "none",
+  "audience": [
+   "general_public",
+   "teachers_educators"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "exhibit_media",
+   "teacher_pd",
+   "online_tool_game"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "mixed",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "national",
+  "notes": "Frankenstein-themed online museum, activity kits and making activities engage public with emerging technology issues; practitioner workshops."
+ },
+ {
+  "id": "1516703",
+  "serves_youth": "none",
+  "audience": [
+   "general_public",
+   "researchers"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "online_tool_game",
+   "research_only"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "online",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "national",
+  "notes": "Adds registration, mapping and personal dashboard features to SciStarter citizen science site, producing participation data for researchers."
+ },
+ {
+  "id": "1516718",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "middle",
+  "models": [
+   "network_coalition",
+   "out_of_school_program",
+   "school_curriculum"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "urban",
+   "low_income",
+   "underrepresented_general"
+  ],
+  "setting": "mixed",
+  "youth_reach": null,
+  "evaluation": "pre_post",
+  "service_geography": "local",
+  "notes": "Researchers and community educators design coordinated in and out-of-school interventions to sustain STEM interest among early adolescents in one urban community."
+ },
+ {
+  "id": "1516742",
+  "serves_youth": "direct",
+  "audience": [
+   "general_public",
+   "out_of_school_youth"
+  ],
+  "grade_band": "mixed_ages",
+  "models": [
+   "out_of_school_program",
+   "other"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "native_indigenous"
+  ],
+  "setting": "community",
+  "youth_reach": null,
+  "evaluation": "pre_post",
+  "service_geography": "local",
+  "notes": "Builds tribal environmental health education framework around First Foods knowledge, prototyped with community members and young people; mixed-method evaluation."
+ }
+]

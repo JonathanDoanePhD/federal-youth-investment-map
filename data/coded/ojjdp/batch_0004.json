@@ -1,0 +1,506 @@
+[
+ {
+  "id": "ASST_NON_2008JUFXK010_015",
+  "org_scope": "national_multisite",
+  "targets": [
+   "other"
+  ],
+  "format": "unclear",
+  "purpose": "youth_development",
+  "notes": "Boys & Girls Clubs of America mentoring expansion in underserved communities, large national award."
+ },
+ {
+  "id": "ASST_NON_2009JUFX0004_015",
+  "org_scope": "national_multisite",
+  "targets": [
+   "general"
+  ],
+  "format": "unclear",
+  "purpose": "youth_development",
+  "notes": "YouthBuild national mentoring initiative run by a national network."
+ },
+ {
+  "id": "ASST_NON_2009JUFX0012_015",
+  "org_scope": "national_multisite",
+  "targets": [
+   "general"
+  ],
+  "format": "unclear",
+  "purpose": "research_evaluation",
+  "notes": "Random-assignment evaluation of paid mentoring covering process, outcomes and cost-effectiveness."
+ },
+ {
+  "id": "ASST_NON_2009JUFX0027_015",
+  "org_scope": "local",
+  "targets": [
+   "opioid_substance_affected"
+  ],
+  "format": "unclear",
+  "purpose": "youth_development",
+  "notes": "Santa Barbara school-based mentoring enhancement by a local alcoholism and drug abuse council."
+ },
+ {
+  "id": "ASST_NON_2010DCBX0002_015",
+  "org_scope": "state_regional",
+  "targets": [
+   "general"
+  ],
+  "format": "unclear",
+  "purpose": "youth_development",
+  "notes": "Project MATCH mentoring about teaching and coaching for hope, Colorado courts."
+ },
+ {
+  "id": "ASST_NON_2010JUFX0004_015",
+  "org_scope": "national_multisite",
+  "targets": [
+   "general"
+  ],
+  "format": "unclear",
+  "purpose": "youth_development",
+  "notes": "Boys & Girls Clubs national youth mentoring programs, large national award."
+ },
+ {
+  "id": "ASST_NON_2010JUFX0011_015",
+  "org_scope": "national_multisite",
+  "targets": [
+   "general"
+  ],
+  "format": "unclear",
+  "purpose": "youth_development",
+  "notes": "Friends First STARS mentoring across multiple states."
+ },
+ {
+  "id": "ASST_NON_2011JUFX0006_015",
+  "org_scope": "national_multisite",
+  "targets": [
+   "general"
+  ],
+  "format": "unclear",
+  "purpose": "youth_development",
+  "notes": "Communities in Schools multi-state mentoring initiative."
+ },
+ {
+  "id": "ASST_NON_2011JUFX0007_015",
+  "org_scope": "local",
+  "targets": [
+   "general"
+  ],
+  "format": "unclear",
+  "purpose": "youth_development",
+  "notes": "Eisenhower Foundation mentoring enhancement program."
+ },
+ {
+  "id": "ASST_NON_2011MUFXK009_015",
+  "org_scope": "national_multisite",
+  "targets": [
+   "justice_involved"
+  ],
+  "format": "unclear",
+  "purpose": "training_technical_assistance",
+  "notes": "Training and technical assistance for state juvenile justice formula and block grants."
+ },
+ {
+  "id": "ASST_NON_2011MUMU0009_015",
+  "org_scope": "national_multisite",
+  "targets": [
+   "general"
+  ],
+  "format": "unclear",
+  "purpose": "youth_development",
+  "notes": "Boys & Girls Clubs national youth mentoring programs, large national award."
+ },
+ {
+  "id": "ASST_NON_2011MUMU0017_015",
+  "org_scope": "national_multisite",
+  "targets": [
+   "justice_involved"
+  ],
+  "format": "one_to_one",
+  "purpose": "delinquency_prevention",
+  "notes": "Big Brothers Big Sisters juvenile justice initiative, expansion and enhancement."
+ },
+ {
+  "id": "ASST_NON_2012JUFX0006_015",
+  "org_scope": "national_multisite",
+  "targets": [
+   "general"
+  ],
+  "format": "unclear",
+  "purpose": "youth_development",
+  "notes": "Boys & Girls Clubs national youth mentoring programs funding."
+ },
+ {
+  "id": "ASST_NON_2012JUFX0008_015",
+  "org_scope": "national_multisite",
+  "targets": [
+   "justice_involved"
+  ],
+  "format": "one_to_one",
+  "purpose": "delinquency_prevention",
+  "notes": "Big Brothers Big Sisters juvenile justice initiative, improving efficiency and expanding reach."
+ },
+ {
+  "id": "ASST_NON_2012JUFX0010_015",
+  "org_scope": "local",
+  "targets": [
+   "at_risk_general"
+  ],
+  "format": "one_to_one",
+  "purpose": "research_evaluation",
+  "notes": "Impact assessment of enhanced mentoring toward college for at-risk youth, Atlanta."
+ },
+ {
+  "id": "ASST_NON_2012JUFX0011_015",
+  "org_scope": "local",
+  "targets": [
+   "justice_involved",
+   "opioid_substance_affected"
+  ],
+  "format": "one_to_one",
+  "purpose": "delinquency_prevention",
+  "notes": "Evidence-based mentoring combined with substance abuse treatment for justice-involved youth and families."
+ },
+ {
+  "id": "ASST_NON_2012JUFX0017_015",
+  "org_scope": "national_multisite",
+  "targets": [
+   "general"
+  ],
+  "format": "unclear",
+  "purpose": "youth_development",
+  "notes": "National expansion of the YMCA Building Futures mentoring program."
+ },
+ {
+  "id": "ASST_NON_2012JUFX0022_015",
+  "org_scope": "state_regional",
+  "targets": [
+   "general"
+  ],
+  "format": "one_to_one",
+  "purpose": "youth_development",
+  "notes": "Enhancing 4-H mentoring of Central Utah with one-on-one mentoring and mentor support."
+ },
+ {
+  "id": "ASST_NON_2012JUFX0034_015",
+  "org_scope": "local",
+  "targets": [
+   "general"
+  ],
+  "format": "unclear",
+  "purpose": "youth_development",
+  "notes": "Northward Bound mentoring enhancement project, Big Brothers Big Sisters of El Paso."
+ },
+ {
+  "id": "ASST_NON_2012JUFX0037_015",
+  "org_scope": "local",
+  "targets": [
+   "general"
+  ],
+  "format": "unclear",
+  "purpose": "youth_development",
+  "notes": "New Beginnings mentoring initiative from a Louisiana enrichment center."
+ },
+ {
+  "id": "ASST_NON_2013JFFXK002_015",
+  "org_scope": "national_multisite",
+  "targets": [
+   "general"
+  ],
+  "format": "unclear",
+  "purpose": "training_technical_assistance",
+  "notes": "OJJDP FY 2013 Model Programs Guide, resource maintained by contractor."
+ },
+ {
+  "id": "ASST_NON_2013JUFX0001_015",
+  "org_scope": "local",
+  "targets": [
+   "foster_care"
+  ],
+  "format": "unclear",
+  "purpose": "research_evaluation",
+  "notes": "Extended randomized trial of mentoring for foster care youth, effects on delinquency."
+ },
+ {
+  "id": "ASST_NON_2013JUFX0002_015",
+  "org_scope": "local",
+  "targets": [
+   "general"
+  ],
+  "format": "unclear",
+  "purpose": "research_evaluation",
+  "notes": "Long-term study of mentor training and peer support effects on relationship quality."
+ },
+ {
+  "id": "ASST_NON_2013JUFX0003_015",
+  "org_scope": "local",
+  "targets": [
+   "general"
+  ],
+  "format": "one_to_one",
+  "purpose": "research_evaluation",
+  "notes": "Long-term follow-up of Big Brothers Big Sisters community-based mentoring effects."
+ },
+ {
+  "id": "ASST_NON_2013JUFX0005_015",
+  "org_scope": "local",
+  "targets": [
+   "at_risk_general"
+  ],
+  "format": "unclear",
+  "purpose": "research_evaluation",
+  "notes": "Investigating youth initiated mentoring as an approach for at-risk youth."
+ },
+ {
+  "id": "ASST_NON_2013JUFX0006_015",
+  "org_scope": "local",
+  "targets": [
+   "justice_involved",
+   "at_risk_general"
+  ],
+  "format": "group",
+  "purpose": "research_evaluation",
+  "notes": "Group mentoring for resilience, positive development and reduced juvenile justice involvement."
+ },
+ {
+  "id": "ASST_NON_2013JUFX0008_015",
+  "org_scope": "local",
+  "targets": [
+   "general"
+  ],
+  "format": "unclear",
+  "purpose": "research_evaluation",
+  "notes": "Longitudinal analyses of mentoring relationships and outcomes ten and forty years after."
+ },
+ {
+  "id": "ASST_NON_2013JUFX0009_015",
+  "org_scope": "local",
+  "targets": [
+   "girls",
+   "at_risk_general"
+  ],
+  "format": "unclear",
+  "purpose": "research_evaluation",
+  "notes": "Longitudinal evaluation of YWLP aimed at preventing girls delinquency."
+ },
+ {
+  "id": "ASST_NON_2013JUFX0010_015",
+  "org_scope": "local",
+  "targets": [
+   "general"
+  ],
+  "format": "unclear",
+  "purpose": "research_evaluation",
+  "notes": "Assessing parental characteristics, attitudes and engagement effects on mentoring relationship outcomes."
+ },
+ {
+  "id": "ASST_NON_2013JUFX0021_015",
+  "org_scope": "national_multisite",
+  "targets": [
+   "general"
+  ],
+  "format": "unclear",
+  "purpose": "youth_development",
+  "notes": "YouthBuild USA national mentoring initiative run by a national network."
+ },
+ {
+  "id": "ASST_NON_2013JUFX0024_015",
+  "org_scope": "national_multisite",
+  "targets": [
+   "general"
+  ],
+  "format": "unclear",
+  "purpose": "youth_development",
+  "notes": "2013 National PAL mentoring initiative by police athletic leagues association."
+ },
+ {
+  "id": "ASST_NON_2013JUFX0025_015",
+  "org_scope": "national_multisite",
+  "targets": [
+   "at_risk_general"
+  ],
+  "format": "mixed",
+  "purpose": "youth_development",
+  "notes": "Combined one-on-one and group mentoring for youth in high risk situations."
+ },
+ {
+  "id": "ASST_NON_2013JUFX0026_015",
+  "org_scope": "national_multisite",
+  "targets": [
+   "general"
+  ],
+  "format": "unclear",
+  "purpose": "youth_development",
+  "notes": "Communities in Schools FY13 multi-state mentoring initiative."
+ },
+ {
+  "id": "ASST_NON_2013JUFXK001_015",
+  "org_scope": "national_multisite",
+  "targets": [
+   "general"
+  ],
+  "format": "unclear",
+  "purpose": "training_technical_assistance",
+  "notes": "Development of a national mentoring resource center by national mentoring partnership."
+ },
+ {
+  "id": "ASST_NON_2014CIFXK007_015",
+  "org_scope": "state_regional",
+  "targets": [
+   "other"
+  ],
+  "format": "unclear",
+  "purpose": "training_technical_assistance",
+  "notes": "Northeast regional children's advocacy center training and technical assistance for multidisciplinary teams."
+ },
+ {
+  "id": "ASST_NON_2014JUFX0001_015",
+  "org_scope": "local",
+  "targets": [
+   "justice_involved"
+  ],
+  "format": "unclear",
+  "purpose": "research_evaluation",
+  "notes": "Long-term impact of mentoring on juvenile offender recidivism and prosocial outcomes."
+ },
+ {
+  "id": "ASST_NON_2014JUFX0002_015",
+  "org_scope": "local",
+  "targets": [
+   "at_risk_general"
+  ],
+  "format": "unclear",
+  "purpose": "research_evaluation",
+  "notes": "Long-term follow-up of Quantum Opportunities mentoring for high-risk youth."
+ },
+ {
+  "id": "ASST_NON_2014JUFX0003_015",
+  "org_scope": "local",
+  "targets": [
+   "at_risk_general"
+  ],
+  "format": "peer",
+  "purpose": "research_evaluation",
+  "notes": "Cross-age peer mentoring for resilience among low-income urban youth in Chicago."
+ },
+ {
+  "id": "ASST_NON_2014JUFX0004_015",
+  "org_scope": "local",
+  "targets": [
+   "children_of_incarcerated"
+  ],
+  "format": "unclear",
+  "purpose": "research_evaluation",
+  "notes": "Evaluating program enhancements for mentors working with children of prisoners."
+ },
+ {
+  "id": "ASST_NON_2014JUFX0006_015",
+  "org_scope": "local",
+  "targets": [
+   "other"
+  ],
+  "format": "unclear",
+  "purpose": "youth_development",
+  "notes": "Kristi House Project Gold and Bold for mentoring and healing."
+ },
+ {
+  "id": "ASST_NON_2014JUFX0008_015",
+  "org_scope": "local",
+  "targets": [
+   "children_of_incarcerated"
+  ],
+  "format": "unclear",
+  "purpose": "youth_development",
+  "notes": "Mentoring children of incarcerated parents partnership, Pennsylvania youth collaboratory."
+ },
+ {
+  "id": "ASST_NON_2014JUFX0011_015",
+  "org_scope": "national_multisite",
+  "targets": [
+   "general"
+  ],
+  "format": "peer",
+  "purpose": "youth_development",
+  "notes": "Friends First STARS peer mentoring network across multiple states."
+ },
+ {
+  "id": "ASST_NON_2014JUFX0012_015",
+  "org_scope": "local",
+  "targets": [
+   "at_risk_general"
+  ],
+  "format": "unclear",
+  "purpose": "academic",
+  "notes": "Strengthening mentoring for underserved middle grades youth, Citizen Schools."
+ },
+ {
+  "id": "ASST_NON_2014JUFX0014_015",
+  "org_scope": "national_multisite",
+  "targets": [
+   "general"
+  ],
+  "format": "unclear",
+  "purpose": "delinquency_prevention",
+  "notes": "Violence Free Zone multi-state mentoring initiative."
+ },
+ {
+  "id": "ASST_NON_2014JUFX0016_015",
+  "org_scope": "national_multisite",
+  "targets": [
+   "boys_young_men_of_color",
+   "at_risk_general"
+  ],
+  "format": "unclear",
+  "purpose": "youth_development",
+  "notes": "Project SOARA two year demonstration presented by 100 Black Men of America."
+ },
+ {
+  "id": "ASST_NON_2014JUFX0017_015",
+  "org_scope": "national_multisite",
+  "targets": [
+   "general"
+  ],
+  "format": "unclear",
+  "purpose": "youth_development",
+  "notes": "Compassion Kids multi-state mentoring initiative by Nazarene ministries."
+ },
+ {
+  "id": "ASST_NON_2014JUFX0018_015",
+  "org_scope": "national_multisite",
+  "targets": [
+   "general"
+  ],
+  "format": "unclear",
+  "purpose": "youth_development",
+  "notes": "Boys & Girls Clubs national mentoring programs, large national award."
+ },
+ {
+  "id": "ASST_NON_2014JUFX0020_015",
+  "org_scope": "national_multisite",
+  "targets": [
+   "at_risk_general"
+  ],
+  "format": "group",
+  "purpose": "delinquency_prevention",
+  "notes": "Soccer for Success evidence and sports based group mentoring for at-risk youth."
+ },
+ {
+  "id": "ASST_NON_2014JUFX0022_015",
+  "org_scope": "national_multisite",
+  "targets": [
+   "general"
+  ],
+  "format": "unclear",
+  "purpose": "career_workforce",
+  "notes": "YouthBuild bridge mentoring project run by national network."
+ },
+ {
+  "id": "ASST_NON_2014JUFX0023_015",
+  "org_scope": "national_multisite",
+  "targets": [
+   "justice_involved"
+  ],
+  "format": "unclear",
+  "purpose": "delinquency_prevention",
+  "notes": "Reach and Rise juvenile mentoring program from national YMCA council."
+ }
+]

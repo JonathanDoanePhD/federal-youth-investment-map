@@ -1,0 +1,1011 @@
+[
+ {
+  "id": "2101493",
+  "serves_youth": "indirect",
+  "audience": [
+   "teachers_educators",
+   "researchers"
+  ],
+  "grade_band": "middle",
+  "models": [
+   "online_tool_game",
+   "other"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "national",
+  "notes": "Crowdsourced platform where teachers write and refine physical science test items using psychometric feedback, producing a free item bank."
+ },
+ {
+  "id": "2101508",
+  "serves_youth": "indirect",
+  "audience": [
+   "teachers_educators"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "teacher_pd",
+   "research_only"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "pre_post",
+  "service_geography": "unclear",
+  "notes": "Personalized algebra teacher PD built on high-uptake practices, studied in about sixty classrooms via observations and student pre/posttests."
+ },
+ {
+  "id": "2101526",
+  "serves_youth": "indirect",
+  "audience": [
+   "teachers_educators",
+   "k12_students"
+  ],
+  "grade_band": "elementary",
+  "models": [
+   "teacher_pd",
+   "school_curriculum"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "school_day",
+  "youth_reach": 1200,
+  "evaluation": "design_qualitative",
+  "service_geography": "multi_state",
+  "notes": "Summer and yearly support for sixty elementary teachers integrating culturally relevant computational thinking into science, across Maryland, Arizona and Washington DC."
+ },
+ {
+  "id": "2101532",
+  "serves_youth": "indirect",
+  "audience": [
+   "teachers_educators"
+  ],
+  "grade_band": "elementary",
+  "models": [
+   "teacher_pd",
+   "school_curriculum",
+   "network_coalition"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "design_qualitative",
+  "service_geography": "unclear",
+  "notes": "Elementary teachers attend a conference then meet monthly to build culturally relevant math and science units; research tracks their growth."
+ },
+ {
+  "id": "2101547",
+  "serves_youth": "indirect",
+  "audience": [
+   "teachers_educators",
+   "researchers"
+  ],
+  "grade_band": "elementary",
+  "models": [
+   "teacher_pd",
+   "online_tool_game",
+   "research_only"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "general"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "design_qualitative",
+  "service_geography": "unclear",
+  "notes": "Scalable coached professional learning helping K-2 teachers recognize young children's emerging computational thinking, with an online sharing platform."
+ },
+ {
+  "id": "2101552",
+  "serves_youth": "indirect",
+  "audience": [
+   "teachers_educators"
+  ],
+  "grade_band": "middle",
+  "models": [
+   "teacher_pd",
+   "school_curriculum",
+   "network_coalition"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "school_day",
+  "youth_reach": 3600,
+  "evaluation": "quasi_experimental",
+  "service_geography": "unclear",
+  "notes": "Problem-posing lessons and cases for math teachers; networked improvement community; multi-year comparison study across six middle schools."
+ },
+ {
+  "id": "2101554",
+  "serves_youth": "indirect",
+  "audience": [
+   "teachers_educators",
+   "researchers"
+  ],
+  "grade_band": "middle",
+  "models": [
+   "other",
+   "teacher_pd",
+   "research_only"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "unclear",
+  "notes": "Developing and validating a classroom observation tool for middle school science and engineering quality, with video scoring and teacher certification."
+ },
+ {
+  "id": "2101590",
+  "serves_youth": "indirect",
+  "audience": [
+   "teachers_educators"
+  ],
+  "grade_band": "high",
+  "models": [
+   "teacher_pd",
+   "school_curriculum",
+   "mentoring"
+  ],
+  "mentoring": "component",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "rural"
+  ],
+  "setting": "school_day",
+  "youth_reach": 25000,
+  "evaluation": "design_qualitative",
+  "service_geography": "unclear",
+  "notes": "Summer training plus virtual mentoring for rural biology and chemistry teachers adopting modeling instruction, reaching many rural students."
+ },
+ {
+  "id": "2101615",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "high",
+  "models": [
+   "school_curriculum",
+   "online_tool_game",
+   "teacher_pd",
+   "mentoring"
+  ],
+  "mentoring": "component",
+  "bridging": "yes",
+  "ai_cs": "computing",
+  "targets": [
+   "general"
+  ],
+  "setting": "school_day",
+  "youth_reach": 500,
+  "evaluation": "pre_post",
+  "service_geography": "unclear",
+  "notes": "Month-long neural engineering biology unit where students build brain-computer interfaces, helped by graduate student and postdoc STEM mentors."
+ },
+ {
+  "id": "2101665",
+  "serves_youth": "indirect",
+  "audience": [
+   "teachers_educators"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "teacher_pd",
+   "research_only"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "design_qualitative",
+  "service_geography": "unclear",
+  "notes": "Two-year community-centered professional development for teacher leaders to reduce bias in mathematics teaching, studied through design-based research and cases."
+ },
+ {
+  "id": "2101666",
+  "serves_youth": "indirect",
+  "audience": [
+   "teachers_educators"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "teacher_pd",
+   "research_only"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "design_qualitative",
+  "service_geography": "unclear",
+  "notes": "Two-year community-centered professional development for teacher leaders to reduce bias in mathematics teaching, studied through design-based research and cases."
+ },
+ {
+  "id": "2101667",
+  "serves_youth": "indirect",
+  "audience": [
+   "teachers_educators"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "teacher_pd",
+   "research_only"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "design_qualitative",
+  "service_geography": "unclear",
+  "notes": "Two-year community-centered professional development for teacher leaders to reduce bias in mathematics teaching, studied through design-based research and cases."
+ },
+ {
+  "id": "2101668",
+  "serves_youth": "indirect",
+  "audience": [
+   "teachers_educators"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "teacher_pd",
+   "research_only"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "design_qualitative",
+  "service_geography": "unclear",
+  "notes": "Two-year community-centered professional development for teacher leaders to reduce bias in mathematics teaching, studied through design-based research and cases."
+ },
+ {
+  "id": "2101669",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators",
+   "researchers"
+  ],
+  "grade_band": "middle",
+  "models": [
+   "online_tool_game",
+   "research_only"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "ai",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "rct",
+  "service_geography": "unclear",
+  "notes": "Language-processing AI detects middle schoolers' science ideas and gives adaptive guidance; students randomly assigned to guidance conditions."
+ },
+ {
+  "id": "2101670",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators",
+   "researchers"
+  ],
+  "grade_band": "middle",
+  "models": [
+   "online_tool_game",
+   "research_only"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "ai",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "rct",
+  "service_geography": "unclear",
+  "notes": "Language-processing AI detects middle schoolers' science ideas and gives adaptive guidance; students randomly assigned to guidance conditions."
+ },
+ {
+  "id": "2105218",
+  "serves_youth": "none",
+  "audience": [
+   "undergraduates",
+   "researchers"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "research_only",
+   "other"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "college_campus",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "unclear",
+  "notes": "Physics research on spin-orbit torques in single magnetic layers; trains graduate and undergraduate students, plus online talks by underrepresented researchers."
+ },
+ {
+  "id": "2105695",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "school_curriculum",
+   "online_tool_game",
+   "teacher_pd"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "school_day",
+  "youth_reach": 2000,
+  "evaluation": "design_qualitative",
+  "service_geography": "multi_state",
+  "notes": "CAD software with simulation-driven automatic feedback guiding secondary engineering design modules; tested with over two thousand students in three states."
+ },
+ {
+  "id": "2106101",
+  "serves_youth": "indirect",
+  "audience": [
+   "teachers_educators",
+   "researchers"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "teacher_pd",
+   "research_only"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "underrepresented_general",
+   "english_learners"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "design_qualitative",
+  "service_geography": "unclear",
+  "notes": "Multi-case study of what math teachers keep using years after four earlier NSF-funded professional development programs."
+ },
+ {
+  "id": "2106231",
+  "serves_youth": "none",
+  "audience": [
+   "general_public",
+   "researchers"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "other",
+   "research_only"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "community",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "unclear",
+  "notes": "Pilot studying scientist-educator-artist collaborations designing participatory environmental adaptation learning for adults in vulnerable communities."
+ },
+ {
+  "id": "2109443",
+  "serves_youth": "none",
+  "audience": [
+   "researchers",
+   "general_public"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "research_only"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "black",
+   "hispanic_latino",
+   "native_indigenous",
+   "girls_women"
+  ],
+  "setting": "unclear",
+  "youth_reach": null,
+  "evaluation": "design_qualitative",
+  "service_geography": "national",
+  "notes": "Surveys and interviews of former participants of NSF Young Scholars Program to document long-term effects on STEM careers."
+ },
+ {
+  "id": "2112635",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators",
+   "researchers"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "online_tool_game",
+   "research_only",
+   "network_coalition"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "ai",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "mixed",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "national",
+  "notes": "NSF AI institute building story-based AI learning environments with conversational agents for classrooms, afterschool programs and museums."
+ },
+ {
+  "id": "2114738",
+  "serves_youth": "direct",
+  "audience": [
+   "out_of_school_youth",
+   "families",
+   "teachers_educators"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "other",
+   "network_coalition",
+   "online_tool_game",
+   "research_only"
+  ],
+  "mentoring": "none",
+  "bridging": "unclear",
+  "ai_cs": "none",
+  "targets": [
+   "low_income",
+   "english_learners",
+   "underrepresented_general"
+  ],
+  "setting": "community",
+  "youth_reach": null,
+  "evaluation": "design_qualitative",
+  "service_geography": "multi_state",
+  "notes": "Co-designing learner-controlled out-of-school STEM transcripts with minoritized youth, families, providers and admissions staff to widen educational pathways."
+ },
+ {
+  "id": "2114840",
+  "serves_youth": "direct",
+  "audience": [
+   "out_of_school_youth",
+   "families",
+   "teachers_educators"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "other",
+   "network_coalition",
+   "online_tool_game",
+   "research_only"
+  ],
+  "mentoring": "none",
+  "bridging": "unclear",
+  "ai_cs": "none",
+  "targets": [
+   "low_income",
+   "english_learners",
+   "underrepresented_general"
+  ],
+  "setting": "community",
+  "youth_reach": null,
+  "evaluation": "design_qualitative",
+  "service_geography": "multi_state",
+  "notes": "Co-designing learner-controlled out-of-school STEM transcripts with minoritized youth, families, providers and admissions staff to widen educational pathways."
+ },
+ {
+  "id": "2115138",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators",
+   "families"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "out_of_school_program",
+   "career_exposure",
+   "exhibit_media",
+   "teacher_pd"
+  ],
+  "mentoring": "component",
+  "bridging": "yes",
+  "ai_cs": "none",
+  "targets": [
+   "black",
+   "girls_women"
+  ],
+  "setting": "after_school",
+  "youth_reach": null,
+  "evaluation": "pre_post",
+  "service_geography": "national",
+  "notes": "Black women STEM role models, trained educators and a PBS video series to raise Black girls' STEM interest and identity."
+ },
+ {
+  "id": "2115160",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "families",
+   "teachers_educators",
+   "researchers"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "out_of_school_program",
+   "other"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "community",
+  "youth_reach": null,
+  "evaluation": "design_qualitative",
+  "service_geography": "multi_state",
+  "notes": "Studying youth-of-color STEM making at home and in community, then designing programs in four makerspaces in Michigan and North Carolina."
+ },
+ {
+  "id": "2115169",
+  "serves_youth": "none",
+  "audience": [
+   "undergraduates",
+   "researchers",
+   "general_public"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "research_only",
+   "network_coalition"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "community",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "state_regional",
+  "notes": "Regional sustainability research network in the Intermountain West coupling Indigenous and western knowledge, training new scientists and leaders."
+ },
+ {
+  "id": "2115229",
+  "serves_youth": "indirect",
+  "audience": [
+   "teachers_educators"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "teacher_pd",
+   "network_coalition"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "rural",
+   "urban",
+   "low_income",
+   "underrepresented_general"
+  ],
+  "setting": "after_school",
+  "youth_reach": 31000,
+  "evaluation": "design_qualitative",
+  "service_geography": "multi_state",
+  "notes": "Scaling virtual coaching of afterschool educators in STEM facilitation across rural and urban sites, expected to benefit many under-represented youth."
+ },
+ {
+  "id": "2115326",
+  "serves_youth": "direct",
+  "audience": [
+   "out_of_school_youth",
+   "families",
+   "teachers_educators"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "other",
+   "network_coalition",
+   "online_tool_game",
+   "research_only"
+  ],
+  "mentoring": "none",
+  "bridging": "unclear",
+  "ai_cs": "none",
+  "targets": [
+   "low_income",
+   "english_learners",
+   "underrepresented_general"
+  ],
+  "setting": "community",
+  "youth_reach": null,
+  "evaluation": "design_qualitative",
+  "service_geography": "multi_state",
+  "notes": "Co-designing learner-controlled out-of-school STEM transcripts with minoritized youth, families, providers and admissions staff to widen educational pathways."
+ },
+ {
+  "id": "2115331",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "middle",
+  "models": [
+   "out_of_school_program",
+   "summer_program",
+   "career_exposure",
+   "mentoring",
+   "online_tool_game"
+  ],
+  "mentoring": "component",
+  "bridging": "yes",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "mixed",
+  "youth_reach": 120,
+  "evaluation": "pre_post",
+  "service_geography": "local",
+  "notes": "Las Vegas middle schoolers explore engineering via entertainment and hospitality industry visits, with undergraduate near-peer mentors and online materials."
+ },
+ {
+  "id": "2115382",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "families"
+  ],
+  "grade_band": "mixed_ages",
+  "models": [
+   "exhibit_media",
+   "online_tool_game"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "ai",
+  "targets": [
+   "hispanic_latino",
+   "low_income",
+   "english_learners"
+  ],
+  "setting": "mixed",
+  "youth_reach": 600,
+  "evaluation": "quasi_experimental",
+  "service_geography": "national",
+  "notes": "Interactive PBS KIDS videos where an AI character converses with children ages 3-7; compared against broadcast and co-viewing formats."
+ },
+ {
+  "id": "2115393",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "online_tool_game",
+   "other"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "community",
+  "youth_reach": 500,
+  "evaluation": "design_qualitative",
+  "service_geography": "local",
+  "notes": "Location-based mobile app with augmented reality for community math walks; learners in grades 4-8 view and create walk stops."
+ },
+ {
+  "id": "2115463",
+  "serves_youth": "indirect",
+  "audience": [
+   "families",
+   "researchers"
+  ],
+  "grade_band": "prek",
+  "models": [
+   "research_only",
+   "other"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "hispanic_latino",
+   "low_income"
+  ],
+  "setting": "home_family",
+  "youth_reach": null,
+  "evaluation": "design_qualitative",
+  "service_geography": "unclear",
+  "notes": "Latinx parents co-develop with researchers how family engineering activities can build preschoolers' executive function skills."
+ },
+ {
+  "id": "2115472",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "high",
+  "models": [
+   "out_of_school_program",
+   "mentoring",
+   "career_exposure"
+  ],
+  "mentoring": "component",
+  "bridging": "yes",
+  "ai_cs": "none",
+  "targets": [
+   "hispanic_latino"
+  ],
+  "setting": "after_school",
+  "youth_reach": 220,
+  "evaluation": "pre_post",
+  "service_geography": "unclear",
+  "notes": "Year-long out-of-school industrial engineering program for working Latinx teens, using workplace experience, with undergraduate mentors from a professional society."
+ },
+ {
+  "id": "2115488",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "families",
+   "teachers_educators"
+  ],
+  "grade_band": "elementary",
+  "models": [
+   "out_of_school_program",
+   "career_exposure",
+   "network_coalition"
+  ],
+  "mentoring": "none",
+  "bridging": "yes",
+  "ai_cs": "none",
+  "targets": [
+   "rural"
+  ],
+  "setting": "museum_science_center",
+  "youth_reach": 300,
+  "evaluation": "design_qualitative",
+  "service_geography": "multi_state",
+  "notes": "Culturally sustaining family STEM workshops with STEM professionals at four rural informal science sites in Texas, Oregon and New York."
+ },
+ {
+  "id": "2115522",
+  "serves_youth": "none",
+  "audience": [
+   "researchers",
+   "general_public"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "other",
+   "exhibit_media",
+   "research_only"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "unclear",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "national",
+  "notes": "Intercultural science communication training for sixty minority pre-tenure environmental faculty, plus a public podcast."
+ },
+ {
+  "id": "2115542",
+  "serves_youth": "indirect",
+  "audience": [
+   "researchers",
+   "teachers_educators"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "research_only"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "disability"
+  ],
+  "setting": "unclear",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "national",
+  "notes": "Systematic review and meta-analysis of inclusion practices for neurodiverse children in informal STEM learning settings."
+ },
+ {
+  "id": "2115579",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "families",
+   "teachers_educators"
+  ],
+  "grade_band": "elementary",
+  "models": [
+   "out_of_school_program",
+   "teacher_pd",
+   "career_exposure"
+  ],
+  "mentoring": "none",
+  "bridging": "unclear",
+  "ai_cs": "none",
+  "targets": [
+   "black",
+   "hispanic_latino",
+   "low_income",
+   "girls_women"
+  ],
+  "setting": "after_school",
+  "youth_reach": 1200,
+  "evaluation": "rct",
+  "service_geography": "unclear",
+  "notes": "Afterschool STEM program for K-5 adding storytelling about women in STEM; thirty-six sites randomized to control, basic or storytelling versions."
+ },
+ {
+  "id": "2115603",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators",
+   "researchers"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "exhibit_media",
+   "research_only"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "rural"
+  ],
+  "setting": "museum_science_center",
+  "youth_reach": 3000,
+  "evaluation": "design_qualitative",
+  "service_geography": "state_regional",
+  "notes": "Reflection and drawing supports for fifth and sixth graders on a Maine field trip to a marine science institute, followed into classrooms."
+ },
+ {
+  "id": "2115610",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators",
+   "researchers"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "exhibit_media",
+   "research_only"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "rural"
+  ],
+  "setting": "museum_science_center",
+  "youth_reach": 3000,
+  "evaluation": "design_qualitative",
+  "service_geography": "state_regional",
+  "notes": "Reflection and drawing supports for fifth and sixth graders on a Maine field trip to a marine science institute, followed into classrooms."
+ },
+ {
+  "id": "2115614",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students"
+  ],
+  "grade_band": "high",
+  "models": [
+   "out_of_school_program",
+   "summer_program",
+   "research_apprenticeship"
+  ],
+  "mentoring": "none",
+  "bridging": "unclear",
+  "ai_cs": "none",
+  "targets": [
+   "underrepresented_general",
+   "urban",
+   "low_income"
+  ],
+  "setting": "mixed",
+  "youth_reach": null,
+  "evaluation": "unspecified",
+  "service_geography": "multi_state",
+  "notes": "Teens of color in three urban communities do citizen science on lead and air pollution; study of science agency and activism."
+ }
+]

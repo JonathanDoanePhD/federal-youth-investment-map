@@ -1,0 +1,998 @@
+[
+ {
+  "id": "2342578",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "high",
+  "models": [
+   "research_apprenticeship",
+   "school_curriculum",
+   "teacher_pd",
+   "career_exposure"
+  ],
+  "mentoring": "component",
+  "bridging": "yes",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "mixed",
+  "youth_reach": null,
+  "evaluation": "unspecified",
+  "service_geography": "multi_state",
+  "notes": "Scaling biology-robotics transdisciplinary curriculum and university research internships for high schoolers across Ohio, Kentucky, Indiana."
+ },
+ {
+  "id": "2342624",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators",
+   "general_public"
+  ],
+  "grade_band": "elementary",
+  "models": [
+   "school_curriculum",
+   "teacher_pd"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "pre_post",
+  "service_geography": "multi_state",
+  "notes": "Teachers, students and community co-author equity-focused data literacy math lessons through inclusive lesson study in four states."
+ },
+ {
+  "id": "2342625",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators",
+   "general_public"
+  ],
+  "grade_band": "elementary",
+  "models": [
+   "school_curriculum",
+   "teacher_pd"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "pre_post",
+  "service_geography": "multi_state",
+  "notes": "Teachers, students and community co-author equity-focused data literacy math lessons through inclusive lesson study in four states."
+ },
+ {
+  "id": "2342626",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators",
+   "general_public"
+  ],
+  "grade_band": "elementary",
+  "models": [
+   "school_curriculum",
+   "teacher_pd"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "pre_post",
+  "service_geography": "multi_state",
+  "notes": "Teachers, students and community co-author equity-focused data literacy math lessons through inclusive lesson study in four states."
+ },
+ {
+  "id": "2342627",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators",
+   "general_public"
+  ],
+  "grade_band": "elementary",
+  "models": [
+   "school_curriculum",
+   "teacher_pd"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "pre_post",
+  "service_geography": "multi_state",
+  "notes": "Teachers, students and community co-author equity-focused data literacy math lessons through inclusive lesson study in four states."
+ },
+ {
+  "id": "2342632",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators",
+   "undergraduates"
+  ],
+  "grade_band": "middle",
+  "models": [
+   "school_curriculum",
+   "teacher_pd",
+   "online_tool_game"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "general"
+  ],
+  "setting": "school_day",
+  "youth_reach": 1000,
+  "evaluation": "pre_post",
+  "service_geography": "local",
+  "notes": "Collaborative coding with TunePad music platform in Evanston middle school computer science classrooms with teacher development."
+ },
+ {
+  "id": "2342700",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "high",
+  "models": [
+   "school_curriculum",
+   "teacher_pd"
+  ],
+  "mentoring": "none",
+  "bridging": "yes",
+  "ai_cs": "computing",
+  "targets": [
+   "native_indigenous"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "unspecified",
+  "service_geography": "state_regional",
+  "notes": "Native Hawaiian aquaculture meets sensors and data science curriculum for Oahu high schoolers, with teacher workshops statewide."
+ },
+ {
+  "id": "2342738",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "families",
+   "teachers_educators"
+  ],
+  "grade_band": "elementary",
+  "models": [
+   "out_of_school_program",
+   "teacher_pd",
+   "career_exposure"
+  ],
+  "mentoring": "none",
+  "bridging": "unclear",
+  "ai_cs": "computing",
+  "targets": [
+   "general"
+  ],
+  "setting": "after_school",
+  "youth_reach": 100,
+  "evaluation": "design_qualitative",
+  "service_geography": "state_regional",
+  "notes": "Afterschool physiological computing curriculum for Alabama upper elementary children, studying career aspirations and computer science understanding."
+ },
+ {
+  "id": "2342746",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students"
+  ],
+  "grade_band": "high",
+  "models": [
+   "online_tool_game",
+   "summer_program",
+   "career_exposure"
+  ],
+  "mentoring": "none",
+  "bridging": "yes",
+  "ai_cs": "ai",
+  "targets": [
+   "general"
+  ],
+  "setting": "mixed",
+  "youth_reach": 150,
+  "evaluation": "design_qualitative",
+  "service_geography": "multi_state",
+  "notes": "Semiconductor game modules with generative AI tutor plus summer workshops and company field trips for high schoolers."
+ },
+ {
+  "id": "2342747",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students"
+  ],
+  "grade_band": "high",
+  "models": [
+   "online_tool_game",
+   "summer_program",
+   "career_exposure"
+  ],
+  "mentoring": "none",
+  "bridging": "yes",
+  "ai_cs": "ai",
+  "targets": [
+   "general"
+  ],
+  "setting": "mixed",
+  "youth_reach": 150,
+  "evaluation": "design_qualitative",
+  "service_geography": "multi_state",
+  "notes": "Semiconductor game modules with generative AI tutor plus summer workshops and company field trips for high schoolers."
+ },
+ {
+  "id": "2342748",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students"
+  ],
+  "grade_band": "high",
+  "models": [
+   "online_tool_game",
+   "summer_program",
+   "career_exposure"
+  ],
+  "mentoring": "none",
+  "bridging": "yes",
+  "ai_cs": "ai",
+  "targets": [
+   "general"
+  ],
+  "setting": "mixed",
+  "youth_reach": 150,
+  "evaluation": "design_qualitative",
+  "service_geography": "multi_state",
+  "notes": "Semiconductor game modules with generative AI tutor plus summer workshops and company field trips for high schoolers."
+ },
+ {
+  "id": "2342763",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students"
+  ],
+  "grade_band": "middle",
+  "models": [
+   "out_of_school_program",
+   "mentoring",
+   "career_exposure"
+  ],
+  "mentoring": "component",
+  "bridging": "yes",
+  "ai_cs": "computing",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "mixed",
+  "youth_reach": 40,
+  "evaluation": "pre_post",
+  "service_geography": "local",
+  "notes": "Resettled refugee and immigrant middle schoolers co-design digital stories blending agriculture, environment and coding, with farm mentors."
+ },
+ {
+  "id": "2342766",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "high",
+  "models": [
+   "mentoring",
+   "summer_program",
+   "teacher_pd",
+   "career_exposure"
+  ],
+  "mentoring": "component",
+  "bridging": "yes",
+  "ai_cs": "computing",
+  "targets": [
+   "black",
+   "girls_women",
+   "low_income"
+  ],
+  "setting": "mixed",
+  "youth_reach": 500,
+  "evaluation": "pre_post",
+  "service_geography": "multi_state",
+  "notes": "Peer-learning community preparing Black young women for AP computer science, with Black women mentors and industry partners."
+ },
+ {
+  "id": "2342767",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "high",
+  "models": [
+   "mentoring",
+   "summer_program",
+   "teacher_pd",
+   "career_exposure"
+  ],
+  "mentoring": "component",
+  "bridging": "yes",
+  "ai_cs": "computing",
+  "targets": [
+   "black",
+   "girls_women",
+   "low_income"
+  ],
+  "setting": "mixed",
+  "youth_reach": 500,
+  "evaluation": "pre_post",
+  "service_geography": "multi_state",
+  "notes": "Peer-learning community preparing Black young women for AP computer science, with Black women mentors and industry partners."
+ },
+ {
+  "id": "2342768",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "high",
+  "models": [
+   "mentoring",
+   "summer_program",
+   "teacher_pd",
+   "career_exposure"
+  ],
+  "mentoring": "component",
+  "bridging": "yes",
+  "ai_cs": "computing",
+  "targets": [
+   "black",
+   "girls_women",
+   "low_income"
+  ],
+  "setting": "mixed",
+  "youth_reach": 500,
+  "evaluation": "pre_post",
+  "service_geography": "multi_state",
+  "notes": "Peer-learning community preparing Black young women for AP computer science, with Black women mentors and industry partners."
+ },
+ {
+  "id": "2342769",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "high",
+  "models": [
+   "mentoring",
+   "summer_program",
+   "teacher_pd",
+   "career_exposure"
+  ],
+  "mentoring": "component",
+  "bridging": "yes",
+  "ai_cs": "computing",
+  "targets": [
+   "black",
+   "girls_women",
+   "low_income"
+  ],
+  "setting": "mixed",
+  "youth_reach": 500,
+  "evaluation": "pre_post",
+  "service_geography": "multi_state",
+  "notes": "Peer-learning community preparing Black young women for AP computer science, with Black women mentors and industry partners."
+ },
+ {
+  "id": "2342770",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "high",
+  "models": [
+   "mentoring",
+   "summer_program",
+   "teacher_pd",
+   "career_exposure"
+  ],
+  "mentoring": "component",
+  "bridging": "yes",
+  "ai_cs": "computing",
+  "targets": [
+   "black",
+   "girls_women",
+   "low_income"
+  ],
+  "setting": "mixed",
+  "youth_reach": 500,
+  "evaluation": "pre_post",
+  "service_geography": "multi_state",
+  "notes": "Peer-learning community preparing Black young women for AP computer science, with Black women mentors and industry partners."
+ },
+ {
+  "id": "2342771",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "high",
+  "models": [
+   "mentoring",
+   "summer_program",
+   "teacher_pd",
+   "career_exposure"
+  ],
+  "mentoring": "component",
+  "bridging": "yes",
+  "ai_cs": "computing",
+  "targets": [
+   "black",
+   "girls_women",
+   "low_income"
+  ],
+  "setting": "mixed",
+  "youth_reach": 500,
+  "evaluation": "pre_post",
+  "service_geography": "multi_state",
+  "notes": "Peer-learning community preparing Black young women for AP computer science, with Black women mentors and industry partners."
+ },
+ {
+  "id": "2342772",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "high",
+  "models": [
+   "mentoring",
+   "summer_program",
+   "teacher_pd",
+   "career_exposure"
+  ],
+  "mentoring": "component",
+  "bridging": "yes",
+  "ai_cs": "computing",
+  "targets": [
+   "black",
+   "girls_women",
+   "low_income"
+  ],
+  "setting": "mixed",
+  "youth_reach": 500,
+  "evaluation": "pre_post",
+  "service_geography": "multi_state",
+  "notes": "Peer-learning community preparing Black young women for AP computer science, with Black women mentors and industry partners."
+ },
+ {
+  "id": "2343693",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators",
+   "families"
+  ],
+  "grade_band": "middle",
+  "models": [
+   "school_curriculum"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "ai",
+  "targets": [
+   "general"
+  ],
+  "setting": "mixed",
+  "youth_reach": null,
+  "evaluation": "design_qualitative",
+  "service_geography": "national",
+  "notes": "Design of unplugged hands-on activities teaching middle schoolers about AI, shared as open repository."
+ },
+ {
+  "id": "2344570",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "middle",
+  "models": [
+   "summer_program",
+   "teacher_pd"
+  ],
+  "mentoring": "none",
+  "bridging": "yes",
+  "ai_cs": "computing",
+  "targets": [
+   "black",
+   "hispanic_latino",
+   "girls_women"
+  ],
+  "setting": "college_campus",
+  "youth_reach": 160,
+  "evaluation": "pre_post",
+  "service_geography": "unclear",
+  "notes": "Week-long summer programs coding hip-hop beats with Sonic Pi for minoritized middle schoolers, plus trained instructors."
+ },
+ {
+  "id": "2345383",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "families",
+   "teachers_educators"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "research_only"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "community",
+  "youth_reach": null,
+  "evaluation": "design_qualitative",
+  "service_geography": "local",
+  "notes": "Maui wildfire recovery: community talk stories to shape trauma-informed STEM learning for affected youth."
+ },
+ {
+  "id": "2345874",
+  "serves_youth": "none",
+  "audience": [
+   "researchers"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "other"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "ai",
+  "targets": [
+   "general"
+  ],
+  "setting": "college_campus",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "unclear",
+  "notes": "Graduate traineeship in mathematical and materials foundations of AI at Texas A&M."
+ },
+ {
+  "id": "2346126",
+  "serves_youth": "indirect",
+  "audience": [
+   "teachers_educators",
+   "general_public"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "online_tool_game",
+   "network_coalition"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "general"
+  ],
+  "setting": "online",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "national",
+  "notes": "Building open-source community and governance to sustain CODAP, a free data exploration tool for classrooms."
+ },
+ {
+  "id": "2346657",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "school_curriculum",
+   "teacher_pd"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "unspecified",
+  "service_geography": "unclear",
+  "notes": "Instructional scaffolds helping middle and high schoolers judge source trustworthiness and claims on environmental issues."
+ },
+ {
+  "id": "2346660",
+  "serves_youth": "none",
+  "audience": [
+   "general_public",
+   "researchers"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "research_only"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "online",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "national",
+  "notes": "Nationally representative adult survey testing how people read data visualizations of scientific information."
+ },
+ {
+  "id": "2347076",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students"
+  ],
+  "grade_band": "high",
+  "models": [
+   "research_apprenticeship",
+   "summer_program",
+   "mentoring",
+   "career_exposure"
+  ],
+  "mentoring": "central",
+  "bridging": "yes",
+  "ai_cs": "none",
+  "targets": [
+   "black",
+   "hispanic_latino",
+   "native_indigenous",
+   "girls_women",
+   "urban"
+  ],
+  "setting": "college_campus",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "local",
+  "notes": "Paid summer physics lab internships for Syracuse city high schoolers with near-peer mentors, industry role models and supports."
+ },
+ {
+  "id": "2347090",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "research_apprenticeship",
+   "out_of_school_program",
+   "mentoring",
+   "career_exposure"
+  ],
+  "mentoring": "component",
+  "bridging": "yes",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "after_school",
+  "youth_reach": null,
+  "evaluation": "unspecified",
+  "service_geography": "unclear",
+  "notes": "Year-long biotechnology research and career programs for middle and high schoolers at a biotech institute, with stipends."
+ },
+ {
+  "id": "2347112",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students"
+  ],
+  "grade_band": "high",
+  "models": [
+   "out_of_school_program",
+   "mentoring",
+   "career_exposure"
+  ],
+  "mentoring": "central",
+  "bridging": "yes",
+  "ai_cs": "ai",
+  "targets": [
+   "black"
+  ],
+  "setting": "after_school",
+  "youth_reach": null,
+  "evaluation": "pre_post",
+  "service_geography": "unclear",
+  "notes": "After-school technology training for Black high schoolers using Black professional role models and community mentors."
+ },
+ {
+  "id": "2347132",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students"
+  ],
+  "grade_band": "high",
+  "models": [
+   "out_of_school_program",
+   "mentoring",
+   "career_exposure"
+  ],
+  "mentoring": "component",
+  "bridging": "yes",
+  "ai_cs": "none",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "after_school",
+  "youth_reach": 150,
+  "evaluation": "unspecified",
+  "service_geography": "local",
+  "notes": "Toledo after-school mechatronics clubs with industry engineer mentoring, PLC kits and pathways to community college certificates."
+ },
+ {
+  "id": "2347251",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "summer_program",
+   "school_curriculum"
+  ],
+  "mentoring": "none",
+  "bridging": "unclear",
+  "ai_cs": "ai",
+  "targets": [
+   "low_income",
+   "underrepresented_general"
+  ],
+  "setting": "summer",
+  "youth_reach": null,
+  "evaluation": "unspecified",
+  "service_geography": "local",
+  "notes": "Summer experiential program in AI, cybersecurity, drones and IoT for refugee and low-income Buffalo students."
+ },
+ {
+  "id": "2347276",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "undergraduates"
+  ],
+  "grade_band": "high",
+  "models": [
+   "summer_program",
+   "research_apprenticeship",
+   "mentoring",
+   "network_coalition"
+  ],
+  "mentoring": "component",
+  "bridging": "yes",
+  "ai_cs": "none",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "mixed",
+  "youth_reach": 90,
+  "evaluation": "unspecified",
+  "service_geography": "state_regional",
+  "notes": "Scholarship cohort moving graduating seniors into engineering technology credentials with guaranteed semiconductor and data center internships."
+ },
+ {
+  "id": "2347281",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "high",
+  "models": [
+   "research_apprenticeship",
+   "mentoring",
+   "teacher_pd",
+   "school_curriculum"
+  ],
+  "mentoring": "component",
+  "bridging": "yes",
+  "ai_cs": "ai",
+  "targets": [
+   "underrepresented_general",
+   "low_income"
+  ],
+  "setting": "mixed",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "unclear",
+  "notes": "Paid internships and AI curriculum for underrepresented high schoolers and teachers, paired with faculty and graduate student mentors."
+ },
+ {
+  "id": "2347374",
+  "serves_youth": "none",
+  "audience": [
+   "undergraduates"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "career_exposure",
+   "research_apprenticeship"
+  ],
+  "mentoring": "component",
+  "bridging": "yes",
+  "ai_cs": "computing",
+  "targets": [
+   "native_indigenous"
+  ],
+  "setting": "workplace",
+  "youth_reach": 300,
+  "evaluation": "unspecified",
+  "service_geography": "local",
+  "notes": "Community college STEM majors get talks, site visits and summer internships in emerging technologies, with Hawaiian cultural framing."
+ },
+ {
+  "id": "2347866",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators",
+   "undergraduates"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "career_exposure",
+   "mentoring",
+   "other"
+  ],
+  "mentoring": "component",
+  "bridging": "yes",
+  "ai_cs": "none",
+  "targets": [
+   "girls_women",
+   "low_income",
+   "first_generation",
+   "underrepresented_general"
+  ],
+  "setting": "college_campus",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "state_regional",
+  "notes": "University of California Davis semiconductor workshops and cleanroom exposure for Central Valley students with scientist and industry mentors."
+ },
+ {
+  "id": "2348080",
+  "serves_youth": "none",
+  "audience": [],
+  "grade_band": "not_applicable",
+  "models": [
+   "other"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "ai",
+  "targets": [
+   "disability"
+  ],
+  "setting": "workplace",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "unclear",
+  "notes": "Co-designing adaptive industrial robots to support autistic employees in manufacturing jobs."
+ },
+ {
+  "id": "2348081",
+  "serves_youth": "none",
+  "audience": [],
+  "grade_band": "not_applicable",
+  "models": [
+   "other"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "ai",
+  "targets": [
+   "disability"
+  ],
+  "setting": "workplace",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "unclear",
+  "notes": "Co-designing adaptive industrial robots to support autistic employees in manufacturing jobs."
+ },
+ {
+  "id": "2348082",
+  "serves_youth": "none",
+  "audience": [],
+  "grade_band": "not_applicable",
+  "models": [
+   "other"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "ai",
+  "targets": [
+   "disability"
+  ],
+  "setting": "workplace",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "unclear",
+  "notes": "Co-designing adaptive industrial robots to support autistic employees in manufacturing jobs."
+ },
+ {
+  "id": "2348210",
+  "serves_youth": "none",
+  "audience": [
+   "researchers"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "research_only"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "disability"
+  ],
+  "setting": "college_campus",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "multi_state",
+  "notes": "Research on barriers for physics graduate students and faculty with disabilities in training and workplaces."
+ },
+ {
+  "id": "2348211",
+  "serves_youth": "none",
+  "audience": [
+   "researchers"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "research_only"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "disability"
+  ],
+  "setting": "college_campus",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "multi_state",
+  "notes": "Research on barriers for physics graduate students and faculty with disabilities in training and workplaces."
+ }
+]

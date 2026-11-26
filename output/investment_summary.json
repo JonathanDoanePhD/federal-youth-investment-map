@@ -1,0 +1,98 @@
+{
+  "nsf": {
+    "awards": 2974,
+    "projects": 2395,
+    "dollars_obligated": 3386791918.0,
+    "tagged": 2974,
+    "terminated_awards": 222,
+    "terminated_share": 0.07464694014794888,
+    "mapped_to_county": 1.0
+  },
+  "nsf_tags": {
+    "direct_youth_share": 0.5100874243443174,
+    "mentoring_any_share": 0.1355077336919973,
+    "mentoring_central_share": 0.03160726294552791,
+    "bridging_share": 0.13147276395427035,
+    "ai_share": 0.07162071284465367,
+    "ai_share_2014_2019": 0.02664188351920694,
+    "ai_share_2022_2024": 0.1731266149870801,
+    "rigorous_eval_share_youth_serving": 0.14410662224073303
+  },
+  "ojjdp": {
+    "grants": 390,
+    "dollars": 1035339714.79,
+    "national_multisite_dollar_share": 0.79025571129178
+  },
+  "priority_counties": [
+    {
+      "stream": "NSF youth STEM (all awards)",
+      "total_dollars": 3353173985.0,
+      "priority_counties": 124,
+      "priority_counties_with_any": 2,
+      "share_children_in_priority": 0.0049,
+      "share_dollars_in_priority": 0.0009,
+      "dollars_per_child_priority": 8.7553,
+      "dollars_per_child_national": 45.7998
+    },
+    {
+      "stream": "NSF: youth served directly",
+      "total_dollars": 1652436963.0,
+      "priority_counties": 124,
+      "priority_counties_with_any": 1,
+      "share_children_in_priority": 0.0049,
+      "share_dollars_in_priority": 0.0015,
+      "dollars_per_child_priority": 6.9602,
+      "dollars_per_child_national": 22.57
+    },
+    {
+      "stream": "NSF: direct youth, local/state delivery",
+      "total_dollars": 561561065.0,
+      "priority_counties": 124,
+      "priority_counties_with_any": 1,
+      "share_children_in_priority": 0.0049,
+      "share_dollars_in_priority": 0.0045,
+      "dollars_per_child_priority": 6.9602,
+      "dollars_per_child_national": 7.6702
+    },
+    {
+      "stream": "NSF: mentoring or bridging",
+      "total_dollars": 723674150.0,
+      "priority_counties": 124,
+      "priority_counties_with_any": 1,
+      "share_children_in_priority": 0.0049,
+      "share_dollars_in_priority": 0.0035,
+      "dollars_per_child_priority": 6.9602,
+      "dollars_per_child_national": 9.8844
+    },
+    {
+      "stream": "OJJDP mentoring (all)",
+      "total_dollars": 803712943.94,
+      "priority_counties": 124,
+      "priority_counties_with_any": 0,
+      "share_children_in_priority": 0.0049,
+      "share_dollars_in_priority": 0.0,
+      "dollars_per_child_priority": 0.0,
+      "dollars_per_child_national": 10.9776
+    },
+    {
+      "stream": "College access: GEAR UP, Upward Bound, Talent Search",
+      "total_dollars": 8965161114.07,
+      "priority_counties": 124,
+      "priority_counties_with_any": 8,
+      "share_children_in_priority": 0.0049,
+      "share_dollars_in_priority": 0.0051,
+      "dollars_per_child_priority": 127.9975,
+      "dollars_per_child_national": 122.452
+    },
+    {
+      "stream": "OJJDP mentoring: local/state grantees",
+      "total_dollars": 141926581.02,
+      "priority_counties": 124,
+      "priority_counties_with_any": 0,
+      "share_children_in_priority": 0.0049,
+      "share_dollars_in_priority": 0.0,
+      "dollars_per_child_priority": 0.0,
+      "dollars_per_child_national": 1.9385
+    }
+  ]
+}

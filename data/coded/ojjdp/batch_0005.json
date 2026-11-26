@@ -1,0 +1,502 @@
+[
+ {
+  "id": "ASST_NON_2014JUFX0024_015",
+  "org_scope": "national_multisite",
+  "targets": [
+   "general"
+  ],
+  "format": "unclear",
+  "purpose": "youth_development",
+  "notes": "Amachi multi-state mentoring project; youth population not described."
+ },
+ {
+  "id": "ASST_NON_2014JUFX0025_015",
+  "org_scope": "national_multisite",
+  "targets": [
+   "general"
+  ],
+  "format": "unclear",
+  "purpose": "youth_development",
+  "notes": "National 4-H Council running a national mentoring program."
+ },
+ {
+  "id": "ASST_NON_2014JUFX0027_015",
+  "org_scope": "national_multisite",
+  "targets": [
+   "general"
+  ],
+  "format": "one_to_one",
+  "purpose": "youth_development",
+  "notes": "National Urban League one-to-one mentoring project under Project Ready."
+ },
+ {
+  "id": "ASST_NON_2014JUFX0028_015",
+  "org_scope": "national_multisite",
+  "targets": [
+   "tribal_native"
+  ],
+  "format": "mixed",
+  "purpose": "youth_development",
+  "notes": "Group and peer mentoring for American Indian youth across six states."
+ },
+ {
+  "id": "ASST_NON_2014JUFX0029_015",
+  "org_scope": "unclear",
+  "targets": [
+   "general"
+  ],
+  "format": "group",
+  "purpose": "youth_development",
+  "notes": "Ripken Foundation baseball-themed group mentoring program."
+ },
+ {
+  "id": "ASST_NON_2014JUFX0033_015",
+  "org_scope": "unclear",
+  "targets": [
+   "general"
+  ],
+  "format": "unclear",
+  "purpose": "youth_development",
+  "notes": "Southwest Key youth mentoring program in Texas; few details given."
+ },
+ {
+  "id": "ASST_NON_2014JUFX0034_015",
+  "org_scope": "unclear",
+  "targets": [
+   "general"
+  ],
+  "format": "unclear",
+  "purpose": "youth_development",
+  "notes": "Computer Clubhouse project to raise mentor participation and commitment."
+ },
+ {
+  "id": "ASST_NON_2014MCFX0010_015",
+  "org_scope": "local",
+  "targets": [
+   "general"
+  ],
+  "format": "unclear",
+  "purpose": "youth_development",
+  "notes": "Milwaukee County government mentoring program for local youth."
+ },
+ {
+  "id": "ASST_NON_2014MUFXK009_015",
+  "org_scope": "unclear",
+  "targets": [
+   "other"
+  ],
+  "format": "unclear",
+  "purpose": "training_technical_assistance",
+  "notes": "Training and technical assistance on mentoring child victims of sexual exploitation."
+ },
+ {
+  "id": "ASST_NON_2014MUMUK051_015",
+  "org_scope": "unclear",
+  "targets": [
+   "other"
+  ],
+  "format": "unclear",
+  "purpose": "unclear",
+  "notes": "University research foundation center on community trust and justice; no mentoring described."
+ },
+ {
+  "id": "ASST_NON_2015JUFX0004_015",
+  "org_scope": "local",
+  "targets": [
+   "general"
+  ],
+  "format": "unclear",
+  "purpose": "youth_development",
+  "notes": "Methodist urban ministry in California running an 'I Am' mentoring program."
+ },
+ {
+  "id": "ASST_NON_2015JUFX0005_015",
+  "org_scope": "unclear",
+  "targets": [
+   "foster_care"
+  ],
+  "format": "unclear",
+  "purpose": "youth_development",
+  "notes": "Paid professional mentors serving foster youth in Oregon."
+ },
+ {
+  "id": "ASST_NON_2015JUFX0006_015",
+  "org_scope": "unclear",
+  "targets": [
+   "general"
+  ],
+  "format": "unclear",
+  "purpose": "youth_development",
+  "notes": "Mentoring youth for leadership program run by Leadership Foundations."
+ },
+ {
+  "id": "ASST_NON_2015JUFX0007_015",
+  "org_scope": "local",
+  "targets": [
+   "at_risk_general"
+  ],
+  "format": "unclear",
+  "purpose": "youth_development",
+  "notes": "East Bay collaborative linking at-risk underserved youth with adult mentors."
+ },
+ {
+  "id": "ASST_NON_2015JUFX0008_015",
+  "org_scope": "national_multisite",
+  "targets": [
+   "foster_care"
+  ],
+  "format": "unclear",
+  "purpose": "youth_development",
+  "notes": "National CASA nationwide expansion of volunteer advocates and foster youth mentoring."
+ },
+ {
+  "id": "ASST_NON_2015JUFX0009_015",
+  "org_scope": "state_regional",
+  "targets": [
+   "general"
+  ],
+  "format": "unclear",
+  "purpose": "youth_development",
+  "notes": "Statewide Wyoming youth mentoring by Big Brothers Big Sisters."
+ },
+ {
+  "id": "ASST_NON_2015JUFX0010_015",
+  "org_scope": "national_multisite",
+  "targets": [
+   "general"
+  ],
+  "format": "unclear",
+  "purpose": "youth_development",
+  "notes": "Goodwill multi-state mentoring for youth in seventeen states."
+ },
+ {
+  "id": "ASST_NON_2015JUFX0012_015",
+  "org_scope": "national_multisite",
+  "targets": [
+   "general"
+  ],
+  "format": "unclear",
+  "purpose": "academic",
+  "notes": "Fraternity program supporting youth going to high school and college."
+ },
+ {
+  "id": "ASST_NON_2015JUFX0013_015",
+  "org_scope": "national_multisite",
+  "targets": [
+   "general"
+  ],
+  "format": "unclear",
+  "purpose": "youth_development",
+  "notes": "Catholic Charities USA multi-state mentoring program."
+ },
+ {
+  "id": "ASST_NON_2015JUFX0015_015",
+  "org_scope": "national_multisite",
+  "targets": [
+   "general"
+  ],
+  "format": "unclear",
+  "purpose": "youth_development",
+  "notes": "National 4-H Council national mentoring program, later-year award."
+ },
+ {
+  "id": "ASST_NON_2015JUFX0016_015",
+  "org_scope": "unclear",
+  "targets": [
+   "general"
+  ],
+  "format": "unclear",
+  "purpose": "academic",
+  "notes": "STEM-focused mentoring program run by Sea Research Foundation."
+ },
+ {
+  "id": "ASST_NON_2015JUFX0017_015",
+  "org_scope": "national_multisite",
+  "targets": [
+   "general"
+  ],
+  "format": "unclear",
+  "purpose": "youth_development",
+  "notes": "Boys and Girls Clubs of America national mentoring programs."
+ },
+ {
+  "id": "ASST_NON_2015JUFX0018_015",
+  "org_scope": "unclear",
+  "targets": [
+   "at_risk_general"
+  ],
+  "format": "peer",
+  "purpose": "academic",
+  "notes": "Peer group mentoring and high school transition for at-risk youth."
+ },
+ {
+  "id": "ASST_NON_2015JUFX0019_015",
+  "org_scope": "national_multisite",
+  "targets": [
+   "general"
+  ],
+  "format": "unclear",
+  "purpose": "youth_development",
+  "notes": "Amachi multi-state mentoring enhancement project, second category."
+ },
+ {
+  "id": "ASST_NON_2015JUFX0020_015",
+  "org_scope": "unclear",
+  "targets": [
+   "general"
+  ],
+  "format": "unclear",
+  "purpose": "youth_development",
+  "notes": "Real Time Mentoring Program by Nueva Esperanza; few details given."
+ },
+ {
+  "id": "ASST_NON_2015JUFX0021_015",
+  "org_scope": "national_multisite",
+  "targets": [
+   "general"
+  ],
+  "format": "unclear",
+  "purpose": "youth_development",
+  "notes": "Youth Collaboratory multi-state mentoring application."
+ },
+ {
+  "id": "ASST_NON_2015JUFX0022_015",
+  "org_scope": "state_regional",
+  "targets": [
+   "general"
+  ],
+  "format": "one_to_one",
+  "purpose": "youth_development",
+  "notes": "Four Georgia Big Brothers Big Sisters agencies collaborating on one-to-one mentoring."
+ },
+ {
+  "id": "ASST_NON_2015JUFX0023_015",
+  "org_scope": "national_multisite",
+  "targets": [
+   "general"
+  ],
+  "format": "unclear",
+  "purpose": "youth_development",
+  "notes": "National Urban League multi-state mentoring under Project Ready."
+ },
+ {
+  "id": "ASST_NON_2015JUFX0024_015",
+  "org_scope": "unclear",
+  "targets": [
+   "general"
+  ],
+  "format": "unclear",
+  "purpose": "youth_development",
+  "notes": "AZ RISE collaboration led by Pima Prevention Partnership; few details."
+ },
+ {
+  "id": "ASST_NON_2015JUFX0025_015",
+  "org_scope": "national_multisite",
+  "targets": [
+   "general"
+  ],
+  "format": "unclear",
+  "purpose": "youth_development",
+  "notes": "YMCA national office mentoring program called Reach and Rise."
+ },
+ {
+  "id": "ASST_NON_2015JUFX0026_015",
+  "org_scope": "unclear",
+  "targets": [
+   "opioid_substance_affected"
+  ],
+  "format": "unclear",
+  "purpose": "youth_development",
+  "notes": "Camp program for youth affected by a family member's substance abuse."
+ },
+ {
+  "id": "ASST_NON_2015JUFX0027_015",
+  "org_scope": "unclear",
+  "targets": [
+   "general"
+  ],
+  "format": "unclear",
+  "purpose": "youth_development",
+  "notes": "AARP Foundation Experience Corps mentors; older adult mentors implied."
+ },
+ {
+  "id": "ASST_NON_2015JUFX0028_015",
+  "org_scope": "national_multisite",
+  "targets": [
+   "general"
+  ],
+  "format": "unclear",
+  "purpose": "youth_development",
+  "notes": "ASPIRA multi-state mentoring program for youth success."
+ },
+ {
+  "id": "ASST_NON_2015JUFX0105_015",
+  "org_scope": "tribal",
+  "targets": [
+   "tribal_native"
+  ],
+  "format": "unclear",
+  "purpose": "delinquency_prevention",
+  "notes": "Tribal culturally-based prevention program built on Healing of the Canoe."
+ },
+ {
+  "id": "ASST_NON_2016JUFX0001_015",
+  "org_scope": "unclear",
+  "targets": [
+   "general"
+  ],
+  "format": "unclear",
+  "purpose": "research_evaluation",
+  "notes": "Research on cognitive behavioral enhancements to mentoring practices."
+ },
+ {
+  "id": "ASST_NON_2016JUFX0002_015",
+  "org_scope": "local",
+  "targets": [
+   "girls"
+  ],
+  "format": "unclear",
+  "purpose": "research_evaluation",
+  "notes": "Randomized evaluation of cognitive behavioral approach for young women in Chicago."
+ },
+ {
+  "id": "ASST_NON_2016JUFX0003_015",
+  "org_scope": "local",
+  "targets": [
+   "general"
+  ],
+  "format": "unclear",
+  "purpose": "research_evaluation",
+  "notes": "YMCA San Francisco study of research-informed cognitive behavioral program enhancements."
+ },
+ {
+  "id": "ASST_NON_2016JUFX0004_015",
+  "org_scope": "local",
+  "targets": [
+   "girls"
+  ],
+  "format": "unclear",
+  "purpose": "research_evaluation",
+  "notes": "Youth Guidance partner in Chicago randomized trial for underserved young women."
+ },
+ {
+  "id": "ASST_NON_2016JUFX0006_015",
+  "org_scope": "unclear",
+  "targets": [
+   "general"
+  ],
+  "format": "unclear",
+  "purpose": "academic",
+  "notes": "City Year mentoring project focused on student engagement."
+ },
+ {
+  "id": "ASST_NON_2016JUFX0007_015",
+  "org_scope": "unclear",
+  "targets": [
+   "general"
+  ],
+  "format": "unclear",
+  "purpose": "academic",
+  "notes": "STEM mentoring program by Sea Research Foundation, 2016 award."
+ },
+ {
+  "id": "ASST_NON_2016JUFX0008_015",
+  "org_scope": "unclear",
+  "targets": [
+   "at_risk_general"
+  ],
+  "format": "group",
+  "purpose": "youth_development",
+  "notes": "Sports-based group mentoring for at-risk and underserved youth through soccer."
+ },
+ {
+  "id": "ASST_NON_2016JUFX0009_015",
+  "org_scope": "unclear",
+  "targets": [
+   "general"
+  ],
+  "format": "unclear",
+  "purpose": "youth_development",
+  "notes": "Ready to Achieve Mentoring Program run by an educational leadership institute."
+ },
+ {
+  "id": "ASST_NON_2016JUFX0010_015",
+  "org_scope": "national_multisite",
+  "targets": [
+   "general"
+  ],
+  "format": "unclear",
+  "purpose": "youth_development",
+  "notes": "Big Brothers Big Sisters of America mentoring to build resilience and reduce risk."
+ },
+ {
+  "id": "ASST_NON_2016JUFX0011_015",
+  "org_scope": "unclear",
+  "targets": [
+   "general"
+  ],
+  "format": "unclear",
+  "purpose": "youth_development",
+  "notes": "YouthBuild Global mentoring award; details not given."
+ },
+ {
+  "id": "ASST_NON_2016JUFX0012_015",
+  "org_scope": "state_regional",
+  "targets": [
+   "general"
+  ],
+  "format": "unclear",
+  "purpose": "career_workforce",
+  "notes": "Connecticut workforce partnership mentoring with youth-initiated mentors and family involvement."
+ },
+ {
+  "id": "ASST_NON_2016JUFX0013_015",
+  "org_scope": "unclear",
+  "targets": [
+   "disability"
+  ],
+  "format": "unclear",
+  "purpose": "youth_development",
+  "notes": "Mentoring initiative serving youth with disabilities."
+ },
+ {
+  "id": "ASST_NON_2016JUFX0014_015",
+  "org_scope": "national_multisite",
+  "targets": [
+   "general"
+  ],
+  "format": "unclear",
+  "purpose": "youth_development",
+  "notes": "National Police Athletic League mentoring initiative."
+ },
+ {
+  "id": "ASST_NON_2016JUFX0015_015",
+  "org_scope": "national_multisite",
+  "targets": [
+   "general"
+  ],
+  "format": "unclear",
+  "purpose": "youth_development",
+  "notes": "UP2US multi-state project labeled SBYD."
+ },
+ {
+  "id": "ASST_NON_2016JUFX0016_015",
+  "org_scope": "national_multisite",
+  "targets": [
+   "girls"
+  ],
+  "format": "unclear",
+  "purpose": "youth_development",
+  "notes": "Girls Inc mentoring program called Bold Futures."
+ },
+ {
+  "id": "ASST_NON_2016JUFX0017_015",
+  "org_scope": "unclear",
+  "targets": [
+   "general"
+  ],
+  "format": "unclear",
+  "purpose": "youth_development",
+  "notes": "Youth Advocate Programs youth mentoring initiative."
+ }
+]

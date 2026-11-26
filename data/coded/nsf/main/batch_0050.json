@@ -1,0 +1,976 @@
+[
+ {
+  "id": "2048874",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "middle",
+  "models": [
+   "school_curriculum",
+   "online_tool_game"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "disability",
+   "underrepresented_general"
+  ],
+  "setting": "school_day",
+  "youth_reach": 350,
+  "evaluation": "pre_post",
+  "service_geography": "state_regional",
+  "notes": "Mixed-reality cybersecurity activities designed with Delaware middle school teachers and piloted in classrooms with pre/posttests."
+ },
+ {
+  "id": "2048883",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "families",
+   "teachers_educators"
+  ],
+  "grade_band": "prek",
+  "models": [
+   "school_curriculum",
+   "online_tool_game"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "mixed",
+  "youth_reach": 585,
+  "evaluation": "quasi_experimental",
+  "service_geography": "unclear",
+  "notes": "Preschool spatial orientation curriculum supplement with augmented reality tablet app, used in classrooms and at home."
+ },
+ {
+  "id": "2048884",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "high",
+  "models": [
+   "summer_program",
+   "mentoring",
+   "school_curriculum"
+  ],
+  "mentoring": "component",
+  "bridging": "yes",
+  "ai_cs": "computing",
+  "targets": [
+   "underrepresented_general",
+   "rural",
+   "urban"
+  ],
+  "setting": "mixed",
+  "youth_reach": 120,
+  "evaluation": "unspecified",
+  "service_geography": "state_regional",
+  "notes": "Four-week Tuskegee summer academy on secure mobile app development for Alabama Black Belt high schoolers, then in-school follow-up."
+ },
+ {
+  "id": "2048937",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students"
+  ],
+  "grade_band": "high",
+  "models": [
+   "career_exposure",
+   "other"
+  ],
+  "mentoring": "none",
+  "bridging": "unclear",
+  "ai_cs": "computing",
+  "targets": [
+   "disability"
+  ],
+  "setting": "mixed",
+  "youth_reach": 80,
+  "evaluation": "pre_post",
+  "service_geography": "local",
+  "notes": "Workforce development model introducing Durham high school students with autism to geospatial careers, face-to-face and online."
+ },
+ {
+  "id": "2048940",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators",
+   "families"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "school_curriculum",
+   "teacher_pd"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "native_indigenous"
+  ],
+  "setting": "mixed",
+  "youth_reach": 180,
+  "evaluation": "design_qualitative",
+  "service_geography": "state_regional",
+  "notes": "Tribal-school-university partnership co-designing Indigenous environmental science curriculum and teacher support in Wisconsin Native communities."
+ },
+ {
+  "id": "2048958",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "school_curriculum",
+   "online_tool_game"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "black",
+   "hispanic_latino"
+  ],
+  "setting": "school_day",
+  "youth_reach": 800,
+  "evaluation": "unspecified",
+  "service_geography": "local",
+  "notes": "Water security data science curriculum for Black and Latino students at Eagle Academies in New York City."
+ },
+ {
+  "id": "2048985",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "online_tool_game",
+   "career_exposure"
+  ],
+  "mentoring": "none",
+  "bridging": "unclear",
+  "ai_cs": "none",
+  "targets": [
+   "black",
+   "hispanic_latino",
+   "first_generation"
+  ],
+  "setting": "community",
+  "youth_reach": 176,
+  "evaluation": "unspecified",
+  "service_geography": "unclear",
+  "notes": "Simulated STEM career scenarios where adolescents practice math collaboration with virtual partners, tested in informal programs."
+ },
+ {
+  "id": "2048987",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators",
+   "families"
+  ],
+  "grade_band": "middle",
+  "models": [
+   "out_of_school_program",
+   "teacher_pd"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "native_indigenous"
+  ],
+  "setting": "after_school",
+  "youth_reach": 250,
+  "evaluation": "pre_post",
+  "service_geography": "state_regional",
+  "notes": "Culturally responsive after-school program using VR, AR and 3D printing for Native middle schoolers in three Oklahoma Nations."
+ },
+ {
+  "id": "2048989",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "elementary",
+  "models": [
+   "online_tool_game",
+   "teacher_pd"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "mixed",
+  "youth_reach": null,
+  "evaluation": "quasi_experimental",
+  "service_geography": "unclear",
+  "notes": "Mixed reality robot path-finding environment teaching computational thinking to K-2 children, with teacher workshops and control comparison."
+ },
+ {
+  "id": "2048993",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "online_tool_game",
+   "career_exposure"
+  ],
+  "mentoring": "none",
+  "bridging": "unclear",
+  "ai_cs": "none",
+  "targets": [
+   "black",
+   "hispanic_latino",
+   "first_generation"
+  ],
+  "setting": "community",
+  "youth_reach": 176,
+  "evaluation": "unspecified",
+  "service_geography": "unclear",
+  "notes": "Simulated STEM career scenarios where adolescents practice math collaboration with virtual partners, tested in informal programs."
+ },
+ {
+  "id": "2048994",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "families"
+  ],
+  "grade_band": "high",
+  "models": [
+   "out_of_school_program",
+   "mentoring",
+   "career_exposure"
+  ],
+  "mentoring": "component",
+  "bridging": "yes",
+  "ai_cs": "computing",
+  "targets": [
+   "general"
+  ],
+  "setting": "unclear",
+  "youth_reach": 500,
+  "evaluation": "pre_post",
+  "service_geography": "unclear",
+  "notes": "High schoolers program microcontrollers to automate hydroponic systems, mentored by first-generation college students; tracked over four time points."
+ },
+ {
+  "id": "2049012",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "middle",
+  "models": [
+   "online_tool_game",
+   "teacher_pd",
+   "mentoring",
+   "career_exposure"
+  ],
+  "mentoring": "component",
+  "bridging": "yes",
+  "ai_cs": "none",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "mixed",
+  "youth_reach": 15000,
+  "evaluation": "rct",
+  "service_geography": "national",
+  "notes": "Scaling an online robotic telescope astronomy platform for ages 11-14, with adult volunteer mentors and randomized educator training conditions."
+ },
+ {
+  "id": "2049022",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students"
+  ],
+  "grade_band": "high",
+  "models": [
+   "research_apprenticeship",
+   "summer_program",
+   "mentoring",
+   "career_exposure"
+  ],
+  "mentoring": "central",
+  "bridging": "yes",
+  "ai_cs": "ai",
+  "targets": [
+   "black",
+   "hispanic_latino",
+   "first_generation"
+  ],
+  "setting": "mixed",
+  "youth_reach": 120,
+  "evaluation": "pre_post",
+  "service_geography": "local",
+  "notes": "Museum research mentoring program adding machine learning: summer institute then lab placements with scientists for New York City teens."
+ },
+ {
+  "id": "2049023",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "high",
+  "models": [
+   "school_curriculum",
+   "out_of_school_program",
+   "teacher_pd",
+   "career_exposure"
+  ],
+  "mentoring": "none",
+  "bridging": "unclear",
+  "ai_cs": "computing",
+  "targets": [
+   "native_indigenous",
+   "girls_women"
+  ],
+  "setting": "mixed",
+  "youth_reach": 1824,
+  "evaluation": "quasi_experimental",
+  "service_geography": "unclear",
+  "notes": "Culturally relevant computer science courses and out-of-school activities for Native American high schoolers, emphasizing Native girls."
+ },
+ {
+  "id": "2049029",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "middle",
+  "models": [
+   "school_curriculum",
+   "teacher_pd",
+   "career_exposure"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "ai",
+  "targets": [
+   "urban",
+   "rural"
+  ],
+  "setting": "school_day",
+  "youth_reach": 1800,
+  "evaluation": "design_qualitative",
+  "service_geography": "state_regional",
+  "notes": "Nine-week middle school elective on living and working with AI, plus online teacher training, piloted across Georgia districts."
+ },
+ {
+  "id": "2049046",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "elementary",
+  "models": [
+   "online_tool_game",
+   "teacher_pd"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "mixed",
+  "youth_reach": null,
+  "evaluation": "quasi_experimental",
+  "service_geography": "unclear",
+  "notes": "Mixed reality robot path-finding environment teaching computational thinking to K-2 children, with teacher workshops and control comparison."
+ },
+ {
+  "id": "2049061",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "teacher_pd",
+   "research_apprenticeship",
+   "mentoring"
+  ],
+  "mentoring": "component",
+  "bridging": "yes",
+  "ai_cs": "computing",
+  "targets": [
+   "rural"
+  ],
+  "setting": "school_day",
+  "youth_reach": 2500,
+  "evaluation": "design_qualitative",
+  "service_geography": "state_regional",
+  "notes": "Teachers apprentice with ecological scientists to guide student data analysis projects using rainforest long-term data in Puerto Rico."
+ },
+ {
+  "id": "2049109",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students"
+  ],
+  "grade_band": "high",
+  "models": [
+   "research_apprenticeship",
+   "career_exposure"
+  ],
+  "mentoring": "none",
+  "bridging": "unclear",
+  "ai_cs": "none",
+  "targets": [
+   "girls_women",
+   "black",
+   "hispanic_latino"
+  ],
+  "setting": "mixed",
+  "youth_reach": 120,
+  "evaluation": "quasi_experimental",
+  "service_geography": "multi_state",
+  "notes": "Multi-month engineering internships building accessible books for blind children at five sites; multiple-case study of teens' engineering identity."
+ },
+ {
+  "id": "2049130",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "school_curriculum",
+   "network_coalition"
+  ],
+  "mentoring": "none",
+  "bridging": "unclear",
+  "ai_cs": "none",
+  "targets": [
+   "hispanic_latino",
+   "underrepresented_general"
+  ],
+  "setting": "school_day",
+  "youth_reach": 600,
+  "evaluation": "design_qualitative",
+  "service_geography": "local",
+  "notes": "Improvement community of teachers, students and partners co-creating climate justice and solar technology curriculum across a Latinx-serving school."
+ },
+ {
+  "id": "2049767",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "families",
+   "teachers_educators"
+  ],
+  "grade_band": "elementary",
+  "models": [
+   "exhibit_media",
+   "out_of_school_program"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "native_indigenous",
+   "rural"
+  ],
+  "setting": "community",
+  "youth_reach": 24,
+  "evaluation": "design_qualitative",
+  "service_geography": "state_regional",
+  "notes": "Intergenerational community science program on environmental identity for young Alaska Native children, built around a PBS animated series."
+ },
+ {
+  "id": "2049768",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "families",
+   "teachers_educators"
+  ],
+  "grade_band": "elementary",
+  "models": [
+   "exhibit_media",
+   "out_of_school_program"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "native_indigenous",
+   "rural"
+  ],
+  "setting": "community",
+  "youth_reach": 24,
+  "evaluation": "design_qualitative",
+  "service_geography": "state_regional",
+  "notes": "Intergenerational community science program on environmental identity for young Alaska Native children, built around a PBS animated series."
+ },
+ {
+  "id": "2052780",
+  "serves_youth": "none",
+  "audience": [
+   "researchers",
+   "undergraduates"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "other"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "college_campus",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "multi_state",
+  "notes": "University-industry cooperative research center on high-frequency electronics for wireless communications, training undergraduate and graduate students."
+ },
+ {
+  "id": "2053160",
+  "serves_youth": "indirect",
+  "audience": [
+   "teachers_educators",
+   "k12_students",
+   "general_public"
+  ],
+  "grade_band": "mixed_ages",
+  "models": [
+   "teacher_pd",
+   "exhibit_media",
+   "online_tool_game"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "museum_science_center",
+  "youth_reach": null,
+  "evaluation": "pre_post",
+  "service_geography": "national",
+  "notes": "Mobile apps, craft toolkit and online learning helping informal educators teach youth and visitors about radio wave communications."
+ },
+ {
+  "id": "2054079",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students"
+  ],
+  "grade_band": "high",
+  "models": [
+   "out_of_school_program",
+   "online_tool_game",
+   "research_apprenticeship"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "mixed",
+  "youth_reach": 200,
+  "evaluation": "unspecified",
+  "service_geography": "state_regional",
+  "notes": "Youth collect thermal images of buildings with smartphone infrared cameras for citizen science on energy efficiency, in Massachusetts programs."
+ },
+ {
+  "id": "2055436",
+  "serves_youth": "indirect",
+  "audience": [
+   "general_public",
+   "researchers"
+  ],
+  "grade_band": "mixed_ages",
+  "models": [
+   "online_tool_game"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "girls_women",
+   "underrepresented_general"
+  ],
+  "setting": "online",
+  "youth_reach": null,
+  "evaluation": "design_qualitative",
+  "service_geography": "national",
+  "notes": "Puzzle game teaching introductory programming concepts through pseudo code; studies how players learn from gameplay logs."
+ },
+ {
+  "id": "2055597",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "middle",
+  "models": [
+   "school_curriculum"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "general"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "quasi_experimental",
+  "service_geography": "local",
+  "notes": "Experiments comparing three computational modeling activities in a fifth and sixth grade urban water runoff engineering unit in Nashville."
+ },
+ {
+  "id": "2100328",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students"
+  ],
+  "grade_band": "elementary",
+  "models": [
+   "other"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "unclear",
+  "youth_reach": 210,
+  "evaluation": "rct",
+  "service_geography": "unclear",
+  "notes": "Randomized test of kindergarten math intervention combined with attention training for children struggling in mathematics."
+ },
+ {
+  "id": "2100419",
+  "serves_youth": "indirect",
+  "audience": [
+   "researchers"
+  ],
+  "grade_band": "elementary",
+  "models": [
+   "research_only"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "english_learners"
+  ],
+  "setting": "unclear",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "national",
+  "notes": "Secondary analysis of national longitudinal survey data on school and teacher factors tied to English learners' early science gains."
+ },
+ {
+  "id": "2100617",
+  "serves_youth": "indirect",
+  "audience": [
+   "teachers_educators"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "teacher_pd"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "pre_post",
+  "service_geography": "unclear",
+  "notes": "Studies how video-based math professional development changes grades 4-7 teachers' practice and student learning over three years."
+ },
+ {
+  "id": "2100784",
+  "serves_youth": "indirect",
+  "audience": [
+   "teachers_educators"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "teacher_pd",
+   "online_tool_game"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "urban"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "design_qualitative",
+  "service_geography": "local",
+  "notes": "Visualization tools and video coaching helping secondary math teachers improve how they monitor student groupwork in a large urban district."
+ },
+ {
+  "id": "2100793",
+  "serves_youth": "indirect",
+  "audience": [
+   "teachers_educators"
+  ],
+  "grade_band": "middle",
+  "models": [
+   "teacher_pd"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "rct",
+  "service_geography": "unclear",
+  "notes": "Delayed-treatment randomized study of rubric-based coaching for middle school math teachers focused on equitable instruction."
+ },
+ {
+  "id": "2100808",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "high",
+  "models": [
+   "school_curriculum",
+   "teacher_pd",
+   "online_tool_game"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "quasi_experimental",
+  "service_geography": "national",
+  "notes": "Digital carbon cycle climate unit designed for teachers to localize, with professional learning and cohort-control student agency study."
+ },
+ {
+  "id": "2100822",
+  "serves_youth": "indirect",
+  "audience": [
+   "teachers_educators",
+   "researchers"
+  ],
+  "grade_band": "high",
+  "models": [
+   "teacher_pd",
+   "other"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "design_qualitative",
+  "service_geography": "unclear",
+  "notes": "Teachers and students co-build rubrics for formative assessment of crosscutting concepts in high school biology."
+ },
+ {
+  "id": "2100823",
+  "serves_youth": "none",
+  "audience": [
+   "researchers",
+   "teachers_educators"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "network_coalition"
+  ],
+  "mentoring": "component",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "unclear",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "national",
+  "notes": "Community hub connecting and disseminating work of federally funded education research projects, with mentoring for early-career researchers."
+ },
+ {
+  "id": "2100830",
+  "serves_youth": "indirect",
+  "audience": [
+   "teachers_educators"
+  ],
+  "grade_band": "middle",
+  "models": [
+   "teacher_pd"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "rct",
+  "service_geography": "unclear",
+  "notes": "Delayed-treatment randomized study of rubric-based coaching for middle school math teachers focused on equitable instruction."
+ },
+ {
+  "id": "2100833",
+  "serves_youth": "indirect",
+  "audience": [
+   "teachers_educators",
+   "researchers"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "network_coalition",
+   "other"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "unclear",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "state_regional",
+  "notes": "Research-practice partnership building a shared statewide vision and resources for high-quality mathematics instruction."
+ },
+ {
+  "id": "2100864",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "high",
+  "models": [
+   "school_curriculum",
+   "teacher_pd"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "school_day",
+  "youth_reach": 16200,
+  "evaluation": "rct",
+  "service_geography": "multi_state",
+  "notes": "Humane genetics curriculum to reduce racial essentialist beliefs among biology students, tested in a cluster randomized trial across states."
+ },
+ {
+  "id": "2100876",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "high",
+  "models": [
+   "school_curriculum",
+   "teacher_pd"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "school_day",
+  "youth_reach": 16200,
+  "evaluation": "rct",
+  "service_geography": "multi_state",
+  "notes": "Humane genetics curriculum to reduce racial essentialist beliefs among biology students, tested in a cluster randomized trial across states."
+ },
+ {
+  "id": "2100879",
+  "serves_youth": "indirect",
+  "audience": [
+   "teachers_educators"
+  ],
+  "grade_band": "middle",
+  "models": [
+   "teacher_pd"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "school_day",
+  "youth_reach": 1080,
+  "evaluation": "design_qualitative",
+  "service_geography": "local",
+  "notes": "Longitudinal study of Phoenix sixth-grade science teachers learning to use student uncertainty productively in project-based learning."
+ },
+ {
+  "id": "2100895",
+  "serves_youth": "indirect",
+  "audience": [
+   "teachers_educators",
+   "researchers"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "network_coalition",
+   "other"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "unclear",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "state_regional",
+  "notes": "Research-practice partnership building a shared statewide vision and resources for high-quality mathematics instruction."
+ }
+]

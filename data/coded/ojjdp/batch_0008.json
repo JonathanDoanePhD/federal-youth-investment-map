@@ -1,0 +1,407 @@
+[
+ {
+  "id": "ASST_NON_2019JYFX0033_015",
+  "org_scope": "local",
+  "targets": [
+   "general"
+  ],
+  "format": "unclear",
+  "purpose": "youth_development",
+  "notes": "Pima Prevention Partnership mentoring program in Arizona; description gives no detail."
+ },
+ {
+  "id": "ASST_NON_2019MUFX0001_015",
+  "org_scope": "national_multisite",
+  "targets": [
+   "at_risk_general"
+  ],
+  "format": "unclear",
+  "purpose": "youth_development",
+  "notes": "Big Brothers Big Sisters of America mentoring to reduce risk and build pro-social skills."
+ },
+ {
+  "id": "ASST_NON_2019MUFX0002_015",
+  "org_scope": "national_multisite",
+  "targets": [
+   "general"
+  ],
+  "format": "unclear",
+  "purpose": "youth_development",
+  "notes": "National 4-H Council mentoring program; no further description."
+ },
+ {
+  "id": "ASST_NON_2019MUFX0003_015",
+  "org_scope": "national_multisite",
+  "targets": [
+   "general"
+  ],
+  "format": "unclear",
+  "purpose": "youth_development",
+  "notes": "Boys & Girls Clubs of America mentoring at clubs; no further description."
+ },
+ {
+  "id": "ASST_NON_2019MUFX0004_015",
+  "org_scope": "national_multisite",
+  "targets": [
+   "other"
+  ],
+  "format": "unclear",
+  "purpose": "youth_development",
+  "notes": "National CASA Association mentoring program for court-appointed advocate youth; details not given."
+ },
+ {
+  "id": "ASST_NON_2020JUFX0001_015",
+  "org_scope": "national_multisite",
+  "targets": [
+   "justice_involved",
+   "at_risk_general"
+  ],
+  "format": "group",
+  "purpose": "youth_development",
+  "notes": "National Urban League group mentoring in seven cities for court-involved at-risk youth."
+ },
+ {
+  "id": "ASST_NON_2020JUFX0005_015",
+  "org_scope": "national_multisite",
+  "targets": [
+   "opioid_substance_affected",
+   "children_of_incarcerated",
+   "at_risk_general"
+  ],
+  "format": "unclear",
+  "purpose": "youth_development",
+  "notes": "Clubhouse Network adult mentors in technology clubhouses, serving underserved youth including drug-affected and incarcerated-parent youth."
+ },
+ {
+  "id": "ASST_NON_2020JUFX0006_015",
+  "org_scope": "unclear",
+  "targets": [
+   "general"
+  ],
+  "format": "unclear",
+  "purpose": "unclear",
+  "notes": "Youth Collaboratory FY20 mentoring initiative award; description gives no specifics."
+ },
+ {
+  "id": "ASST_NON_2020JUFX0007_015",
+  "org_scope": "local",
+  "targets": [
+   "general"
+  ],
+  "format": "one_to_one",
+  "purpose": "youth_development",
+  "notes": "YMCA of San Francisco one-to-one mentoring program, Reach and Rise."
+ },
+ {
+  "id": "ASST_NON_2020JUFX0008_015",
+  "org_scope": "national_multisite",
+  "targets": [
+   "general"
+  ],
+  "format": "unclear",
+  "purpose": "youth_development",
+  "notes": "ASPIRA multi-state mentoring program for youth success."
+ },
+ {
+  "id": "ASST_NON_2020JUFX0009_015",
+  "org_scope": "unclear",
+  "targets": [
+   "general"
+  ],
+  "format": "unclear",
+  "purpose": "youth_development",
+  "notes": "US Dream Academy cloud mentoring offering access and inspiration; scope not stated."
+ },
+ {
+  "id": "ASST_NON_2020JUFX0017_015",
+  "org_scope": "unclear",
+  "targets": [
+   "justice_involved"
+  ],
+  "format": "unclear",
+  "purpose": "delinquency_prevention",
+  "notes": "BCFS mentoring to avert delinquency and improve outcomes for juvenile justice-involved youth."
+ },
+ {
+  "id": "ASST_NON_2020JUFX0018_015",
+  "org_scope": "local",
+  "targets": [
+   "general"
+  ],
+  "format": "unclear",
+  "purpose": "youth_development",
+  "notes": "Vineyard Family Services of Central Alabama Wise Advisors mentoring program."
+ },
+ {
+  "id": "ASST_NON_2020JUFX0019_015",
+  "org_scope": "state_regional",
+  "targets": [
+   "other"
+  ],
+  "format": "unclear",
+  "purpose": "youth_development",
+  "notes": "Youth Emergency Services mentoring initiative for rural Wyoming youth."
+ },
+ {
+  "id": "ASST_NON_2020JUFX0020_015",
+  "org_scope": "local",
+  "targets": [
+   "girls"
+  ],
+  "format": "unclear",
+  "purpose": "youth_development",
+  "notes": "Gwens Girls Girls412 mentoring program for girls."
+ },
+ {
+  "id": "ASST_NON_2020JUFX0022_015",
+  "org_scope": "unclear",
+  "targets": [
+   "general"
+  ],
+  "format": "unclear",
+  "purpose": "youth_development",
+  "notes": "Cal Ripken Sr. Foundation Badges for Baseball program; mentoring details not stated."
+ },
+ {
+  "id": "ASST_NON_2020JUFX0026_015",
+  "org_scope": "unclear",
+  "targets": [
+   "general"
+  ],
+  "format": "group",
+  "purpose": "youth_development",
+  "notes": "Big Sky Youth Empowerment expanding experiential group mentoring in Montana."
+ },
+ {
+  "id": "ASST_NON_2020JUFX0027_015",
+  "org_scope": "local",
+  "targets": [
+   "general"
+  ],
+  "format": "unclear",
+  "purpose": "youth_development",
+  "notes": "Faith, Hope & Victory church Community Powerhouse mentoring enhancement project."
+ },
+ {
+  "id": "ASST_NON_2020JUFX0028_015",
+  "org_scope": "national_multisite",
+  "targets": [
+   "other"
+  ],
+  "format": "unclear",
+  "purpose": "youth_development",
+  "notes": "National CASA guardian ad litem mentoring program; no further detail."
+ },
+ {
+  "id": "ASST_NON_2020JUFX0029_015",
+  "org_scope": "national_multisite",
+  "targets": [
+   "general"
+  ],
+  "format": "unclear",
+  "purpose": "youth_development",
+  "notes": "Boys & Girls Clubs of America mentoring at clubs, FY2020 award."
+ },
+ {
+  "id": "ASST_NON_2020JUFX0030_015",
+  "org_scope": "national_multisite",
+  "targets": [
+   "at_risk_general"
+  ],
+  "format": "unclear",
+  "purpose": "youth_development",
+  "notes": "Big Brothers Big Sisters of America mentoring to empower youth and strengthen communities."
+ },
+ {
+  "id": "ASST_NON_2020JUFX0031_015",
+  "org_scope": "national_multisite",
+  "targets": [
+   "general"
+  ],
+  "format": "unclear",
+  "purpose": "youth_development",
+  "notes": "National 4-H Council mentoring program, FY2020 award."
+ },
+ {
+  "id": "ASST_NON_2020JUFX0032_015",
+  "org_scope": "national_multisite",
+  "targets": [
+   "general"
+  ],
+  "format": "unclear",
+  "purpose": "youth_development",
+  "notes": "National Association of Police Athletic/Activities Leagues PAL mentoring initiative."
+ },
+ {
+  "id": "ASST_NON_2020JUFX0033_015",
+  "org_scope": "unclear",
+  "targets": [
+   "general"
+  ],
+  "format": "unclear",
+  "purpose": "unclear",
+  "notes": "Friends First Colorado FY20 mentoring initiative award; no specifics given."
+ },
+ {
+  "id": "ASST_NON_2020JUFX0034_015",
+  "org_scope": "national_multisite",
+  "targets": [
+   "tribal_native",
+   "at_risk_general"
+  ],
+  "format": "mixed",
+  "purpose": "delinquency_prevention",
+  "notes": "Project Venture group and peer mentoring for mostly American Indian youth across seven states."
+ },
+ {
+  "id": "ASST_NON_2020JUFX0035_015",
+  "org_scope": "unclear",
+  "targets": [
+   "general"
+  ],
+  "format": "unclear",
+  "purpose": "youth_development",
+  "notes": "College Mentors for Kids program implementation, enhancement and expansion."
+ },
+ {
+  "id": "ASST_NON_2020JYFX0002_015",
+  "org_scope": "national_multisite",
+  "targets": [
+   "opioid_substance_affected",
+   "other"
+  ],
+  "format": "unclear",
+  "purpose": "youth_development",
+  "notes": "National Recreation and Park Association mentorship for opioid-impacted youth in rural Appalachia and New England."
+ },
+ {
+  "id": "ASST_NON_2020JYFX0003_015",
+  "org_scope": "national_multisite",
+  "targets": [
+   "opioid_substance_affected"
+  ],
+  "format": "unclear",
+  "purpose": "youth_development",
+  "notes": "Big Brothers Big Sisters of America mentoring youth affected by opioids, phase three."
+ },
+ {
+  "id": "ASST_NON_2020JYFX0004_015",
+  "org_scope": "state_regional",
+  "targets": [
+   "general"
+  ],
+  "format": "unclear",
+  "purpose": "youth_development",
+  "notes": "Road Recovery Foundation mentoring project across New York State."
+ },
+ {
+  "id": "ASST_NON_2020JYFX0011_015",
+  "org_scope": "local",
+  "targets": [
+   "general"
+  ],
+  "format": "unclear",
+  "purpose": "youth_development",
+  "notes": "Knoxville Leadership Foundation area mentoring initiative."
+ },
+ {
+  "id": "ASST_NON_2020JYFX0012_015",
+  "org_scope": "local",
+  "targets": [
+   "general"
+  ],
+  "format": "unclear",
+  "purpose": "youth_development",
+  "notes": "Rogue Valley Mentoring program in Oregon."
+ },
+ {
+  "id": "ASST_NON_2020JYFX0013_015",
+  "org_scope": "local",
+  "targets": [
+   "general"
+  ],
+  "format": "unclear",
+  "purpose": "youth_development",
+  "notes": "Boys & Girls Clubs of Metropolitan Baltimore category four mentoring project."
+ },
+ {
+  "id": "ASST_NON_2020JYFX0015_015",
+  "org_scope": "state_regional",
+  "targets": [
+   "general"
+  ],
+  "format": "unclear",
+  "purpose": "youth_development",
+  "notes": "Utah State University Utah 4-H mentoring program."
+ },
+ {
+  "id": "ASST_NON_2020JYFX0016_015",
+  "org_scope": "unclear",
+  "targets": [
+   "general"
+  ],
+  "format": "peer",
+  "purpose": "youth_development",
+  "notes": "Dream Program two-tiered cross-age peer-to-peer mentoring project in Vermont."
+ },
+ {
+  "id": "ASST_NON_2020JYFX0021_015",
+  "org_scope": "local",
+  "targets": [
+   "general"
+  ],
+  "format": "unclear",
+  "purpose": "youth_development",
+  "notes": "Morris County Prevention Is Key mentoring opportunities for youth."
+ },
+ {
+  "id": "ASST_NON_2020JYFX0023_015",
+  "org_scope": "national_multisite",
+  "targets": [
+   "opioid_substance_affected"
+  ],
+  "format": "unclear",
+  "purpose": "youth_development",
+  "notes": "Boys & Girls Clubs of America mentoring with an opioid prevention focus."
+ },
+ {
+  "id": "ASST_NON_2020JYFX0024_015",
+  "org_scope": "national_multisite",
+  "targets": [
+   "general"
+  ],
+  "format": "unclear",
+  "purpose": "youth_development",
+  "notes": "National 4-H Council Health Rocks regional mentoring program."
+ },
+ {
+  "id": "ASST_NON_2020JYFX0036_015",
+  "org_scope": "local",
+  "targets": [
+   "other"
+  ],
+  "format": "unclear",
+  "purpose": "unclear",
+  "notes": "Rogers County Volunteers for Youth expanding from high-poverty census tract to all Claremore."
+ },
+ {
+  "id": "ASST_NON_2020JYFX0037_015",
+  "org_scope": "unclear",
+  "targets": [
+   "general"
+  ],
+  "format": "unclear",
+  "purpose": "youth_development",
+  "notes": "Total Action Against Poverty Alleghany Highlands mentoring project in Roanoke Valley."
+ },
+ {
+  "id": "ASST_NON_2020JYFX0038_015",
+  "org_scope": "unclear",
+  "targets": [
+   "general"
+  ],
+  "format": "unclear",
+  "purpose": "youth_development",
+  "notes": "Partners in Routt County Colorado Partners in Youth Mentoring project."
+ }
+]

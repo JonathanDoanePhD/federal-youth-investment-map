@@ -1,0 +1,994 @@
+[
+ {
+  "id": "1650509",
+  "serves_youth": "none",
+  "audience": [
+   "researchers"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "network_coalition"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "unclear",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "national",
+  "notes": "AAAS conference on technical and human infrastructure for INCLUDES alliances and national backbone network."
+ },
+ {
+  "id": "1650510",
+  "serves_youth": "none",
+  "audience": [
+   "researchers"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "network_coalition"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "unclear",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "national",
+  "notes": "Convening of partner organizations applying intersectionality and collaboration research to design INCLUDES alliance support structures."
+ },
+ {
+  "id": "1650516",
+  "serves_youth": "none",
+  "audience": [
+   "teachers_educators",
+   "researchers"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "network_coalition"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "unclear",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "state_regional",
+  "notes": "Atlanta workshops on backbone organization design for computer science education collective impact, convened by Georgia education department."
+ },
+ {
+  "id": "1650533",
+  "serves_youth": "none",
+  "audience": [
+   "researchers"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "network_coalition"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "unclear",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "unclear",
+  "notes": "Algebra Project conference and design teams on mini-backbone structures scaling a bottom-up collective impact model."
+ },
+ {
+  "id": "1650548",
+  "serves_youth": "none",
+  "audience": [
+   "researchers",
+   "teachers_educators"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "network_coalition"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "underrepresented_general",
+   "girls_women",
+   "disability"
+  ],
+  "setting": "unclear",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "national",
+  "notes": "San Diego conference teaching collective impact and backbone organizations across the STEM pipeline, with final report for alliances."
+ },
+ {
+  "id": "1650570",
+  "serves_youth": "none",
+  "audience": [
+   "teachers_educators",
+   "researchers"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "network_coalition"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "unclear",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "state_regional",
+  "notes": "California statewide STEM inclusion conference creating a regional network and shared outcome reporting repository."
+ },
+ {
+  "id": "1650575",
+  "serves_youth": "none",
+  "audience": [
+   "researchers",
+   "undergraduates"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "network_coalition"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "hispanic_latino",
+   "girls_women",
+   "first_generation",
+   "underrepresented_general"
+  ],
+  "setting": "unclear",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "unclear",
+  "notes": "UC Merced conference designing collective impact strategies for retention of Hispanic and other underrepresented STEM college students."
+ },
+ {
+  "id": "1650648",
+  "serves_youth": "indirect",
+  "audience": [
+   "researchers"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "network_coalition"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "online",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "national",
+  "notes": "CADRE resource center networking DRK-12 research awardees, supporting early career researchers through online events and dissemination."
+ },
+ {
+  "id": "1651092",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students"
+  ],
+  "grade_band": "middle",
+  "models": [
+   "school_curriculum"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "unclear",
+  "notes": "Algebra Project embeds App Inventor programming in algebra for low-performing grade 7-9 Kennesaw students."
+ },
+ {
+  "id": "1651571",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators",
+   "undergraduates"
+  ],
+  "grade_band": "high",
+  "models": [
+   "research_only",
+   "teacher_pd"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "quasi_experimental",
+  "service_geography": "local",
+  "notes": "CAREER study of backward transfer in Algebra I classrooms, with design cycles, treatment and control groups and teacher preparation resources."
+ },
+ {
+  "id": "1651653",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "research_only"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "girls_women",
+   "underrepresented_general"
+  ],
+  "setting": "unclear",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "unclear",
+  "notes": "EAGER project building culturally responsive framework for computing programs serving adolescent girls of color."
+ },
+ {
+  "id": "1651836",
+  "serves_youth": "indirect",
+  "audience": [
+   "teachers_educators",
+   "researchers"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "research_only",
+   "teacher_pd"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "unclear",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "unclear",
+  "notes": "CAREER study of how prospective secondary math teachers notice and use curriculum materials, plus teacher education module."
+ },
+ {
+  "id": "1652513",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "high",
+  "models": [
+   "school_curriculum",
+   "teacher_pd"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "design_qualitative",
+  "service_geography": "unclear",
+  "notes": "CAREER design research with high school math teachers building captivating lessons using story framework; compares captivating and ordinary lessons."
+ },
+ {
+  "id": "1652579",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students"
+  ],
+  "grade_band": "elementary",
+  "models": [
+   "online_tool_game",
+   "research_only"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "ai",
+  "targets": [
+   "general"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "unspecified",
+  "service_geography": "unclear",
+  "notes": "CAREER wearable tutors and phone augmented reality games for embodied math learning in elementary schools, using intelligent tutoring."
+ },
+ {
+  "id": "1652752",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "researchers"
+  ],
+  "grade_band": "middle",
+  "models": [
+   "summer_program",
+   "research_only"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "english_learners",
+   "low_income",
+   "urban"
+  ],
+  "setting": "summer",
+  "youth_reach": null,
+  "evaluation": "quasi_experimental",
+  "service_geography": "state_regional",
+  "notes": "CAREER study of positioning English language learners as advantaged and science identity, in a university summer program."
+ },
+ {
+  "id": "1656124",
+  "serves_youth": "indirect",
+  "audience": [
+   "general_public",
+   "teachers_educators",
+   "researchers"
+  ],
+  "grade_band": "mixed_ages",
+  "models": [
+   "online_tool_game",
+   "research_only"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "general"
+  ],
+  "setting": "online",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "national",
+  "notes": "Delphi expert process to redefine STEM plus computing literacy and prototype a self-assessment app."
+ },
+ {
+  "id": "1657002",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "middle",
+  "models": [
+   "school_curriculum"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "girls_women"
+  ],
+  "setting": "school_day",
+  "youth_reach": 4000,
+  "evaluation": "pre_post",
+  "service_geography": "unclear",
+  "notes": "Coding Science Internships: simulated internship units integrating programming into middle school science classes, emphasizing girls; pre-post measures."
+ },
+ {
+  "id": "1657015",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "high",
+  "models": [
+   "career_exposure",
+   "teacher_pd",
+   "online_tool_game"
+  ],
+  "mentoring": "none",
+  "bridging": "yes",
+  "ai_cs": "none",
+  "targets": [
+   "disability"
+  ],
+  "setting": "mixed",
+  "youth_reach": 160,
+  "evaluation": "pre_post",
+  "service_geography": "state_regional",
+  "notes": "Oregon STEM career exploration tools and community teams with industry professionals for high schoolers with disabilities."
+ },
+ {
+  "id": "1657017",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "researchers"
+  ],
+  "grade_band": "high",
+  "models": [
+   "career_exposure",
+   "other"
+  ],
+  "mentoring": "none",
+  "bridging": "yes",
+  "ai_cs": "computing",
+  "targets": [
+   "girls_women",
+   "rural"
+  ],
+  "setting": "unclear",
+  "youth_reach": 112,
+  "evaluation": "pre_post",
+  "service_geography": "state_regional",
+  "notes": "Rural Maine art-oriented girls design augmented reality science communication with scientists and media designers; part of a multi-site award."
+ },
+ {
+  "id": "1657088",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "families",
+   "teachers_educators"
+  ],
+  "grade_band": "middle",
+  "models": [
+   "school_curriculum",
+   "teacher_pd",
+   "online_tool_game"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "mixed",
+  "youth_reach": null,
+  "evaluation": "rct",
+  "service_geography": "local",
+  "notes": "Flipgrid-based family involvement in middle school science for minority and immigrant parents, with class-level random assignment."
+ },
+ {
+  "id": "1657111",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "middle",
+  "models": [
+   "summer_program",
+   "school_curriculum",
+   "career_exposure"
+  ],
+  "mentoring": "none",
+  "bridging": "yes",
+  "ai_cs": "none",
+  "targets": [
+   "black",
+   "hispanic_latino",
+   "low_income",
+   "urban"
+  ],
+  "setting": "mixed",
+  "youth_reach": 180,
+  "evaluation": "design_qualitative",
+  "service_geography": "local",
+  "notes": "Engineers of the Future: Baltimore high-achieving middle schoolers get summer math prep, virtual Algebra 1 and industry seminars."
+ },
+ {
+  "id": "1657123",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "high",
+  "models": [
+   "summer_program",
+   "school_curriculum",
+   "teacher_pd"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "underrepresented_general",
+   "rural"
+  ],
+  "setting": "mixed",
+  "youth_reach": 700,
+  "evaluation": "pre_post",
+  "service_geography": "state_regional",
+  "notes": "BUILDERS making-based community problem solving for rural Alabama high schoolers and teachers, summer academy plus classrooms; collaborative award."
+ },
+ {
+  "id": "1657174",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "families",
+   "teachers_educators"
+  ],
+  "grade_band": "high",
+  "models": [
+   "summer_program",
+   "mentoring",
+   "out_of_school_program",
+   "teacher_pd",
+   "career_exposure"
+  ],
+  "mentoring": "central",
+  "bridging": "yes",
+  "ai_cs": "computing",
+  "targets": [
+   "girls_women",
+   "rural",
+   "underrepresented_general"
+  ],
+  "setting": "mixed",
+  "youth_reach": 120,
+  "evaluation": "unspecified",
+  "service_geography": "state_regional",
+  "notes": "Mississippi rural girls summer apprenticeship with near-peer mentoring, tours and science fair help via community college."
+ },
+ {
+  "id": "1657194",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "middle",
+  "models": [
+   "summer_program",
+   "out_of_school_program",
+   "mentoring",
+   "teacher_pd",
+   "career_exposure"
+  ],
+  "mentoring": "component",
+  "bridging": "yes",
+  "ai_cs": "computing",
+  "targets": [
+   "low_income",
+   "rural",
+   "underrepresented_general"
+  ],
+  "setting": "mixed",
+  "youth_reach": 60,
+  "evaluation": "unspecified",
+  "service_geography": "state_regional",
+  "notes": "Residential summer institute and Saturday academies on socioenvironmental problems, clean water, for North Carolina middle schoolers, with near-peer mentors."
+ },
+ {
+  "id": "1657201",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "mentoring",
+   "other"
+  ],
+  "mentoring": "central",
+  "bridging": "yes",
+  "ai_cs": "none",
+  "targets": [
+   "disability"
+  ],
+  "setting": "unclear",
+  "youth_reach": 35,
+  "evaluation": "pre_post",
+  "service_geography": "unclear",
+  "notes": "Visually impaired middle and high schoolers do accessible project-based learning with a visually impaired STEM professional mentor."
+ },
+ {
+  "id": "1657217",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "researchers"
+  ],
+  "grade_band": "high",
+  "models": [
+   "career_exposure",
+   "other"
+  ],
+  "mentoring": "none",
+  "bridging": "yes",
+  "ai_cs": "computing",
+  "targets": [
+   "girls_women",
+   "rural"
+  ],
+  "setting": "unclear",
+  "youth_reach": 112,
+  "evaluation": "pre_post",
+  "service_geography": "state_regional",
+  "notes": "Rural Maine art-oriented girls design augmented reality science communication with scientists and media designers; part of a multi-site award."
+ },
+ {
+  "id": "1657218",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "elementary",
+  "models": [
+   "school_curriculum",
+   "career_exposure"
+  ],
+  "mentoring": "none",
+  "bridging": "yes",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "school_day",
+  "youth_reach": 1440,
+  "evaluation": "quasi_experimental",
+  "service_geography": "local",
+  "notes": "Community-connected elementary science and engineering units co-developed with Boston transit professionals; design research with curriculum comparison."
+ },
+ {
+  "id": "1657248",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "researchers"
+  ],
+  "grade_band": "high",
+  "models": [
+   "career_exposure",
+   "other"
+  ],
+  "mentoring": "none",
+  "bridging": "yes",
+  "ai_cs": "computing",
+  "targets": [
+   "girls_women",
+   "rural"
+  ],
+  "setting": "unclear",
+  "youth_reach": 112,
+  "evaluation": "pre_post",
+  "service_geography": "state_regional",
+  "notes": "Rural Maine art-oriented girls design augmented reality science communication with scientists and media designers; part of a multi-site award."
+ },
+ {
+  "id": "1657263",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "middle",
+  "models": [
+   "school_curriculum",
+   "career_exposure"
+  ],
+  "mentoring": "none",
+  "bridging": "yes",
+  "ai_cs": "none",
+  "targets": [
+   "rural"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "design_qualitative",
+  "service_geography": "state_regional",
+  "notes": "Monthly in-class engineering interventions with industry experts for Appalachian middle schoolers in three Virginia rural districts."
+ },
+ {
+  "id": "1657317",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "researchers"
+  ],
+  "grade_band": "high",
+  "models": [
+   "career_exposure",
+   "other"
+  ],
+  "mentoring": "none",
+  "bridging": "yes",
+  "ai_cs": "computing",
+  "targets": [
+   "girls_women",
+   "rural"
+  ],
+  "setting": "unclear",
+  "youth_reach": 112,
+  "evaluation": "pre_post",
+  "service_geography": "state_regional",
+  "notes": "Rural Maine art-oriented girls design augmented reality science communication with scientists and media designers; part of a multi-site award."
+ },
+ {
+  "id": "1657366",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students"
+  ],
+  "grade_band": "middle",
+  "models": [
+   "out_of_school_program",
+   "career_exposure"
+  ],
+  "mentoring": "none",
+  "bridging": "unclear",
+  "ai_cs": "none",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "after_school",
+  "youth_reach": null,
+  "evaluation": "unspecified",
+  "service_geography": "local",
+  "notes": "After-school Listening to Waves course linking music, sound physics and digital tools for underrepresented grade 7-9 learners."
+ },
+ {
+  "id": "1657399",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "high",
+  "models": [
+   "summer_program",
+   "school_curriculum",
+   "teacher_pd"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "underrepresented_general",
+   "rural"
+  ],
+  "setting": "mixed",
+  "youth_reach": 700,
+  "evaluation": "pre_post",
+  "service_geography": "state_regional",
+  "notes": "BUILDERS making-based community problem solving for rural Alabama high schoolers and teachers, summer academy plus classrooms; collaborative award."
+ },
+ {
+  "id": "1657438",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "school_curriculum",
+   "research_only"
+  ],
+  "mentoring": "none",
+  "bridging": "unclear",
+  "ai_cs": "none",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "school_day",
+  "youth_reach": 16000,
+  "evaluation": "design_qualitative",
+  "service_geography": "unclear",
+  "notes": "Scaling FUSE studios into forty schools through district and industry partnership models, tracing how the innovation spreads."
+ },
+ {
+  "id": "1657509",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "undergraduates",
+   "researchers"
+  ],
+  "grade_band": "elementary",
+  "models": [
+   "out_of_school_program",
+   "mentoring",
+   "career_exposure",
+   "research_only"
+  ],
+  "mentoring": "central",
+  "bridging": "yes",
+  "ai_cs": "none",
+  "targets": [
+   "girls_women"
+  ],
+  "setting": "college_campus",
+  "youth_reach": 160,
+  "evaluation": "design_qualitative",
+  "service_geography": "unclear",
+  "notes": "Study of how elementary girls choose engineering role models among undergraduates in a university outreach program; training resources developed."
+ },
+ {
+  "id": "1657519",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "undergraduates",
+   "researchers"
+  ],
+  "grade_band": "elementary",
+  "models": [
+   "out_of_school_program",
+   "mentoring",
+   "career_exposure",
+   "research_only"
+  ],
+  "mentoring": "central",
+  "bridging": "yes",
+  "ai_cs": "none",
+  "targets": [
+   "girls_women"
+  ],
+  "setting": "college_campus",
+  "youth_reach": 160,
+  "evaluation": "design_qualitative",
+  "service_geography": "unclear",
+  "notes": "Indiana partner on elementary girls and undergraduate engineering role models, studying identity and designing role model training."
+ },
+ {
+  "id": "1657553",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "middle",
+  "models": [
+   "school_curriculum",
+   "teacher_pd"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "native_indigenous",
+   "rural"
+  ],
+  "setting": "school_day",
+  "youth_reach": 300,
+  "evaluation": "pre_post",
+  "service_geography": "state_regional",
+  "notes": "Storytelling with Alice to infuse computing into Montana middle school classes for Native American and rural students; teacher workshops."
+ },
+ {
+  "id": "1657593",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "families",
+   "teachers_educators",
+   "general_public"
+  ],
+  "grade_band": "elementary",
+  "models": [
+   "out_of_school_program",
+   "teacher_pd",
+   "career_exposure"
+  ],
+  "mentoring": "none",
+  "bridging": "yes",
+  "ai_cs": "none",
+  "targets": [
+   "underrepresented_general",
+   "rural",
+   "urban"
+  ],
+  "setting": "library",
+  "youth_reach": null,
+  "evaluation": "unspecified",
+  "service_geography": "multi_state",
+  "notes": "Project BUILD: public libraries and civil engineer volunteers run engineering design activities for grade 2-5 youth and families."
+ },
+ {
+  "id": "1657625",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "high",
+  "models": [
+   "summer_program",
+   "research_apprenticeship",
+   "career_exposure"
+  ],
+  "mentoring": "none",
+  "bridging": "yes",
+  "ai_cs": "none",
+  "targets": [
+   "native_indigenous",
+   "low_income",
+   "first_generation",
+   "underrepresented_general"
+  ],
+  "setting": "mixed",
+  "youth_reach": 225,
+  "evaluation": "quasi_experimental",
+  "service_geography": "state_regional",
+  "notes": "Project STEMulate: Native Hawaiian and low-income Upward Bound high schoolers get summer problem-based STEM and industry internships; comparison groups."
+ },
+ {
+  "id": "1659133",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "researchers"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "research_only"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "disability"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "unclear",
+  "notes": "Longitudinal study of algebra learning difficulties, cognition and math anxiety in students with learning disabilities from grade seven."
+ },
+ {
+  "id": "1659963",
+  "serves_youth": "none",
+  "audience": [
+   "undergraduates",
+   "researchers",
+   "teachers_educators",
+   "general_public"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "network_coalition"
+  ],
+  "mentoring": "none",
+  "bridging": "yes",
+  "ai_cs": "none",
+  "targets": [
+   "native_indigenous"
+  ],
+  "setting": "unclear",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "national",
+  "notes": "Geoscience Alliance network connecting tribal communities, academia and employers to support Native Americans in geoscience careers."
+ }
+]

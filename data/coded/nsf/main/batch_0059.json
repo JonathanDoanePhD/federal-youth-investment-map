@@ -1,0 +1,981 @@
+[
+ {
+  "id": "2204901",
+  "serves_youth": "indirect",
+  "audience": [
+   "teachers_educators"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "research_only"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "national",
+  "notes": "Survey and interviews of science teachers on pandemic-era instruction, health topics and their own wellbeing."
+ },
+ {
+  "id": "2206774",
+  "serves_youth": "indirect",
+  "audience": [
+   "teachers_educators",
+   "k12_students"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "teacher_pd"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "school_day",
+  "youth_reach": null,
+  "evaluation": "pre_post",
+  "service_geography": "unclear",
+  "notes": "Developing personalized professional development for algebra teachers; testing effects on instruction and student learning in sixty classrooms."
+ },
+ {
+  "id": "2206884",
+  "serves_youth": "indirect",
+  "audience": [
+   "teachers_educators"
+  ],
+  "grade_band": "high",
+  "models": [
+   "teacher_pd"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "ai",
+  "targets": [
+   "low_income",
+   "underrepresented_general"
+  ],
+  "setting": "college_campus",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "local",
+  "notes": "Summer research placement in deep learning for high school computing teachers, with monthly seminars afterward."
+ },
+ {
+  "id": "2209594",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "families"
+  ],
+  "grade_band": "elementary",
+  "models": [
+   "out_of_school_program",
+   "exhibit_media"
+  ],
+  "mentoring": "none",
+  "bridging": "unclear",
+  "ai_cs": "none",
+  "targets": [
+   "native_indigenous",
+   "rural"
+  ],
+  "setting": "community",
+  "youth_reach": 24,
+  "evaluation": "design_qualitative",
+  "service_geography": "state_regional",
+  "notes": "Co-designing intergenerational community science program with Alaska Native villages, built on a public television cartoon; qualitative design research."
+ },
+ {
+  "id": "2209756",
+  "serves_youth": "indirect",
+  "audience": [
+   "researchers",
+   "families",
+   "teachers_educators"
+  ],
+  "grade_band": "mixed_ages",
+  "models": [
+   "research_only",
+   "online_tool_game"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "online",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "national",
+  "notes": "Expanding a web platform for remote developmental and educational studies with children and families."
+ },
+ {
+  "id": "2211054",
+  "serves_youth": "none",
+  "audience": [
+   "researchers"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "network_coalition"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "online",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "national",
+  "notes": "Virtual two-day convening of broadening-participation alliance leaders to build cross-alliance collaboration."
+ },
+ {
+  "id": "2213711",
+  "serves_youth": "indirect",
+  "audience": [
+   "families"
+  ],
+  "grade_band": "prek",
+  "models": [
+   "other"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "rural",
+   "underrepresented_general"
+  ],
+  "setting": "home_family",
+  "youth_reach": 1000,
+  "evaluation": "rct",
+  "service_geography": "unclear",
+  "notes": "Pediatric clinics text caregivers math activities for preschoolers; randomized trial with a thousand families."
+ },
+ {
+  "id": "2213789",
+  "serves_youth": "none",
+  "audience": [
+   "researchers",
+   "teachers_educators",
+   "undergraduates"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "network_coalition",
+   "research_only"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "online",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "national",
+  "notes": "Online hub with datasets, tools and events supporting computing education research across institutions."
+ },
+ {
+  "id": "2213790",
+  "serves_youth": "none",
+  "audience": [
+   "researchers",
+   "teachers_educators",
+   "undergraduates"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "network_coalition",
+   "research_only"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "online",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "national",
+  "notes": "Online hub with datasets, tools and events supporting computing education research across institutions."
+ },
+ {
+  "id": "2213791",
+  "serves_youth": "none",
+  "audience": [
+   "researchers",
+   "teachers_educators",
+   "undergraduates"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "network_coalition",
+   "research_only"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "online",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "national",
+  "notes": "Online hub with datasets, tools and events supporting computing education research across institutions."
+ },
+ {
+  "id": "2213792",
+  "serves_youth": "none",
+  "audience": [
+   "researchers",
+   "teachers_educators",
+   "undergraduates"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "network_coalition",
+   "research_only"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "online",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "national",
+  "notes": "Online hub with datasets, tools and events supporting computing education research across institutions."
+ },
+ {
+  "id": "2213919",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "general_public"
+  ],
+  "grade_band": "high",
+  "models": [
+   "research_only"
+  ],
+  "mentoring": "none",
+  "bridging": "unclear",
+  "ai_cs": "none",
+  "targets": [
+   "rural",
+   "underrepresented_general"
+  ],
+  "setting": "community",
+  "youth_reach": 50,
+  "evaluation": "design_qualitative",
+  "service_geography": "state_regional",
+  "notes": "Pilot qualitative study of how outdoor recreation shapes rural New Hampshire teens' STEM identity and career views."
+ },
+ {
+  "id": "2214168",
+  "serves_youth": "indirect",
+  "audience": [
+   "families",
+   "researchers"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "research_only"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "home_family",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "national",
+  "notes": "Parent survey tracking pandemic disruption to children's schooling, including STEM, in a nationally representative panel."
+ },
+ {
+  "id": "2214449",
+  "serves_youth": "indirect",
+  "audience": [
+   "teachers_educators",
+   "researchers"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "network_coalition"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "unclear",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "national",
+  "notes": "Conference convening stakeholders to build a framework for scaling national informal STEM programs through implementer capacity."
+ },
+ {
+  "id": "2214463",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students"
+  ],
+  "grade_band": "middle",
+  "models": [
+   "exhibit_media"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "ai",
+  "targets": [
+   "girls_women",
+   "low_income"
+  ],
+  "setting": "museum_science_center",
+  "youth_reach": null,
+  "evaluation": "design_qualitative",
+  "service_geography": "unclear",
+  "notes": "Embodied, creative museum exhibits teaching machine learning concepts to middle schoolers; design-based testing."
+ },
+ {
+  "id": "2214516",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students"
+  ],
+  "grade_band": "middle",
+  "models": [
+   "out_of_school_program",
+   "mentoring",
+   "online_tool_game"
+  ],
+  "mentoring": "component",
+  "bridging": "yes",
+  "ai_cs": "computing",
+  "targets": [
+   "girls_women",
+   "underrepresented_general"
+  ],
+  "setting": "after_school",
+  "youth_reach": 250,
+  "evaluation": "design_qualitative",
+  "service_geography": "multi_state",
+  "notes": "Game-based data science clubs for middle school girls in Miami and Yolo County, led by women mentors."
+ },
+ {
+  "id": "2214740",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "undergraduates"
+  ],
+  "grade_band": "middle",
+  "models": [
+   "out_of_school_program",
+   "mentoring"
+  ],
+  "mentoring": "component",
+  "bridging": "yes",
+  "ai_cs": "none",
+  "targets": [
+   "black"
+  ],
+  "setting": "after_school",
+  "youth_reach": 100,
+  "evaluation": "design_qualitative",
+  "service_geography": "state_regional",
+  "notes": "Justice-focused yearlong after-school club using a graphic novel, with Black undergraduate mentors, for African American middle schoolers."
+ },
+ {
+  "id": "2215004",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "general_public"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "out_of_school_program"
+  ],
+  "mentoring": "none",
+  "bridging": "unclear",
+  "ai_cs": "computing",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "community",
+  "youth_reach": 120,
+  "evaluation": "pre_post",
+  "service_geography": "state_regional",
+  "notes": "Appalachian youth make data visualizations and share them at community events; design-based research cycles."
+ },
+ {
+  "id": "2215050",
+  "serves_youth": "indirect",
+  "audience": [
+   "undergraduates",
+   "teachers_educators",
+   "researchers"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "research_only"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "black",
+   "hispanic_latino",
+   "native_indigenous"
+  ],
+  "setting": "unclear",
+  "youth_reach": null,
+  "evaluation": "quasi_experimental",
+  "service_geography": "unclear",
+  "notes": "Building and validating a survey instrument on out-of-school experiences of minoritized students; propensity weighting estimates effects."
+ },
+ {
+  "id": "2215060",
+  "serves_youth": "indirect",
+  "audience": [
+   "general_public",
+   "families",
+   "researchers",
+   "teachers_educators"
+  ],
+  "grade_band": "mixed_ages",
+  "models": [
+   "exhibit_media",
+   "research_only"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "computing",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "museum_science_center",
+  "youth_reach": null,
+  "evaluation": "design_qualitative",
+  "service_geography": "multi_state",
+  "notes": "Expert convenings and prototype testing to guide museum exhibits about data science concepts."
+ },
+ {
+  "id": "2215101",
+  "serves_youth": "indirect",
+  "audience": [
+   "general_public",
+   "families",
+   "researchers",
+   "teachers_educators"
+  ],
+  "grade_band": "mixed_ages",
+  "models": [
+   "research_only"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "rural",
+   "black",
+   "underrepresented_general"
+  ],
+  "setting": "mixed",
+  "youth_reach": null,
+  "evaluation": "design_qualitative",
+  "service_geography": "multi_state",
+  "notes": "Observing visitors at nature centers, zoos and museums to learn how environmental sound affects shared learning."
+ },
+ {
+  "id": "2215138",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "out_of_school_program",
+   "career_exposure",
+   "teacher_pd"
+  ],
+  "mentoring": "component",
+  "bridging": "yes",
+  "ai_cs": "none",
+  "targets": [
+   "girls_women",
+   "underrepresented_general"
+  ],
+  "setting": "online",
+  "youth_reach": 400,
+  "evaluation": "pre_post",
+  "service_geography": "national",
+  "notes": "Online community for teen girls of color with women role models; educator training; surveys and case studies."
+ },
+ {
+  "id": "2215167",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "general_public",
+   "teachers_educators"
+  ],
+  "grade_band": "mixed_ages",
+  "models": [
+   "exhibit_media",
+   "out_of_school_program",
+   "career_exposure",
+   "teacher_pd"
+  ],
+  "mentoring": "component",
+  "bridging": "yes",
+  "ai_cs": "none",
+  "targets": [
+   "girls_women"
+  ],
+  "setting": "mixed",
+  "youth_reach": null,
+  "evaluation": "unspecified",
+  "service_geography": "national",
+  "notes": "Giant-screen astrophysics film plus girls' engagement program tied to the eclipse, with women scientist role models."
+ },
+ {
+  "id": "2215187",
+  "serves_youth": "none",
+  "audience": [
+   "researchers",
+   "general_public"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "network_coalition",
+   "research_only"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "community",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "multi_state",
+  "notes": "Studies how ecological research sites plan community science engagement; working group and monitoring system."
+ },
+ {
+  "id": "2215188",
+  "serves_youth": "none",
+  "audience": [
+   "researchers",
+   "general_public"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "network_coalition",
+   "research_only"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "community",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "multi_state",
+  "notes": "Studies how ecological research sites plan community science engagement; working group and monitoring system."
+ },
+ {
+  "id": "2215201",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students"
+  ],
+  "grade_band": "middle",
+  "models": [
+   "out_of_school_program"
+  ],
+  "mentoring": "none",
+  "bridging": "unclear",
+  "ai_cs": "none",
+  "targets": [
+   "black",
+   "hispanic_latino"
+  ],
+  "setting": "mixed",
+  "youth_reach": null,
+  "evaluation": "design_qualitative",
+  "service_geography": "local",
+  "notes": "Compares three settings of after-school science (campus lab, school, mobile lab) and effects on science identity."
+ },
+ {
+  "id": "2215207",
+  "serves_youth": "indirect",
+  "audience": [
+   "researchers",
+   "teachers_educators"
+  ],
+  "grade_band": "high",
+  "models": [
+   "research_only"
+  ],
+  "mentoring": "none",
+  "bridging": "unclear",
+  "ai_cs": "none",
+  "targets": [
+   "general"
+  ],
+  "setting": "unclear",
+  "youth_reach": null,
+  "evaluation": "quasi_experimental",
+  "service_geography": "unclear",
+  "notes": "Follow-up of adult alumni of a long-running high school enrichment program versus matched non-enrolled applicants."
+ },
+ {
+  "id": "2215269",
+  "serves_youth": "indirect",
+  "audience": [
+   "general_public"
+  ],
+  "grade_band": "mixed_ages",
+  "models": [
+   "exhibit_media",
+   "online_tool_game"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "online",
+  "youth_reach": null,
+  "evaluation": "quasi_experimental",
+  "service_geography": "national",
+  "notes": "Public television engineering documentary paired with live-streamed escape game; studies learning on streaming platform."
+ },
+ {
+  "id": "2215274",
+  "serves_youth": "indirect",
+  "audience": [
+   "teachers_educators",
+   "researchers"
+  ],
+  "grade_band": "not_applicable",
+  "models": [
+   "teacher_pd"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "workplace",
+  "youth_reach": null,
+  "evaluation": "none_stated",
+  "service_geography": "national",
+  "notes": "Updating and supporting a competency framework for informal science learning professionals through participatory workshops."
+ },
+ {
+  "id": "2215353",
+  "serves_youth": "indirect",
+  "audience": [
+   "families",
+   "teachers_educators",
+   "researchers"
+  ],
+  "grade_band": "prek",
+  "models": [
+   "research_only"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "low_income"
+  ],
+  "setting": "museum_science_center",
+  "youth_reach": null,
+  "evaluation": "design_qualitative",
+  "service_geography": "local",
+  "notes": "Interviews and co-design with immigrant caregivers and pre-K teachers in Queens on supporting early STEM learning."
+ },
+ {
+  "id": "2215382",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "middle",
+  "models": [
+   "out_of_school_program",
+   "teacher_pd"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "hispanic_latino",
+   "rural"
+  ],
+  "setting": "after_school",
+  "youth_reach": 100000,
+  "evaluation": "design_qualitative",
+  "service_geography": "multi_state",
+  "notes": "After-school making and math program for rural Latino middle schoolers, co-designed with a foundation; projected decade reach."
+ },
+ {
+  "id": "2215420",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "out_of_school_program",
+   "career_exposure",
+   "teacher_pd"
+  ],
+  "mentoring": "none",
+  "bridging": "yes",
+  "ai_cs": "none",
+  "targets": [
+   "hispanic_latino",
+   "native_indigenous",
+   "underrepresented_general"
+  ],
+  "setting": "mixed",
+  "youth_reach": 250,
+  "evaluation": "unspecified",
+  "service_geography": "multi_state",
+  "notes": "Diverse youth learn climate resilience at community organizations and museums, working with university climate scientists."
+ },
+ {
+  "id": "2215554",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "general_public"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "out_of_school_program",
+   "summer_program",
+   "research_apprenticeship"
+  ],
+  "mentoring": "component",
+  "bridging": "unclear",
+  "ai_cs": "none",
+  "targets": [
+   "native_indigenous"
+  ],
+  "setting": "mixed",
+  "youth_reach": 140,
+  "evaluation": "pre_post",
+  "service_geography": "multi_state",
+  "notes": "Pacific Islander youth explore traditional stories and local technologies with elders; participatory research over time."
+ },
+ {
+  "id": "2215592",
+  "serves_youth": "direct",
+  "audience": [
+   "families"
+  ],
+  "grade_band": "mixed_ages",
+  "models": [
+   "exhibit_media"
+  ],
+  "mentoring": "none",
+  "bridging": "no",
+  "ai_cs": "none",
+  "targets": [
+   "underrepresented_general"
+  ],
+  "setting": "museum_science_center",
+  "youth_reach": null,
+  "evaluation": "design_qualitative",
+  "service_geography": "local",
+  "notes": "Co-designing an outdoor nature-based makerspace at a science museum with families of color."
+ },
+ {
+  "id": "2215613",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "teachers_educators",
+   "undergraduates"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "out_of_school_program",
+   "mentoring"
+  ],
+  "mentoring": "component",
+  "bridging": "yes",
+  "ai_cs": "none",
+  "targets": [
+   "hispanic_latino",
+   "black",
+   "native_indigenous"
+  ],
+  "setting": "online",
+  "youth_reach": 200,
+  "evaluation": "design_qualitative",
+  "service_geography": "national",
+  "notes": "International virtual project-based STEM collaboration hubs, teacher-led, studying identity formation among minoritized pre-college learners."
+ },
+ {
+  "id": "2215653",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "undergraduates"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "out_of_school_program",
+   "mentoring"
+  ],
+  "mentoring": "component",
+  "bridging": "yes",
+  "ai_cs": "computing",
+  "targets": [
+   "underrepresented_general",
+   "first_generation",
+   "rural"
+  ],
+  "setting": "mixed",
+  "youth_reach": 10000,
+  "evaluation": "unspecified",
+  "service_geography": "state_regional",
+  "notes": "Mobile making program scaled across California campuses, university near-peer facilitators, grades four to eight, mixed-method research."
+ },
+ {
+  "id": "2215654",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "undergraduates"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "out_of_school_program",
+   "mentoring"
+  ],
+  "mentoring": "component",
+  "bridging": "yes",
+  "ai_cs": "computing",
+  "targets": [
+   "underrepresented_general",
+   "first_generation",
+   "rural"
+  ],
+  "setting": "mixed",
+  "youth_reach": 10000,
+  "evaluation": "unspecified",
+  "service_geography": "state_regional",
+  "notes": "Mobile making program scaled across California campuses, university near-peer facilitators, grades four to eight, mixed-method research."
+ },
+ {
+  "id": "2215655",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "undergraduates"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "out_of_school_program",
+   "mentoring"
+  ],
+  "mentoring": "component",
+  "bridging": "yes",
+  "ai_cs": "computing",
+  "targets": [
+   "underrepresented_general",
+   "first_generation",
+   "rural"
+  ],
+  "setting": "mixed",
+  "youth_reach": 10000,
+  "evaluation": "unspecified",
+  "service_geography": "state_regional",
+  "notes": "Mobile making program scaled across California campuses, university near-peer facilitators, grades four to eight, mixed-method research."
+ },
+ {
+  "id": "2215656",
+  "serves_youth": "direct",
+  "audience": [
+   "k12_students",
+   "undergraduates"
+  ],
+  "grade_band": "k12_mixed",
+  "models": [
+   "out_of_school_program",
+   "mentoring"
+  ],
+  "mentoring": "component",
+  "bridging": "yes",
+  "ai_cs": "computing",
+  "targets": [
+   "underrepresented_general",
+   "first_generation",
+   "rural"
+  ],
+  "setting": "mixed",
+  "youth_reach": 10000,
+  "evaluation": "unspecified",
+  "service_geography": "state_regional",
+  "notes": "Mobile making program scaled across California campuses, university near-peer facilitators, grades four to eight, mixed-method research."
+ },
+ {
+  "id": "2215692",
+  "serves_youth": "direct",
+  "audience": [
+   "general_public",
+   "k12_students"
+  ],
+  "grade_band": "mixed_ages",
+  "models": [
+   "exhibit_media",
+   "online_tool_game",
+   "career_exposure"
+  ],
+  "mentoring": "none",
+  "bridging": "unclear",
+  "ai_cs": "none",
+  "targets": [
+   "girls_women"
+  ],
+  "setting": "museum_science_center",
+  "youth_reach": null,
+  "evaluation": "unspecified",
+  "service_geography": "national",
+  "notes": "Giant-screen deep-sea larvae film with virtual and augmented reality activities, aimed especially at girls and young women."
+ }
+]

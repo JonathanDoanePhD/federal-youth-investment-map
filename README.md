@@ -167,7 +167,7 @@ List fields are separated by `;`. Definitions are in [docs/protocol.md](docs/pro
 
 ## License, citation and data terms
 
-- **Code:** MIT (proposed; see `LICENSE`). **Outputs:** CC BY 4.0 (proposed), subject to the source terms below.
+- **Code:** MIT (see `LICENSE`). **Outputs:** CC BY 4.0, subject to the source terms below.
 - **Cite this project as:** JonathanDoanePhD (2026). *Federal Youth Program Investment Map*. https://github.com/JonathanDoanePhD/federal-youth-investment-map
 - **Data sources and terms** (from `data/sources.csv`; recorded versions and checksums in `data/sources.lock.csv`):
 
@@ -179,9 +179,10 @@ List fields are separated by `;`. Definitions are in [docs/protocol.md](docs/pro
 Built with AI assistance (Claude). Exploratory research: every statistic needs checking against its original source
 before it appears in funder reports, grant applications or public material.
 
-## Before public release
+## Status and limitations
 
-- [ ] Every statistic in this README and in `output/` is checked against its original source.
-- [ ] A person spot-checks 50 award tags.
-- [ ] Verify the 2025 termination figures against NSF's published list; human review before any external use (policy sensitive).
-- [ ] The owner confirms the license choice above.
+Published 2026-11-26 as exploratory research. The analysis is complete and reproducible, but these checks have **not yet been done**, so treat figures as provisional:
+
+- Statistics in this README and in `output/` have not been independently checked against their original sources.
+- A person spot-checks 50 award tags.
+- Verify the 2025 termination figures against NSF's published list; human review before any external use (policy sensitive).
